@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "category": "Teisės teorija",
+    "question": "Teisės mokslai skirstomi į:",
+    "options": [
+      "Šakinius ir fundamentinius",
+      "Bendruosius teorinius ir šakinius",
+      "Taikomuosius ir istorinius",
+      "Praktinius ir akademinius"
+    ],
+    "correct": 1,
+    "explanation": "Teisės mokslai tradiciškai skirstomi į bendruosius teorinius ir šakinius."
+  },
+  {
+    "id": 2,
+    "category": "Konstitucinė teisė",
+    "question": "Respublikos Prezidentu gali būti renkamas:",
+    "options": [
+      "Bet kuris Lietuvos pilietis nuo 35 metų",
+      "Nepriekaištingos reputacijos Lietuvos pilietis pagal kilmę, turintis aukštąjį universitetinį išsilavinimą, kuriam iki rinkimų dienos yra suėję ne mažiau kaip 40 metų",
+      "Lietuvos pilietis, turintis aukštąjį išsilavinimą ir ne mažiau kaip 10 metų darbo stažą",
+      "Bet kuris nepriekaištingos reputacijos ES pilietis, gyvenantis Lietuvoje"
+    ],
+    "correct": 1,
+    "explanation": "Pagal pateiktą medžiagą Prezidentui keliami pilietybės pagal kilmę, reputacijos, išsilavinimo ir amžiaus reikalavimai."
+  },
+  {
+    "id": 3,
+    "category": "Teisėkūra",
+    "question": "Kokie yra pagrindiniai teisėkūros principai?",
+    "options": [
+      "Viešumo, demokratiškumo, profesionalumo ir išsamumo",
+      "Objektyvumo, greičio, ekonomiškumo ir viešumo",
+      "Teisingumo, baudžiamumo, proporcingumo ir aiškumo",
+      "Viešumo, centralizacijos, kolegialumo ir subsidiarumo"
+    ],
+    "correct": 0,
+    "explanation": "Pagal tavo failą pagrindiniai teisėkūros principai yra viešumo, demokratiškumo, profesionalumo ir išsamumo."
+  },
+  {
+    "id": 4,
+    "category": "Teisės istorija",
+    "question": "Romėnų teisės sistema sudarė:",
+    "options": [
+      "Ius publicum, ius privatum, ius commune, ius singulare, ius civile, ius peregrinorum, ius gentium",
+      "Ius civile, ius criminale, ius administrativum",
+      "Tik ius publicum ir ius privatum",
+      "Ius commune, ius mercatoria ir ius modernum"
+    ],
+    "correct": 0,
+    "explanation": "Teisingas atsakymas yra pilnas romėnų teisės sistemos sąrašas, pateiktas tavo medžiagoje."
+  },
+  {
+    "id": 5,
+    "category": "Civilinio proceso istorija",
+    "question": "Seniausia civilinio proceso forma Romoje buvo:",
+    "options": [
+      "Formuliarinis procesas",
+      "Extraordinarinis procesas",
+      "Legisakcioninis procesas",
+      "Pretorinis procesas"
+    ],
+    "correct": 2,
+    "explanation": "Pagal pateiktą klausimų rinkinį seniausia civilinio proceso forma Romoje buvo legisakcioninis procesas."
+  },
+  {
+    "id": 6,
+    "category": "Dokumentų valdymas",
+    "question": "Dokumento data rašoma arabiškų skaitmenų grupėmis arba mišriuoju būdu taip:",
+    "options": [
+      "2018/04/01 arba 2018 balandžio 1",
+      "01-04-2018 arba 2018 m. 04 mėn. 01 d.",
+      "2018-04-01 arba 2018 m. balandžio 1 d.",
+      "2018.1.4 arba 2018 m. 1 balandžio"
+    ],
+    "correct": 2,
+    "explanation": "Tavo medžiagoje nurodyti būtent šie du teisingi datos rašymo variantai."
+  },
+  {
+    "id": 7,
+    "category": "Teisės teorija",
+    "question": "Kas yra teisinė sąmonė?",
+    "options": [
+      "Valstybės institucijų leidžiamų teisės aktų visuma",
+      "Sistema vaizdinių, idėjų ir teorijų apie galiojančią ir pageidautiną teisę bei jos santykį su žmonių interesais",
+      "Tik piliečių žinios apie Konstituciją",
+      "Teismų praktikos ir precedentų visuma"
+    ],
+    "correct": 1,
+    "explanation": "Teisinė sąmonė apibūdinama kaip idėjų, vaizdinių ir teorijų sistema apie teisę ir jos vertinimą."
+  },
+  {
+    "id": 8,
+    "category": "Dokumentų valdymas",
+    "question": "Kas sudaro parašo rekvizitą?",
+    "options": [
+      "Tik vardas, pavardė ir antspaudas",
+      "Pareigos, vardas, pavardė ir data",
+      "Dokumentą pasirašančio asmens pareigų pavadinimas, parašas, vardas ir pavardė",
+      "Institucijos pavadinimas, parašas ir adresas"
+    ],
+    "correct": 2,
+    "explanation": "Parašo rekvizitą sudaro pareigų pavadinimas, parašas, vardas ir pavardė."
+  },
+  {
+    "id": 9,
+    "category": "Civilinė teisė",
+    "question": "Juridinio asmens pirminiai požymiai yra:",
+    "options": [
+      "Organizacinis vientisumas, civilinis teisnumas ir civilinis procesinis teisnumas",
+      "Turtas, antspaudas ir registracijos adresas",
+      "Pelno siekimas, pavadinimas ir buveinė",
+      "Teisnumas, veiksnumas ir atskira banko sąskaita"
+    ],
+    "correct": 0,
+    "explanation": "Pagal tavo klausimų failą juridinio asmens pirminiai požymiai yra organizacinis vientisumas, civilinis teisnumas ir civilinis procesinis teisnumas."
+  },
+  {
+    "id": 10,
+    "category": "Civilinė teisė",
+    "question": "Juridinio asmens dalyvių turimos teisės skirstomos į:",
+    "options": [
+      "Viešąsias ir privačiąsias",
+      "Turtines ir procesines",
+      "Neturtines ir turtines",
+      "Asmenines ir kolektyvines"
+    ],
+    "correct": 2,
+    "explanation": "Tavo pateiktoje medžiagoje nurodyta, kad juridinio asmens dalyvių teisės skirstomos į neturtines ir turtines."
+  }
+]
