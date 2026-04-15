@@ -1,0 +1,392 @@
+[
+  {
+    "id": 31,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuris teiginys teisingai apibūdina baudžiamąją teisę?",
+    "options": [
+      "Visuma teisės normų, nustatančių draudimus, nusikalstamas veikas ir poveikio priemones",
+      "Teisės šaka, reguliuojanti baudų skyrimą administracinių nusižengimų atvejais",
+      "Teisės normų sistema, nustatanti valstybės ir piliečių tarpusavio pareigas",
+      "Visuma normų, reglamentuojančių baudžiamąjį procesą ir teisminę procedūrą"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamoji teisė – tai visuma teisės normų, kuri nustato draudimus, nusikalstamas veikas ir poveikio priemones, taip pat atleidimą nuo atsakomybės."
+  },
+  {
+    "id": 32,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuri yra pagrindinė (reguliatyvinė) baudžiamosios teisės funkcija?",
+    "options": [
+      "Apsauginė funkcija",
+      "Bendroji prevencija",
+      "Individualioji (specialioji) prevencija",
+      "Sutaikinamoji funkcija"
+    ],
+    "correct": 0,
+    "explanation": "Pagrindinė (reguliatyvinė) baudžiamosios teisės funkcija yra apsauginė – baudžiamoji teisė saugo visuomenę ir jos vertybes nuo nusikalstamų veikų."
+  },
+  {
+    "id": 33,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuri iš šių NĖRA baudžiamosios teisės funkcija?",
+    "options": [
+      "Vadybinė funkcija",
+      "Bendroji prevencija",
+      "Individualioji (specialioji) prevencija",
+      "Sutaikinamoji funkcija"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamosios teisės funkcijos yra apsauginė, bendroji prevencija, individualioji prevencija ir sutaikinamoji. Vadybinė funkcija baudžiamajai teisei nebūdinga."
+  },
+  {
+    "id": 34,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriais metais buvo priimtas Kazimiero teisynas?",
+    "options": [
+      "1468 m.",
+      "1340 m.",
+      "1529 m.",
+      "1443 m."
+    ],
+    "correct": 0,
+    "explanation": "Kazimiero teisynas priimtas 1468 m., turėjo 28 straipsnius ir gynė nuosavybės santykius; galiojo visoje LDK."
+  },
+  {
+    "id": 35,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuris teiginys teisingai apibūdina Kazimiero teisyną?",
+    "options": [
+      "Priimtas 1468 m., turėjo 28 straipsnius ir galiojo visoje LDK",
+      "Priimtas 1340 m., turėjo 86 straipsnius ir galiojo tik Žemaitijoje",
+      "Priimtas 1529 m. kaip pirmasis Lietuvos Didžiosios Kunigaikštystės teisės kodeksas",
+      "Priimtas 1468 m., turėjo 52 straipsnius ir gynė bažnyčios teises"
+    ],
+    "correct": 0,
+    "explanation": "Kazimiero teisynas (1468 m.) turėjo 28 straipsnius, gynė nuosavybės santykius ir galiojo visoje Lietuvos Didžiojoje Kunigaikštystėje."
+  },
+  {
+    "id": 36,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriais metais buvo priimta pirmoji Pamedės teisyno redakcija?",
+    "options": [
+      "1340 m.",
+      "1443 m.",
+      "1468 m.",
+      "1529 m."
+    ],
+    "correct": 0,
+    "explanation": "Pamedės teisyno pirmoji redakcija priimta 1340 m. (turėjo 86 straipsnius), o paskutinė redakcija – 1443 m."
+  },
+  {
+    "id": 37,
+    "category": "Baudžiamoji teisė",
+    "question": "Pagal Pamedės teisyną, iki kokio amžiaus asmuo buvo laikomas mažamečiu?",
+    "options": [
+      "Iki 9 metų",
+      "Iki 7 metų",
+      "Iki 12 metų",
+      "Iki 14 metų"
+    ],
+    "correct": 0,
+    "explanation": "Pagal Pamedės teisyną mažamečiu buvo laikomas asmuo iki 9 metų, o pagal Kazimiero teisyną materialinė atsakomybė prasidėjo nuo 7 metų."
+  },
+  {
+    "id": 38,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriais metais priimtas Pirmasis Lietuvos statutas?",
+    "options": [
+      "1529 m.",
+      "1466 m.",
+      "1566 m.",
+      "1588 m."
+    ],
+    "correct": 0,
+    "explanation": "Pirmasis Lietuvos statutas priimtas 1529 m., Antrasis – 1566 m., Trečiasis – 1588 m."
+  },
+  {
+    "id": 39,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriais metais Lietuvos statutai nustojo galioti?",
+    "options": [
+      "1840 m.",
+      "1795 m.",
+      "1863 m.",
+      "1918 m."
+    ],
+    "correct": 0,
+    "explanation": "Visi trys Lietuvos statutai nustojo galioti 1840 m."
+  },
+  {
+    "id": 40,
+    "category": "Baudžiamoji teisė",
+    "question": "Pagal Trečiąjį Lietuvos statutą (1588 m.), iki kokio amžiaus mergaitės buvo laikomos nepilnametėmis?",
+    "options": [
+      "Iki 13 metų",
+      "Iki 15 metų",
+      "Iki 16 metų",
+      "Iki 18 metų"
+    ],
+    "correct": 0,
+    "explanation": "Pagal Trečiąjį Lietuvos statutą nepilnametėmis laikytos mergaitės iki 13 metų, tuo tarpu pagal Antrąjį statutą – iki 15 metų."
+  },
+  {
+    "id": 41,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuri nuostata dėl psichinių ligonių įtvirtinta Trečiajame Lietuvos statute?",
+    "options": [
+      "Psichiniai ligoniai negali būti baudžiami",
+      "Psichiniai ligoniai baudžiami sumažinta bausme",
+      "Psichiniai ligoniai baudžiami kaip nepilnamečiai",
+      "Psichiniai ligoniai perduodami bažnyčios jurisdikcijai"
+    ],
+    "correct": 0,
+    "explanation": "Trečiasis Lietuvos statutas (1588 m.) įtvirtino progresyvią nuostatą, kad psichiniai ligoniai negali būti baudžiami."
+  },
+  {
+    "id": 42,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriais metais įsigaliojo dabartinis Baudžiamasis kodeksas?",
+    "options": [
+      "2003 m. gegužės 1 d.",
+      "2000 m. sausio 1 d.",
+      "2002 m. rugsėjo 1 d.",
+      "2004 m. sausio 1 d."
+    ],
+    "correct": 0,
+    "explanation": "Dabartinis Baudžiamasis kodeksas priimtas 2000 m., tačiau įsigaliojo 2003 m. gegužės 1 d."
+  },
+  {
+    "id": 43,
+    "category": "Baudžiamoji teisė",
+    "question": "Koks yra pagrindinis baudžiamųjų įstatymų galiojimo laiko atžvilgiu principas pagal BK 3 straipsnį?",
+    "options": [
+      "Veikos nusikalstamumą ir asmens baudžiamumą nustato įstatymas, galiojęs tos veikos padarymo metu",
+      "Visada taikomas naujausias galiojantis baudžiamasis įstatymas",
+      "Taikomas asmeniui palankiausias įstatymas, nepriklausomai nuo jo priėmimo datos",
+      "Veikos nusikalstamumą nustato įstatymas, galiojantis teisminio nagrinėjimo metu"
+    ],
+    "correct": 0,
+    "explanation": "BK 3 str. 1 d. įtvirtina principą, kad veikos nusikalstamumą ir asmens baudžiamumą nustato įstatymas, galiojęs tos veikos padarymo metu."
+  },
+  {
+    "id": 44,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriam baudžiamajam įstatymui taikoma grįžtamosios galios taisyklė pagal BK 3 straipsnį?",
+    "options": [
+      "Švelninančiam arba naikinančiam veikos nusikalstamumą",
+      "Griežtinančiam baudžiamumą",
+      "Bet kuriam įstatymui, priimtam po veikos padarymo",
+      "Įstatymui, priimtam po nuosprendžio įsiteisėjimo"
+    ],
+    "correct": 0,
+    "explanation": "Grįžtamoji galia taikoma tik švelninančiam arba veikos nusikalstamumą naikinančiam įstatymui – jis galioja ir asmenims, padariusiems veiką iki tokio įstatymo įsigaliojimo."
+  },
+  {
+    "id": 45,
+    "category": "Baudžiamoji teisė",
+    "question": "Asmuo padarė nusikaltimą 2021 m. Vėliau priimtas naujas, baudžiamumą griežtinantis įstatymas. Koks įstatymas taikomas priimant nuosprendį?",
+    "options": [
+      "Įstatymas, galiojęs 2021 m. veikos padarymo metu",
+      "Naujasis griežtinantis įstatymas kaip vėliau priimtas",
+      "Palankesnis iš abiejų įstatymų teismo nuožiūra",
+      "Naujasis įstatymas, nes jis atspindi dabartinę baudžiamąją politiką"
+    ],
+    "correct": 0,
+    "explanation": "Griežtinantis baudžiamasis įstatymas neturi grįžtamosios galios, todėl taikomas veikos padarymo metu galiojęs įstatymas."
+  },
+  {
+    "id": 46,
+    "category": "Baudžiamoji teisė",
+    "question": "Naujasis įstatymas sumažina minimalią bausmę, tačiau padidina maksimalią. Kaip sprendžiamas tokio prieštaringo įstatymo taikymo klausimas?",
+    "options": [
+      "Klausimas išsprendžiamas tik priimant nuosprendį, atsižvelgus į nusikaltimo pavojingumą ir kaltininko asmenybę",
+      "Visada taikomas naujasis įstatymas, nes jis keičia sankcijos ribas",
+      "Visada taikomas senasis įstatymas, nes naujasis negali turėti grįžtamosios galios",
+      "Klausimą sprendžia prokuroras ikiteisminio tyrimo metu"
+    ],
+    "correct": 0,
+    "explanation": "Esant prieštaringam įstatymui, klausimas išsprendžiamas tik priimant nuosprendį, atsižvelgus į nusikaltimo pavojingumą, kaltininko asmenybę ir kitas reikšmingas bylos aplinkybes."
+  },
+  {
+    "id": 47,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra tarpinis baudžiamasis įstatymas?",
+    "options": [
+      "Įstatymas, galiojęs nei veikos padarymo metu, nei priimant nuosprendį, bet tarp šių momentų",
+      "Pirmesnis galiojęs įstatymas, taikomas kol bus priimtas naujas",
+      "Dviejų baudžiamųjų įstatymų normų suderintas variantas",
+      "Specialus įstatymas, skirtas tik konkrečiai baudžiamajai bylai"
+    ],
+    "correct": 0,
+    "explanation": "Tarpinis įstatymas – tai įstatymas, galiojęs nei padarymo, nei nuosprendžio priėmimo metu; jis gali būti taikomas, jei švelnina bausmę ar naikina veikos nusikalstamumą."
+  },
+  {
+    "id": 48,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriuo momentu laikomas nusikalstamos veikos padarymo laikas pagal baudžiamąją teisę?",
+    "options": [
+      "Veikimo ar neveikimo momentas, nepriklausomai nuo padarinių atsiradimo laiko",
+      "Padarinių atsiradimo momentas",
+      "Ikiteisminio tyrimo pradžios momentas",
+      "Kaltinamojo akto surašymo momentas"
+    ],
+    "correct": 0,
+    "explanation": "Nusikalstamos veikos padarymo laiku laikomas veikimo ar neveikimo laikas, net jei padariniai atsirado vėliau."
+  },
+  {
+    "id": 49,
+    "category": "Baudžiamoji teisė",
+    "question": "Kurioms nusikaltimų rūšims sunkiausia nustatyti padarymo laiką?",
+    "options": [
+      "Trunkamiesiems ir tęstiniams nusikaltimams",
+      "Momentiniams nusikaltimams",
+      "Neatsargiems nusikaltimams",
+      "Baudžiamiesiems nusižengimams"
+    ],
+    "correct": 0,
+    "explanation": "Trunkamiesiems ir tęstiniams nusikaltimams sunkiausia nustatyti padarymo laiką, nes jie vyksta per tam tikrą laiko tarpą."
+  },
+  {
+    "id": 50,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuri iš šių NĖRA teisingumo aspektas baudžiamojoje teisėje?",
+    "options": [
+      "Teismo diskrecija atsisakyti nagrinėti skundus dėl bausmių dydžio",
+      "Teismo veikla nagrinėjant baudžiamąsias bylas ir skiriant bausmes",
+      "Įstatymų leidėjo veikla nustatant veikų nusikalstamumą ir formuluojant sankcijas",
+      "Siekis vienodos baudžiamosios politikos už analogiškas veikas"
+    ],
+    "correct": 0,
+    "explanation": "Teisingumo principas turi tris aspektus: teismo veikla skiriant bausmes, įstatymų leidėjo veikla formuluojant sankcijas, ir siekis vienodos baudžiamosios politikos. Teismo diskrecija atsisakyti nagrinėti skundus nėra teisingumo aspektas."
+  },
+  {
+    "id": 51,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuris teiginys teisingai apibūdina teisingumo principą baudžiamojoje teisėje?",
+    "options": [
+      "Teisinga bausmė – tokia, kuri paskirta tinkamai atsižvelgus į veikos sunkumą, kaltininko asmenybę ir nepažeidžia BK normų",
+      "Teisinga bausmė visada yra kuo griežtesnė, siekiant atgrasyti kitus",
+      "Teisingumo principas sutampa su visiška teismo laisve skiriant bausmes",
+      "Teisingumas pasiekiamas tik tada, kai kaltininkui skiriama laisvės atėmimo bausmė"
+    ],
+    "correct": 0,
+    "explanation": "Teisinga bausmė – tokia, kuri paskirta tinkamai atsižvelgus į veikos sunkumą, padaryto nusikaltimo ypatumus, kaltę, motyvus ir kaltininko asmenybę, nepažeidžiant BK normų."
+  },
+  {
+    "id": 52,
+    "category": "Baudžiamoji teisė",
+    "question": "Ką numato šanso principas baudžiamojoje teisėje?",
+    "options": [
+      "Asmeniui, pirmą kartą padariusiam nusikalstamą veiką, suteikiama galimybė atleisti nuo bausmės ar baudžiamosios atsakomybės",
+      "Kiekvienam asmeniui garantuojama teisė į pakartotinį teismo procesą",
+      "Asmuo negali būti teisiamas du kartus už tą pačią veiką",
+      "Bausmė visada turi būti ne griežtesnė nei sankcijoje numatytas vidurkis"
+    ],
+    "correct": 0,
+    "explanation": "Šanso principas numato, kad asmeniui, pirmą kartą padariusiam nusikalstamą veiką, baudžiamoji teisė suteikia galimybę atleisti nuo bausmės ar baudžiamosios atsakomybės."
+  },
+  {
+    "id": 53,
+    "category": "Baudžiamoji teisė",
+    "question": "Kaip baudžiamajame kodekse įgyvendinamas nukentėjusiojo nuožiūros išplėtimo principas?",
+    "options": [
+      "Didinant nusikaltimų, dėl kurių baudžiamasis persekiojimas pradedamas tik esant nukentėjusiojo skundui, ratą",
+      "Suteikiant nukentėjusiajam teisę tiesiogiai skirti bausmę kaltininkui",
+      "Įpareigojant teismą vadovautis nukentėjusiojo reikalavimu dėl bausmės griežtumo",
+      "Leidžiant nukentėjusiajam atšaukti bet kurią baudžiamąją bylą"
+    ],
+    "correct": 0,
+    "explanation": "Nukentėjusiojo vaidmuo didinamas plečiant nusikaltimų, dėl kurių baudžiamasis persekiojimas pradedamas tik esant nukentėjusiojo ar jo atstovo skundui, skaičių."
+  },
+  {
+    "id": 54,
+    "category": "Baudžiamoji teisė",
+    "question": "Nepilnametis pirmą kartą padarė nesunkų tyčinį nusikaltimą, nukentėjusiojo atsiprašė ir visiškai atlygino padarytą turtinę žalą. Kokia galima teisinė pasekmė?",
+    "options": [
+      "Teismas gali atleisti nepilnametį nuo baudžiamosios atsakomybės pagal BK 93 str.",
+      "Byla automatiškai nutraukiama dėl žalos atlyginimo",
+      "Nepilnametis privalo atlyginti žalą dvigubai ir gauna administracinę nuobaudą",
+      "Nepilnametis perduodamas tėvų globai be jokių teisinių pasekmių"
+    ],
+    "correct": 0,
+    "explanation": "BK 93 str. numato, kad nepilnametis, pirmą kartą padaręs nesunkų ar apysunkį tyčinį nusikaltimą, gali būti atleistas nuo baudžiamosios atsakomybės, jei atsiprašė ir atlygino žalą arba pripažino kaltę ir gailisi."
+  },
+  {
+    "id": 55,
+    "category": "Baudžiamoji teisė",
+    "question": "Kokie du pagrindiniai požymiai, pagal BK apibrėžimus, apibūdina nusikalstamą veiką?",
+    "options": [
+      "Veikos pavojingumas ir veikos draudžiamumas (priešingumas baudžiamajam įstatymui)",
+      "Kaltės forma ir veikos padariniai",
+      "Subjekto tapatybė ir veikos sunkumas",
+      "Veikos tikslas ir panaudotos priemonės"
+    ],
+    "correct": 0,
+    "explanation": "Nusikaltimo ir baudžiamojo nusižengimo apibrėžimuose nustatyti du pagrindiniai požymiai: veikos pavojingumas (materialusis požymis) ir veikos draudžiamumas pagal baudžiamąjį įstatymą (formalusis požymis)."
+  },
+  {
+    "id": 56,
+    "category": "Baudžiamoji teisė",
+    "question": "Kaip BK 11 straipsnis apibrėžia nusikaltimą?",
+    "options": [
+      "Pavojinga ir BK uždrausta veika (veikimas ar neveikimas), už kurią numatyta laisvės atėmimo bausmė",
+      "Bet kokia pavojinga veika, padariusi didelę žalą visuomenei",
+      "BK uždrausta veika, padaryta tik tyčia, dėl kurios galima suimti asmenį",
+      "Pavojinga veika, už kurią numatyta laisvės atėmimo bausmė ar bauda"
+    ],
+    "correct": 0,
+    "explanation": "BK 11 str. 1 d. nusikaltimas apibrėžiamas kaip pavojinga ir BK uždrausta veika (veikimas ar neveikimas), už kurią numatyta laisvės atėmimo bausmė."
+  },
+  {
+    "id": 57,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuo baudžiamasis nusižengimas skiriasi nuo nusikaltimo pagal BK?",
+    "options": [
+      "Baudžiamajam nusižengimui numatyta bausmė nesusijusi su laisvės atėmimu (išskyrus areštą)",
+      "Baudžiamasis nusižengimas padaromas tik dėl neatsargumo, o nusikaltimas – tik tyčia",
+      "Baudžiamajam nusižengimui taikoma tik administracinė, ne baudžiamoji atsakomybė",
+      "Baudžiamasis nusižengimas yra mažiau pavojinga veika, todėl jam netaikomas BK"
+    ],
+    "correct": 0,
+    "explanation": "BK 12 str. baudžiamasis nusižengimas apibrėžiamas kaip pavojinga ir BK uždrausta veika, už kurią numatyta bausmė nesusijusi su laisvės atėmimu, išskyrus areštą."
+  },
+  {
+    "id": 58,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuris apibūdinimas teisingas nesunkiam nusikaltimui pagal BK klasifikaciją?",
+    "options": [
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė neviršija trejų metų laisvės atėmimo",
+      "Tyčinis nusikaltimas, už kurį numatyta bausmė nuo vienų iki šešerių metų laisvės atėmimo",
+      "Bet koks nusikaltimas, padarytas pirmą kartą",
+      "Nusikaltimas, nesukėlęs sunkių padarinių nukentėjusiajam"
+    ],
+    "correct": 0,
+    "explanation": "Nesunkus nusikaltimas yra tyčinis nusikaltimas, už kurį baudžiamajame įstatyme numatyta didžiausia bausmė neviršija trejų metų laisvės atėmimo."
+  },
+  {
+    "id": 59,
+    "category": "Baudžiamoji teisė",
+    "question": "Pagal BK nusikaltimų klasifikaciją, kuris apibūdinimas tinkamas apysunkiam nusikaltimui?",
+    "options": [
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė viršija trejus, bet neviršija šešerių metų laisvės atėmimo",
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė iki trejų metų laisvės atėmimo",
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė viršija šešerius, bet neviršija dešimties metų",
+      "Nusikaltimas, padarytas dėl neatsargumo ar aplaidumo"
+    ],
+    "correct": 0,
+    "explanation": "Apysunkis nusikaltimas – tyčinis nusikaltimas, už kurį baudžiamajame įstatyme numatyta didžiausia bausmė viršija trejus metus, bet neviršija šešerių metų laisvės atėmimo."
+  },
+  {
+    "id": 60,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriuo atveju gali kilti baudžiamoji atsakomybė pagal nusikalstamos veikos sudėties principą (BK 2 str. 4 d.)?",
+    "options": [
+      "Tik jei asmens padaryta veika atitinka baudžiamojo įstatymo numatytą nusikaltimo ar baudžiamojo nusižengimo sudėtį",
+      "Jei asmuo padarė pavojingą veiką, net jei ji tiesiogiai nenumatyta BK",
+      "Jei ikiteisminio tyrimo pareigūnas nustato, kad veika kelia grėsmę visuomenės saugumui",
+      "Jei prokuroras nusprendžia, kad asmens veiksmai prieštarauja visuomenės moralei"
+    ],
+    "correct": 0,
+    "explanation": "BK 2 str. 4 d. nustato, kad pagal baudžiamąjį įstatymą atsako tik tas asmuo, kurio padaryta veika atitinka baudžiamojo įstatymo numatytą nusikaltimo ar baudžiamojo nusižengimo sudėtį."
+  }
+]

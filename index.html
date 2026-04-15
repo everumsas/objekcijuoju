@@ -10,10 +10,12 @@
 </head>
 <body>
   <div class="container">
+
     <header class="header top-panel">
-      <div>
-        <h1>Objekcijuoju</h1>
+      <div class="logo-wrapper">
+        <img src="logo.png" alt="Objekcijuoju logo" class="logo">
       </div>
+
       <button id="resetBtn" class="secondary-btn">Nuresetinti progresą</button>
     </header>
 
@@ -51,6 +53,10 @@
     </section>
 
     <section class="card hidden" id="quizPanel">
+      <div class="quiz-nav">
+        <button id="menuBtn" class="secondary-btn">← Į meniu</button>
+      </div>
+
       <div class="quiz-topbar">
         <span id="questionCategory" class="badge"></span>
         <span id="questionCounter" class="muted small"></span>
@@ -62,15 +68,16 @@
 
       <div id="resultBox" class="result-box hidden">
         <div id="resultTitle" class="result-title"></div>
-        <p id="resultExplanation" class="result-explanation"></p>
-        <p id="correctAnswerText" class="correct-answer"></p>
+        <p id="resultExplanation"></p>
+        <p id="correctAnswerText"></p>
 
-        <div class="actions result-actions">
+        <div class="actions">
           <button id="nextBtn" class="main-btn">Kitas klausimas</button>
           <button id="backBtn" class="secondary-btn">Grįžti į pradžią</button>
         </div>
       </div>
     </section>
+
   </div>
 
   <script src="app.js"></script>

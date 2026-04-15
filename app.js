@@ -1,8 +1,15 @@
-const STORAGE_KEY = "objekcijuoju_progress_v3";
+const STORAGE_KEY = "objekcijuoju_progress_multi_v1";
+
+const QUESTION_FILES = [
+  "./questions/administracine.json",
+  "./questions/baudziamojiteise.json"
+];
 
 let questions = [];
 let progress = {};
 let currentQuestion = null;
+let currentShuffledOptions = [];
+let currentCorrectIndex = null;
 let answered = false;
 let recentQuestionIds = [];
 
@@ -15,8 +22,28 @@ async function init() {
 }
 
 async function loadQuestions() {
-  const response = await fetch("./questions.json", { cache: "no-store" });
-  questions = await response.json();
+  questions = [];
+
+  for (const filePath of QUESTION_FILES) {
+    const response = await fetch(filePath, { cache: "no-store" });
+
+    if (!response.ok) {
+      console.error(`Nepavyko užkrauti failo: ${filePath}`);
+      continue;
+    }
+
+    const data = await response.json();
+
+    const fileName = getFileNameWithoutExtension(filePath);
+
+    const normalizedQuestions = data.map((q, index) => ({
+      ...q,
+      _uid: `${fileName}__${q.id ?? index + 1}`,
+      _source: fileName
+    }));
+
+    questions = questions.concat(normalizedQuestions);
+  }
 
   try {
     const saved = localStorage.getItem(STORAGE_KEY);
@@ -26,12 +53,18 @@ async function loadQuestions() {
   }
 
   for (const q of questions) {
-    if (!progress[q.id]) {
-      progress[q.id] = createEmptyProgress();
+    if (!progress[q._uid]) {
+      progress[q._uid] = createEmptyProgress();
     }
   }
 
   saveProgress();
+}
+
+function getFileNameWithoutExtension(path) {
+  const parts = path.split("/");
+  const fileName = parts[parts.length - 1];
+  return fileName.replace(".json", "");
 }
 
 function createEmptyProgress() {
@@ -51,14 +84,14 @@ function saveProgress() {
 function rebuildFreshProgress() {
   const fresh = {};
   for (const q of questions) {
-    fresh[q.id] = createEmptyProgress();
+    fresh[q._uid] = createEmptyProgress();
   }
   return fresh;
 }
 
 function updateStats() {
   const total = questions.length;
-  const mastered = questions.filter(q => progress[q.id]?.mastered).length;
+  const mastered = questions.filter(q => progress[q._uid]?.mastered).length;
   const remaining = total - mastered;
   const percent = total === 0 ? 0 : Math.round((mastered / total) * 100);
 
@@ -70,7 +103,7 @@ function updateStats() {
 }
 
 function getQuestionWeight(question) {
-  const p = progress[question.id];
+  const p = progress[question._uid];
   let weight = 1;
 
   weight += p.wrongTotal * 4;
@@ -79,8 +112,8 @@ function getQuestionWeight(question) {
   return weight;
 }
 
-function addToRecentQuestions(questionId) {
-  recentQuestionIds.push(questionId);
+function addToRecentQuestions(questionUid) {
+  recentQuestionIds.push(questionUid);
 
   while (recentQuestionIds.length > RECENT_QUESTION_BLOCK_COUNT) {
     recentQuestionIds.shift();
@@ -102,17 +135,37 @@ function pickRandomWeightedQuestion(pool) {
 }
 
 function pickNextQuestion() {
-  const available = questions.filter(q => !progress[q.id]?.mastered);
+  const available = questions.filter(q => !progress[q._uid]?.mastered);
 
   if (available.length === 0) return null;
 
-  let filtered = available.filter(q => !recentQuestionIds.includes(q.id));
+  let filtered = available.filter(q => !recentQuestionIds.includes(q._uid));
 
   if (filtered.length === 0) {
     filtered = available;
   }
 
   return pickRandomWeightedQuestion(filtered);
+}
+
+function shuffleQuestionOptions(question) {
+  const optionObjects = question.options.map((option, index) => ({
+    text: option,
+    isCorrect: index === question.correct
+  }));
+
+  for (let i = optionObjects.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [optionObjects[i], optionObjects[j]] = [optionObjects[j], optionObjects[i]];
+  }
+
+  const shuffledOptions = optionObjects.map(item => item.text);
+  const correctIndex = optionObjects.findIndex(item => item.isCorrect);
+
+  return {
+    shuffledOptions,
+    correctIndex
+  };
 }
 
 function scrollToQuizTop() {
@@ -146,17 +199,21 @@ function showQuestion() {
     return;
   }
 
-  addToRecentQuestions(currentQuestion.id);
+  addToRecentQuestions(currentQuestion._uid);
+
+  const shuffledData = shuffleQuestionOptions(currentQuestion);
+  currentShuffledOptions = shuffledData.shuffledOptions;
+  currentCorrectIndex = shuffledData.correctIndex;
 
   document.getElementById("questionCategory").textContent = currentQuestion.category || "Klausimas";
   document.getElementById("questionTitle").textContent = currentQuestion.question;
   document.getElementById("questionCounter").textContent =
-    `Matytas ${progress[currentQuestion.id].seenTotal} kartus`;
+    `Matytas ${progress[currentQuestion._uid].seenTotal} kartus`;
 
   const answersContainer = document.getElementById("answersContainer");
   answersContainer.innerHTML = "";
 
-  currentQuestion.options.forEach((option, index) => {
+  currentShuffledOptions.forEach((option, index) => {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "answer-btn";
@@ -173,16 +230,16 @@ function handleAnswer(selectedIndex) {
   if (answered || !currentQuestion) return;
   answered = true;
 
-  const p = progress[currentQuestion.id];
+  const p = progress[currentQuestion._uid];
   p.seenTotal += 1;
 
   const buttons = document.querySelectorAll(".answer-btn");
-  const isCorrect = selectedIndex === currentQuestion.correct;
+  const isCorrect = selectedIndex === currentCorrectIndex;
 
   buttons.forEach((btn, index) => {
     btn.disabled = true;
 
-    if (index === currentQuestion.correct) {
+    if (index === currentCorrectIndex) {
       btn.classList.add("correct");
     } else if (index === selectedIndex) {
       btn.classList.add("wrong");
@@ -212,7 +269,7 @@ function handleAnswer(selectedIndex) {
   }
 
   resultExplanation.textContent = currentQuestion.explanation || "";
-  correctAnswerText.textContent = `Teisingas atsakymas: ${currentQuestion.options[currentQuestion.correct]}`;
+  correctAnswerText.textContent = `Teisingas atsakymas: ${currentShuffledOptions[currentCorrectIndex]}`;
 
   document.getElementById("resultBox").classList.remove("hidden");
 
@@ -227,6 +284,8 @@ function resetProgress() {
 
   progress = rebuildFreshProgress();
   currentQuestion = null;
+  currentShuffledOptions = [];
+  currentCorrectIndex = null;
   answered = false;
   recentQuestionIds = [];
 
@@ -254,6 +313,7 @@ function registerEvents() {
   document.getElementById("startBtn").addEventListener("click", startQuiz);
   document.getElementById("nextBtn").addEventListener("click", showQuestion);
   document.getElementById("backBtn").addEventListener("click", backToStart);
+  document.getElementById("menuBtn").addEventListener("click", backToStart);
   document.getElementById("resetBtn").addEventListener("click", resetProgress);
 }
 
