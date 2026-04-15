@@ -2,7 +2,8 @@ const STORAGE_KEY = "objekcijuoju_progress_multi_v1";
 
 const QUESTION_FILES = [
   "./questions/administracine.json",
-  "./questions/baudziamojiteise.json"
+  "./questions/baudziamojiteise.json",
+  "./questions/egzaminu_klausimai.json"
 ];
 
 let questions = [];

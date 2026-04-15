@@ -1,0 +1,1224 @@
+[
+  {
+    "id": 1,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių apibūdina administracinio nurodymo esmę?",
+    "options": [
+      "Asmuo gali sumokėti pusę minimalios baudos ir nurodymas neskundžiamas",
+      "Asmuo privalo dalyvauti teismo posėdyje",
+      "Nurodymas visada gali būti skundžiamas",
+      "Bauda visada skiriama maksimali"
+    ],
+    "correct": 0,
+    "explanation": "Administracinis nurodymas leidžia sumokėti pusę minimalios baudos ir nėra skundžiamas."
+  },
+  {
+    "id": 2,
+    "category": "Egzaminų klausimai",
+    "question": "Kada išmokama piniginė kompensacija už nepanaudotas kasmetines atostogas?",
+    "options": [
+      "Tik nutraukus darbo sutartį",
+      "Neatsižvelgiant į terminą",
+      "Tik po 2 metų",
+      "Tik teismo sprendimu"
+    ],
+    "correct": 1,
+    "explanation": "Kompensacija išmokama nepriklausomai nuo termino."
+  },
+  {
+    "id": 3,
+    "category": "Egzaminų klausimai",
+    "question": "Kada būtinas gynėjo dalyvavimas ikiteisminio tyrimo metu?",
+    "options": [
+      "Kai įtariamasis yra nepilnametis",
+      "Kai byla nagrinėjama civiline tvarka",
+      "Kai asmuo yra liudytojas",
+      "Kai nagrinėjamas administracinis ginčas"
+    ],
+    "correct": 0,
+    "explanation": "Gynėjas būtinas, kai įtariamasis yra nepilnametis ar kitais įstatyme numatytais atvejais."
+  },
+  {
+    "id": 4,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš suėmimo skyrimo pagrindų?",
+    "options": [
+      "Administracinis pažeidimas",
+      "Civilinis ginčas",
+      "Rizika padaryti naujus nusikaltimus",
+      "Darbo sutarties pažeidimas"
+    ],
+    "correct": 2,
+    "explanation": "Suėmimas gali būti skiriamas, jei yra pagrindas manyti, kad asmuo padarys naujus nusikaltimus."
+  },
+  {
+    "id": 5,
+    "category": "Egzaminų klausimai",
+    "question": "Koks yra administracinės nuobaudos paskyrimo terminas?",
+    "options": [
+      "1 metai",
+      "2 metai",
+      "3 metai",
+      "6 mėnesiai"
+    ],
+    "correct": 1,
+    "explanation": "Administracinė nuobauda skiriama ne vėliau kaip per 2 metus."
+  },
+  {
+    "id": 6,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri romėnų teisės sistemos dalis reguliavo piliečių santykius ir atsakomybę?",
+    "options": [
+      "Ius gentium",
+      "Ius civile",
+      "Ius naturale",
+      "Ius publicum"
+    ],
+    "correct": 1,
+    "explanation": "Ius civile reguliavo Romos piliečių santykius."
+  },
+  {
+    "id": 7,
+    "category": "Egzaminų klausimai",
+    "question": "Koks yra liudytojo statusas civilinėje byloje?",
+    "options": [
+      "Yra proceso šalis",
+      "Yra atstovas",
+      "Nėra byloje dalyvaujantis asmuo",
+      "Yra teisėjas"
+    ],
+    "correct": 2,
+    "explanation": "Liudytojas nėra laikomas byloje dalyvaujančiu asmeniu."
+  },
+  {
+    "id": 8,
+    "category": "Egzaminų klausimai",
+    "question": "Kada galima nagrinėti bylą nedalyvaujant kaltinamajam?",
+    "options": [
+      "Visais atvejais",
+      "Kai kaltinamasis yra užsienyje ir vengia atvykti",
+      "Kai kaltinamasis serga",
+      "Kai yra liudytojas"
+    ],
+    "correct": 1,
+    "explanation": "Leidžiama tik jei kaltinamasis yra už LR ribų ir vengia atvykti."
+  },
+  {
+    "id": 9,
+    "category": "Egzaminų klausimai",
+    "question": "Pagal bendrą taisyklę, kur pareiškiamas ieškinys?",
+    "options": [
+      "Ieškovo gyvenamojoje vietoje",
+      "Atsakovo gyvenamojoje vietoje",
+      "Teismo pasirinkimu",
+      "Ministerijoje"
+    ],
+    "correct": 1,
+    "explanation": "Ieškinys pareiškiamas pagal atsakovo gyvenamąją vietą."
+  },
+  {
+    "id": 10,
+    "category": "Egzaminų klausimai",
+    "question": "Kada laikoma sudaryta paskolos sutartis?",
+    "options": [
+      "Pasirašius dokumentą",
+      "Perdavus pinigus ar daiktus",
+      "Registravus notarui",
+      "Teismui patvirtinus"
+    ],
+    "correct": 1,
+    "explanation": "Paskolos sutartis laikoma sudaryta nuo perdavimo momento."
+  },
+  {
+    "id": 11,
+    "category": "Egzaminų klausimai",
+    "question": "Ką apibrėžia teisės normos dispozicija?",
+    "options": [
+      "Baudą",
+      "Elgesio taisykles",
+      "Teismo sprendimą",
+      "Įrodymus"
+    ],
+    "correct": 1,
+    "explanation": "Dispozicija nustato leidžiamą ar privalomą elgesį."
+  },
+  {
+    "id": 12,
+    "category": "Egzaminų klausimai",
+    "question": "Kas teisme duoda priesaiką?",
+    "options": [
+      "Teisėjas",
+      "Advokatas",
+      "Vertėjas",
+      "Prokuroras"
+    ],
+    "correct": 2,
+    "explanation": "Teisme prisiekia vertėjas."
+  },
+  {
+    "id": 13,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra teismo procesinis dokumentas?",
+    "options": [
+      "Nutartis",
+      "Sutartis",
+      "Įsakymas darbe",
+      "Protokolas"
+    ],
+    "correct": 0,
+    "explanation": "Nutartis yra vienas iš teismo procesinių dokumentų."
+  },
+  {
+    "id": 14,
+    "category": "Egzaminų klausimai",
+    "question": "Kas sudaro teisės normos struktūrą?",
+    "options": [
+      "Hipotezė, dispozicija, sankcija",
+      "Tik sankcija",
+      "Tik dispozicija",
+      "Tik hipotezė"
+    ],
+    "correct": 0,
+    "explanation": "Normą sudaro hipotezė, dispozicija ir sankcija."
+  },
+  {
+    "id": 15,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris teismas nagrinėja apeliacijas iš apylinkės teismo?",
+    "options": [
+      "Aukščiausiasis",
+      "Apygardos",
+      "Konstitucinis",
+      "Administracinis"
+    ],
+    "correct": 1,
+    "explanation": "Apeliacijas nagrinėja apygardos teismas."
+  },
+  {
+    "id": 16,
+    "category": "Egzaminų klausimai",
+    "question": "Kada atsiranda fizinio asmens civilinis teisnumas?",
+    "options": [
+      "Nuo pilnametystės",
+      "Nuo gimimo",
+      "Nuo registracijos",
+      "Nuo darbo pradžios"
+    ],
+    "correct": 1,
+    "explanation": "Teisnumas atsiranda gimimo momentu."
+  },
+  {
+    "id": 17,
+    "category": "Egzaminų klausimai",
+    "question": "Kas gali pripažinti asmenį neveiksniu?",
+    "options": [
+      "Policija",
+      "Teismas",
+      "Savivaldybė",
+      "Notaras"
+    ],
+    "correct": 1,
+    "explanation": "Neveiksnumą nustato teismas."
+  },
+  {
+    "id": 18,
+    "category": "Egzaminų klausimai",
+    "question": "Kas skiria LR pilietybę?",
+    "options": [
+      "Seimas",
+      "Vyriausybė",
+      "Prezidentas",
+      "Teismas"
+    ],
+    "correct": 2,
+    "explanation": "Pilietybę suteikia Prezidentas."
+  },
+  {
+    "id": 19,
+    "category": "Egzaminų klausimai",
+    "question": "Kas nagrinėja kasacine tvarka bylas Lietuvoje?",
+    "options": [
+      "Apygardos teismas",
+      "Aukščiausiasis Teismas",
+      "Konstitucinis Teismas",
+      "Administracinis teismas"
+    ],
+    "correct": 1,
+    "explanation": "Kasacine tvarka bylas nagrinėja LAT."
+  },
+  {
+    "id": 20,
+    "category": "Egzaminų klausimai",
+    "question": "Kas yra hipoteka?",
+    "options": [
+      "Nuomos sutartis",
+      "Būsto įkeitimas",
+      "Paveldėjimas",
+      "Draudimas"
+    ],
+    "correct": 1,
+    "explanation": "Hipoteka yra nekilnojamojo turto įkeitimas."
+  },
+  {
+    "id": 21,
+    "category": "Egzaminų klausimai",
+    "question": "Kas nagrinėja bylas pirmąja instancija Lietuvoje?",
+    "options": [
+      "Tik Aukščiausiasis Teismas",
+      "Apylinkės ir apygardos teismai",
+      "Tik administraciniai teismai",
+      "Konstitucinis Teismas"
+    ],
+    "correct": 1,
+    "explanation": "Pirmąja instancija bylas nagrinėja apylinkės ir apygardos teismai."
+  },
+  {
+    "id": 22,
+    "category": "Egzaminų klausimai",
+    "question": "Kurių santykių nereglamentuoja civilinio proceso teisė?",
+    "options": [
+      "Civilinių ginčų",
+      "Šeimos teisinių santykių",
+      "Mokestinių ginčų nagrinėjimo tvarkos",
+      "Sutarčių vykdymo ginčų"
+    ],
+    "correct": 2,
+    "explanation": "Mokestiniai ginčai nėra civilinio proceso teisės reguliavimo dalykas."
+  },
+  {
+    "id": 23,
+    "category": "Egzaminų klausimai",
+    "question": "Kada EŽTT nepriima nagrinėti peticijos?",
+    "options": [
+      "Kai ji pateikta laiku",
+      "Kai ji pagrįsta",
+      "Kai neatitinka visų priimtinumo kriterijų",
+      "Kai pateikta advokato"
+    ],
+    "correct": 2,
+    "explanation": "EŽTT atmeta peticijas, neatitinkančias visų priimtinumo kriterijų."
+  },
+  {
+    "id": 24,
+    "category": "Egzaminų klausimai",
+    "question": "Kada atsiranda fizinio asmens civilinis teisnumas?",
+    "options": [
+      "Nuo pilnametystės",
+      "Nuo gimimo",
+      "Nuo registracijos",
+      "Nuo darbo pradžios"
+    ],
+    "correct": 1,
+    "explanation": "Teisnumas atsiranda asmens gimimo momentu."
+  },
+  {
+    "id": 25,
+    "category": "Egzaminų klausimai",
+    "question": "Koks gali būti gyvenamojo būsto nuomos sutarties objektas?",
+    "options": [
+      "Bet koks pastatas",
+      "Tik gyvenimui tinkamas būstas",
+      "Tik komercinės patalpos",
+      "Tik žemės sklypas"
+    ],
+    "correct": 1,
+    "explanation": "Nuomos objektas turi būti tinkamas gyventi būstas."
+  },
+  {
+    "id": 26,
+    "category": "Egzaminų klausimai",
+    "question": "Nuo kada įtariamasis turi teisę į gynybą?",
+    "options": [
+      "Nuo teismo sprendimo",
+      "Nuo sulaikymo arba pirmos apklausos",
+      "Nuo nuosprendžio",
+      "Nuo bylos nutraukimo"
+    ],
+    "correct": 1,
+    "explanation": "Teisė į gynybą užtikrinama nuo sulaikymo arba pirmos apklausos."
+  },
+  {
+    "id": 27,
+    "category": "Egzaminų klausimai",
+    "question": "Kada pasibaigia juridinis asmuo?",
+    "options": [
+      "Nutraukus veiklą",
+      "Pasikeitus vadovui",
+      "Išregistravus iš juridinių asmenų registro",
+      "Pakeitus pavadinimą"
+    ],
+    "correct": 2,
+    "explanation": "Juridinis asmuo pasibaigia jį išregistravus."
+  },
+  {
+    "id": 28,
+    "category": "Egzaminų klausimai",
+    "question": "Ką daro teismas, jei nepavyksta įrašyti proceso garso įrašo?",
+    "options": [
+      "Nutraukia bylą",
+      "Priima nutartį pakartoti veiksmą",
+      "Ignoruoja situaciją",
+      "Perduoda bylą kitam teismui"
+    ],
+    "correct": 1,
+    "explanation": "Teismas gali nutarti pakartoti procesinį veiksmą."
+  },
+  {
+    "id": 29,
+    "category": "Egzaminų klausimai",
+    "question": "Kokios yra būtinosios darbo sutarties sąlygos?",
+    "options": [
+      "Darbo funkcija, darbo užmokestis, darbovietė",
+      "Darbo vieta ir atostogos",
+      "Tik darbo užmokestis",
+      "Darbo grafikas ir poilsis"
+    ],
+    "correct": 0,
+    "explanation": "Šios trys sąlygos yra būtinos darbo sutarčiai."
+  },
+  {
+    "id": 30,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri organizacija skelbia korupcijos suvokimo indeksą?",
+    "options": [
+      "Europos Komisija",
+      "Transparency International",
+      "JT",
+      "Seimas"
+    ],
+    "correct": 1,
+    "explanation": "Šį indeksą skelbia Transparency International."
+  },
+  {
+    "id": 31,
+    "category": "Egzaminų klausimai",
+    "question": "Kada paveldima pagal įstatymą?",
+    "options": [
+      "Kai yra pilnas testamentas",
+      "Kai testamentas neapima viso turto",
+      "Kai yra sutartis",
+      "Kai yra skola"
+    ],
+    "correct": 1,
+    "explanation": "Paveldima pagal įstatymą, jei testamentas neapima viso turto."
+  },
+  {
+    "id": 32,
+    "category": "Egzaminų klausimai",
+    "question": "Kokia yra Lietuvos valstybės forma pagal Konstituciją?",
+    "options": [
+      "Monarchija",
+      "Federacija",
+      "Demokratinė respublika",
+      "Konfederacija"
+    ],
+    "correct": 2,
+    "explanation": "Lietuva yra demokratinė respublika."
+  },
+  {
+    "id": 33,
+    "category": "Egzaminų klausimai",
+    "question": "Kaip paimami pėdsakai iš įvykio vietos?",
+    "options": [
+      "Tik fotografuojant",
+      "Tik aprašant",
+      "Keliais būdais (pvz. fotografuojant ir paimant)",
+      "Nepašalinant jų"
+    ],
+    "correct": 2,
+    "explanation": "Pėdsakai gali būti paimami įvairiais metodais."
+  },
+  {
+    "id": 34,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri buvo pirmoji Europos bendrija?",
+    "options": [
+      "Europos Sąjunga",
+      "Europos Anglies ir Plieno Bendrija",
+      "Europos Taryba",
+      "Europos Parlamentas"
+    ],
+    "correct": 1,
+    "explanation": "Pirmoji bendrija buvo Anglies ir Plieno Bendrija."
+  },
+  {
+    "id": 35,
+    "category": "Egzaminų klausimai",
+    "question": "Kur galima skųsti sprendimą dėl tarnybinės nuobaudos?",
+    "options": [
+      "Tik darbdaviui",
+      "Administraciniam teismui",
+      "Seimui",
+      "Policijai"
+    ],
+    "correct": 1,
+    "explanation": "Skundžiama administracinių bylų teisenos tvarka."
+  },
+  {
+    "id": 36,
+    "category": "Egzaminų klausimai",
+    "question": "Kiek laiko teismas gali uždrausti naudotis specialiomis teisėmis?",
+    "options": [
+      "Iki 1 metų",
+      "Nuo 1 iki 5 metų",
+      "Iki 10 metų",
+      "Neribotai"
+    ],
+    "correct": 1,
+    "explanation": "Terminas yra nuo 1 iki 5 metų."
+  },
+  {
+    "id": 37,
+    "category": "Egzaminų klausimai",
+    "question": "Ką reiškia teismingumas?",
+    "options": [
+      "Teismo sprendimą",
+      "Bylų paskirstymą teismams",
+      "Teismo sudėtį",
+      "Procesą"
+    ],
+    "correct": 1,
+    "explanation": "Teismingumas reiškia bylų paskirstymą tarp teismų."
+  },
+  {
+    "id": 38,
+    "category": "Egzaminų klausimai",
+    "question": "Kas atsako už administracinį nusižengimą pagal ANK?",
+    "options": [
+      "Tik juridinis asmuo",
+      "Fizinis asmuo",
+      "Tik valstybė",
+      "Tik teismas"
+    ],
+    "correct": 1,
+    "explanation": "Pagal ANK atsako fizinis asmuo."
+  },
+  {
+    "id": 39,
+    "category": "Egzaminų klausimai",
+    "question": "Ką gali daryti asmuo, jei ginčija tėvystę?",
+    "options": [
+      "Kreiptis į policiją",
+      "Kreiptis į teismą",
+      "Kreiptis į savivaldybę",
+      "Nieko"
+    ],
+    "correct": 1,
+    "explanation": "Tėvystės klausimai sprendžiami teisme."
+  },
+  {
+    "id": 40,
+    "category": "Egzaminų klausimai",
+    "question": "Kas suteikia LR pilietybę?",
+    "options": [
+      "Seimas",
+      "Teismas",
+      "Prezidentas",
+      "Vyriausybė"
+    ],
+    "correct": 2,
+    "explanation": "Pilietybę suteikia Respublikos Prezidentas."
+  },
+  {
+    "id": 41,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių priskiriamas juridinio asmens pirminiams požymiams?",
+    "options": [
+      "Organizacinis vientisumas ir civilinis teisnumas",
+      "Tik pelno siekimas",
+      "Tik registracijos adresas",
+      "Tik antspaudas"
+    ],
+    "correct": 0,
+    "explanation": "Prie pirminių juridinio asmens požymių priskiriamas organizacinis vientisumas ir civilinis teisnumas."
+  },
+  {
+    "id": 42,
+    "category": "Egzaminų klausimai",
+    "question": "Kaip romėnų teisėje buvo vadinama giminystė, paremta kraujo ryšiais?",
+    "options": [
+      "Agnatine",
+      "Kognatine",
+      "Civile",
+      "Gentium"
+    ],
+    "correct": 1,
+    "explanation": "Kraujo ryšiais paremta giminystė romėnų teisėje buvo vadinama kognatine."
+  },
+  {
+    "id": 43,
+    "category": "Egzaminų klausimai",
+    "question": "Kaip vadinamas būsto įkeitimas?",
+    "options": [
+      "Nuoma",
+      "Hipoteka",
+      "Panauda",
+      "Paveldėjimas"
+    ],
+    "correct": 1,
+    "explanation": "Būsto įkeitimas vadinamas hipoteka."
+  },
+  {
+    "id": 44,
+    "category": "Egzaminų klausimai",
+    "question": "Kas yra statutinis valstybės tarnautojas?",
+    "options": [
+      "Tarnautojas, kurio tarnybą reglamentuoja specialus statutas",
+      "Bet kuris darbuotojas savivaldybėje",
+      "Tik politinio pasitikėjimo valstybės tarnautojas",
+      "Asmuo, dirbantis pagal darbo sutartį"
+    ],
+    "correct": 0,
+    "explanation": "Statutinio valstybės tarnautojo tarnybą reglamentuoja specialus statutas."
+  },
+  {
+    "id": 45,
+    "category": "Egzaminų klausimai",
+    "question": "Kasacine tvarka bylas Lietuvoje nagrinėja:",
+    "options": [
+      "Lietuvos vyriausiasis administracinis teismas",
+      "Lietuvos Aukščiausiasis Teismas",
+      "Apygardos teismas",
+      "Konstitucinis Teismas"
+    ],
+    "correct": 1,
+    "explanation": "Kasacine tvarka bylas nagrinėja Lietuvos Aukščiausiasis Teismas."
+  },
+  {
+    "id": 46,
+    "category": "Egzaminų klausimai",
+    "question": "Kelerių metų kadencijai skiriami Europos Teisingumo Teismo teisėjai?",
+    "options": [
+      "4 metams",
+      "5 metams",
+      "6 metams",
+      "9 metams"
+    ],
+    "correct": 2,
+    "explanation": "Europos Teisingumo Teismo teisėjai skiriami 6 metų kadencijai."
+  },
+  {
+    "id": 47,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš būtino gynėjo dalyvavimo ikiteisminio tyrimo metu atvejų?",
+    "options": [
+      "Kai įtariamasis yra suimtas",
+      "Kai asmuo yra liudytojas",
+      "Kai vyksta civilinis procesas",
+      "Kai nagrinėjamas mokestinis ginčas"
+    ],
+    "correct": 0,
+    "explanation": "Gynėjo dalyvavimas būtinas ir tada, kai įtariamasis yra suimtas."
+  },
+  {
+    "id": 48,
+    "category": "Egzaminų klausimai",
+    "question": "Kurie yra pagrindiniai teisėkūros principai?",
+    "options": [
+      "Viešumo, demokratiškumo, profesionalumo ir išsamumo",
+      "Teisingumo, greitumo, ekonomiškumo ir lygybės",
+      "Viešumo, teisėtumo, subsidiarumo ir vieno langelio",
+      "Humanizmo, proporcingumo, atvirumo ir saugumo"
+    ],
+    "correct": 0,
+    "explanation": "Pagrindiniai teisėkūros principai yra viešumo, demokratiškumo, profesionalumo ir išsamumo."
+  },
+  {
+    "id": 49,
+    "category": "Egzaminų klausimai",
+    "question": "Kurie yra parodymų patikrinimo veiksmai ikiteisminio tyrimo metu?",
+    "options": [
+      "Parodymas atpažinti, parodymų patikrinimas vietoje, eksperimentas",
+      "Apklausa, apkaltinamasis nuosprendis, ekspertizė",
+      "Krata, poėmis, sulaikymas",
+      "Akistata, įtarimo pareiškimas, nuosprendžio paskelbimas"
+    ],
+    "correct": 0,
+    "explanation": "Parodymų patikrinimo veiksmai apima parodymą atpažinti, parodymų patikrinimą vietoje ir eksperimentą."
+  },
+  {
+    "id": 50,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri iš šių gali būti skiriama kaip bausmė už nusikaltimo padarymą?",
+    "options": [
+      "Viešieji darbai",
+      "Tik įspėjimas",
+      "Tik papeikimas",
+      "Tik drausminė nuobauda"
+    ],
+    "correct": 0,
+    "explanation": "Už nusikaltimą gali būti skiriami viešieji darbai ir kitos BK numatytos bausmės."
+  },
+  {
+    "id": 51,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri iš šių yra baudžiamąją atsakomybę šalinanti aplinkybė?",
+    "options": [
+      "Būtinoji gintis",
+      "Neatsargumas",
+      "Nežinojimas įstatymo",
+      "Mažas pavojingumas"
+    ],
+    "correct": 0,
+    "explanation": "Būtinoji gintis yra viena iš baudžiamąją atsakomybę šalinančių aplinkybių."
+  },
+  {
+    "id": 52,
+    "category": "Egzaminų klausimai",
+    "question": "Kas yra kriminalistikos technika?",
+    "options": [
+      "Teorinių teiginių ir jais pagrįstų techninių priemonių, būdų bei metodų sistema",
+      "Tik nusikaltimų statistika",
+      "Tik baudžiamojo proceso dalis",
+      "Vien tik ekspertų apklausa"
+    ],
+    "correct": 0,
+    "explanation": "Kriminalistikos technika apima teorinius teiginius ir jais pagrįstas technines priemones bei metodus."
+  },
+  {
+    "id": 53,
+    "category": "Egzaminų klausimai",
+    "question": "Kas gali pripažinti asmenį neveiksniu tam tikroje srityje?",
+    "options": [
+      "Savivaldybė",
+      "Teismas",
+      "Notaras",
+      "Policija"
+    ],
+    "correct": 1,
+    "explanation": "Asmenį neveiksniu gali pripažinti tik teismas įstatymo nustatyta tvarka."
+  },
+  {
+    "id": 54,
+    "category": "Egzaminų klausimai",
+    "question": "Kurie iš šių priskiriami antriniams ES teisės šaltiniams?",
+    "options": [
+      "Direktyvos, reglamentai, sprendimai",
+      "Tik Konstitucijos",
+      "Tik tarptautinės sutartys",
+      "Papročiai ir precedentai"
+    ],
+    "correct": 0,
+    "explanation": "Antriniams ES teisės šaltiniams priskiriamos direktyvos, reglamentai ir sprendimai."
+  },
+  {
+    "id": 55,
+    "category": "Egzaminų klausimai",
+    "question": "Kada galima atleisti asmenį nuo baudžiamosios atsakomybės kaltininkui ir nukentėjusiajam susitaikius?",
+    "options": [
+      "Tik padarius baudžiamąjį nusižengimą ar neatsargų, nesunkų ar apysunkį tyčinį nusikaltimą",
+      "Bet kokio nusikaltimo atveju",
+      "Tik labai sunkaus nusikaltimo atveju",
+      "Tik jei asmuo anksčiau buvo teistas"
+    ],
+    "correct": 0,
+    "explanation": "Susitaikymo pagrindu atleidžiama tik įstatyme numatytais lengvesnių veikų atvejais."
+  },
+  {
+    "id": 56,
+    "category": "Egzaminų klausimai",
+    "question": "Kurie yra civilinio atstovavimo atsiradimo pagrindai?",
+    "options": [
+      "Sandoris, įstatymas, teismo sprendimas, administracinis aktas",
+      "Tik sandoris ir įstatymas",
+      "Tik teismo sprendimas",
+      "Tik administracinis aktas"
+    ],
+    "correct": 0,
+    "explanation": "Civilinis atstovavimas gali atsirasti sandorio, įstatymo, teismo sprendimo ar administracinio akto pagrindu."
+  },
+  {
+    "id": 57,
+    "category": "Egzaminų klausimai",
+    "question": "Kaip skirstomi teisės mokslai?",
+    "options": [
+      "Į bendruosius teorinius ir šakinius",
+      "Tik į istorinius",
+      "Tik į praktinius",
+      "Į viešuosius ir privačius"
+    ],
+    "correct": 0,
+    "explanation": "Teisės mokslai skirstomi į bendruosius teorinius ir šakinius."
+  },
+  {
+    "id": 58,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių teiginių geriausiai apibūdina teisės mokslų skirstymą?",
+    "options": [
+      "Į bendruosius teorinius ir šakinius",
+      "Į viešuosius ir privačius",
+      "Į materialinius ir procesinius",
+      "Į nacionalinius ir tarptautinius"
+    ],
+    "correct": 0,
+    "explanation": "Teisės mokslai skirstomi į bendruosius teorinius ir šakinius."
+  },
+  {
+    "id": 59,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių reikalavimų taikomas kandidatui į Respublikos Prezidentus?",
+    "options": [
+      "Ne mažiau kaip 40 metų ir Lietuvos pilietis pagal kilmę",
+      "Ne mažiau kaip 35 metų ir gyvenęs Lietuvoje 5 metus",
+      "Ne mažiau kaip 50 metų ir turintis teisinį išsilavinimą",
+      "Ne mažiau kaip 30 metų ir turintis politinę patirtį"
+    ],
+    "correct": 0,
+    "explanation": "Prezidentu gali būti ne jaunesnis kaip 40 metų Lietuvos pilietis pagal kilmę."
+  },
+  {
+    "id": 60,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių teiginių teisingai apibūdina romėnų teisės sistemą?",
+    "options": [
+      "Ji apėmė tokias dalis kaip ius civile, ius gentium ir ius publicum",
+      "Ji buvo sudaryta tik iš baudžiamosios teisės normų",
+      "Ji reguliavo tik prekybos santykius",
+      "Ji galiojo tik imperatoriui"
+    ],
+    "correct": 0,
+    "explanation": "Romėnų teisės sistema apėmė kelias dalis, įskaitant ius civile ir ius gentium."
+  },
+  {
+    "id": 61,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri buvo seniausia civilinio proceso forma Romoje?",
+    "options": [
+      "Legisakcioninis procesas",
+      "Formuliarinis procesas",
+      "Extraordinarinis procesas",
+      "Administracinis procesas"
+    ],
+    "correct": 0,
+    "explanation": "Seniausia forma buvo legisakcioninis procesas."
+  },
+  {
+    "id": 62,
+    "category": "Egzaminų klausimai",
+    "question": "Kaip gali būti rašoma dokumento data?",
+    "options": [
+      "Arabiškais skaitmenimis arba mišriuoju būdu",
+      "Tik romėniškais skaitmenimis",
+      "Tik žodžiais",
+      "Tik skaičiais be formato"
+    ],
+    "correct": 0,
+    "explanation": "Data gali būti rašoma tiek skaitmenimis, tiek mišria forma."
+  },
+  {
+    "id": 63,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių teiginių geriausiai apibūdina juridinio asmens pirminius požymius?",
+    "options": [
+      "Organizacinis vientisumas ir civilinis teisnumas",
+      "Tik registracijos adresas",
+      "Tik pelno siekimas",
+      "Tik vadovo paskyrimas"
+    ],
+    "correct": 0,
+    "explanation": "Pirminiai požymiai apima organizacinį vientisumą ir teisnumą."
+  },
+  {
+    "id": 64,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris teismas nagrinėja apeliacijas dėl apylinkės teismo sprendimų?",
+    "options": [
+      "Apygardos teismas",
+      "Aukščiausiasis Teismas",
+      "Konstitucinis Teismas",
+      "Administracinis teismas"
+    ],
+    "correct": 0,
+    "explanation": "Apeliacine tvarka bylas nagrinėja apygardos teismas."
+  },
+  {
+    "id": 65,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių apibūdina civilinio proceso teisės reguliavimo ribas?",
+    "options": [
+      "Ji nereglamentuoja mokestinių ginčų nagrinėjimo tvarkos",
+      "Ji reglamentuoja visus viešuosius santykius",
+      "Ji taikoma tik baudžiamosiose bylose",
+      "Ji reguliuoja tik administracinius ginčus"
+    ],
+    "correct": 0,
+    "explanation": "Mokestiniai ginčai nepatenka į civilinio proceso teisės sritį."
+  },
+  {
+    "id": 66,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš EŽTT peticijos nepriėmimo pagrindų?",
+    "options": [
+      "Neišnaudotos vidaus teisinės gynybos priemonės",
+      "Pateikta advokato",
+      "Pateikta raštu",
+      "Pateikta elektroniniu būdu"
+    ],
+    "correct": 0,
+    "explanation": "EŽTT reikalauja išnaudoti nacionalines gynybos priemones."
+  },
+  {
+    "id": 67,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių apibūdina advokato padėjėjo galimybes būti gynėju?",
+    "options": [
+      "Negali būti gynėju nagrinėjant sunkias ir labai sunkias bylas",
+      "Gali būti gynėju visais atvejais",
+      "Gali būti tik civilinėse bylose",
+      "Gali būti tik administracinėse bylose"
+    ],
+    "correct": 0,
+    "explanation": "Advokato padėjėjas negali būti gynėju sunkiose baudžiamosiose bylose."
+  },
+  {
+    "id": 68,
+    "category": "Egzaminų klausimai",
+    "question": "Kas skiria prokurorą į pareigas?",
+    "options": [
+      "Generalinis prokuroras",
+      "Seimas",
+      "Prezidentas",
+      "Teismas"
+    ],
+    "correct": 0,
+    "explanation": "Prokurorus skiria generalinis prokuroras."
+  },
+  {
+    "id": 69,
+    "category": "Egzaminų klausimai",
+    "question": "Kas vadovauja Specialiųjų tyrimų tarnybai?",
+    "options": [
+      "Direktorius",
+      "Ministras",
+      "Prezidentas",
+      "Prokuroras"
+    ],
+    "correct": 0,
+    "explanation": "STT vadovauja direktorius."
+  },
+  {
+    "id": 70,
+    "category": "Egzaminų klausimai",
+    "question": "Kaip pagal Konstituciją apibūdinamas teisėjų nepriklausomumas?",
+    "options": [
+      "Teisėjai vykdydami teisingumą yra nepriklausomi",
+      "Teisėjai pavaldūs Vyriausybei",
+      "Teisėjai pavaldūs Seimui",
+      "Teisėjai pavaldūs Prezidentui"
+    ],
+    "correct": 0,
+    "explanation": "Konstitucija nustato teisėjų nepriklausomumą."
+  },
+  {
+    "id": 71,
+    "category": "Egzaminų klausimai",
+    "question": "Kada Seimas laikomas išrinktu?",
+    "options": [
+      "Kai išrinkta ne mažiau kaip 3/5 narių",
+      "Kai išrinkta pusė narių",
+      "Kai patvirtina Prezidentas",
+      "Kai pradeda dirbti"
+    ],
+    "correct": 0,
+    "explanation": "Seimas laikomas išrinktu, kai išrinkta ne mažiau kaip 3/5 narių."
+  },
+  {
+    "id": 72,
+    "category": "Egzaminų klausimai",
+    "question": "Kada galima pareikšti nušalinimą teisme po įrodymų tyrimo pradžios?",
+    "options": [
+      "Tik jei apie pagrindą sužinota vėliau",
+      "Visais atvejais",
+      "Niekada",
+      "Tik su teisėjo leidimu"
+    ],
+    "correct": 0,
+    "explanation": "Vėliau leidžiama tik jei pagrindas paaiškėjo vėliau."
+  },
+  {
+    "id": 73,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš ES ramsčių?",
+    "options": [
+      "Bendra užsienio ir saugumo politika",
+      "Tik ekonomika",
+      "Tik teisėkūra",
+      "Tik socialinė politika"
+    ],
+    "correct": 0,
+    "explanation": "Vienas iš ramsčių – bendra užsienio ir saugumo politika."
+  },
+  {
+    "id": 74,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri institucija priklauso centriniam vykdomosios valdžios lygmeniui?",
+    "options": [
+      "Ministerijos",
+      "Savivaldybės",
+      "Teismai",
+      "Prokuratūra"
+    ],
+    "correct": 0,
+    "explanation": "Centrinį lygmenį sudaro ministerijos ir vyriausybės įstaigos."
+  },
+  {
+    "id": 75,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris terminas taikomas ikiteisminiam tyrimui dėl baudžiamojo nusižengimo?",
+    "options": [
+      "Iki 3 mėnesių",
+      "Iki 6 mėnesių",
+      "Iki 9 mėnesių",
+      "Iki 12 mėnesių"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamojo nusižengimo tyrimo terminas – iki 3 mėnesių."
+  },
+  {
+    "id": 76,
+    "category": "Egzaminų klausimai",
+    "question": "Koks ikiteisminio tyrimo terminas taikomas sunkiems nusikaltimams?",
+    "options": [
+      "Iki 9 mėnesių",
+      "Iki 3 mėnesių",
+      "Iki 6 mėnesių",
+      "Iki 1 mėnesio"
+    ],
+    "correct": 0,
+    "explanation": "Sunkiems ir labai sunkiems nusikaltimams taikomas iki 9 mėnesių terminas."
+  },
+  {
+    "id": 77,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių NĖRA ikiteisminio tyrimo subjektas?",
+    "options": [
+      "Teisėjas nagrinėjantis bylą pirmąja instancija",
+      "Ikiteisminio tyrimo pareigūnas",
+      "Prokuroras",
+      "Ikiteisminio tyrimo teisėjas"
+    ],
+    "correct": 0,
+    "explanation": "Bylą nagrinėjantis teisėjas nėra ikiteisminio tyrimo subjektas."
+  },
+  {
+    "id": 78,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių gali būti laikomas suėmimo skyrimo pagrindu?",
+    "options": [
+      "Rizika, kad įtariamasis trukdys procesui",
+      "Darbo ginčas",
+      "Civilinė atsakomybė",
+      "Administracinė nuobauda"
+    ],
+    "correct": 0,
+    "explanation": "Suėmimas gali būti skiriamas siekiant užtikrinti proceso eigą."
+  },
+  {
+    "id": 79,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių teiginių apie parodymų patikrinimą yra teisingas?",
+    "options": [
+      "Tai gali būti atliekama vietoje arba eksperimento būdu",
+      "Tai atliekama tik teisme",
+      "Tai atliekama tik liudytojams",
+      "Tai nėra procesinis veiksmas"
+    ],
+    "correct": 0,
+    "explanation": "Parodymai gali būti tikrinami įvairiais procesiniais būdais."
+  },
+  {
+    "id": 80,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš būtino gynėjo dalyvavimo pagrindų?",
+    "options": [
+      "Įtariamasis nemoka proceso kalbos",
+      "Įtariamasis turi advokatą",
+      "Įtariamasis sutinka duoti parodymus",
+      "Įtariamasis yra liudytojas"
+    ],
+    "correct": 0,
+    "explanation": "Gynėjas būtinas, jei asmuo nemoka proceso kalbos."
+  },
+  {
+    "id": 81,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri iš šių nėra administracinė nuobauda?",
+    "options": [
+      "Laisvės atėmimas",
+      "Bauda",
+      "Įspėjimas",
+      "Viešieji darbai"
+    ],
+    "correct": 0,
+    "explanation": "Laisvės atėmimas yra baudžiamoji, o ne administracinė sankcija."
+  },
+  {
+    "id": 82,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių teiginių apie administracinę atsakomybę yra teisingas?",
+    "options": [
+      "Taikoma tik fiziniams asmenims",
+      "Taikoma tik juridiniams asmenims",
+      "Taikoma visiems be išimties",
+      "Taikoma tik valstybės institucijoms"
+    ],
+    "correct": 0,
+    "explanation": "Pagal ANK atsako fiziniai asmenys."
+  },
+  {
+    "id": 83,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra teisingas teiginys apie dokumento datą?",
+    "options": [
+      "Gali būti rašoma skaitmenimis arba mišriu būdu",
+      "Rašoma tik žodžiais",
+      "Rašoma tik romėniškais skaitmenimis",
+      "Rašoma tik ranka"
+    ],
+    "correct": 0,
+    "explanation": "Leidžiama naudoti skaitmeninę arba mišrią formą."
+  },
+  {
+    "id": 84,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš EŽTT peticijos atmetimo pagrindų?",
+    "options": [
+      "Peticija anoniminė",
+      "Peticija pagrįsta",
+      "Peticija pateikta laiku",
+      "Peticija pateikta advokato"
+    ],
+    "correct": 0,
+    "explanation": "Anoniminės peticijos nėra nagrinėjamos."
+  },
+  {
+    "id": 85,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš baudžiamąją atsakomybę šalinančių pagrindų?",
+    "options": [
+      "Būtinasis reikalingumas",
+      "Neatsargumas",
+      "Kaltė",
+      "Aplaidumas"
+    ],
+    "correct": 0,
+    "explanation": "Būtinasis reikalingumas šalina baudžiamąją atsakomybę."
+  },
+  {
+    "id": 86,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš vagystės kvalifikuojančių požymių?",
+    "options": [
+      "Vagystė įsibrovus į patalpą",
+      "Darbo ginčas",
+      "Sutarties pažeidimas",
+      "Administracinė klaida"
+    ],
+    "correct": 0,
+    "explanation": "Įsibrovimas yra kvalifikuojantis vagystės požymis."
+  },
+  {
+    "id": 87,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių apibūdina teisės normos dispoziciją?",
+    "options": [
+      "Leidžiamo ir privalomo elgesio taisyklės",
+      "Baudos dydis",
+      "Teismo sprendimas",
+      "Įrodymų vertinimas"
+    ],
+    "correct": 0,
+    "explanation": "Dispozicija apibrėžia elgesio taisykles."
+  },
+  {
+    "id": 88,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš ES ramsčių?",
+    "options": [
+      "Teisingumas ir vidaus reikalai",
+      "Tik ekonomika",
+      "Tik prekyba",
+      "Tik teisėkūra"
+    ],
+    "correct": 0,
+    "explanation": "Vienas iš ramsčių – teisingumas ir vidaus reikalai."
+  },
+  {
+    "id": 89,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri iš šių bausmių gali būti skiriama už nusikaltimą?",
+    "options": [
+      "Laisvės apribojimas",
+      "Įspėjimas",
+      "Drausminė nuobauda",
+      "Pastaba"
+    ],
+    "correct": 0,
+    "explanation": "Laisvės apribojimas yra viena iš BK numatytų bausmių."
+  },
+  {
+    "id": 90,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra vienas iš civilinio atstovavimo pagrindų?",
+    "options": [
+      "Teismo sprendimas",
+      "Tik sutartis",
+      "Tik įstatymas",
+      "Tik įsakymas"
+    ],
+    "correct": 0,
+    "explanation": "Atstovavimas gali atsirasti ir teismo sprendimo pagrindu."
+  },
+  {
+    "id": 91,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių yra teisingas teiginys apie būsto nuomą?",
+    "options": [
+      "Objektas turi būti tinkamas gyventi",
+      "Gali būti bet koks pastatas",
+      "Gali būti tik komercinės patalpos",
+      "Gali būti tik žemė"
+    ],
+    "correct": 0,
+    "explanation": "Nuomos objektas turi būti tinkamas gyventi."
+  },
+  {
+    "id": 92,
+    "category": "Egzaminų klausimai",
+    "question": "Kuri institucija priklauso vykdomosios valdžios centriniam lygmeniui?",
+    "options": [
+      "Vyriausybės įstaigos",
+      "Teismai",
+      "Savivaldybės",
+      "Seimas"
+    ],
+    "correct": 0,
+    "explanation": "Vyriausybės įstaigos priklauso centriniam vykdomosios valdžios lygiui."
+  },
+  {
+    "id": 93,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių teiginių apie teismo posėdžio įrašą yra teisingas?",
+    "options": [
+      "Nepavykus įrašyti, procesas gali būti pakartotas",
+      "Byla nutraukiama",
+      "Sprendimas negalioja",
+      "Teismas ignoruoja situaciją"
+    ],
+    "correct": 0,
+    "explanation": "Tokiu atveju gali būti pakartojamas procesinis veiksmas."
+  },
+  {
+    "id": 94,
+    "category": "Egzaminų klausimai",
+    "question": "Kuris iš šių geriausiai apibūdina kriminalistikos techniką?",
+    "options": [
+      "Techninių priemonių ir metodų sistema nusikaltimams tirti",
+      "Tik teismo procesas",
+      "Tik baudžiamoji teisė",
+      "Tik ekspertų apklausa"
+    ],
+    "correct": 0,
+    "explanation": "Kriminalistikos technika apima priemones ir metodus tyrimui."
+  }
+]
