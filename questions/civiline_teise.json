@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "category": "Civilinė teisė",
+    "question": "Kokios yra civilinės atsakomybės sąlygos?",
+    "options": [
+      "Žala, kaltė, neteisėtas (ne)veikimas, sankcija.",
+      "Žala, priežastinis ryšys, kaltė, neteisėtas ne(veikimas).",
+      "Žala, priežastinis ryšys, kaltė, sankcija.",
+      "Neteisėtas (ne)veikimas, turtinė žala, priežastinis ryšys, tyčia."
+    ],
+    "correct": 1,
+    "explanation": "Civilinės atsakomybės sąlygos yra keturios: žala, priežastinis ryšys, kaltė ir neteisėtas ne(veikimas)."
+  },
+  {
+    "id": 2,
+    "category": "Civilinė teisė",
+    "question": "Iš Jadvygos kiemo dingo žoliapjovė, todėl ji iškvietė policiją. Filmuojant laidos 'Farai' operatoriui, Jadvyga nurodė, kad žoliapjovę pavogė kaimynas Petras. Petras netrukus mirė. Petro žmona pateikė ieškinį teismui dėl neturtinės žalos atlyginimo. Atsakovė prašo ieškinį atmesti, kadangi asmens, kurio garbė pažeminta, jau nėra. Koks teismo sprendimas būtų teisėtas?",
+    "options": [
+      "Ieškinys turi būti paliktas nenagrinėtas, kadangi nėra realiai tiesiogiai patyrusio žalą asmens.",
+      "Ieškinys atmestinas, kadangi šiuo atveju garbė ir orumas galimi būti pažeminti mirusio asmens, bet ne ieškoves.",
+      "Kadangi ieškove yra mirusiojo Petro žmona, ji gali teikti ieškinį teismui dėl neturtinės žalos atlyginimo, įrodant atsakovės atsakomybės sąlygas.",
+      "Jadvygos ieškinys gali būti tenkintas tik iš dalies, kadangi žalos dydis turi būti sumažintas dėl mirusiojo provokuojančio elgesio."
+    ],
+    "correct": 2,
+    "explanation": "CK 2.24 str. numato, kad sutuoktiniai, tėvai ir vaikai turi teisę reikalauti žalos atlyginimo dėl tikrovės neatitinkančių duomenų apie mirusįjį paskelbimo."
+  },
+  {
+    "id": 3,
+    "category": "Civilinė teisė",
+    "question": "Kas yra solidarioji atsakomybė?",
+    "options": [
+      "Solidariosios atsakomybės atveju skolininkai atsako lygiomis dalimis.",
+      "Solidariosios atsakomybės formos nėra.",
+      "Solidariosios atsakomybės atveju keliems kreditoriams skolininkas atsako dalimis.",
+      "Solidariosios atsakomybės atveju vienas pagrindinis skolininkas privalo įvykdyti įsipareigojimą, o kitas – likusioje dalyje."
+    ],
+    "correct": 0,
+    "explanation": "CK 6.6 str.: solidariosios atsakomybės atveju skolininkai atsako lygiomis dalimis, tačiau kreditorius turi teisę reikalauti prievolės įvykdymo iš visų ar bet kurio skolininko skyrium, tiek iš dalies, tiek visiškai."
+  },
+  {
+    "id": 4,
+    "category": "Civilinė teisė",
+    "question": "Kokie yra prievolės elementai?",
+    "options": [
+      "Dalykas ir sankcija.",
+      "Dalykas ir turinys.",
+      "Šalys, dalykas ir turinys.",
+      "Kreditorius ir skolininkas."
+    ],
+    "correct": 2,
+    "explanation": "Prievolės elementai yra trys: šalys (kreditorius ir skolininkas), dalykas (pagrindas) ir turinys."
+  },
+  {
+    "id": 5,
+    "category": "Civilinė teisė",
+    "question": "Irmantas iš Žilvino įsigijo meškerę už 500 EUR. Žilvinas žodžiu suteikė garantiją 12 mėnesių. Po pusmečio meškerė sugedo. Ar Irmantas gali remtis žodine garantija ir reikalauti iš Žilvino, kad jis pakeistų prekę?",
+    "options": [
+      "Taip, nes meškerė sugedo garantiniu laikotarpiu.",
+      "Ne, nes garantija gali būti tik rašytinės formos ir šio reikalavimo nesilaikymas garantiją daro negaliojančią.",
+      "Ne, nes garantija yra dvišalis sandoris.",
+      "Taip, nes pardavėjas konkliudentiniais veiksmais, tai yra žodžiu, suteikė prekei garantiją."
+    ],
+    "correct": 1,
+    "explanation": "CK 6.90 str. 1 d. numato, kad garantija turi būti rašytinės formos, o šio reikalavimo nesilaikymas garantiją daro negaliojančią."
+  },
+  {
+    "id": 6,
+    "category": "Civilinė teisė",
+    "question": "Pasirinkite teisingą atsakymą apie fizinio asmens teisnumą:",
+    "options": [
+      "Dalinis teisnumas atsiranda asmeniui sulaukus 14 metų.",
+      "Asmuo tampa teisniu nuo gimimo momento.",
+      "Asmuo visiškai teisniu tampa sulaukęs 18 metų.",
+      "Teisnumas baigiasi, kai asmuo tampa neveiksniu teismo sprendimu."
+    ],
+    "correct": 1,
+    "explanation": "CK 2.2 str. 1 d.: fizinio asmens civilinis teisnumas atsiranda asmens gimimo momentu ir išnyksta jam mirus."
+  },
+  {
+    "id": 7,
+    "category": "Civilinė teisė",
+    "question": "Jonas bankui įkeitė butą, nes iš pastarojo gavo paskolą. Jonas gali toliau naudotis butu, tik negali jo be banko sutikimo parduoti. Kaip vadinamas nekilnojamojo turto įkeitimas?",
+    "options": [
+      "Garantija, nes Jonas įkeisdamas butą garantuoja, kad prievolę įvykdys.",
+      "Hipoteka, kadangi Jonas gali naudotis savo butu, tik negali jo be banko sutikimo parduoti.",
+      "Būsto įkeitimas visais atvejais nėra galimas.",
+      "Areštas, kadangi turtas yra sulaikytas banko."
+    ],
+    "correct": 1,
+    "explanation": "CK 4.170 str. 1 d.: hipoteka yra daiktinė teisė į svetimą nekilnojamąjį daiktą, kuria užtikrinamas prievolės įvykdymas, kai įkeistas turtas neperduodamas kreditoriui."
+  },
+  {
+    "id": 8,
+    "category": "Civilinė teisė",
+    "question": "Kuris laisvės principo teiginys yra NETEISINGAS?",
+    "options": [
+      "Sutarties laisvė, tai asmens laisvos valios išraiška derėtis dėl sutarties sąlygų.",
+      "Laisvės principas civiliniuose sutartiniuose santykiuose yra absoliutus ir nevaržomas.",
+      "Laisvės principas gali būti ribojamas išimtiniais atvejais.",
+      "Sutarties laisvė, tai asmens laisvos valios išraiška spręsti sudaryti sutartį ar ne."
+    ],
+    "correct": 1,
+    "explanation": "Sutarties laisvės principas nėra absoliutus – ribojama: negalima susitarti dėl to, kas prieštarauja viešajai tvarkai ar gerai moralei."
+  },
+  {
+    "id": 9,
+    "category": "Civilinė teisė",
+    "question": "Kas yra force majeure?",
+    "options": [
+      "Aplinkybė, kuri nebuvo žinoma iki sutarties sudarymo ar kuri atsirado po sutarties sudarymo ir dėl kurios sutarties negalima vykdyti (potvynis, gaisras).",
+      "Sutarties nutraukimas esant priešingos šalies spaudimui.",
+      "Sutarties sąlyga, numatanti sankcijas dėl sutarties nevykdymo.",
+      "Aplinkybė, kai skolininkas tyčia nevykdo sutarties siekdamas padidinti savo pelną."
+    ],
+    "correct": 0,
+    "explanation": "CK 6.212 str. 1 d.: nenugalima jėga (force majeure) – aplinkybė, kurios šalis negalėjo kontroliuoti ir protingai numatyti bei kurios negalėjo užkirsti kelio."
+  },
+  {
+    "id": 10,
+    "category": "Civilinė teisė",
+    "question": "Kokie yra sutarčių vykdymo principai?",
+    "options": [
+      "Šalys privalo vykdyti sutartį tinkamai ir sąžiningai; bendradarbiavimas ir kooperavimasis nėra sutarties vykdymo principai.",
+      "Šalys privalo vykdyti sutartį sąžiningai ir tinkamai, bei bendradarbiauti ir kooperuotis.",
+      "Lietuvos Respublikos Civilinis kodeksas jokių sutarčių vykdymo principų nenustato.",
+      "Šalys privalo vykdant sutartį bendradarbiauti ir kooperuotis, o ar sutartis vykdoma tinkamai turi konstatuoti teismas."
+    ],
+    "correct": 1,
+    "explanation": "CK 6.38 str. 1 d. ir 6.256 str. 1 d.: šalys privalo vykdyti sutartį sąžiningai, tinkamai, bendradarbiauti ir kooperuotis."
+  },
+  {
+    "id": 11,
+    "category": "Civilinė teisė",
+    "question": "Kas yra neturtinė žala?",
+    "options": [
+      "Neturtinė žala yra asmens fizinis skausmas, dvasiniai išgyvenimai, nepatogumai, dvasinis sukrėtimas, emocinė depresija, pažeminimas, reputacijos pablogėjimas, bendravimo galimybių sumažėjimas ir kita, teismo įvertinti pinigais.",
+      "Neturtinė žala yra asmens fizinis skausmas, dvasiniai išgyvenimai, nepatogumai, dvasinis sukrėtimas, emocinė depresija, pažeminimas, reputacijos pablogėjimas, bendravimo galimybių sumažėjimas ir kita, teismo įvertinti daiktais.",
+      "Tiesioginė žala aplinkai (gamtai, gyvūnijai).",
+      "Neturtinė žala atsiranda tik turtinės žalos pasekmėje ir negali būti priteisiama savarankiškai."
+    ],
+    "correct": 0,
+    "explanation": "CK 6.250 str. 1 d. apibrėžia neturtinę žalą kaip asmens fizinį skausmą, dvasinius išgyvenimus, nepatogumus ir kt., teismo įvertintus pinigais."
+  },
+  {
+    "id": 12,
+    "category": "Civilinė teisė",
+    "question": "Kas yra civilinės teisės subjektai?",
+    "options": [
+      "Visi civilinėje apyvartoje esantys daiktai (tiek kilnojamieji, tiek nekilnojamieji).",
+      "Tiek materialus (fizinis), tiek nematerialus turtas (intelektinės veiklos rezultatas).",
+      "Fiziniai, juridiniai asmenys, įskaitant turtą (tiek materialus, tiek nematerialus).",
+      "Fiziniai, juridiniai asmenys sutartiniuose teisiniuose santykiuose."
+    ],
+    "correct": 3,
+    "explanation": "Civilinės teisės subjektai yra tiek fiziniai, tiek juridiniai asmenys, kurie dalyvauja tam tikrame civiliniame santykyje (vykdo sutartis, teikia paslaugas)."
+  },
+  {
+    "id": 14,
+    "category": "Civilinė teisė",
+    "question": "Kas yra hipoteka?",
+    "options": [
+      "Turto pardavimas.",
+      "Turto perdavimas antstoliui.",
+      "Hipotekos sampratos civiliniame procese nėra.",
+      "Turto įkeitimas."
+    ],
+    "correct": 3,
+    "explanation": "CK 4.170 str. 1 d.: hipoteka – daiktinė teisė į svetimą nekilnojamąjį daiktą, kuria užtikrinamas turtinės prievolės įvykdymas, kai įkeistas turtas neperduodamas kreditoriui."
+  },
+  {
+    "id": 15,
+    "category": "Civilinė teisė",
+    "question": "Netesybos gali būti užtikrintos:",
+    "options": [
+      "Pinigais, prievolės procentu.",
+      "Pinigais arba daiktais.",
+      "Daiktais arba prievolės procentu.",
+      "Tik teismo sprendimu nustatyta pinigų suma."
+    ],
+    "correct": 0,
+    "explanation": "Netesybų nustatymo būdai – konkreti pinigų suma arba užtikrinamosios prievolės sumos procentas."
+  },
+  {
+    "id": 16,
+    "category": "Civilinė teisė",
+    "question": "Jonas ir Emilė yra septyniolikmečio Jono tėvai. Jie nusprendė kreiptis į teismą su pareiškimu dėl nepilnamečio vaiko pripažinimo visiškai veiksniu, kadangi jis gyvena pas senelius ir yra visiškai savarankiškas. Kaip šį procesą vadiname?",
+    "options": [
+      "Emancipacija.",
+      "Toks procesas apskritai negali būti pradėtas, todėl teisingo atsakymo nėra.",
+      "Adoracija.",
+      "Rezignacija."
+    ],
+    "correct": 0,
+    "explanation": "CK 2.9 str.: nepilnamečių pripažinimas visiškai veiksniais teismo tvarka yra emancipacija."
+  },
+  {
+    "id": 17,
+    "category": "Civilinė teisė",
+    "question": "Kas yra prievolė?",
+    "options": [
+      "Teisinis santykis, kurio viena šalis privalo atlikti kitos šalies naudai veiksmą taip, kad neprieštarautų viešajai tvarkai ir neužtrauktų baudžiamosios atsakomybės.",
+      "Santykis, kuomet nėra nei teisių nei pareigų, tačiau gali atsirasti deliktas netinkamai vykdant sutartį.",
+      "Teisinis santykis, kurio viena šalis (skolininkas) privalo atlikti kitos šalies (kreditoriaus) naudai tam tikrą veiksmą arba susilaikyti nuo jo, o kreditorius turi teisę reikalauti, kad skolininkas įvykdytų savo pareigą.",
+      "Administracinis aktas, kuriuo valdžios institucija įpareigoja asmenį atlikti tam tikrą veiksmą."
+    ],
+    "correct": 2,
+    "explanation": "CK 6.1 str.: prievolė – teisinis santykis, kurio skolininkas privalo atlikti kreditoriaus naudai tam tikrą veiksmą arba susilaikyti nuo jo, o kreditorius turi teisę to reikalauti."
+  },
+  {
+    "id": 18,
+    "category": "Civilinė teisė",
+    "question": "Tomas tvarkydamas garažą rado prieš 30 metų senelio paliktų 10 kovinių granatų ir kulkosvaidžio šovinių. Tomas nusprendė juos parduoti turguje. Ar galimas toks Tomo veiksmas?",
+    "options": [
+      "Nėra teisingo atsakymo.",
+      "Taip, tik Tomas turi gauti ekspertizės išvadą dėl jų kokybės.",
+      "Ne, nes kovinės granatos ir kulkosvaidžio šoviniai negali būti civilinės prekybos objektais.",
+      "Taip, tik Tomas turi įsitikinti parduodamų daiktų kokybe."
+    ],
+    "correct": 2,
+    "explanation": "CK 1.93 str.: daiktai, išimti iš civilinės apyvartos, negali būti civilinių sandorių dalyku – koviniai ginklai ir šaudmenys priklauso tokiems daiktams."
+  },
+  {
+    "id": 19,
+    "category": "Civilinė teisė",
+    "question": "Kas yra deliktinė atsakomybė?",
+    "options": [
+      "Deliktinė atsakomybė yra neturtinė prievolė, kuri atsiranda iš sutartinių santykių.",
+      "Deliktinė atsakomybė yra papildomi įsipareigojimai skolininkui.",
+      "Deliktinės atsakomybės sampratos civiliniame procese nėra.",
+      "Deliktinė civilinė atsakomybė yra turtinė prievolė, kuri atsiranda padarius žalą, kai jos šalių iki žalos padarymo nesiejо sutartiniai santykiai."
+    ],
+    "correct": 3,
+    "explanation": "CK 6.245 str. 4 d.: deliktinė civilinė atsakomybė – turtinė prievolė, atsirandanti dėl žalos padarymo, kai šalių iki žalos padarymo nesiejо sutartiniai santykiai."
+  },
+  {
+    "id": 20,
+    "category": "Civilinė teisė",
+    "question": "Jonas važiuodamas elektriniu paspirtuku netyčia užkliudė Kristiną, kuri susižalojo plaštaką ir sulūžo jos iPhone. Dėl sužalojimų Kristina 2 mėnesius negalėjo dirbti. Ji prašo priteisti 1200 EUR materialinę žalą (telefonas), 560 EUR gydymo išlaidas ir 2200 EUR negautų pajamų. Jonas teigia, kad negautos pajamos nėra faktinė žala. Kas teisus?",
+    "options": [
+      "Jonas teisus, kadangi negautos pajamos negali būti laikomos žala, o tai, kad telefonas buvo apgadintas, turi įrodyti ieškove.",
+      "Jonas teisus iš dalies. Jonas turi atlyginti materialines išlaidas, tačiau neprivalo atlyginti negautų pajamų, kadangi tokia žala nėra konkreti.",
+      "Jonas neteisus. Jonas privalo atlyginti tiek negautas pajamas dėl sveikatos sužalojimo, tiek materialinę žalą turtui.",
+      "Jonas neteisus tik dėl telefono žalos, o negautų pajamų atlyginti neprivaloma, kai avarija įvyko dėl nukentėjusiojo nerūpestingumo."
+    ],
+    "correct": 2,
+    "explanation": "CK 6.249 str.: žala apima asmens turto netekimą ar sužalojimą, turėtas išlaidas ir negautas pajamas, kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų."
+  },
+  {
+    "id": 21,
+    "category": "Civilinė teisė",
+    "question": "Koks yra pagrindinis skirtumas tarp privatinės ir viešosios teisės?",
+    "options": [
+      "Privatinė teisė reglamentuoja valstybės ir piliečių santykius, o viešoji – tik santykius tarp privačių asmenų.",
+      "Privatinė teisė reglamentuoja privačius interesus ir santykius tarp teisiškai lygių asmenų, o viešoji – bendruomenės interesus atstovaujančios valstybės santykius.",
+      "Privatinė ir viešoji teisė yra sinonimai, nes abi reglamentuoja turtinius santykius.",
+      "Privatinė teisė reglamentuoja tik sutartinius, o viešoji – tik deliktinės atsakomybės santykius."
+    ],
+    "correct": 1,
+    "explanation": "Privatinė teisė reglamentuoja privačius interesus – santykius tarp lygių, autonomiškų asmenų, o viešoji – santykius, kuriais atstovaujami bendruomenės interesai (valstybė, savivaldybė)."
+  },
+  {
+    "id": 22,
+    "category": "Civilinė teisė",
+    "question": "Kas yra civilinė apyvarta?",
+    "options": [
+      "Valstybės turto valdymas ir disponavimas juo administracinių aktų pagrindu.",
+      "Atlyginamas arba neatlyginamas turto perėjimas iš vieno teisės subjekto kitam civilinių sandorių pagrindu.",
+      "Tik atlygintinas turto perėjimas tarp komercinių subjektų.",
+      "Bet koks turto judėjimas, įskaitant paveldėjimą ir mokesčių surinkimą."
+    ],
+    "correct": 1,
+    "explanation": "Civilinė apyvarta – tai atlyginamas arba neatlyginamas turto perėjimas iš vieno teisės subjekto kitam civilinių sandorių pagrindu."
+  },
+  {
+    "id": 23,
+    "category": "Civilinė teisė",
+    "question": "Kuris iš šių principų yra įtvirtintas CK 1.2 str. kaip civilinių teisinių santykių principas?",
+    "options": [
+      "Baudžiamosios atsakomybės neišvengiamumo principas.",
+      "Draudimo piktnaudžiauti teise principas.",
+      "Teisminės kontrolės visuotinumo principas.",
+      "Administracinės priežiūros pirmumo principas."
+    ],
+    "correct": 1,
+    "explanation": "CK 1.2 str. įtvirtinti civilinių santykių principai: lygiateisiškumas, nuosavybės neliečiamumas, sutarties laisvė, nesikišimas, teisinis apibrėžtumas, teisėtų lūkesčių principas, draudimas piktnaudžiauti teise ir visokeriopė gynyba."
+  },
+  {
+    "id": 24,
+    "category": "Civilinė teisė",
+    "question": "Nuo kokio amžiaus fizinis asmuo įgyja dalinį civilinį veiksnumą pagal Civilinį kodeksą?",
+    "options": [
+      "Nuo 7 metų.",
+      "Nuo 10 metų.",
+      "Nuo 14 metų.",
+      "Nuo 16 metų."
+    ],
+    "correct": 2,
+    "explanation": "CK 2.5 str.: nepilnamečiai nuo 14 iki 18 metų turi dalinį civilinį veiksnumą ir gali savarankiškai atlikti tam tikrus sandorius."
+  },
+  {
+    "id": 25,
+    "category": "Civilinė teisė",
+    "question": "Kada sandoris gali būti pripažintas negaliojančiu dėl apgaulės pagal CK 1.91 str.?",
+    "options": [
+      "Kai viena šalis netyčia suteikė klaidingą informaciją apie sandorio dalyką.",
+      "Kai viena šalis tyčia klaidingai informavo kitą šalį ar nutylėjo aplinkybes, kurias žinodama kita šalis nebūtų sudariusi sandorio.",
+      "Kai sandoris sudarytas dėl ekonominio spaudimo.",
+      "Kai viena šalis neturėjo pakankamai informacijos apie rinkos kainas sandorio sudarymo metu."
+    ],
+    "correct": 1,
+    "explanation": "CK 1.91 str.: apgaulės pagrindu sandorį galima ginčyti, kai viena šalis tyčia klaidingai informavo kitą arba nutylėjo esmingas aplinkybes, lėmusias sandorio sudarymą."
+  },
+  {
+    "id": 26,
+    "category": "Civilinė teisė",
+    "question": "Ką reiškia dispozityvumo principas civilinėje teisėje pagal CK 1.136 str.?",
+    "options": [
+      "Civilinėje teisėje draudžiama viskas, kas nenumatyta įstatyme.",
+      "Civilinėje teisėje leidžiama viskas, kas neuždrausta.",
+      "Šalys privalo vadovautis tik įstatyme tiesiogiai numatytomis elgesio taisyklėmis.",
+      "Teismas gali spręsti bylas tik remdamasis specialiomis teisės normomis."
+    ],
+    "correct": 1,
+    "explanation": "CK 1.136 str. įtvirtina dispozityvumo principą – civilinių santykių srityje leidžiama viskas, kas neuždrausta; šalys pačios gali nustatyti tarpusavio teises ir pareigas."
+  },
+  {
+    "id": 27,
+    "category": "Civilinė teisė",
+    "question": "Kokią galią turi teisėtai sudaryta ir galiojanti sutartis šalims pagal CK 6.189 str.?",
+    "options": [
+      "Sutartis turi rekomendacinio pobūdžio galią – šalys gali laisvai nuo jos nukrypti.",
+      "Sutartis turi įstatymo galią šalims.",
+      "Sutartis gali būti vykdoma tik gavus teismo patvirtinimą.",
+      "Sutartis įpareigoja šalis tik jei ji patvirtinta notaro."
+    ],
+    "correct": 1,
+    "explanation": "CK 6.189 str.: teisėtai sudaryta ir galiojanti sutartis jos šalims turi įstatymo galią ir įpareigoja atlikti ne tik tai, kas tiesiogiai joje numatyta, bet ir tai, ką lemia sutarties esmė ar įstatymai."
+  },
+  {
+    "id": 28,
+    "category": "Civilinė teisė",
+    "question": "Kaip pagal CK 1.98 str. daiktai klasifikuojami pagal ryšį su žeme?",
+    "options": [
+      "Vartojamuji ir nesuvartojamuji.",
+      "Kilnojamieji ir nekilnojamieji.",
+      "Dalūs ir nedalūs.",
+      "Individualūs ir rūšiniai."
+    ],
+    "correct": 1,
+    "explanation": "CK 1.98 str.: daiktai pagal ryšį su žeme skirstomi į kilnojamuosius ir nekilnojamuosius; nekilnojamieji – žemė ir su ja susiję daiktai (pastatai, statiniai ir kt.)."
+  },
+  {
+    "id": 29,
+    "category": "Civilinė teisė",
+    "question": "Kaip veikia kaltės prezumpcija civilinėje teisėje?",
+    "options": [
+      "Civilinėje teisėje kaltė niekada nepreziumuojama – ją privalo įrodyti nukentėjusioji šalis.",
+      "Civilinėje teisėje kaltė preziumuojama – žalą padariusi šalis laikoma kalta, kol neįrodo priešingai.",
+      "Kaltė preziumuojama tik baudžiamosiose bylose, civilinėse – ne.",
+      "Kaltės prezumpcija taikoma tik sutartinėje, bet ne deliktinėje atsakomybėje."
+    ],
+    "correct": 1,
+    "explanation": "Civilinėje teisėje veikia kaltės prezumpcija – žalos padarytojas laikomas kaltu, kol pats neįrodo, kad veikė nekaltai arba kad žala atsirado dėl nenugalimos jėgos."
+  },
+  {
+    "id": 30,
+    "category": "Civilinė teisė",
+    "question": "Kas pagal CK 1.97 str. yra civilinių teisių objektai?",
+    "options": [
+      "Tik materialūs daiktai (kilnojamieji ir nekilnojamieji).",
+      "Tik turtas ir turtinės teisės.",
+      "Daiktai, pinigai, vertybiniai popieriai, kitas turtas bei turtinės teisės, intelektinės veiklos rezultatai, informacija, veiksmai ir kt.",
+      "Tik tokie daiktai, kurie yra civilinėje apyvartoje ir turi piniginę vertę."
+    ],
+    "correct": 2,
+    "explanation": "CK 1.97 str.: civilinių teisių objektai yra daiktai, pinigai, vertybiniai popieriai, kitas turtas bei turtinės teisės, intelektinės veiklos rezultatai, informacija, veiksmai ir veiksmų rezultatai."
+  },
+  {
+    "id": 31,
+    "category": "Civilinė teisė",
+    "question": "Kokie yra prievolės dalyko reikalavimai pagal CK 6.3 str.?",
+    "options": [
+      "Rašytinė forma, notarinė tvarka ir valstybinė registracija.",
+      "Apibrėžtumas, teisėtumas, įmanomumas ir kreditoriaus interesas.",
+      "Tik teisėtumas ir įmanomumas.",
+      "Šalių sutarimas, rašytinė forma ir lygiateisiškumo principo laikymasis."
+    ],
+    "correct": 1,
+    "explanation": "CK 6.3 str. nustato keturis prievolės dalyko reikalavimus: apibrėžtumą, teisėtumą, įmanomumą (realumą) ir kreditoriaus interesą (tikslingumą)."
+  },
+  {
+    "id": 32,
+    "category": "Civilinė teisė",
+    "question": "Koks yra pagrindinis daiktinės teisės gynybos skirtumas nuo prievolinės teisės gynybos?",
+    "options": [
+      "Daiktinėje teisėje ginami interesai tik baudžiamuoju persekiojimu, prievolinėje – civiliniais ieškiniais.",
+      "Daiktinėje teisėje naudojami vindikacinis ir negatorinis ieškiniai, prievolinėje – nuostolių atlyginimas, netesybos ir prevencinis ieškinys.",
+      "Daiktinės teisės gynybai nereikia kreiptis į teismą, prievolinės – reikia.",
+      "Daiktinėje teisėje galima tik reikalauti žalos atlyginimo, prievolinėje – ir daikto grąžinimo."
+    ],
+    "correct": 1,
+    "explanation": "Daiktinės teisės gynybos pagrindiniai būdai yra vindikacinis (daikto grąžinimas iš svetimo neteisėto valdymo) ir negatorinis (trukdymų pašalinimas) ieškiniai; prievolinėje – nuostolių atlyginimas ir netesybos."
+  },
+  {
+    "id": 33,
+    "category": "Civilinė teisė",
+    "question": "Kada sandoris gali būti pripažintas negaliojančiu dėl esminio suklydimo pagal CK 1.90 str.?",
+    "options": [
+      "Kai suklydimas atsirado dėl sandorio šalies paties nerūpestingumo ar neišmanymo.",
+      "Kai suklydimas buvo esminis ir protingas asmuo tokio sandorio nebūtų sudaręs, jei būtų žinojęs tikrąją padėtį.",
+      "Kai dėl suklydimo atsirado bet kokia žala sandorio šaliai.",
+      "Kai viena šalis tyčia suklaidino kitą šalį dėl sandorio kainos."
+    ],
+    "correct": 1,
+    "explanation": "CK 1.90 str.: sandorį galima ginčyti dėl esminio suklydimo, kai protingas asmuo tokio sandorio nebūtų sudaręs žinodamas tikrąją padėtį, o kita šalis žinojo arba turėjo žinoti apie suklydimą."
+  }
+]

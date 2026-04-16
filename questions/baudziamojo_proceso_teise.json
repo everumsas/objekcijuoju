@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip apibrėžiamas baudžiamasis procesas?",
+    "options": [
+      "Teismo, prokuroro ir ikiteisminio tyrimo pareigūnų įstatymo nustatyta tvarka vykdoma veikla tiriant ir nagrinėjant baudžiamąsias bylas, sudaranti sąlygas naudotis teisėmis visiems proceso subjektams",
+      "Tik teismo veikla nagrinėjant baudžiamąsias bylas ir priimant nuosprendžius",
+      "Tik ikiteisminio tyrimo pareigūnų veikla, kuri baigiasi bylą perduodant prokurorui",
+      "Prokuroro ir gynėjo ginčas teisme dėl kaltinamojo kaltės"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamasis procesas apima teismo, prokuroro ir ikiteisminio tyrimo pareigūnų veiklą tiriant ir nagrinėjant baudžiamąsias bylas bei visų proceso subjektų teisių užtikrinimą."
+  },
+  {
+    "id": 2,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kurios keturios funkcijos vykdomos baudžiamajame procese?",
+    "options": [
+      "Ikiteisminio tyrimo, kaltinimo, gynybos ir bylos nagrinėjimo bei išsprendimo (teisingumo vykdymo)",
+      "Tyrimo, kaltinimo, teisimo ir bausmės vykdymo",
+      "Ikiteisminio tyrimo, kaltinamojo akto surašymo, bylos nagrinėjimo ir apeliacijos",
+      "Kaltinimo, gynybos, liudijimo ir teismo sprendimo priėmimo"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamajame procese vykdomos keturios funkcijos: ikiteisminio tyrimo, kaltinimo, gynybos ir bylos nagrinėjimo bei išsprendimo (teisingumo vykdymo)."
+  },
+  {
+    "id": 3,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuris baudžiamojo proceso tipas būdingas JAV ir Didžiajai Britanijai, kur teismui draudžiama pačiam išreikalauti naujus įrodymus?",
+    "options": [
+      "Klasikinis rungimosi procesas",
+      "Tiriamasis (inkvizicinis) procesas",
+      "Mišrusis procesas",
+      "Administracinis procesas"
+    ],
+    "correct": 0,
+    "explanation": "Klasikinis rungimosi procesas būdingas anglosaksų teisės tradicijos valstybėms – teismui draudžiama pačiam išreikalauti naujus įrodymus, bylos baigtis priklauso nuo šalių turėtų įrodymų."
+  },
+  {
+    "id": 4,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuriame baudžiamojo proceso tipe teismas yra įpareigotas aktyviai siekti materialios tiesos byloje?",
+    "options": [
+      "Tiriamajame (inkviziciniam) procese",
+      "Klasikiniame rungimosi procese",
+      "Mišriajame procese",
+      "Privataus kaltinimo procese"
+    ],
+    "correct": 0,
+    "explanation": "Tiriamajame (inkviziciniam) procese teismas yra įpareigotas būti aktyvus ir imtis visų būtinų priemonių materialiai tiesai byloje nustatyti, todėl čia rungimosi principas veikia mažiausiai."
+  },
+  {
+    "id": 5,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ką reikalauja BPK 1 straipsnyje įtvirtinta baudžiamojo proceso paskirtis?",
+    "options": [
+      "Greitai ir išsamiai atskleisti nusikalstamas veikas, teisingai nubausti kaltą asmenį ir užtikrinti, kad niekas nekaltas nebūtų nuteistas",
+      "Tik greitai perduoti baudžiamąsias bylas nagrinėjimui teisme",
+      "Užtikrinti, kad kiekvienas nusikalstamą veiką padaręs asmuo gautų griežčiausią galimą bausmę",
+      "Apsaugoti visuomenę nuo nusikalstamų veikų prevenciškai sulaikant įtariamuosius"
+    ],
+    "correct": 0,
+    "explanation": "BPK 1 str. numato: greitai ir išsamiai atskleisti nusikalstamas veikas saugant žmogaus teises, teisingai nubausti kaltą ir užtikrinti, kad niekas nekaltas nebūtų nuteistas."
+  },
+  {
+    "id": 6,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokios yra baudžiamojo proceso stadijos pagal 2003 m. gegužės 1 d. įsigaliojusį BPK?",
+    "options": [
+      "Ikiteisminis tyrimas, bylų procesas pirmosios instancijos teisme, apeliacinis procesas, nuosprendžių ir nutarčių vykdymas, kasacinis procesas",
+      "Ikiteisminis tyrimas, kaltinamojo akto surašymas, teisiamasis posėdis, nuosprendžio priėmimas, bausmės vykdymas",
+      "Pranešimas apie nusikaltimą, tyrimas, bylos perdavimas teismui, teisiamasis posėdis, apeliacinis procesas",
+      "Sulaikymas, apklausa, ikiteisminis tyrimas, bylos nagrinėjimas teisme, bausmės vykdymas"
+    ],
+    "correct": 0,
+    "explanation": "Pagal galiojantį BPK skirtinos 5 stadijos: ikiteisminis tyrimas, bylų procesas pirmosios instancijos teisme, apeliacinis procesas, nuosprendžių ir nutarčių vykdymas, kasacinis procesas."
+  },
+  {
+    "id": 7,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip baudžiamojo proceso teisė klasifikuojama teisės sistemoje?",
+    "options": [
+      "Procesinė teisės šaka, priklausanti viešajai teisei",
+      "Materialinė teisės šaka, priklausanti privatinei teisei",
+      "Procesinė teisės šaka, priklausanti privatinei teisei",
+      "Materialinė teisės šaka, priklausanti viešajai teisei"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamojo proceso teisė yra procesinė teisės šaka ir, kaip ir kitos procesinės teisės šakos, priklauso viešajai teisei."
+  },
+  {
+    "id": 8,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuris teiginys teisingai apibūdina Lietuvos Respublikos Konstituciją kaip baudžiamojo proceso teisės šaltinį?",
+    "options": [
+      "Konstitucija yra tiesioginio taikymo aktas – joje įtvirtintais principais ir normomis galima tiesiogiai vadovautis baudžiamajame procese",
+      "Konstitucija taikoma tik per Konstitucinio Teismo nutarimus, ne tiesiogiai",
+      "Konstitucija baudžiamajame procese taikoma tik kai BPK tiesiogiai nurodo",
+      "Konstitucija yra tik rekomendacinio pobūdžio aktas baudžiamojo proceso atžvilgiu"
+    ],
+    "correct": 0,
+    "explanation": "Lietuvos Respublikos Konstitucija yra tiesioginio taikymo aktas, todėl joje įtvirtintais principais ir normomis galima tiesiogiai vadovautis baudžiamajame procese."
+  },
+  {
+    "id": 9,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip sprendžiama kolizija tarp BPK normų ir ratifikuotų tarptautinių sutarčių?",
+    "options": [
+      "Pirmenybė teikiama tarptautinių sutarčių taisyklėms",
+      "Pirmenybė teikiama BPK normoms kaip specialiajam aktui",
+      "Taikoma naujesnė norma, neatsižvelgiant į teisės akto hierarchiją",
+      "Klausimą sprendžia teismas savo nuožiūra kiekvienu konkrečiu atveju"
+    ],
+    "correct": 0,
+    "explanation": "BPK 4 str. 1 d. numato, kad kolizijos atveju pirmenybė teikiama tarptautinėse sutartyse numatytoms taisyklėms prieš BPK normas."
+  },
+  {
+    "id": 10,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kurie EŽTK straipsniai laikomi aktualiausiais baudžiamojo proceso požiūriu?",
+    "options": [
+      "5, 6 ir 8 straipsniai",
+      "1, 2 ir 3 straipsniai",
+      "10, 11 ir 14 straipsniai",
+      "4, 7 ir 13 straipsniai"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamojo proceso požiūriu aktualiausios yra EŽTK 5, 6 ir 8 straipsniuose įtvirtintos nuostatos; visos šių straipsnių garantijos atkartotos BPK 44 straipsnyje."
+  },
+  {
+    "id": 11,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokią teisinę galią turi generalinio prokuroro patvirtinti rekomendaciniai aktai ikiteisminio tyrimo pareigūnams?",
+    "options": [
+      "Jie yra privalomi ikiteisminio tyrimo pareigūnams ir prokurorams",
+      "Jie yra tik rekomendacinio pobūdžio ir gali būti nepaisomi",
+      "Jie privalomi tik prokuratūros darbuotojams, bet ne tyrimo pareigūnams",
+      "Jie privalomi tik kai BPK tiesiogiai nurodo vadovautis tokiais aktais"
+    ],
+    "correct": 0,
+    "explanation": "Prokuratūros įstatymo 16 str. 2 d. numato, kad generalinio prokuroro patvirtintos rekomendacijos ir kiti norminiai aktai yra privalomi prokurorams ir ikiteisminio tyrimo pareigūnams."
+  },
+  {
+    "id": 12,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Iš kiek dalių ir straipsnių sudarytas 2002 m. Baudžiamojo proceso kodeksas?",
+    "options": [
+      "11 dalių, 461 straipsnis",
+      "9 dalių, 382 straipsniai",
+      "12 dalių, 520 straipsnių",
+      "8 dalių, 398 straipsniai"
+    ],
+    "correct": 0,
+    "explanation": "2002 m. kovo 14 d. priimtas ir 2003 m. gegužės 1 d. įsigaliojęs BPK sudaro 11 dalių ir 461 straipsnis."
+  },
+  {
+    "id": 13,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ką reglamentuoja BPK XI dalis 'Baudžiamosios bylos atnaujinimas'?",
+    "options": [
+      "Užbaigto proceso atnaujinimą dėl naujai paaiškėjusių aplinkybių, netinkamo baudžiamojo įstatymo pritaikymo ar EŽTT nustatyto pažeidimo",
+      "Bylos atnaujinimą, kai proceso metu atsirado naujų įrodymų pirmosios instancijos teisme",
+      "Apeliacinio proceso inicijavimą, kai pirmosios instancijos teismas padarė procesinę klaidą",
+      "Kasacinio proceso atnaujinimą prokuroro iniciatyva po nuosprendžio įsiteisėjimo"
+    ],
+    "correct": 0,
+    "explanation": "BPK XI dalis nustato užbaigto proceso atnaujinimo atvejus: naujai paaiškėjusios aplinkybės, netinkamas baudžiamojo įstatymo pritaikymas, EŽTT ar JT žmogaus teisių komiteto nustatytas pažeidimas."
+  },
+  {
+    "id": 14,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Pagal kokį kodeksą vyksta baudžiamasis procesas, kai nusikalstama veika padaryta užsienyje, bet procesas pradedamas Lietuvoje?",
+    "options": [
+      "Pagal Lietuvos BPK, nes procesas vyksta Lietuvos teritorijoje",
+      "Pagal veikos padarymo valstybės baudžiamojo proceso įstatymus",
+      "Pagal teismui palankiausią – Lietuvos ar užsienio valstybės įstatymą",
+      "Pagal Europos Sąjungos nustatytas bendrąsias procesines taisykles"
+    ],
+    "correct": 0,
+    "explanation": "BPK 4 str. 2 d. numato, kad baudžiamasis procesas Lietuvos teritorijoje visais atvejais vyksta pagal Lietuvos BPK, neatsižvelgiant į tai, kur buvo padaryta nusikalstama veika."
+  },
+  {
+    "id": 15,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip taikomas baudžiamojo proceso įstatymas laiko atžvilgiu?",
+    "options": [
+      "Kiekvienas proceso veiksmas atliekamas pagal to veiksmo atlikimo metu galiojančias procesines taisykles",
+      "Visas procesas vyksta pagal proceso pradėjimo metu galiojusį BPK",
+      "Taikomas tik naujasis BPK, net jei proceso veiksmai atlikti pagal ankstesnįjį",
+      "Taikomas asmeniui palankesnis – ankstesnis ar naujasis BPK"
+    ],
+    "correct": 0,
+    "explanation": "BPK 4 str. 1 d. įtvirtinta, kad proceso tvarką nustato BPK, galiojantis proceso veiksmų atlikimo metu – kiekvienas veiksmas atliekamas pagal tuo metu galiojančias taisykles."
+  },
+  {
+    "id": 16,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip elgiamasi baudžiamajame procese su asmeniu, turinčiu diplomatinį imunitetą?",
+    "options": [
+      "Tokie asmenys negali būti sulaikyti ar suimti; proceso veiksmai atliekami tik jų sutikimu",
+      "Diplomatinis imunitetas netaikomas baudžiamajame procese, jei asmuo įtariamas sunkiu nusikaltimu",
+      "Tokie asmenys gali būti sulaikyti, bet negali būti apklausiami be ambasados atstovo",
+      "Jiems taikomas toks pat procesas, tik reikalingas generalinio prokuroro leidimas"
+    ],
+    "correct": 0,
+    "explanation": "Asmenys, naudojantys diplomatinį imunitetą pagal tarptautinės teisės normas, negali būti sulaikyti ar suimti; proceso veiksmai su jais atliekami tik jų sutikimu arba prašymu."
+  },
+  {
+    "id": 17,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kurie pareigūnai pagal Konstituciją gali būti patraukti baudžiamojon atsakomybėn tik gavus Seimo sutikimą?",
+    "options": [
+      "Seimo nariai, Ministras Pirmininkas, ministrai ir visų pakopų teismų teisėjai",
+      "Tik Seimo nariai ir Respublikos Prezidentas",
+      "Generalinis prokuroras, teisėjai ir Seimo nariai",
+      "Visi valstybės tarnautojai, einantys politinio pasitikėjimo pareigas"
+    ],
+    "correct": 0,
+    "explanation": "Konstitucinį imunitetą turi Seimo nariai, Ministras Pirmininkas, ministrai ir visų pakopų teismai – jie negali būti patraukti baudžiamojon atsakomybėn be Seimo išankstinio sutikimo."
+  },
+  {
+    "id": 18,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokio statuso įgijo teismų precedentai Lietuvoje po Konstitucinio Teismo 2006 m. kovo 28 d. nutarimo?",
+    "options": [
+      "Iš antrinių (rekomendacinių) šaltinių buvo perkelti į pirminius (privalomuosius) teisės šaltinius",
+      "Liko antriniais šaltiniais, tačiau įgijo didesnę praktinę svarbą",
+      "Tapo privalomi tik Aukščiausiajame Teisme nagrinėjamose bylose",
+      "Buvo panaikinti kaip teisės šaltinis ir pakeisti teisės aktų komentarais"
+    ],
+    "correct": 0,
+    "explanation": "Konstitucinio Teismo 2006 m. kovo 28 d. nutarimu teismo precedentas iš antrinių (fakultatyvinių) šaltinių buvo perkeltas į pirminius (privalomuosius) teisės šaltinius."
+  },
+  {
+    "id": 19,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuriame Konstitucijos straipsnyje įtvirtinta nekaltumo prezumpcija?",
+    "options": [
+      "Konstitucijos 31 straipsnio 1 dalyje",
+      "Konstitucijos 29 straipsnio 1 dalyje",
+      "Konstitucijos 109 straipsnio 1 dalyje",
+      "Konstitucijos 117 straipsnio 1 dalyje"
+    ],
+    "correct": 0,
+    "explanation": "Nekaltumo prezumpcija įtvirtinta Konstitucijos 31 str. 1 d.: 'Asmuo laikomas nekaltu, kol jo kaltumas neįrodytas įstatymo nustatyta tvarka ir pripažintas įsiteisėjusiu teismo nuosprendžiu'."
+  },
+  {
+    "id": 20,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kada nekaltumo prezumpcija nustoja galioti?",
+    "options": [
+      "Nuo apkaltinamojo nuosprendžio įsiteisėjimo momento",
+      "Nuo apkaltinamojo nuosprendžio priėmimo pirmosios instancijos teisme",
+      "Nuo kaltinamojo akto surašymo ir bylos perdavimo teismui",
+      "Nuo suėmimo skyrimo kaip kardomosios priemonės"
+    ],
+    "correct": 0,
+    "explanation": "Nekaltumo prezumpcija nustoja galioti nuo apkaltinamojo nuosprendžio įsiteisėjimo momento – ne nuo jo priėmimo, nes tarp šių faktų gali praeiti daug laiko."
+  },
+  {
+    "id": 21,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuriame BPK straipsnyje įtvirtintas proporcingumo principas?",
+    "options": [
+      "BPK 11 straipsnyje",
+      "BPK 6 straipsnyje",
+      "BPK 7 straipsnyje",
+      "BPK 9 straipsnyje"
+    ],
+    "correct": 0,
+    "explanation": "Proporcingumo principas baudžiamajame procese yra įtvirtintas BPK 11 straipsnyje."
+  },
+  {
+    "id": 22,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ką baudžiamojo proceso kontekste reiškia principas 'teisingumą vykdo tik teismas'?",
+    "options": [
+      "Tik teismas gali konstatuoti nusikaltimo faktą, pripažinti kaltinamojo kaltumą ir paskirti bausmę",
+      "Tik teismas gali inicijuoti baudžiamąjį procesą ir skirti ikiteisminio tyrimo tyrėją",
+      "Tik teismas gali nuspręsti dėl kardomosios priemonės skyrimo ikiteisminio tyrimo metu",
+      "Tik teismas gali suteikti imunitetą baudžiamojoje byloje įtariamiems asmenims"
+    ],
+    "correct": 0,
+    "explanation": "Principas reiškia, kad tik teismas gali konstatuoti, ar veika buvo padaryta, pripažinti kaltinamąjį kaltu ir paskirti bausmę – kaltės klausimo sprendimas sudaro teisingumo vykdymo esmę."
+  },
+  {
+    "id": 23,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuriame proceso etape rungimosi principas (BPK 7 str.) veikia labiausiai?",
+    "options": [
+      "Teisminėse proceso stadijose",
+      "Ikiteisminio tyrimo stadijoje",
+      "Vienodai visose proceso stadijose",
+      "Tik apeliacinio ir kasacinio proceso metu"
+    ],
+    "correct": 0,
+    "explanation": "Rungimosi principas pagal BPK 7 str. veikia daugiau teisminėse proceso stadijose, nors siauriau jis taikomas ir ikiteisminio tyrimo metu."
+  },
+  {
+    "id": 24,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Nuo kokio amžiaus asmeniui leidžiama stebėti teismo posėdį teismo salėje?",
+    "options": [
+      "Nuo 16 metų",
+      "Nuo 14 metų",
+      "Nuo 18 metų",
+      "Nuo 21 metų"
+    ],
+    "correct": 0,
+    "explanation": "BPK 9 str. 5 d. numato, kad proceso viešumo principas leidžia kiekvienam asmeniui, sulaukusiam 16 metų amžiaus, stebėti teismo procesą teismo salėje."
+  },
+  {
+    "id": 25,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokiais atvejais teismas PRIVALO rengti neviešą posėdį?",
+    "options": [
+      "Kai bylos nagrinėjimo metu reikia tirti informaciją, esančią valstybės, tarnybos, profesine ar komercine paslaptimi",
+      "Kai kaltinamasis yra jaunesnis nei 18 metų",
+      "Kai nagrinėjama byla dėl nusikalstamos veikos žmogaus seksualinio apsisprendimo laisvei",
+      "Kai reikia apklausti anoniminį liudytoją ar nukentėjusįjį"
+    ],
+    "correct": 0,
+    "explanation": "Teismas privalo rengti neviešus posėdžius, kai reikia tirti informaciją, sudarančią valstybės, tarnybos, profesinę ar komercinę paslaptį – tai privalomas, o ne diskrecinis atvejis."
+  },
+  {
+    "id": 26,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Koks yra maksimalus ikiteisminio tyrimo terminas dėl sunkių ir labai sunkių nusikaltimų?",
+    "options": [
+      "Devyni mėnesiai",
+      "Šeši mėnesiai",
+      "Dvylika mėnesių",
+      "Trys mėnesiai"
+    ],
+    "correct": 0,
+    "explanation": "BPK 176 str. 1 d. numato, kad ikiteisminis tyrimas dėl sunkių ir labai sunkių nusikaltimų turi būti atliktas ne ilgiau kaip per devynis mėnesius."
+  },
+  {
+    "id": 27,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokiose bylose ikiteisminis tyrimas turi būti prioritetinis pagal BPK 176 str. 2 d.?",
+    "options": [
+      "Bylose, kuriose įtariamieji yra suimti, ir bylose, kuriose įtariamieji ar nukentėjusieji yra nepilnamečiai",
+      "Tik bylose, kuriose suimtas įtariamasis",
+      "Bylose dėl sunkių ir labai sunkių nusikaltimų, neatsižvelgiant į kitų aplinkybių",
+      "Bylose, kuriose yra daugiau nei du įtariamieji"
+    ],
+    "correct": 0,
+    "explanation": "BPK 176 str. 2 d. numato prioritetą bylose, kuriose įtariamieji yra suimti, taip pat bylose, kuriose įtariamieji ar nukentėjusieji yra nepilnamečiai."
+  },
+  {
+    "id": 28,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Nuo kurio momento garantuojama teisė į gynybą ir teisė turėti gynėją advokatą?",
+    "options": [
+      "Nuo sulaikymo ar pirmosios apklausos momento",
+      "Nuo kaltinamojo akto surašymo",
+      "Nuo bylos perdavimo teismui",
+      "Nuo teisiamojo posėdžio pradžios"
+    ],
+    "correct": 0,
+    "explanation": "Konstitucijos 31 str. 6 d. garantuoja: 'Asmeniui, kuris įtariamas padaręs nusikaltimą, ir kaltinamajam nuo jų sulaikymo arba pirmosios apklausos momento garantuojama teisė į gynybą ir teisė turėti advokatą'."
+  },
+  {
+    "id": 29,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kurie procesiniai dokumentai būtinai turi būti išversti lietuvių kalbos nemokantiems proceso dalyviams?",
+    "options": [
+      "Pranešimas apie įtarimą, kaltinamasis aktas ir baigiamieji teismo aktai (nuosprendžiai, nutartys)",
+      "Tik nuosprendis, nes tai galutinis bylos sprendimas",
+      "Visi bylos dokumentai be išimčių",
+      "Tik prokuroro prašymai ir motyvai, pateikti teismo posėdyje"
+    ],
+    "correct": 0,
+    "explanation": "Būtinai išverčiami turi būti pranešimas apie įtarimą, kaltinamasis aktas ir baigiamieji teismo aktai – nuosprendžiai, nutartys ir teismo baudžiamieji įsakymai."
+  },
+  {
+    "id": 30,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuo skiriasi legalumo ir tikslingumo principai baudžiamajame procese?",
+    "options": [
+      "Legalumas reikalauja reaguoti į kiekvieną nusikalstamą veiką ir siekti nubausti kaltininką, o tikslingumas leidžia tam tikrais atvejais procesą nutraukti be apkaltinamojo nuosprendžio",
+      "Legalumas taikomas tik teisme, o tikslingumas – tik ikiteisminio tyrimo metu",
+      "Legalumas yra konstitucinis principas, o tikslingumas – tik BPK numatytas principas",
+      "Jie yra sinonimai, reiškiantys pareigą laikytis visų proceso taisyklių"
+    ],
+    "correct": 0,
+    "explanation": "Legalumas reikalauja reaguoti į bet kurią nusikalstamą veiką ir siekti nubausti kaltininką, o tikslingumas leidžia tam tikrais atvejais (mažiau pavojingų veikų) procesą nutraukti be apkaltinamojo nuosprendžio."
+  },
+  {
+    "id": 31,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Į kurias tris grupes skirstomi baudžiamojo proceso subjektai?",
+    "options": [
+      "Valstybės institucijos ir pareigūnai, proceso dalyviai (siaurąja prasme) ir kiti baudžiamajame procese dalyvaujantys asmenys",
+      "Tyrimo subjektai, kaltinimo subjektai ir gynybos subjektai",
+      "Ikiteisminio tyrimo subjektai, teismo sudėties nariai ir proceso stebėtojai",
+      "Privalomi proceso dalyviai, savanoriški proceso dalyviai ir teismo ekspertai"
+    ],
+    "correct": 0,
+    "explanation": "Proceso subjektai skirstomi į: 1) valstybės institucijas ir pareigūnus (teismas, prokuroras, ikiteisminio tyrimo įstaigos), 2) proceso dalyvius siaurąja prasme, 3) kitus dalyvaujančius asmenis (liudytojai, ekspertai, vertėjai)."
+  },
+  {
+    "id": 32,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokios yra konstitucinės prokuroro funkcijos baudžiamajame procese?",
+    "options": [
+      "Ikiteisminio tyrimo organizavimas ir vadovavimas jam, valstybinio kaltinimo baudžiamosiose bylose palaikymas",
+      "Tik valstybinio kaltinimo palaikymas teisme",
+      "Tik ikiteisminio tyrimo atlikimas ir bylos perdavimas teismui",
+      "Baudžiamojo proceso pradėjimas, ikiteisminis tyrimas ir nuosprendžio vykdymo kontrolė"
+    ],
+    "correct": 0,
+    "explanation": "Konstitucijos 118 str. 1 d. numatytos dvi konstitucinės prokuroro funkcijos: ikiteisminio tyrimo organizavimas ir vadovavimas jam, bei valstybinio kaltinimo baudžiamosiose bylose palaikymas."
+  },
+  {
+    "id": 33,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kas yra ikiteisminio tyrimo teisėjas?",
+    "options": [
+      "Apylinkės teismo teisėjas, apylinkės teismo pirmininko paskirtas atlikti įstatymų numatytus proceso veiksmus ikiteisminio tyrimo stadijoje",
+      "Specialiai paskirtas teisėjas, kuris visą laiką dirba tik ikiteisminio tyrimo stadijoje",
+      "Generalinės prokuratūros prokuroras, turintis teisėjo statusą ikiteisminio tyrimo metu",
+      "Apygardos teismo teisėjas, kontroliuojantis ikiteisminio tyrimo eigą"
+    ],
+    "correct": 0,
+    "explanation": "Ikiteisminio tyrimo teisėjas yra apylinkės teismo teisėjas, apylinkės teismo pirmininko paskirtas atlikti įstatymų numatytus proceso veiksmus bei priimti sprendimus (BPK 19 str.)."
+  },
+  {
+    "id": 34,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip keičiasi asmens procesinis statusas baudžiamojo proceso eigoje?",
+    "options": [
+      "Įtariamasis (ikiteisminio tyrimo metu) → kaltinamasis (pasibaigus ikiteisminiam tyrimui) → nuteistasis arba išteisintas (po nuosprendžio)",
+      "Sulaikytasis → įtariamasis → kaltinamasis → nuteistasis",
+      "Apklausiamasis → įtariamasis → kaltinamasis → kalinys",
+      "Įtariamasis → kaltinamasis → teisiamasis → nuteistasis"
+    ],
+    "correct": 0,
+    "explanation": "Asmuo baudžiamajame procese pereina tokius statusus: ikiteisminio tyrimo metu yra įtariamasis, pasibaigus ikiteisminiam tyrimui tampa kaltinamuoju, o po nuosprendžio – nuteistuoju arba išteisintuoju."
+  },
+  {
+    "id": 35,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuris teiginys teisingai apibūdina baudžiamosios teisės ir baudžiamojo proceso teisės santykį?",
+    "options": [
+      "Baudžiamoji teisė yra materialinės teisės šaka, baudžiamojo proceso teisė – procesinės teisės šaka; abi savarankiškos, bet neatsiejamos",
+      "Baudžiamojo proceso teisė yra baudžiamosios teisės sudedamoji dalis",
+      "Baudžiamoji teisė aptarnauja baudžiamojo proceso teisę, kuri yra svarbesnė",
+      "Baudžiamojo proceso teisė ir baudžiamoji teisė Lietuvoje yra kodifikuotos viename kodekse"
+    ],
+    "correct": 0,
+    "explanation": "Baudžiamoji teisė vadinama materialinės teisės šaka, baudžiamojo proceso teisė – procesinės teisės šaka; abi yra savarankiškos teisės šakos, tačiau viena be kitos neturėtų prasmės."
+  }
+]
