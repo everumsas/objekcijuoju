@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "Teismo posėdžiai",
+    "question": "Apygardos teismuose byla, kuri nagrinėjama pirmąja instancija, nagrinėja:",
+    "options": [
+      "Vienas teisėjas, tačiau gali būti sudaryta trijų teisėjų kolegija",
+      "Trys teisėjai visais atvejais",
+      "Vienas teisėjas be išimčių",
+      "Teismo pirmininkas"
+    ],
+    "correct": 0,
+    "explanation": "Paprastai vienas teisėjas, bet gali būti kolegija."
+  },
+  {
+    "id": 2,
+    "category": "Teismo posėdžiai",
+    "question": "Asmenys gali būti teisme atstovais:",
+    "options": [
+      "Pagal pavedimą ir įstatymą",
+      "Pagal pavedimą ir žodinį susitarimą",
+      "Tik pagal pavedimą",
+      "Tik pagal įstatymą"
+    ],
+    "correct": 0,
+    "explanation": "Atstovavimas galimas pagal pavedimą arba įstatymą."
+  },
+  {
+    "id": 3,
+    "category": "Teismo posėdžiai",
+    "question": "Juridinių asmenų atstovais pagal pavedimą teisme gali būti:",
+    "options": [
+      "Asmenys su bet kokiu išsilavinimu",
+      "Advokatų padėjėjai",
+      "Jų darbuotojai ar valstybės tarnautojai su aukštuoju teisiniu išsilavinimu",
+      "Tik advokatai"
+    ],
+    "correct": 2,
+    "explanation": "Reikalingas aukštasis teisinis išsilavinimas."
+  },
+  {
+    "id": 4,
+    "category": "Teismo posėdžiai",
+    "question": "Asmenys, kurie negali būti atstovais teisme:",
+    "options": [
+      "Asmenys, kuriems nustatyta globa ar rūpyba",
+      "Asmenys, kuriems tokią teisę riboja teisės aktai",
+      "Teisėjai",
+      "Visi atsakymai teisingi"
+    ],
+    "correct": 1,
+    "explanation": "Teisę riboja teisės aktai – tai bendrinė taisyklė."
+  },
+  {
+    "id": 5,
+    "category": "Teismo posėdžiai",
+    "question": "Civiliniame procese šalys yra:",
+    "options": [
+      "Ieškovas ir atsakovas",
+      "Ieškovas, tretieji asmenys",
+      "Atsakovas, liudytojai",
+      "Teismas ir šalys"
+    ],
+    "correct": 0,
+    "explanation": "Pagrindinės šalys – ieškovas ir atsakovas."
+  },
+  {
+    "id": 6,
+    "category": "Teismo posėdžiai",
+    "question": "Civilinis procesinis veiksnumas priklauso:",
+    "options": [
+      "Tik fiziniams asmenims",
+      "Ir fiziniams, ir juridiniams asmenims",
+      "Tik juridiniams asmenims",
+      "Tik teismams"
+    ],
+    "correct": 1,
+    "explanation": "Taikomas abiem subjektų tipams."
+  },
+  {
+    "id": 7,
+    "category": "Teismo posėdžiai",
+    "question": "Dalyvaujantis byloje asmuo turi:",
+    "options": [
+      "Visada atvykti į teismo posėdį",
+      "Turėti atstovą, jei negali atvykti",
+      "Atvykti į posėdį, jei teismas pripažįsta dalyvavimą būtinu",
+      "Nedalyvauti posėdyje"
+    ],
+    "correct": 2,
+    "explanation": "Teismas gali įpareigoti dalyvauti."
+  },
+  {
+    "id": 8,
+    "category": "Teismo posėdžiai",
+    "question": "Dalyvaujantys byloje asmenys yra:",
+    "options": [
+      "Šalys, tretieji asmenys ir jų atstovai",
+      "Tik šalys",
+      "Tik tretieji asmenys",
+      "Šalys ir liudytojai"
+    ],
+    "correct": 0,
+    "explanation": "Įeina ir atstovai."
+  },
+  {
+    "id": 9,
+    "category": "Teismo posėdžiai",
+    "question": "Dalyvaujantys byloje asmenys:",
+    "options": [
+      "Gali vesti bylą tik patys",
+      "Gali vesti bylą patys arba per atstovus",
+      "Gali vesti bylą tik per atstovus",
+      "Negali vesti bylos"
+    ],
+    "correct": 1,
+    "explanation": "Leidžiama ir taip, ir taip."
+  },
+  {
+    "id": 10,
+    "category": "Teismo posėdžiai",
+    "question": "Procesinius dokumentus elektroniniu būdu privalo priimti:",
+    "options": [
+      "Advokatai, antstoliai ir visi dalyviai",
+      "Advokatai, antstoliai, notarai ir kiti įstatyme nurodyti asmenys",
+      "Tik teismai",
+      "Tik notarai"
+    ],
+    "correct": 1,
+    "explanation": "Pareiga nustatyta konkrečioms grupėms."
+  },
+  {
+    "id": 11,
+    "category": "Teismo posėdžiai",
+    "question": "Fiziniams asmenims civilinis procesinis veiksnumas atsiranda:",
+    "options": [
+      "Nuo 18 metų arba kitais įstatymo nustatytais atvejais",
+      "Tik nuo 18 metų",
+      "Nuo gimimo",
+      "Nuo 16 metų"
+    ],
+    "correct": 0,
+    "explanation": "Yra išimčių (pvz., santuoka)."
+  },
+  {
+    "id": 12,
+    "category": "Teismo posėdžiai",
+    "question": "Procesinio dokumento pateikimo data laikoma:",
+    "options": [
+      "Išsiuntimo diena",
+      "Kita darbo diena po išsiuntimo",
+      "Kai dokumentą perskaito adresatas",
+      "Kai dokumentas įregistruojamas"
+    ],
+    "correct": 1,
+    "explanation": "Skaičiuojama nuo kitos darbo dienos."
+  },
+  {
+    "id": 13,
+    "category": "Teismo posėdžiai",
+    "question": "Klausimą dėl teisėjo nušalinimo sprendžia:",
+    "options": [
+      "Teismo pirmininkas ar jo pavaduotojas arba skyriaus pirmininkas",
+      "Teismo sekretorius",
+      "Prokuroras",
+      "Advokatas"
+    ],
+    "correct": 0,
+    "explanation": "Sprendžia teismo vadovybė."
+  },
+  {
+    "id": 14,
+    "category": "Teismo posėdžiai",
+    "question": "Teismo posėdžio tvarkos pažeidėjams gali būti skiriama:",
+    "options": [
+      "Įspėjimas, pašalinimas, bauda, areštas",
+      "Tik bauda",
+      "Tik įspėjimas",
+      "Tik areštas"
+    ],
+    "correct": 0,
+    "explanation": "Galimos visos šios priemonės."
+  },
+  {
+    "id": 15,
+    "category": "Teismo posėdžiai",
+    "question": "Teisiškai nesuinteresuoti proceso dalyviai:",
+    "options": [
+      "Liudytojai, ekspertai, vertėjai",
+      "Šalys",
+      "Tretieji asmenys",
+      "Atsakovai"
+    ],
+    "correct": 0,
+    "explanation": "Jie neturi tiesioginio intereso."
+  },
+  {
+    "id": 16,
+    "category": "Teismo posėdžiai",
+    "question": "Teismas gali pakeisti netinkamą šalį:",
+    "options": [
+      "Tik savo iniciatyva",
+      "Vienos šalies motyvuotu prašymu",
+      "Be jokių sąlygų",
+      "Tik atsakovo prašymu"
+    ],
+    "correct": 1,
+    "explanation": "Reikalingas motyvuotas prašymas."
+  },
+  {
+    "id": 17,
+    "category": "Teismo posėdžiai",
+    "question": "Teismo posėdžiai vyksta:",
+    "options": [
+      "Tik žodine forma",
+      "Tik rašytine forma",
+      "Rašytine ir žodine forma",
+      "Tik elektronine forma"
+    ],
+    "correct": 2,
+    "explanation": "Galimos abi formos."
+  },
+  {
+    "id": 18,
+    "category": "Teismo posėdžiai",
+    "question": "Teismo posėdžio eiga fiksuojama:",
+    "options": [
+      "Tik protokolu",
+      "Protokolu ir garso įrašu",
+      "Tik garso įrašu",
+      "Nefiksuojama"
+    ],
+    "correct": 1,
+    "explanation": "Fiksuojama dviem būdais."
+  },
+  {
+    "id": 19,
+    "category": "Teismo posėdžiai",
+    "question": "Tretieji asmenys gali būti:",
+    "options": [
+      "Tik pareiškiantys reikalavimus",
+      "Tik nepareiškiantys reikalavimų",
+      "Pareiškiantys ir nepareiškiantys reikalavimų",
+      "Tik liudytojai"
+    ],
+    "correct": 2,
+    "explanation": "Yra abi rūšys."
+  },
+  {
+    "id": 20,
+    "category": "Teismo posėdžiai",
+    "question": "Tretieji asmenys gali būti įtraukti į bylą:",
+    "options": [
+      "Tik savo iniciatyva",
+      "Tik šalių prašymu",
+      "Savo iniciatyva, šalių prašymu arba teismo iniciatyva",
+      "Negali būti įtraukti"
+    ],
+    "correct": 2,
+    "explanation": "Galimi visi trys variantai."
+  }
+]

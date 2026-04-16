@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Juridinis dokumentas yra:",
+    "options": [
+      "Bet koks tekstas",
+      "Dokumentas, sukuriantis, pakeičiantis ar patvirtinantis teisinius santykius",
+      "Tik laiškas",
+      "Tik teismo sprendimas"
+    ],
+    "correct": 1,
+    "explanation": "Juridiniai dokumentai turi teisinę reikšmę."
+  },
+  {
+    "id": 2,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris elementas yra būtinas daugeliui juridinių dokumentų?",
+    "options": [
+      "Nuotrauka",
+      "Data",
+      "Spalva",
+      "Logo"
+    ],
+    "correct": 1,
+    "explanation": "Data yra esminis dokumento rekvizitas."
+  },
+  {
+    "id": 3,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Dokumento rekvizitai yra:",
+    "options": [
+      "Tik tekstas",
+      "Privalomi dokumento elementai",
+      "Papildoma informacija",
+      "Tik parašas"
+    ],
+    "correct": 1,
+    "explanation": "Rekvizitai – būtini elementai."
+  },
+  {
+    "id": 4,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris rekvizitas patvirtina dokumento autentiškumą?",
+    "options": [
+      "Pavadinimas",
+      "Parašas",
+      "Numeris",
+      "Data"
+    ],
+    "correct": 1,
+    "explanation": "Parašas patvirtina dokumentą."
+  },
+  {
+    "id": 5,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Dokumento numeris skirtas:",
+    "options": [
+      "Papuošti dokumentą",
+      "Identifikuoti dokumentą",
+      "Sutrumpinti tekstą",
+      "Nustatyti datą"
+    ],
+    "correct": 1,
+    "explanation": "Numeris leidžia identifikuoti dokumentą."
+  },
+  {
+    "id": 6,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Oficialus dokumentas pasižymi tuo, kad:",
+    "options": [
+      "Yra neformalus",
+      "Sukuria teisines pasekmes",
+      "Neturi reikšmės",
+      "Yra tik informacinis"
+    ],
+    "correct": 1,
+    "explanation": "Oficialūs dokumentai turi teisinę galią."
+  },
+  {
+    "id": 7,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris teiginys apie dokumento kalbą yra teisingas?",
+    "options": [
+      "Gali būti bet kokia",
+      "Turi būti aiški ir tiksli",
+      "Turi būti ilga",
+      "Turi būti sudėtinga"
+    ],
+    "correct": 1,
+    "explanation": "Svarbiausia – aiškumas ir tikslumas."
+  },
+  {
+    "id": 8,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Dokumentų rūšys:",
+    "options": [
+      "Tik oficialūs",
+      "Oficialūs ir neoficialūs",
+      "Tik elektroniniai",
+      "Tik rašytiniai"
+    ],
+    "correct": 1,
+    "explanation": "Skirstoma į oficialius ir neoficialius."
+  },
+  {
+    "id": 9,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Elektroninis dokumentas:",
+    "options": [
+      "Neturi galios",
+      "Gali turėti tokią pačią galią kaip popierinis",
+      "Yra tik kopija",
+      "Negalioja"
+    ],
+    "correct": 1,
+    "explanation": "Elektroniniai dokumentai turi juridinę galią."
+  },
+  {
+    "id": 10,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Dokumento struktūra turi būti:",
+    "options": [
+      "Chaotiška",
+      "Aiški ir logiška",
+      "Ilga",
+      "Sudėtinga"
+    ],
+    "correct": 1,
+    "explanation": "Svarbus aiškumas."
+  },
+
+  {
+    "id": 11,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris rekvizitas pirmiausia leidžia nustatyti dokumento priėmimo momentą?",
+    "options": [
+      "Dokumento numeris",
+      "Dokumento data",
+      "Parašas",
+      "Pavadinimas"
+    ],
+    "correct": 1,
+    "explanation": "Data rodo dokumento priėmimo laiką."
+  },
+  {
+    "id": 12,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris teiginys apie parašą yra tiksliausias?",
+    "options": [
+      "Parašas yra tik formalumas",
+      "Parašas patvirtina dokumento turinio autentiškumą ir atsakomybę",
+      "Parašas reikalingas tik elektroniniuose dokumentuose",
+      "Parašas neturi teisinės reikšmės"
+    ],
+    "correct": 1,
+    "explanation": "Parašas patvirtina turinį ir atsakomybę."
+  },
+  {
+    "id": 13,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris teiginys apie dokumento aiškumą yra teisingas?",
+    "options": [
+      "Dokumentas turi būti kuo sudėtingesnis",
+      "Dokumentas turi būti suprantamas ir tikslus",
+      "Dokumentas gali būti dviprasmiškas",
+      "Dokumentas turi būti kuo ilgesnis"
+    ],
+    "correct": 1,
+    "explanation": "Aiškumas yra vienas pagrindinių reikalavimų."
+  },
+  {
+    "id": 14,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris teiginys apie dokumentų rekvizitus yra tiksliausias?",
+    "options": [
+      "Rekvizitai yra neprivalomi",
+      "Rekvizitai užtikrina dokumento teisinę galią ir identifikavimą",
+      "Rekvizitai reikalingi tik grožiui",
+      "Rekvizitai naudojami tik elektroniniuose dokumentuose"
+    ],
+    "correct": 1,
+    "explanation": "Rekvizitai būtini dokumento galiojimui."
+  },
+  {
+    "id": 15,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Kuris teiginys apie juridinių dokumentų reikšmę yra teisingas?",
+    "options": [
+      "Juridiniai dokumentai neturi teisinės galios",
+      "Juridiniai dokumentai sukelia teisines pasekmes",
+      "Juridiniai dokumentai yra tik informaciniai",
+      "Juridiniai dokumentai naudojami tik teismuose"
+    ],
+    "correct": 1,
+    "explanation": "Jie sukuria teisinius santykius ar pasekmes."
+  }
+]

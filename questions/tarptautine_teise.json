@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "category": "Tarptautinė teisė",
+    "question": "Lietuvos Respublikos Seimas ratifikuoja:",
+    "options": [
+      "Tarptautines sutartis dėl tarpusavio pagalbos",
+      "Visus ministerijų sudaromus susitarimus",
+      "Tik Europos Sąjungos teisės aktus",
+      "Tik diplomatinius protokolus"
+    ],
+    "correct": 0,
+    "explanation": "Pagal testų analizę Seimas ratifikuoja tarptautines sutartis dėl tarpusavio pagalbos."
+  },
+  {
+    "id": 2,
+    "category": "Tarptautinė teisė",
+    "question": "Kada tarptautinės sutarties tekstas laikomas galutiniu?",
+    "options": [
+      "Po ratifikavimo",
+      "Po sutarties teksto patvirtinimo",
+      "Po registravimo JT",
+      "Po paskelbimo nacionaliniame registre"
+    ],
+    "correct": 1,
+    "explanation": "Testų medžiagoje nurodyta, kad tekstas laikomas galutiniu po jo patvirtinimo."
+  },
+  {
+    "id": 3,
+    "category": "Tarptautinė teisė",
+    "question": "Pagrindinis tarptautinės sutarties ir tarpžinybinio susitarimo skirtumas yra tas, kad tarptautinė sutartis:",
+    "options": [
+      "Visada sudaroma tik žodžiu",
+      "Pasižymi valstybės atsakomybe ir teisiniu įsipareigojimu",
+      "Negali būti nutraukta",
+      "Niekada nereikalauja pasirašymo"
+    ],
+    "correct": 1,
+    "explanation": "Tarptautinė sutartis siejama su valstybės atsakomybe ir teisiniu įsipareigojimu."
+  },
+  {
+    "id": 4,
+    "category": "Tarptautinė teisė",
+    "question": "Kas turi teisę sudaryti tarptautines sutartis?",
+    "options": [
+      "Tik valstybės",
+      "Valstybės, tarptautinės organizacijos ir Europos Bendrija",
+      "Tik ministerijos",
+      "Tik tarptautiniai teismai"
+    ],
+    "correct": 1,
+    "explanation": "Testų analizėje būtent taip išskirti subjektai, galintys sudaryti tarptautines sutartis."
+  },
+  {
+    "id": 5,
+    "category": "Tarptautinė teisė",
+    "question": "Lietuvos Respublikos tarptautinėmis sutartimis nelaikomi tarptautiniai susitarimai, sudaryti:",
+    "options": [
+      "Valstybių vardu",
+      "Tarptautinių organizacijų vardu",
+      "Ministerijų ir Vyriausybės įstaigų",
+      "Respublikos Prezidento vardu"
+    ],
+    "correct": 2,
+    "explanation": "Testų analizėje nurodyta, kad ministerijų ir Vyriausybės įstaigų susitarimai nelaikomi LR tarptautinėmis sutartimis."
+  },
+  {
+    "id": 6,
+    "category": "Tarptautinė teisė",
+    "question": "Pagalbinio pobūdžio aktas, laikomas tarptautinės sutarties priedu, yra:",
+    "options": [
+      "Rezoliucija",
+      "Protokolas",
+      "Deklaracija",
+      "Nota"
+    ],
+    "correct": 1,
+    "explanation": "Testų medžiagoje kaip teisingas atsakymas nurodytas protokolas."
+  },
+  {
+    "id": 7,
+    "category": "Tarptautinė teisė",
+    "question": "Kuris susitarimas laikomas tarptautine sutartimi?",
+    "options": [
+      "Susitarimas, kuriuo šalys ketina sukurti ir sukuria tarptautinius įsipareigojimus",
+      "Bet koks ministerijų susirašinėjimas",
+      "Tik vidaus administracinis aktas",
+      "Tik politinio pobūdžio pareiškimas be teisinės galios"
+    ],
+    "correct": 0,
+    "explanation": "Tarptautine sutartimi laikomas susitarimas, sukuriantis tarptautinius įsipareigojimus."
+  },
+  {
+    "id": 8,
+    "category": "Tarptautinė teisė",
+    "question": "Valstybė gali padaryti tarptautinės sutarties išlygą, kai:",
+    "options": [
+      "Sutartyje tai aiškiai draudžiama",
+      "Sutartyje nedraudžiama tai padaryti",
+      "Išlyga visada draudžiama",
+      "Tam nereikia jokio teisinio pagrindo"
+    ],
+    "correct": 1,
+    "explanation": "Testų analizėje nurodyta, kad išlyga galima, jei sutartyje tai nėra draudžiama."
+  },
+  {
+    "id": 9,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinių sutarčių teksto autentiškumo nustatymo formos yra:",
+    "options": [
+      "Ratifikavimas ir registravimas",
+      "Parafavimas ir pasirašymas ad referendum",
+      "Tik paskelbimas",
+      "Tik notarinis tvirtinimas"
+    ],
+    "correct": 1,
+    "explanation": "Testų medžiagoje nurodytos būtent šios dvi autentiškumo formos."
+  },
+  {
+    "id": 10,
+    "category": "Tarptautinė teisė",
+    "question": "Ad referendum tarptautinių sutarčių teisėje reiškia:",
+    "options": [
+      "Sutarties atsisakymą",
+      "Pasirašymą numatant, kad jį vėliau patvirtins aukštesnė institucija",
+      "Automatinį įsigaliojimą",
+      "Žodinį sutikimą be teisinės galios"
+    ],
+    "correct": 1,
+    "explanation": "Ad referendum yra sąlyginis pasirašymas, kurį vėliau turi patvirtinti kompetentinga institucija."
+  },
+  {
+    "id": 11,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinės sutarties teksto parengimas, pagal testų medžiagą, apima:",
+    "options": [
+      "1 etapą",
+      "2 etapus",
+      "3 etapus",
+      "4 etapus"
+    ],
+    "correct": 1,
+    "explanation": "Testų analizėje nurodyta, kad teksto parengimui išskiriami 2 etapai."
+  },
+  {
+    "id": 12,
+    "category": "Tarptautinė teisė",
+    "question": "Kuris iš šių yra tarptautinės sutarties nutraukimo ar veikimo sustabdymo pagrindas?",
+    "options": [
+      "Tik vienos šalies nepasitenkinimas",
+      "Denonsavimas, šalių susitarimas ar esminis pažeidimas",
+      "Vien vidaus teisės pakeitimas",
+      "Vien tik sutarties neįregistravimas"
+    ],
+    "correct": 1,
+    "explanation": "Testų analizėje tarp pagrindų minimi denonsavimas, šalių susitarimas ir esminis pažeidimas."
+  },
+  {
+    "id": 13,
+    "category": "Tarptautinė teisė",
+    "question": "Kuris iš šių taip pat gali lemti tarptautinės sutarties pasibaigimą ar negaliojimą?",
+    "options": [
+      "Naujos jus cogens normos atsiradimas",
+      "Vien tik vienos šalies ekonominiai sunkumai",
+      "Valstybės vidaus rinkimų rezultatai",
+      "Sutarties vertimo netikslumas"
+    ],
+    "correct": 0,
+    "explanation": "Testų medžiagoje tarp pagrindų nurodytas naujos jus cogens normos atsiradimas."
+  },
+  {
+    "id": 14,
+    "category": "Tarptautinė teisė",
+    "question": "Absoliutaus tarptautinių sutarčių negaliojimo pagrindas yra:",
+    "options": [
+      "Sutarties pasirašymas nepatogiu metu",
+      "Prieštaravimas jus cogens ir grasinimas jėga ar jos panaudojimas",
+      "Vien tik politinio režimo pasikeitimas",
+      "Valstybės ekonominė krizė"
+    ],
+    "correct": 1,
+    "explanation": "Šie pagrindai aiškiai nurodyti testų medžiagoje."
+  },
+  {
+    "id": 15,
+    "category": "Tarptautinė teisė",
+    "question": "Jei įsigaliojusi ratifikuota Lietuvos Respublikos tarptautinė sutartis nustato kitokias normas nei Lietuvos Respublikos įstatymai:",
+    "options": [
+      "Visada taikomas nacionalinis įstatymas",
+      "Taikomos tarptautinės sutarties nuostatos",
+      "Abi normos netenka galios",
+      "Klausimą sprendžia tik ministerija"
+    ],
+    "correct": 1,
+    "explanation": "Pagal testų analizę taikomos tarptautinės sutarties nuostatos."
+  },
+  {
+    "id": 16,
+    "category": "Tarptautinė teisė",
+    "question": "Alternato principas tarptautinių sutarčių teisėje reiškia, kad:",
+    "options": [
+      "Sutartis pasirašoma tik vienu originalu",
+      "Šaliai skirtame egzemplioriuje parašai dėstomi jai garbingiausioje vietoje, o šalys išdėstomos abėcėlės tvarka",
+      "Sutarties tekstas būtinai rengiamas tik viena kalba",
+      "Kiekviena šalis pasirašo tik savo valstybės viduje"
+    ],
+    "correct": 1,
+    "explanation": "Testų medžiagoje alternato principas aiškinamas per parašų išdėstymą ir šalių pateikimo tvarką."
+  },
+  {
+    "id": 17,
+    "category": "Tarptautinė teisė",
+    "question": "Pagal tarptautinę teisę sutartims taikomas principas pacta sunt servanda reiškia, kad:",
+    "options": [
+      "Sutartys rekomendacinės",
+      "Sutarčių privalu laikytis",
+      "Sutartys galioja tik ratifikavus JT",
+      "Sutartys gali būti laisvai ignoruojamos"
+    ],
+    "correct": 1,
+    "explanation": "Paskaitų medžiagoje aiškiai nurodyta, kad pacta sunt servanda reiškia pareigą laikytis sutarčių."
+  },
+  {
+    "id": 18,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinis paprotys kaip tarptautinės teisės šaltinis reikalauja:",
+    "options": [
+      "Tik ilgo taikymo laiko",
+      "Pakankamai ilgo taikymo, visuotinumo ir įsitikinimo, kad taisyklė teisiškai privaloma",
+      "Tik teismo pripažinimo",
+      "Tik valstybių žodinio sutikimo"
+    ],
+    "correct": 1,
+    "explanation": "Paskaitų medžiaga išskiria trukmę, visuotinį pripažinimą ir opinio juris elementą."
+  },
+  {
+    "id": 19,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinė ir konsulinė teisė yra:",
+    "options": [
+      "Viena ir ta pati nesavarankiška teisės šaka",
+      "Dvi savarankiškos tarptautinės teisės šakos",
+      "Tik nacionalinės teisės dalis",
+      "Tik paprotinės teisės institutas"
+    ],
+    "correct": 1,
+    "explanation": "Paskaitų medžiagoje jos tiesiogiai įvardytos kaip dvi savarankiškos teisės šakos."
+  },
+  {
+    "id": 20,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinę veiklą reglamentuoja:",
+    "options": [
+      "Tik nacionalinės teisės normos",
+      "Tik tarptautinės sutartys",
+      "Tarptautinės ir nacionalinės teisės normos",
+      "Tik diplomatinis etiketas"
+    ],
+    "correct": 2,
+    "explanation": "Paskaitų medžiagoje aiškiai išskirtos dvi normų rūšys – tarptautinės ir nacionalinės."
+  },
+  {
+    "id": 21,
+    "category": "Tarptautinė teisė",
+    "question": "Oficialiai valstybės vadovo paskirtas asmuo ar asmenų grupė konkretiems tarpvalstybinių santykių klausimams spręsti ar pavedimams vykdyti yra:",
+    "options": [
+      "Nuolatinė diplomatinė atstovybė",
+      "Specialioji misija",
+      "Konsulinė įstaiga",
+      "Tarptautinis arbitražas"
+    ],
+    "correct": 1,
+    "explanation": "Diplomatinės-konsulinės teisės santraukoje taip apibrėžiama specialioji misija."
+  },
+  {
+    "id": 22,
+    "category": "Tarptautinė teisė",
+    "question": "Jei priimančioji valstybė paskelbia diplomatą persona non grata, atstovaujamoji valstybė turi:",
+    "options": [
+      "Ignoruoti tokį pranešimą",
+      "Atšaukti tokį asmenį arba atleisti jį iš pareigų atstovybėje",
+      "Kreiptis tik į JT Generalinę Asamblėją",
+      "Nedelsdama nutraukti visus diplomatinius santykius"
+    ],
+    "correct": 1,
+    "explanation": "Santraukoje aiškiai nurodyta tokios situacijos teisinė pasekmė."
+  },
+  {
+    "id": 23,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinio atstovo paskyrimo užsienio valstybėje procedūra vadinama:",
+    "options": [
+      "Ratifikavimu",
+      "Akreditavimu",
+      "Parafavimu",
+      "Denonsavimu"
+    ],
+    "correct": 1,
+    "explanation": "Diplomatinio atstovo paskyrimo procedūra vadinama akreditavimu."
+  },
+  {
+    "id": 24,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinių santykių nutraukimas ipso facto nereiškia:",
+    "options": [
+      "Konsulinių santykių nutraukimo",
+      "Diplomatinių atstovybių darbo pasibaigimo",
+      "Diplomatinio personalo atšaukimo",
+      "Santykių pablogėjimo"
+    ],
+    "correct": 0,
+    "explanation": "Santraukoje tiesiogiai pažymėta, kad tai savaime nereiškia konsulinių santykių nutraukimo."
+  },
+  {
+    "id": 25,
+    "category": "Tarptautinė teisė",
+    "question": "Imunitetai diplomatinių santykių teisėje reiškia:",
+    "options": [
+      "Tik mokesčių lengvatas",
+      "Diplomatinės atstovybės ir diplomatinio personalo išėmimo iš buvimo valstybės jurisdikcijos principus",
+      "Tik teisę laisvai keliauti",
+      "Vien tik asmeninę neliečiamybę be kitų pasekmių"
+    ],
+    "correct": 1,
+    "explanation": "Diplomatinės-konsulinės teisės santraukoje taip apibrėžiami imunitetai."
+  },
+  {
+    "id": 26,
+    "category": "Tarptautinė teisė",
+    "question": "Kuri iš šių yra diplomatinės atstovybės funkcija?",
+    "options": [
+      "Vykdyti baudžiamąją jurisdikciją priimančios valstybės teritorijoje",
+      "Skatinti draugiškus santykius ir plėtoti ekonominius, kultūrinius bei mokslinius ryšius",
+      "Prižiūrėti visus priimančios valstybės vidaus teismus",
+      "Pakeisti konsulines įstaigas visais atvejais"
+    ],
+    "correct": 1,
+    "explanation": "Santraukoje ši funkcija aiškiai išskirta kaip viena iš diplomatinių atstovybių funkcijų."
+  },
+  {
+    "id": 27,
+    "category": "Tarptautinė teisė",
+    "question": "Konsuliniai imunitetai ir privilegijos apima:",
+    "options": [
+      "Visišką atleidimą nuo bet kokios jurisdikcijos be išimčių",
+      "Konsulato patalpų, archyvų ir dokumentų neliečiamybę",
+      "Tik teisę naudoti valstybės herbą",
+      "Tik mokesčių grąžinimą"
+    ],
+    "correct": 1,
+    "explanation": "Santraukoje kaip pagrindinis elementas nurodyta patalpų, archyvų ir dokumentų neliečiamybė."
+  },
+  {
+    "id": 28,
+    "category": "Tarptautinė teisė",
+    "question": "Pagrindiniai tarptautinės teisės subjektai yra:",
+    "options": [
+      "Tik fiziniai asmenys ir nevyriausybinės organizacijos",
+      "Valstybės ir tarptautinės organizacijos",
+      "Tik teismai ir parlamentai",
+      "Tik diplomatinės atstovybės"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindiniais tarptautinės teisės subjektais laikomos valstybės ir tarptautinės organizacijos."
+  },
+  {
+    "id": 29,
+    "category": "Tarptautinė teisė",
+    "question": "Kuris iš šių yra vienas iš pagrindinių tarptautinės teisės principų?",
+    "options": [
+      "Valstybių teisinės nelygybės principas",
+      "Jėgos naudojimo laisvės principas",
+      "Valstybių suverenios lygybės principas",
+      "Vidaus reikalų viešo kontrolavimo principas"
+    ],
+    "correct": 2,
+    "explanation": "Suvereni valstybių lygybė yra vienas kertinių tarptautinės teisės principų."
+  },
+  {
+    "id": 30,
+    "category": "Tarptautinė teisė",
+    "question": "Nesikišimo į valstybių vidaus reikalus principas reiškia, kad:",
+    "options": [
+      "Valstybės gali laisvai kištis į kitų valstybių politinę sistemą",
+      "Valstybės neturi teisės jėga ar spaudimu daryti įtakos kitų valstybių vidaus reikalams",
+      "Valstybės negali sudaryti tarptautinių sutarčių",
+      "Valstybės negali palaikyti diplomatinių santykių"
+    ],
+    "correct": 1,
+    "explanation": "Šis principas draudžia neteisėtą kišimąsi į kitos valstybės vidaus kompetenciją."
+  },
+  {
+    "id": 31,
+    "category": "Tarptautinė teisė",
+    "question": "Valstybės pripažinimas tarptautinėje teisėje paprastai reiškia:",
+    "options": [
+      "Kad valstybė automatiškai tampa JT nare",
+      "Kitos valstybės valios aktą pripažinti naują subjektą tarptautinių santykių dalyviu",
+      "Tik ekonominių santykių užmezgimą",
+      "Tik diplomatinių atstovybių steigimą"
+    ],
+    "correct": 1,
+    "explanation": "Pripažinimas yra politinis-teisinis aktas, kuriuo pripažįstamas naujas tarptautinės teisės subjektas."
+  },
+  {
+    "id": 32,
+    "category": "Tarptautinė teisė",
+    "question": "De facto pripažinimas paprastai reiškia:",
+    "options": [
+      "Galutinį ir visišką pripažinimą",
+      "Laikiną ar nevisišką pripažinimą faktinės padėties pagrindu",
+      "Pripažinimą tik pagal vidaus teisę",
+      "Automatinį narystės tarptautinėse organizacijose suteikimą"
+    ],
+    "correct": 1,
+    "explanation": "De facto pripažinimas paprastai laikomas atsargesne, ne galutine pripažinimo forma."
+  },
+  {
+    "id": 33,
+    "category": "Tarptautinė teisė",
+    "question": "Valstybės jurisdikcija tarptautinėje teisėje pirmiausia siejama su:",
+    "options": [
+      "Vien tik jos diplomatinių atstovybių teritorija",
+      "Jos teise taikyti valdžią asmenims, teritorijai ir tam tikrais atvejais veiksmams",
+      "Tik tarptautinių organizacijų sprendimais",
+      "Tik jos piliečių kelionėmis užsienyje"
+    ],
+    "correct": 1,
+    "explanation": "Jurisdikcija reiškia valstybės galią reguliuoti, spręsti ir vykdyti savo valdžią."
+  },
+  {
+    "id": 34,
+    "category": "Tarptautinė teisė",
+    "question": "Teritorinės jurisdikcijos principas reiškia, kad:",
+    "options": [
+      "Valstybė turi jurisdikciją tik savo piliečiams, kad ir kur jie būtų",
+      "Valstybė pirmiausia taiko savo teisę veikoms, padarytoms jos teritorijoje",
+      "Valstybė gali teisti bet kurį asmenį bet kurioje pasaulio vietoje",
+      "Jurisdikcija priklauso tik tarptautiniams teismams"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindinis jurisdikcijos pagrindas yra teritorija, kurioje veika padaryta."
+  },
+  {
+    "id": 35,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinės atstovybės pagrindinis skirtumas nuo konsulinės įstaigos yra tas, kad diplomatinė atstovybė:",
+    "options": [
+      "Rūpinasi tik vizų išdavimu",
+      "Atstovauja valstybei politiniu lygmeniu santykiuose su priimančiąja valstybe",
+      "Neturi jokių imunitetų",
+      "Veikia tik prekybos srityje"
+    ],
+    "correct": 1,
+    "explanation": "Diplomatinė atstovybė pirmiausia vykdo politinio atstovavimo funkciją."
+  },
+  {
+    "id": 36,
+    "category": "Tarptautinė teisė",
+    "question": "Konsulinė įstaiga pirmiausia atlieka:",
+    "options": [
+      "Valstybės vadovo atstovavimo funkciją",
+      "Piliečių ir valstybės interesų apsaugos bei administracinio pobūdžio funkcijas",
+      "Tarptautinių sutarčių ratifikavimo funkciją",
+      "Karinio bendradarbiavimo funkciją"
+    ],
+    "correct": 1,
+    "explanation": "Konsulinės įstaigos daugiausia vykdo praktines, administracines ir apsaugos funkcijas."
+  },
+  {
+    "id": 37,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinės sutarties aiškinimas pagal bendrą taisyklę turi būti atliekamas:",
+    "options": [
+      "Tik pažodžiui, neatsižvelgiant į tikslą",
+      "Sąžiningai, pagal įprastą terminų reikšmę, jų kontekstą ir sutarties objektą bei tikslą",
+      "Tik pagal vienos šalies vidaus teisę",
+      "Tik pagal depozitaro nuomonę"
+    ],
+    "correct": 1,
+    "explanation": "Tai klasikinė sutarčių aiškinimo taisyklė."
+  },
+  {
+    "id": 38,
+    "category": "Tarptautinė teisė",
+    "question": "Jei sutartyje nenumatyta kitaip, tarptautinė sutartis paprastai:",
+    "options": [
+      "Taikoma atgaline data visiems ankstesniems santykiams",
+      "Netaikoma atgal, jei iš šalių valios neišplaukia kitaip",
+      "Galioja tik po 10 metų",
+      "Taikoma tik toms valstybėms, kurios jos nepasirašė"
+    ],
+    "correct": 1,
+    "explanation": "Tarptautinėms sutartims paprastai netaikoma retroaktyvumo taisyklė."
+  },
+  {
+    "id": 39,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinės sutarties depozitaro funkcija pirmiausia susijusi su:",
+    "options": [
+      "Sutarties vykdymo teisminiu kontrole",
+      "Sutarties originalo saugojimu ir pranešimų dėl jos registravimu bei perdavimu šalims",
+      "Privalomų sprendimų priėmimu dėl ginčų",
+      "Nacionalinių įstatymų leidyba"
+    ],
+    "correct": 1,
+    "explanation": "Depozitaras atlieka technines ir administracines sutarties priežiūros funkcijas."
+  },
+  {
+    "id": 40,
+    "category": "Tarptautinė teisė",
+    "question": "Jus cogens norma tarptautinėje teisėje yra:",
+    "options": [
+      "Bet kuri dvišalės sutarties sąlyga",
+      "Imperatyvioji norma, nuo kurios nukrypti neleidžiama",
+      "Tik rekomendacinė tarptautinės organizacijos nuostata",
+      "Tik paprotinė norma, kurią valstybė gali laisvai atmesti"
+    ],
+    "correct": 1,
+    "explanation": "Jus cogens yra imperatyvios normos, nuo kurių negalima nukrypti sutartimi."
+  }
+]

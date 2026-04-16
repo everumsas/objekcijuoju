@@ -1,5 +1,5 @@
 const STORAGE_KEY = "objekcijuoju_progress_multi_v1";
-const QUESTIONS_VERSION = "20260416-2";
+const QUESTIONS_VERSION = "20260416-3";
 
 const QUESTION_FILES = [
   "./questions/administracine_teise.json",
@@ -16,7 +16,14 @@ const QUESTION_FILES = [
   "./questions/kriminalistika.json",
   "./questions/lietuvos_konstitucine_teise.json",
   "./questions/valstybes_tarnyba_lietuvoje.json",
-  "./questions/vartotoju_teisiu_gynimas.json"
+  "./questions/vartotoju_teisiu_gynimas.json",
+  "./questions/mediacija.json",
+  "./questions/teisesaugos_instituciju_sistema.json",
+  "./questions/valstybes_ir_teises_teorija.json",
+  "./questions/juridiniu_dokumentu_praktika.json",
+  "./questions/teismo_posedziu_organizavimas.json",
+  "./questions/tarptautine_teise.json",
+  "./questions/europos_sajungos_teise.json"
 ];
 
 let questions = [];

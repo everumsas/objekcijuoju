@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisė yra:",
+    "options": [
+      "Moralės normų visuma",
+      "Valstybės nustatytų ir saugomų privalomų elgesio taisyklių sistema",
+      "Religinės taisyklės",
+      "Tik papročiai"
+    ],
+    "correct": 1,
+    "explanation": "Teisė – valstybės nustatytos ir užtikrinamos normos."
+  },
+  {
+    "id": 2,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės norma pasižymi tuo, kad:",
+    "options": [
+      "Yra rekomendacinė",
+      "Yra privaloma ir bendro pobūdžio",
+      "Taikoma tik vienam asmeniui",
+      "Neturi sankcijos"
+    ],
+    "correct": 1,
+    "explanation": "Teisės normos yra privalomos ir bendros."
+  },
+  {
+    "id": 3,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės normos struktūrą sudaro:",
+    "options": [
+      "Tik dispozicija",
+      "Hipotezė, dispozicija ir sankcija",
+      "Įžanga ir pabaiga",
+      "Tik sankcija"
+    ],
+    "correct": 1,
+    "explanation": "Klasikinė struktūra – 3 elementai."
+  },
+  {
+    "id": 4,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Hipotezė teisės normoje reiškia:",
+    "options": [
+      "Elgesio taisyklę",
+      "Taikymo sąlygas",
+      "Baudą",
+      "Teismo sprendimą"
+    ],
+    "correct": 1,
+    "explanation": "Hipotezė nurodo kada norma taikoma."
+  },
+  {
+    "id": 5,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Dispozicija teisės normoje yra:",
+    "options": [
+      "Sąlyga",
+      "Elgesio taisyklė",
+      "Bauda",
+      "Procedūra"
+    ],
+    "correct": 1,
+    "explanation": "Dispozicija nustato elgesį."
+  },
+  {
+    "id": 6,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Sankcija teisės normoje reiškia:",
+    "options": [
+      "Leidimą",
+      "Pasekmes už pažeidimą",
+      "Sąlygą",
+      "Normos tikslą"
+    ],
+    "correct": 1,
+    "explanation": "Sankcija – atsakomybė už pažeidimą."
+  },
+  {
+    "id": 7,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisiniai santykiai yra:",
+    "options": [
+      "Bet kokie santykiai",
+      "Teisės normomis reguliuojami visuomeniniai santykiai",
+      "Tik ekonominiai santykiai",
+      "Tik moraliniai santykiai"
+    ],
+    "correct": 1,
+    "explanation": "Teisiniai santykiai grindžiami teisės normomis."
+  },
+  {
+    "id": 8,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės subjektas yra:",
+    "options": [
+      "Tik valstybė",
+      "Asmuo, turintis teises ir pareigas",
+      "Tik teismas",
+      "Tik organizacija"
+    ],
+    "correct": 1,
+    "explanation": "Subjektas – turintis teisnumą ir veiksnumą."
+  },
+  {
+    "id": 9,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisinis faktas yra:",
+    "options": [
+      "Nuomonė",
+      "Aplinkybė, sukelianti teisinius padarinius",
+      "Teismo sprendimas",
+      "Įstatymas"
+    ],
+    "correct": 1,
+    "explanation": "Teisiniai faktai sukelia teisinius santykius."
+  },
+  {
+    "id": 10,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Valstybė yra:",
+    "options": [
+      "Privati organizacija",
+      "Suvereni politinė organizacija",
+      "Verslo subjektas",
+      "Teismo sistema"
+    ],
+    "correct": 1,
+    "explanation": "Valstybė – suvereni valdžios organizacija."
+  },
+  {
+    "id": 11,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Valstybės požymiai:",
+    "options": [
+      "Teritorija, valdžia, suverenitetas",
+      "Tik teritorija",
+      "Tik valdžia",
+      "Tik piliečiai"
+    ],
+    "correct": 0,
+    "explanation": "Tai pagrindiniai valstybės elementai."
+  },
+  {
+    "id": 12,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Suverenitetas reiškia:",
+    "options": [
+      "Priklausomybę",
+      "Aukščiausią valdžią valstybėje",
+      "Ekonomiką",
+      "Teritoriją"
+    ],
+    "correct": 1,
+    "explanation": "Suverenitetas – aukščiausia valdžia."
+  },
+  {
+    "id": 13,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės šaltinis yra:",
+    "options": [
+      "Tik moralė",
+      "Forma, kuria išreiškiama teisė",
+      "Tik teismas",
+      "Tik papročiai"
+    ],
+    "correct": 1,
+    "explanation": "Teisė turi būti išreikšta formaliai."
+  },
+  {
+    "id": 14,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Įstatymas yra:",
+    "options": [
+      "Žemiausios galios aktas",
+      "Aukštos juridinės galios teisės aktas",
+      "Rekomendacija",
+      "Teismo sprendimas"
+    ],
+    "correct": 1,
+    "explanation": "Įstatymai turi aukštą juridinę galią."
+  },
+  {
+    "id": 15,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės sistema yra:",
+    "options": [
+      "Atsitiktinių normų rinkinys",
+      "Suderinta teisės normų visuma",
+      "Tik įstatymai",
+      "Tik teismai"
+    ],
+    "correct": 1,
+    "explanation": "Teisė sudaro sistemą."
+  },
+  {
+    "id": 16,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės normos struktūrą yra tiksliausias?",
+    "options": [
+      "Kiekviena teisės norma visada turi aiškiai išreikštą hipotezę, dispoziciją ir sankciją",
+      "Teisės norma gali būti sudaryta iš visų trijų elementų, tačiau jie ne visada aiškiai išskiriami",
+      "Teisės norma turi tik dispoziciją",
+      "Teisės norma gali egzistuoti tik su sankcija"
+    ],
+    "correct": 1,
+    "explanation": "Elementai gali būti neišreikšti tiesiogiai, bet egzistuoja logiškai."
+  },
+  {
+    "id": 17,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris pavyzdys geriausiai atspindi hipotezės esmę?",
+    "options": [
+      "Asmuo privalo laikytis įstatymų",
+      "Jei asmuo pažeidžia įstatymą",
+      "Skiriama bauda",
+      "Teismas priima sprendimą"
+    ],
+    "correct": 1,
+    "explanation": "Hipotezė nurodo sąlygą („jei“)."
+  },
+  {
+    "id": 18,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės principus yra teisingas?",
+    "options": [
+      "Teisės principai neturi teisinės reikšmės",
+      "Teisės principai yra bendrosios idėjos, kurios lemia teisės normų turinį",
+      "Teisės principai galioja tik teismuose",
+      "Teisės principai yra tik teoriniai"
+    ],
+    "correct": 1,
+    "explanation": "Principai formuoja teisės turinį ir taikymą."
+  },
+  {
+    "id": 19,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės aiškinimą yra tiksliausias?",
+    "options": [
+      "Teisės aiškinimas reikalingas tik tada, kai norma aiški",
+      "Teisės aiškinimas padeda nustatyti tikrąją normos prasmę",
+      "Teisės aiškinimas atliekamas tik įstatymų leidėjo",
+      "Teisės aiškinimas nėra reikalingas praktikoje"
+    ],
+    "correct": 1,
+    "explanation": "Aiškinimas padeda suprasti normos turinį."
+  },
+  {
+    "id": 20,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės spragas yra teisingas?",
+    "options": [
+      "Teisėje negali būti spragų",
+      "Teisės spraga atsiranda, kai nėra normos konkrečiai situacijai",
+      "Teisės spraga yra teisės norma",
+      "Teisės spragos taikomos tik teismuose"
+    ],
+    "correct": 1,
+    "explanation": "Spraga – kai nėra reguliavimo."
+  },
+  {
+    "id": 21,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės funkcijas yra tiksliausias?",
+    "options": [
+      "Teisė atlieka tik represinę funkciją",
+      "Teisė reguliuoja visuomeninius santykius ir saugo vertybes",
+      "Teisė neturi jokios socialinės funkcijos",
+      "Teisė egzistuoja tik teorijoje"
+    ],
+    "correct": 1,
+    "explanation": "Teisė atlieka reguliacinę ir apsauginę funkcijas."
+  },
+  {
+    "id": 22,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės sistemą yra teisingas?",
+    "options": [
+      "Teisės sistema yra atsitiktinių normų rinkinys",
+      "Teisės sistema yra nuosekli ir struktūruota normų visuma",
+      "Teisės sistema egzistuoja tik teorijoje",
+      "Teisės sistema neturi struktūros"
+    ],
+    "correct": 1,
+    "explanation": "Teisė sudaro struktūruotą sistemą."
+  },
+  {
+    "id": 23,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie valstybės suverenitetą yra tiksliausias?",
+    "options": [
+      "Suverenitetas reiškia priklausomybę kitoms valstybėms",
+      "Suverenitetas reiškia aukščiausią valdžią valstybėje ir nepriklausomybę išorėje",
+      "Suverenitetas taikomas tik teismams",
+      "Suverenitetas reiškia ekonominę galią"
+    ],
+    "correct": 1,
+    "explanation": "Suverenitetas – vidinė ir išorinė nepriklausomybė."
+  },
+  {
+    "id": 24,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisinius santykius yra teisingas?",
+    "options": [
+      "Teisiniai santykiai egzistuoja be teisės normų",
+      "Teisiniai santykiai atsiranda teisės normų pagrindu",
+      "Teisiniai santykiai yra tik moraliniai",
+      "Teisiniai santykiai neturi subjektų"
+    ],
+    "correct": 1,
+    "explanation": "Jie grindžiami teisės normomis."
+  },
+  {
+    "id": 25,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės subjektus yra tiksliausias?",
+    "options": [
+      "Teisės subjektu gali būti tik fizinis asmuo",
+      "Teisės subjektai yra asmenys, turintys teisnumą ir veiksnumą",
+      "Teisės subjektai neturi pareigų",
+      "Teisės subjektai egzistuoja tik teorijoje"
+    ],
+    "correct": 1,
+    "explanation": "Subjektai turi teises ir pareigas."
+  }
+]
