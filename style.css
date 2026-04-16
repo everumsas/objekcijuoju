@@ -373,3 +373,11 @@ body.quiz-active #quizPanel {
     font-size: 13px;
   }
 }
+
+.app-version {
+  margin-top: 14px;
+  font-size: 13px;
+  color: var(--muted);
+  text-align: center;
+  opacity: 0.85;
+}

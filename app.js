@@ -1,11 +1,22 @@
 const STORAGE_KEY = "objekcijuoju_progress_multi_v1";
+const QUESTIONS_VERSION = "20260416-2";
 
 const QUESTION_FILES = [
   "./questions/administracine_teise.json",
   "./questions/baudziamoji_teise.json",
   "./questions/egzaminu_klausimai.json",
   "./questions/baudziamojo_proceso_teise.json",
-  "./questions/civiline_teise.json"
+  "./questions/civiline_teise.json",
+  "./questions/civilinis_procesas.json",
+  "./questions/darbo_teise.json",
+  "./questions/politologija.json",
+  "./questions/romenu_teise.json",
+  "./questions/ikiteisminis_tyrimas.json",
+  "./questions/korupcijos_kontrole_ir_prevencija.json",
+  "./questions/kriminalistika.json",
+  "./questions/lietuvos_konstitucine_teise.json",
+  "./questions/valstybes_tarnyba_lietuvoje.json",
+  "./questions/vartotoju_teisiu_gynimas.json"
 ];
 
 let questions = [];
@@ -22,30 +33,44 @@ async function init() {
   await loadQuestions();
   registerEvents();
   updateStats();
+  renderVersion();
 }
 
 async function loadQuestions() {
   questions = [];
 
   for (const filePath of QUESTION_FILES) {
-    const response = await fetch(filePath, { cache: "no-store" });
+    try {
+      const response = await fetch(`${filePath}?v=${QUESTIONS_VERSION}`, {
+        cache: "no-store"
+      });
 
-    if (!response.ok) {
-      console.error(`Nepavyko užkrauti failo: ${filePath}`);
-      continue;
+      if (!response.ok) {
+        console.error(`Nepavyko užkrauti failo: ${filePath}`);
+        continue;
+      }
+
+      const data = await response.json();
+
+      if (!Array.isArray(data)) {
+        console.error(`Failas nėra JSON masyvas: ${filePath}`);
+        continue;
+      }
+
+      const fileName = getFileNameWithoutExtension(filePath);
+
+      const normalizedQuestions = data.map((q, index) => ({
+        ...q,
+        _uid: `${fileName}__${q.id ?? index + 1}`,
+        _source: fileName
+      }));
+
+      questions = questions.concat(normalizedQuestions);
+
+      console.log(`Užkrauta iš ${fileName}: ${normalizedQuestions.length} klausimų`);
+    } catch (error) {
+      console.error(`Klaida kraunant ${filePath}:`, error);
     }
-
-    const data = await response.json();
-
-    const fileName = getFileNameWithoutExtension(filePath);
-
-    const normalizedQuestions = data.map((q, index) => ({
-      ...q,
-      _uid: `${fileName}__${q.id ?? index + 1}`,
-      _source: fileName
-    }));
-
-    questions = questions.concat(normalizedQuestions);
   }
 
   try {
@@ -55,6 +80,17 @@ async function loadQuestions() {
     progress = {};
   }
 
+  const validQuestionIds = new Set(questions.map(q => q._uid));
+  const cleanedProgress = {};
+
+  for (const key in progress) {
+    if (validQuestionIds.has(key)) {
+      cleanedProgress[key] = progress[key];
+    }
+  }
+
+  progress = cleanedProgress;
+
   for (const q of questions) {
     if (!progress[q._uid]) {
       progress[q._uid] = createEmptyProgress();
@@ -62,6 +98,8 @@ async function loadQuestions() {
   }
 
   saveProgress();
+
+  console.log(`Viso užkrauta klausimų: ${questions.length}`);
 }
 
 function getFileNameWithoutExtension(path) {
@@ -101,7 +139,8 @@ function updateStats() {
   document.getElementById("masteredCount").textContent = mastered;
   document.getElementById("totalCount").textContent = total;
   document.getElementById("remainingCount").textContent = remaining;
-  document.getElementById("progressText").textContent = `${mastered} / ${total} išmokta (${percent}%)`;
+  document.getElementById("progressText").textContent =
+    `${mastered} / ${total} išmokta (${percent}%)`;
   document.getElementById("progressFill").style.width = `${percent}%`;
 }
 
@@ -208,8 +247,11 @@ function showQuestion() {
   currentShuffledOptions = shuffledData.shuffledOptions;
   currentCorrectIndex = shuffledData.correctIndex;
 
-  document.getElementById("questionCategory").textContent = currentQuestion.category || "Klausimas";
+  document.getElementById("questionCategory").textContent =
+    currentQuestion.category || "Klausimas";
+
   document.getElementById("questionTitle").textContent = currentQuestion.question;
+
   document.getElementById("questionCounter").textContent =
     `Matytas ${progress[currentQuestion._uid].seenTotal} kartus`;
 
@@ -272,7 +314,8 @@ function handleAnswer(selectedIndex) {
   }
 
   resultExplanation.textContent = currentQuestion.explanation || "";
-  correctAnswerText.textContent = `Teisingas atsakymas: ${currentShuffledOptions[currentCorrectIndex]}`;
+  correctAnswerText.textContent =
+    `Teisingas atsakymas: ${currentShuffledOptions[currentCorrectIndex]}`;
 
   document.getElementById("resultBox").classList.remove("hidden");
 
@@ -292,7 +335,6 @@ function resetProgress() {
   answered = false;
   recentQuestionIds = [];
 
-  localStorage.removeItem(STORAGE_KEY);
   saveProgress();
   updateStats();
 
@@ -318,6 +360,13 @@ function registerEvents() {
   document.getElementById("backBtn").addEventListener("click", backToStart);
   document.getElementById("menuBtn").addEventListener("click", backToStart);
   document.getElementById("resetBtn").addEventListener("click", resetProgress);
+}
+
+function renderVersion() {
+  const versionEl = document.getElementById("appVersion");
+  if (!versionEl) return;
+
+  versionEl.textContent = `Versija: ${QUESTIONS_VERSION}`;
 }
 
 init();

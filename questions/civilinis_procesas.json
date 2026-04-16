@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "category": "Civilinis procesas",
+    "question": "Jonas nusprendė pradėti fizinio asmens bankroto procesą. Jo gyvenamoji vieta yra Klaipėdoje. Kuriam teismui jis turėtų pateikti pareiškimą?",
+    "options": [
+      "Klaipėdos apylinkės teismui",
+      "Klaipėdos apygardos teismui",
+      "Teismo pasirinkimas priklauso nuo kreditorių gyvenamosios vietos",
+      "Bet kuriam Klaipėdos miesto teismui"
+    ],
+    "correct": 0,
+    "explanation": "Fizinio asmens bankroto bylą nagrinėja jo gyvenamosios vietos apylinkės teismas, o ne apygardos."
+  },
+  {
+    "id": 2,
+    "category": "Civilinis procesas",
+    "question": "Ar gali sutuoktinis būti byloje dalyvaujančio asmens atstovu teisme?",
+    "options": [
+      "Ne, sutuoktinis negali būti atstovas jokiomis aplinkybėmis",
+      "Gali, jeigu turi kito sutuoktinio išduotą ir notaro patvirtintą įgaliojimą",
+      "Gali, jeigu turi aukštąjį universitetinį teisinį išsilavinimą",
+      "Gali visada, nes sutuoktiniai yra artimi giminaičiai"
+    ],
+    "correct": 2,
+    "explanation": "Pagal CPK 56 str., sutuoktinis gali būti atstovas pagal pavedimą tik turėdamas aukštąjį universitetinį teisinį išsilavinimą."
+  },
+  {
+    "id": 3,
+    "category": "Civilinis procesas",
+    "question": "Tretieji asmenys civilinėje byloje gali būti:",
+    "options": [
+      "Pareiškiantys arba nepareiškiantys savarankiškų reikalavimų",
+      "Tik pareiškiantys savarankiškus reikalavimus",
+      "Tik nepareiškiantys savarankiškų reikalavimų",
+      "Bet kokie asmenys, suinteresuoti bylos baigtimi"
+    ],
+    "correct": 0,
+    "explanation": "CPK 46–47 str. išskiria dvi trečiųjų asmenų rūšis: pareiškiančius savarankiškus reikalavimus ir nepareiškiančius jų."
+  },
+  {
+    "id": 4,
+    "category": "Civilinis procesas",
+    "question": "Ieškovas gyvena Klaipėdoje, atsakovas gyvena Kaune. Ieškinys dėl 35 000 EUR skolos priteisimo turi būti pareikštas:",
+    "options": [
+      "Klaipėdos apylinkės teismui",
+      "Klaipėdos apygardos teismui",
+      "Kauno apylinkės teismui",
+      "Kauno apygardos teismui"
+    ],
+    "correct": 2,
+    "explanation": "Pagal bendrąją taisyklę ieškinys pareiškiamas pagal atsakovo gyvenamąją vietą; 35 000 EUR suma neviršija 40 000 EUR ribos, todėl byla teisminga apylinkės teismui."
+  },
+  {
+    "id": 5,
+    "category": "Civilinis procesas",
+    "question": "Kasacinė instancija civilinėse bylose yra:",
+    "options": [
+      "Lietuvos Vyriausiasis Administracinis Teismas",
+      "Lietuvos Apeliacinis Teismas",
+      "Konstitucinis Teismas",
+      "Lietuvos Aukščiausiasis Teismas"
+    ],
+    "correct": 3,
+    "explanation": "Kasacine tvarka civilines bylas nagrinėja tik Lietuvos Aukščiausiasis Teismas."
+  },
+  {
+    "id": 6,
+    "category": "Civilinis procesas",
+    "question": "Jonas ir Monika paskolos sutartyje nurodė, kad ginčai teismingi Klaipėdos apylinkės teismui, nors Monika gyvena Vilniuje. Kilus ginčui, Monika ginčija teismingumą. Ką turėtų daryti teismas?",
+    "options": [
+      "Atsisakyti priimti ieškinį, nes sutartimi negalima pakeisti teritorinio teismingumo",
+      "Priimti ieškinį ir bylą nagrinėti, kadangi šalys pakeitė teritorinį teismingumą, kas yra leistina",
+      "Perduoti bylą Vilniaus apylinkės teismui pagal atsakovės gyvenamąją vietą",
+      "Teismo posėdyje išspręsti teismingumo klausimą"
+    ],
+    "correct": 1,
+    "explanation": "Pagal CPK 32 str., šalys gali rašytiniu susitarimu pakeisti teritorinį teismingumą, ir toks susitarimas yra privalomas teismui."
+  },
+  {
+    "id": 7,
+    "category": "Civilinis procesas",
+    "question": "Miglė pateikė ieškinį dėl santuokos nutraukimo tuo pat metu ir Klaipėdos administraciniam teismui, ir Klaipėdos apygardos teismui. Kokius veiksmus atliks teismai?",
+    "options": [
+      "Ieškinį priims abu teismai, o vėliau bylos bus sujungtos",
+      "Tik administracinis teismas atsisakys priimti ieškinį, apygardos priims",
+      "Abu teismai atsisakys priimti ieškinį",
+      "Ieškinį priims tik apygardos teismas kaip aukštesnis"
+    ],
+    "correct": 2,
+    "explanation": "Santuokos nutraukimo byla yra šeimos teisės byla, teisminga apylinkės teismui, todėl abu teismai atsisakys priimti ieškinį."
+  },
+  {
+    "id": 8,
+    "category": "Civilinis procesas",
+    "question": "UAB 'Mindaugo transportas', esanti Kaune, nusprendė inicijuoti įmonei bankroto bylą. Kuriam teismui kreiptis?",
+    "options": [
+      "Kauno apylinkės teismui, nes visos bankroto bylos teismingos apylinkės teismui",
+      "Kauno apygardos teismui",
+      "Administraciniam teismui, nes keliamas įmonės administravimo klausimas",
+      "Vilniaus apygardos teismui kaip pagrindiniam verslo teismui"
+    ],
+    "correct": 1,
+    "explanation": "Juridinių asmenų bankroto bylos pagal CPK 27 str. teismingos apygardos teismui."
+  },
+  {
+    "id": 9,
+    "category": "Civilinis procesas",
+    "question": "UAB 'Klaipėdos logistika' atstovauti teisme atvyko jos darbuotojas. Byloje yra duomenų, kad jis dirba įmonėje. Ką teismas turi papildomai išsiaiškinti?",
+    "options": [
+      "Ar šis asmuo yra įmonės vadovas",
+      "Ar šis asmuo turi notariškai patvirtintą įgaliojimą",
+      "Ar šis asmuo turi įgaliojimą atstovauti įmonę ir ar turi aukštąjį universitetinį teisinį išsilavinimą",
+      "Nieko papildomai nereikia tikrinti"
+    ],
+    "correct": 2,
+    "explanation": "Juridinio asmens darbuotojas gali būti atstovas teisme tik turėdamas įgaliojimą ir aukštąjį universitetinį teisinį išsilavinimą (CPK 56 str.)."
+  },
+  {
+    "id": 10,
+    "category": "Civilinis procesas",
+    "question": "Jonas prašo draugo prokuroro atstovauti jam civilinėje byloje dėl žalos atlyginimo. Ar prokuroras gali tai padaryti?",
+    "options": [
+      "Ne, prokuroras negali būti atstovas šioje situacijoje",
+      "Taip, nes tai civilinė, o ne baudžiamoji byla",
+      "Taip, jei Jonas duoda notariškai patvirtintą įgaliojimą",
+      "Taip, bet tik jeigu prokuroras neturi aktyvių baudžiamųjų bylų"
+    ],
+    "correct": 0,
+    "explanation": "Prokurorai negali būti atstovais pagal pavedimą, išskyrus atvejus, kai jie yra atstovai pagal įstatymą arba dalyvauja kaip prokuratūros įgaliotiniai (CPK 56 str.)."
+  },
+  {
+    "id": 11,
+    "category": "Civilinis procesas",
+    "question": "Kokios sąlygos yra būtinos laikinųjų apsaugos priemonių taikymui?",
+    "options": [
+      "Pakanka tik tikėtino ieškinio pagrįstumo",
+      "Reikalingas tiek tikėtinas ieškinio pagrįstumas, tiek reali grėsmė teismo sprendimo įvykdymui",
+      "Pakanka tik realios grėsmės teismo sprendimo įvykdymui",
+      "Pakanka didelės ieškinio sumos"
+    ],
+    "correct": 1,
+    "explanation": "Laikinųjų apsaugos priemonių taikymui reikia abiejų sąlygų vienu metu: prima facie ieškinio pagrįstumo ir grėsmės sprendimo įvykdymui."
+  },
+  {
+    "id": 12,
+    "category": "Civilinis procesas",
+    "question": "Kasacine tvarka civilines bylas Lietuvoje nagrinėja:",
+    "options": [
+      "Lietuvos Vyriausiasis Administracinis Teismas",
+      "Konstitucinis Teismas",
+      "Lietuvos Apeliacinis Teismas",
+      "Lietuvos Aukščiausiasis Teismas"
+    ],
+    "correct": 3,
+    "explanation": "Lietuvos Aukščiausiasis Teismas yra vienintelė kasacinė instancija civilinėse bylose."
+  },
+  {
+    "id": 13,
+    "category": "Civilinis procesas",
+    "question": "Civilinis procesas – tai tvarka, pagal kurią vyksta:",
+    "options": [
+      "Ir civilinių bylų nagrinėjimas, ir teismo sprendimų vykdymas",
+      "Tik teismo sprendimų vykdymas",
+      "Tik civilinių bylų nagrinėjimas",
+      "Administracinių ginčų nagrinėjimas teisme"
+    ],
+    "correct": 0,
+    "explanation": "Civilinis procesas apima abi dalis: civilinių bylų nagrinėjimą ir teismo sprendimų priverstinį vykdymą."
+  },
+  {
+    "id": 14,
+    "category": "Civilinis procesas",
+    "question": "Jeigu vienas iš ieškovo reikalavimų teismingas apygardos teismui, ieškinys dėl visų reikalavimų nagrinėjamas:",
+    "options": [
+      "Apygardos teisme",
+      "Apylinkės arba apygardos teisme pagal kiekvieno reikalavimo teismingumą atskirai",
+      "Apylinkės teisme kaip žemesnės instancijos teisme",
+      "Teisme, kuriam teismingas didžiausios vertės reikalavimas"
+    ],
+    "correct": 0,
+    "explanation": "Jei bent vienas reikalavimas teismingas apygardos teismui, visi ieškinio reikalavimai nagrinėjami apygardos teisme."
+  },
+  {
+    "id": 15,
+    "category": "Civilinis procesas",
+    "question": "Bylas pirmąja instancija Lietuvoje nagrinėja:",
+    "options": [
+      "Apylinkės ir apygardos teismai",
+      "Apylinkės, apygardos teismai ir Lietuvos Apeliacinis Teismas",
+      "Tik apylinkės teismai",
+      "Apylinkės teismai, apygardos teismai ir Lietuvos Aukščiausiasis Teismas"
+    ],
+    "correct": 0,
+    "explanation": "Civilines bylas kaip pirmoji instancija turi teisę nagrinėti tik apylinkių ir apygardų teismai."
+  },
+  {
+    "id": 16,
+    "category": "Civilinis procesas",
+    "question": "Civilinio proceso teisė yra:",
+    "options": [
+      "Civilinės teisės pošakė",
+      "Teisės institutas",
+      "Savarankiška teisės šaka",
+      "Baudžiamojo proceso teisės dalis"
+    ],
+    "correct": 2,
+    "explanation": "Civilinio proceso teisė yra savarankiška teisės šaka, turinti savo dalyką, metodą ir principus."
+  },
+  {
+    "id": 17,
+    "category": "Civilinis procesas",
+    "question": "Ieškovas Jonas (gyvena Kaune) ketina pateikti ieškinį atsakovams: Dariui (gyvena Vilniuje) ir Sauliui (gyvena Gargžduose). Kuriam teismui gali būti pareikštas ieškinys?",
+    "options": [
+      "Kauno apylinkės teismui, nes ieškovas gyvena Kaune",
+      "Vilniaus apylinkės teismui, nes Darius gyvena Vilniuje",
+      "Klaipėdos apylinkės teismui",
+      "Bet kuriam ieškovo pasirinktam teismui"
+    ],
+    "correct": 2,
+    "explanation": "Esant keliems atsakovams, ieškinys gali būti pareikštas pagal bet kurio atsakovo gyvenamąją vietą; Saulius gyvena Gargžduose (Klaipėdos rajonas), todėl Klaipėdos apylinkės teismas yra teismingas."
+  },
+  {
+    "id": 18,
+    "category": "Civilinis procesas",
+    "question": "Atsakovui priklausančio daikto areštas yra:",
+    "options": [
+      "Laikinoji apsaugos priemonė",
+      "Teismo taikoma sankcija dėl prievolės nevykdymo",
+      "Įrodymų užtikrinimo priemonė",
+      "Vykdymo proceso priemonė"
+    ],
+    "correct": 0,
+    "explanation": "Daiktų areštas yra viena iš laikinųjų apsaugos priemonių, numatytų CPK 145 str."
+  },
+  {
+    "id": 19,
+    "category": "Civilinis procesas",
+    "question": "Kuris iš šių procesinių veiksmų laikomas civilinės bylos iškėlimu?",
+    "options": [
+      "Teisėjo rezoliucija priimti ieškinį",
+      "Ieškinio pateikimas teismui",
+      "Ieškinio parengimas ir pasirašymas",
+      "Pirmojo teismo posėdžio paskyrimas"
+    ],
+    "correct": 0,
+    "explanation": "Civilinės bylos iškėlimas yra teisėjo rezoliucija priimti ieškinį, bet ne pats ieškinio pateikimo faktas."
+  },
+  {
+    "id": 20,
+    "category": "Civilinis procesas",
+    "question": "Šalys savo susitarimu gali pakeisti:",
+    "options": [
+      "Teritorinį teismingumą",
+      "Rūšinį teismingumą",
+      "Išimtinį teismingumą",
+      "Ir rūšinį, ir teritorinį teismingumą"
+    ],
+    "correct": 0,
+    "explanation": "CPK 32 str. leidžia šalims susitarimu pakeisti tik teritorinį teismingumą; rūšinis ir išimtinis teismingumas yra imperatyvūs."
+  },
+  {
+    "id": 21,
+    "category": "Civilinis procesas",
+    "question": "Kiek civilinio proceso stadijų išskiriama Lietuvos civiliniame procese?",
+    "options": [
+      "Penkios",
+      "Šešios",
+      "Septynios",
+      "Aštuonios"
+    ],
+    "correct": 2,
+    "explanation": "Lietuvos civiliniame procese skiriamos septynios stadijos: bylos iškėlimas, pasirengimas, nagrinėjimas, apeliacija, vykdymo procesas, kasacija ir proceso atnaujinimas."
+  },
+  {
+    "id": 22,
+    "category": "Civilinis procesas",
+    "question": "Kurios civilinio proceso stadijos yra privalomos kiekvienai bylai?",
+    "options": [
+      "Bylos iškėlimas, apeliacija ir kasacija",
+      "Bylos iškėlimas, pasirengimas nagrinėjimui ir teisminis nagrinėjimas",
+      "Bylos iškėlimas, nagrinėjimas ir vykdymo procesas",
+      "Visos septynios stadijos yra privalomos"
+    ],
+    "correct": 1,
+    "explanation": "Privalomos stadijos yra trys: bylos iškėlimas, pasirengimas teisminiam nagrinėjimui ir teisminis nagrinėjimas; kitos keturios yra fakultatyvios."
+  },
+  {
+    "id": 23,
+    "category": "Civilinis procesas",
+    "question": "Kokios yra dvi civilinių bylų nagrinėjimo teisenos rūšys?",
+    "options": [
+      "Baudžiamoji teisena ir administracinė teisena",
+      "Ieškinio (ginčo) teisena ir ypatingoji teisena",
+      "Viešoji teisena ir privatinė teisena",
+      "Žodinė teisena ir rašytinė teisena"
+    ],
+    "correct": 1,
+    "explanation": "Civilinio proceso teisėje skiriamos dvi teisenos: ieškinio arba ginčo teisena (ginčai iš privatinės teisės santykių) ir ypatingoji teisena (bylos, kuriose nėra ginčo dėl teisės)."
+  },
+  {
+    "id": 24,
+    "category": "Civilinis procesas",
+    "question": "Kas yra ieškovas civilinėje byloje?",
+    "options": [
+      "Asmuo, kuris pareiškia reikalavimą atsakovui teisme",
+      "Materialiojo teisinio santykio šalis, kurios teisės ar interesai yra tariamai pažeisti ir kuri kreipėsi į teismą",
+      "Bet kuris asmuo, dalyvausiantis teismo procese",
+      "Asmuo, kuriam teismas priteisia žalos atlyginimą"
+    ],
+    "correct": 1,
+    "explanation": "Ieškovas yra materialiojo teisinio santykio šalis, kurios teisės ar interesai yra tariamai pažeisti ir kuri kreipėsi į teismą teisminės gynybos."
+  },
+  {
+    "id": 25,
+    "category": "Civilinis procesas",
+    "question": "Kuris civilinio proceso principas reiškia, kad šalys pačios disponuoja savo materialiosiomis teisėmis ir procesinėmis teisėmis, t. y. procesas pradedamas ir baigiamas tik šalių iniciatyva?",
+    "options": [
+      "Rungimosi principas",
+      "Kooperacijos principas",
+      "Dispozityvumo principas",
+      "Betarpiškumo principas"
+    ],
+    "correct": 2,
+    "explanation": "Dispozityvumo principas reiškia, kad šalys savarankiškai sprendžia, ar pradėti bylą, ar ją tęsti ar baigti, ir disponuoja savo reikalavimais."
+  },
+  {
+    "id": 26,
+    "category": "Civilinis procesas",
+    "question": "Rungimosi principas civiliniame procese reiškia, kad:",
+    "options": [
+      "Teismas privalo aktyviai rinkti įrodymus savo iniciatyva",
+      "Kiekviena šalis turi įrodinėjimo pareigą ir pati renkia įrodymus savo pozicijai pagrįsti",
+      "Šalys gali susitarti dėl ginčo sprendimo ne teisme",
+      "Teisėjas nešališkai vadovauja proceso eigai"
+    ],
+    "correct": 1,
+    "explanation": "Rungimosi principas reiškia, kad šalys pačios įrodinėja savo teiginius, o teismas sprendžia remdamasis šalių pateiktais įrodymais."
+  },
+  {
+    "id": 27,
+    "category": "Civilinis procesas",
+    "question": "Koks yra privalomojo bendrininkavimo (CPK 43 str.) požymis, skiriantis jį nuo neprivalomojo?",
+    "options": [
+      "Privalomojo atveju bendrininkai gali paduoti ieškinį bendrai arba atskirai",
+      "Privalomojo atveju subjektus sieja labai glaudūs ryšiai (bendra teisė ar pareiga) ir reikalavimų jų atžvilgiu atskirai nagrinėti nebegalima",
+      "Privalomojo atveju kiekvienas bendrininkas veikia nepriklausomai",
+      "Privalomojo atveju teismas gali nagrinėti bylą nedalyvaujant visiems bendrininkams"
+    ],
+    "correct": 1,
+    "explanation": "Privalomasis bendrininkavimas atsiranda, kai subjektus sieja bendra teisė ar pareiga ir jų reikalavimų nagrinėti atskirai negalima; teismo sprendimas, priimtas neįtraukus bendrininko, naikintinas."
+  },
+  {
+    "id": 28,
+    "category": "Civilinis procesas",
+    "question": "Procesinis teisių perėmimas (CPK 48 str.) galimas:",
+    "options": [
+      "Tik bylos pradžioje, iki pirmojo teismo posėdžio",
+      "Tik esant teismo leidimui ir tik ieškovo pusėje",
+      "Bet kuriai bylos stadijai, tiek ieškovo, tiek atsakovo pusėje",
+      "Tik pasibaigus teisminiam nagrinėjimui"
+    ],
+    "correct": 2,
+    "explanation": "Procesinis teisių perėmimas galimas esant bet kuriai teismo stadijai, tiek ieškovo, tiek atsakovo pusėje, kai vienas asmuo pakeičia kitą proceso dalyve."
+  },
+  {
+    "id": 29,
+    "category": "Civilinis procesas",
+    "question": "Apygardos teismas kaip pirmosios instancijos teismas nagrinėja bylas, kai ieškinio suma viršija:",
+    "options": [
+      "10 000 EUR",
+      "20 000 EUR",
+      "40 000 EUR",
+      "100 000 EUR"
+    ],
+    "correct": 2,
+    "explanation": "Pagal CPK 27 str., apygardos teismas pirmąja instancija nagrinėja bylas, kuriose ieškinio suma didesnė kaip 40 000 EUR (išskyrus šeimos, darbo bylas ir bylas dėl neturtinės žalos)."
+  },
+  {
+    "id": 30,
+    "category": "Civilinis procesas",
+    "question": "Kas yra įrodymai civilinėje byloje?",
+    "options": [
+      "Tik rašytiniai dokumentai, pateikti teismui",
+      "Bet kokie faktiniai duomenys, kuriais remdamasis teismas konstatuoja bylai reikšmingų aplinkybių buvimą arba nebuvimą",
+      "Tik ekspertų išvados ir liudytojų parodymai",
+      "Šalių pareiškimai ir teisiniai argumentai"
+    ],
+    "correct": 1,
+    "explanation": "Įrodymai civilinėje byloje yra bet kokie faktiniai duomenys, kuriais teismas nustato, ar yra aplinkybių, pagrindžiančių šalių reikalavimus ir atsikirtimus."
+  },
+  {
+    "id": 31,
+    "category": "Civilinis procesas",
+    "question": "Kokiomis aplinkybėmis nereikia įrodinėti civiliniame procese?",
+    "options": [
+      "Aplinkybėmis, kurias nurodo tik viena šalis",
+      "Visuotinai žinomomis aplinkybėmis ir prejudiciniais faktais, nustatytais įsiteisėjusiu teismo sprendimu",
+      "Aplinkybėmis, kurias ginčija atsakovas",
+      "Visomis aplinkybėmis, jei ieškovas pateikia rašytinius įrodymus"
+    ],
+    "correct": 1,
+    "explanation": "Pagal CPK 182 str., nereikia įrodinėti visuotinai žinomų aplinkybių, prejudicinių faktų (nustatytų įsiteisėjusiais sprendimais), taip pat preziumuojamų faktų ir šalių pripažintų aplinkybių."
+  },
+  {
+    "id": 32,
+    "category": "Civilinis procesas",
+    "question": "Bylinėjimosi išlaidos skirstomos į:",
+    "options": [
+      "Valstybines ir privačias išlaidas",
+      "Žyminį mokestį ir išlaidas, susijusias su bylos nagrinėjimu",
+      "Teismo ir šalių išlaidas",
+      "Privalomąsias ir neprivalomąsias išlaidas"
+    ],
+    "correct": 1,
+    "explanation": "Pagal CPK 79 str., bylinėjimosi išlaidos skirstomos į dvi rūšis: žyminį mokestį ir išlaidas, susijusias su bylos nagrinėjimu."
+  },
+  {
+    "id": 33,
+    "category": "Civilinis procesas",
+    "question": "Vykdymo procese šalimis yra:",
+    "options": [
+      "Ieškovas ir atsakovas",
+      "Išieškotojas ir skolininkas",
+      "Kreditorius ir garantas",
+      "Prokuroras ir atsakovas"
+    ],
+    "correct": 1,
+    "explanation": "Vykdymo procese šalimis laikomos išieškotojas (teismo sprendimo naudos gavėjas) ir skolininkas (asmuo, kuriam nustatyta pareiga), o ne ieškovas ir atsakovas."
+  },
+  {
+    "id": 34,
+    "category": "Civilinis procesas",
+    "question": "Kurie asmenys negali būti atstovais teisme?",
+    "options": [
+      "Advokatai ir advokatų padėjėjai",
+      "Profesinių sąjungų atstovai darbo bylose",
+      "Teisėjai ir prokurorai",
+      "Juridinių asmenų darbuotojai, turintys teisinį išsilavinimą"
+    ],
+    "correct": 2,
+    "explanation": "Pagal CPK 56 str., teisėjai ir prokurorai negali būti atstovais teisme, išskyrus atvejus, kai jie yra atstovai pagal įstatymą arba dalyvauja kaip prokuratūros įgaliotiniai."
+  },
+  {
+    "id": 35,
+    "category": "Civilinis procesas",
+    "question": "Trečiasis asmuo, pareiškiantis savarankiškus reikalavimus (CPK 46 str.), į bylą įstoja:",
+    "options": [
+      "Tik teismo iniciatyva, kai teismas nustato, kad asmuo turi interesą",
+      "Tik šalių prašymu",
+      "Tik savo iniciatyva, pareikšdamas savarankišką ieškinį",
+      "Tiek teismo, tiek šalių, tiek savo iniciatyva"
+    ],
+    "correct": 2,
+    "explanation": "Tretieji asmenys, pareiškiantys savarankiškus reikalavimus, į bylą įstoja tik savo iniciatyva pareikšdami savarankišką ieškinį; teismo atsisakymas leisti įstoti neskundžiamas."
+  }
+]

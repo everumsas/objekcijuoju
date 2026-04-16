@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcija apibrėžiama kaip:",
+    "options": [
+      "Teisėtas interesų derinimas",
+      "Piktnaudžiavimas patikėta galia siekiant asmeninės naudos",
+      "Valstybės turto valdymas",
+      "Viešųjų paslaugų teikimas"
+    ],
+    "correct": 1,
+    "explanation": "Korupcija – piktnaudžiavimas galia siekiant asmeninės naudos."
+  },
+  {
+    "id": 2,
+    "category": "Korupcijos kontrolė",
+    "question": "Kuri iš šių veikų laikoma korupcijos forma?",
+    "options": [
+      "Teisėtas konkuravimas",
+      "Kyšininkavimas",
+      "Viešųjų paslaugų teikimas",
+      "Mokesčių mokėjimas"
+    ],
+    "correct": 1,
+    "explanation": "Kyšininkavimas yra viena pagrindinių korupcijos formų."
+  },
+  {
+    "id": 3,
+    "category": "Korupcijos kontrolė",
+    "question": "„Didžioji korupcija“ dažniausiai siejama su:",
+    "options": [
+      "Smulkiais kasdieniais pažeidimais",
+      "Medicinos paslaugomis",
+      "Valstybiniais sprendimais ir įstatymais",
+      "Individualiais santykiais"
+    ],
+    "correct": 2,
+    "explanation": "Didžioji korupcija susijusi su aukščiausio lygio sprendimais."
+  },
+  {
+    "id": 4,
+    "category": "Korupcijos kontrolė",
+    "question": "Administracinė korupcija reiškia:",
+    "options": [
+      "Įstatymų leidybą",
+      "Teisėtų sprendimų priėmimą",
+      "Įstatymų iškraipymą juos taikant praktikoje",
+      "Teismo sprendimų vykdymą"
+    ],
+    "correct": 2,
+    "explanation": "Administracinė korupcija – įstatymų iškraipymas juos taikant."
+  },
+  {
+    "id": 5,
+    "category": "Korupcijos kontrolė",
+    "question": "Politinė korupcija pasireiškia:",
+    "options": [
+      "Įstatymų laikymusi",
+      "Viešųjų pirkimų vykdymu",
+      "Rinkimų klastojimu ir politiniu manipuliavimu",
+      "Administracinių paslaugų teikimu"
+    ],
+    "correct": 2,
+    "explanation": "Politinė korupcija siejama su rinkimų ir politinių procesų pažeidimais."
+  },
+  {
+    "id": 6,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcija gali egzistuoti:",
+    "options": [
+      "Tik viešajame sektoriuje",
+      "Tik privačiame sektoriuje",
+      "Tiek viešajame, tiek privačiame sektoriuje",
+      "Tik politikoje"
+    ],
+    "correct": 2,
+    "explanation": "Korupcija pasireiškia abiejuose sektoriuose."
+  },
+  {
+    "id": 7,
+    "category": "Korupcijos kontrolė",
+    "question": "Kuris požymis būdingas korupcijai?",
+    "options": [
+      "Viešumas",
+      "Nešališkumas",
+      "Asmeninės naudos siekimas",
+      "Teisėtumas"
+    ],
+    "correct": 2,
+    "explanation": "Korupcijos esmė – naudos sau siekimas."
+  },
+  {
+    "id": 8,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos suvokimo indeksas matuoja:",
+    "options": [
+      "Realų nusikaltimų skaičių",
+      "Visuomenės požiūrį į korupciją",
+      "Teismo sprendimus",
+      "Valstybės pajamas"
+    ],
+    "correct": 1,
+    "explanation": "KSI vertina suvokiamą korupcijos lygį."
+  },
+  {
+    "id": 9,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos prevencija reiškia:",
+    "options": [
+      "Baudimą už nusikaltimus",
+      "Korupcijos priežasčių šalinimą ir atgrasymą",
+      "Tik tyrimų atlikimą",
+      "Tik teismo veiklą"
+    ],
+    "correct": 1,
+    "explanation": "Prevencija apima priežasčių šalinimą ir atgrasymą."
+  },
+  {
+    "id": 10,
+    "category": "Korupcijos kontrolė",
+    "question": "Pagrindinis korupcijos prevencijos tikslas:",
+    "options": [
+      "Bausti nusikaltėlius",
+      "Padidinti mokesčius",
+      "Užkirsti kelią korupcijai",
+      "Sumažinti valstybės išlaidas"
+    ],
+    "correct": 2,
+    "explanation": "Tikslas – užkirsti kelią korupcijos atsiradimui."
+  },
+  {
+    "id": 11,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos prevencijos principas „teisėtumas“ reiškia:",
+    "options": [
+      "Slaptumą",
+      "Veikimą pagal įstatymus",
+      "Greitą sprendimų priėmimą",
+      "Asmeninę naudą"
+    ],
+    "correct": 1,
+    "explanation": "Prevencija turi būti vykdoma laikantis teisės aktų."
+  },
+  {
+    "id": 12,
+    "category": "Korupcijos kontrolė",
+    "question": "STT pagrindinė funkcija:",
+    "options": [
+      "Teisėjų skyrimas",
+      "Korupcijos prevencija ir tyrimas",
+      "Mokesčių rinkimas",
+      "Verslo reguliavimas"
+    ],
+    "correct": 1,
+    "explanation": "STT vykdo prevenciją ir tiria korupciją."
+  },
+  {
+    "id": 13,
+    "category": "Korupcijos kontrolė",
+    "question": "VTEK pagrindinė funkcija:",
+    "options": [
+      "Bausti nusikaltėlius",
+      "Tirti interesų konfliktus",
+      "Skirti baudas",
+      "Valdyti finansus"
+    ],
+    "correct": 1,
+    "explanation": "VTEK nagrinėja interesų konfliktus ir etiką."
+  },
+  {
+    "id": 14,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos rizikos analizę atlieka:",
+    "options": [
+      "Teismas",
+      "Seimas",
+      "STT",
+      "Savivaldybė"
+    ],
+    "correct": 2,
+    "explanation": "Tai STT funkcija."
+  },
+  {
+    "id": 15,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos prevencijos priemonė:",
+    "options": [
+      "Tik bausmės",
+      "Korupcijos rizikos analizė",
+      "Tik apklausos",
+      "Tik teismai"
+    ],
+    "correct": 1,
+    "explanation": "Rizikos analizė yra viena pagrindinių priemonių."
+  },
+  {
+    "id": 16,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos atsiradimą skatina:",
+    "options": [
+      "Didelis skaidrumas",
+      "Aiškūs įstatymai",
+      "Atsakomybės stoka",
+      "Viešumas"
+    ],
+    "correct": 2,
+    "explanation": "Atsakomybės trūkumas yra viena pagrindinių priežasčių."
+  },
+  {
+    "id": 17,
+    "category": "Korupcijos kontrolė",
+    "question": "Kuri sritis laikoma labiausiai pažeidžiama korupcijai?",
+    "options": [
+      "Švietimas",
+      "Sveikatos apsauga",
+      "Kultūra",
+      "Sportas"
+    ],
+    "correct": 1,
+    "explanation": "Dažnai minima kaip viena labiausiai korumpuotų sričių."
+  },
+  {
+    "id": 18,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcija daro poveikį:",
+    "options": [
+      "Tik ekonomikai",
+      "Tik politikai",
+      "Visuomenei ir valstybei",
+      "Tik verslui"
+    ],
+    "correct": 2,
+    "explanation": "Ji veikia visą visuomenę."
+  },
+  {
+    "id": 19,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos prevencijos subjektai:",
+    "options": [
+      "Tik valstybės institucijos",
+      "Tik piliečiai",
+      "Visi asmenys",
+      "Tik teismai"
+    ],
+    "correct": 2,
+    "explanation": "Prevencijoje dalyvauja visi."
+  },
+  {
+    "id": 20,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos prevencijos esmė:",
+    "options": [
+      "Bausti",
+      "Slėpti informaciją",
+      "Pašalinti priežastis",
+      "Ignoruoti"
+    ],
+    "correct": 2,
+    "explanation": "Svarbiausia – pašalinti korupcijos priežastis."
+  }
+]

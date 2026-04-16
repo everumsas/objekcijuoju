@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnyba yra:",
+    "options": [
+      "Privatus darbas įmonėje",
+      "Valstybės funkcijų įgyvendinimas per valstybės tarnautojus",
+      "Teismo procesas",
+      "Verslo veikla"
+    ],
+    "correct": 1,
+    "explanation": "Valstybės tarnyba – viešųjų funkcijų vykdymas."
+  },
+  {
+    "id": 2,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojas yra:",
+    "options": [
+      "Bet kuris darbuotojas",
+      "Asmuo, dirbantis valstybės ar savivaldybės institucijoje ir atliekantis viešojo administravimo funkcijas",
+      "Verslininkas",
+      "Teisėjas"
+    ],
+    "correct": 1,
+    "explanation": "Valstybės tarnautojas vykdo viešojo administravimo funkcijas."
+  },
+  {
+    "id": 3,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnybos principas:",
+    "options": [
+      "Privatumo",
+      "Skaidrumo",
+      "Pelno siekimo",
+      "Konkurencijos"
+    ],
+    "correct": 1,
+    "explanation": "Skaidrumas yra vienas pagrindinių principų."
+  },
+  {
+    "id": 4,
+    "category": "Valstybės tarnyba",
+    "question": "Kuris principas reiškia, kad sprendimai turi būti pagrįsti įstatymais?",
+    "options": [
+      "Efektyvumo",
+      "Teisėtumo",
+      "Neutralumo",
+      "Lojalumo"
+    ],
+    "correct": 1,
+    "explanation": "Teisėtumas reiškia veikimą pagal teisę."
+  },
+  {
+    "id": 5,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnyba grindžiama:",
+    "options": [
+      "Asmenine nauda",
+      "Viešuoju interesu",
+      "Verslo interesais",
+      "Politiniais ryšiais"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindas – viešasis interesas."
+  },
+  {
+    "id": 6,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojų rūšys:",
+    "options": [
+      "Tik karjeros",
+      "Karjeros ir politinio pasitikėjimo",
+      "Tik laikini",
+      "Tik vadovai"
+    ],
+    "correct": 1,
+    "explanation": "Yra kelios pagrindinės tarnautojų kategorijos."
+  },
+  {
+    "id": 7,
+    "category": "Valstybės tarnyba",
+    "question": "Karjeros valstybės tarnautojas:",
+    "options": [
+      "Skiriamas politiniu pagrindu",
+      "Priimamas konkurso būdu",
+      "Dirba laikinai",
+      "Neturi teisių"
+    ],
+    "correct": 1,
+    "explanation": "Karjeros tarnautojai priimami konkurso būdu."
+  },
+  {
+    "id": 8,
+    "category": "Valstybės tarnyba",
+    "question": "Politinio pasitikėjimo tarnautojas:",
+    "options": [
+      "Priimamas konkurso būdu",
+      "Skiriamas pagal politinį pasitikėjimą",
+      "Dirba visą gyvenimą",
+      "Neturi vadovo"
+    ],
+    "correct": 1,
+    "explanation": "Jis priklauso nuo politinės valdžios pasitikėjimo."
+  },
+  {
+    "id": 9,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnybos tikslas:",
+    "options": [
+      "Uždirbti pelną",
+      "Užtikrinti viešųjų funkcijų vykdymą",
+      "Didinti verslą",
+      "Kontroliuoti piliečius"
+    ],
+    "correct": 1,
+    "explanation": "Tikslas – vykdyti valstybės funkcijas."
+  },
+  {
+    "id": 10,
+    "category": "Valstybės tarnyba",
+    "question": "Interesų konfliktas atsiranda, kai:",
+    "options": [
+      "Asmuo neturi interesų",
+      "Asmens privatūs interesai prieštarauja pareigoms",
+      "Asmuo dirba vienas",
+      "Nėra sprendimų"
+    ],
+    "correct": 1,
+    "explanation": "Konfliktas kyla tarp viešojo ir privataus intereso."
+  },
+  {
+    "id": 11,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojas privalo:",
+    "options": [
+      "Siekti pelno",
+      "Laikytis įstatymų",
+      "Ignoruoti taisykles",
+      "Dirbti tik sau"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindinė pareiga – laikytis teisės aktų."
+  },
+  {
+    "id": 12,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnyboje svarbus principas:",
+    "options": [
+      "Slaptumas",
+      "Neutralumas",
+      "Pelningumas",
+      "Konkurencija"
+    ],
+    "correct": 1,
+    "explanation": "Neutralumas reiškia nešališkumą."
+  },
+  {
+    "id": 13,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojas negali:",
+    "options": [
+      "Laikytis įstatymų",
+      "Piktnaudžiauti pareigomis",
+      "Dirbti",
+      "Priimti sprendimų"
+    ],
+    "correct": 1,
+    "explanation": "Piktnaudžiavimas draudžiamas."
+  },
+  {
+    "id": 14,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnybos sistema yra:",
+    "options": [
+      "Privati",
+      "Viešojo administravimo dalis",
+      "Teismo sistema",
+      "Verslo sistema"
+    ],
+    "correct": 1,
+    "explanation": "Ji priklauso viešajam administravimui."
+  },
+  {
+    "id": 15,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojų atsakomybė:",
+    "options": [
+      "Nėra taikoma",
+      "Teisinė",
+      "Tik moralinė",
+      "Tik finansinė"
+    ],
+    "correct": 1,
+    "explanation": "Tarnautojai atsako teisiškai."
+  },
+  {
+    "id": 16,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnyboje svarbus:",
+    "options": [
+      "Privatus interesas",
+      "Viešasis interesas",
+      "Verslo interesas",
+      "Asmeninė nauda"
+    ],
+    "correct": 1,
+    "explanation": "Svarbiausias – viešasis interesas."
+  },
+  {
+    "id": 17,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojų veikla turi būti:",
+    "options": [
+      "Slapta",
+      "Skaidri",
+      "Privati",
+      "Nežinoma"
+    ],
+    "correct": 1,
+    "explanation": "Skaidrumas – esminis principas."
+  },
+  {
+    "id": 18,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnybos paskirtis:",
+    "options": [
+      "Valdyti verslą",
+      "Įgyvendinti valstybės politiką",
+      "Kaupti pelną",
+      "Kontroliuoti teismus"
+    ],
+    "correct": 1,
+    "explanation": "Tarnautojai įgyvendina valstybės politiką."
+  },
+  {
+    "id": 19,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojo veikla turi būti:",
+    "options": [
+      "Subjektyvi",
+      "Nešališka",
+      "Šališka",
+      "Atsitiktinė"
+    ],
+    "correct": 1,
+    "explanation": "Nešališkumas yra esminis reikalavimas."
+  },
+  {
+    "id": 20,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnyba užtikrina:",
+    "options": [
+      "Pelno augimą",
+      "Valstybės funkcijų vykdymą",
+      "Verslo plėtrą",
+      "Asmeninę naudą"
+    ],
+    "correct": 1,
+    "explanation": "Ji skirta valstybės funkcijoms vykdyti."
+  },
+  {
+    "id": 21,
+    "category": "Valstybės tarnyba",
+    "question": "Priėmimas į karjeros valstybės tarnautojo pareigas vyksta:",
+    "options": [
+      "Tiesiog paskiriant vadovo sprendimu",
+      "Konkurso būdu",
+      "Per rinkimus",
+      "Pagal darbo sutartį"
+    ],
+    "correct": 1,
+    "explanation": "Karjeros tarnautojai priimami konkurso būdu."
+  },
+  {
+    "id": 22,
+    "category": "Valstybės tarnyba",
+    "question": "Asmuo gali būti valstybės tarnautoju, jei:",
+    "options": [
+      "Turi tik vidurinį išsilavinimą",
+      "Atitinka įstatymo nustatytus reikalavimus ir yra nepriekaištingos reputacijos",
+      "Yra verslininkas",
+      "Neturi darbo patirties"
+    ],
+    "correct": 1,
+    "explanation": "Reikalaujama nepriekaištingos reputacijos ir kitų sąlygų."
+  },
+  {
+    "id": 23,
+    "category": "Valstybės tarnyba",
+    "question": "Tarnybinis nusižengimas yra:",
+    "options": [
+      "Bet koks nusikaltimas",
+      "Pareigų neatlikimas ar netinkamas atlikimas",
+      "Civilinis ginčas",
+      "Privatus konfliktas"
+    ],
+    "correct": 1,
+    "explanation": "Tai pareigų pažeidimas tarnyboje."
+  },
+  {
+    "id": 24,
+    "category": "Valstybės tarnyba",
+    "question": "Drausminė atsakomybė taikoma už:",
+    "options": [
+      "Administracinius nusižengimus",
+      "Tarnybinius nusižengimus",
+      "Civilinius pažeidimus",
+      "Verslo klaidas"
+    ],
+    "correct": 1,
+    "explanation": "Drausminė atsakomybė taikoma už tarnybinius pažeidimus."
+  },
+  {
+    "id": 25,
+    "category": "Valstybės tarnyba",
+    "question": "Viena iš drausminių nuobaudų:",
+    "options": [
+      "Laisvės atėmimas",
+      "Pastaba",
+      "Baudžiamoji atsakomybė",
+      "Administracinė bauda"
+    ],
+    "correct": 1,
+    "explanation": "Pastaba yra viena iš drausminių nuobaudų."
+  },
+  {
+    "id": 26,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojas gali būti atleistas iš pareigų, jei:",
+    "options": [
+      "Nori pakeisti darbą",
+      "Pažeidžia tarnybinius įsipareigojimus",
+      "Dirba gerai",
+      "Neturi darbo"
+    ],
+    "correct": 1,
+    "explanation": "Atleidimas galimas dėl pareigų pažeidimo."
+  },
+  {
+    "id": 27,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojo teisė:",
+    "options": [
+      "Ignoruoti įstatymus",
+      "Gauti darbo užmokestį",
+      "Nevykdyti pareigų",
+      "Dirbti be atsakomybės"
+    ],
+    "correct": 1,
+    "explanation": "Tarnautojas turi teisę į atlyginimą."
+  },
+  {
+    "id": 28,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojo pareiga:",
+    "options": [
+      "Siekti asmeninės naudos",
+      "Laikytis įstatymų ir etikos",
+      "Ignoruoti taisykles",
+      "Dirbti privačiai"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindinė pareiga – laikytis teisės ir etikos."
+  },
+  {
+    "id": 29,
+    "category": "Valstybės tarnyba",
+    "question": "Viešų ir privačių interesų derinimas reiškia:",
+    "options": [
+      "Privataus intereso prioritetą",
+      "Konfliktų vengimą ir interesų deklaravimą",
+      "Verslo interesų gynimą",
+      "Slaptumą"
+    ],
+    "correct": 1,
+    "explanation": "Svarbu deklaruoti interesus ir vengti konfliktų."
+  },
+  {
+    "id": 30,
+    "category": "Valstybės tarnyba",
+    "question": "Nusišalinimas taikomas, kai:",
+    "options": [
+      "Tarnautojas neturi darbo",
+      "Yra interesų konfliktas",
+      "Dirba vienas",
+      "Nėra sprendimų"
+    ],
+    "correct": 1,
+    "explanation": "Nusišalinama esant interesų konfliktui."
+  },
+  {
+    "id": 31,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojo veikla turi būti:",
+    "options": [
+      "Slapta",
+      "Lojali valstybei",
+      "Privati",
+      "Atsitiktinė"
+    ],
+    "correct": 1,
+    "explanation": "Lojalumas valstybei yra esminis principas."
+  },
+  {
+    "id": 32,
+    "category": "Valstybės tarnyba",
+    "question": "Konfidencialumas reiškia:",
+    "options": [
+      "Informacijos viešinimą",
+      "Tarnybinės informacijos saugojimą",
+      "Informacijos ignoravimą",
+      "Duomenų perdavimą visiems"
+    ],
+    "correct": 1,
+    "explanation": "Tarnautojas privalo saugoti informaciją."
+  }
+]

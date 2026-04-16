@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas yra:",
+    "options": [
+      "Bet kuris asmuo",
+      "Fizinis asmuo, sudarantis sutartis ne verslo tikslais",
+      "Tik verslininkas",
+      "Valstybės institucija"
+    ],
+    "correct": 1,
+    "explanation": "Vartotojas – fizinis asmuo, veikiantis ne verslo tikslais."
+  },
+  {
+    "id": 2,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojų teisės saugo:",
+    "options": [
+      "Tik verslą",
+      "Silpnesnę sutarties šalį",
+      "Valstybę",
+      "Teismus"
+    ],
+    "correct": 1,
+    "explanation": "Vartotojas laikomas silpnesne šalimi."
+  },
+  {
+    "id": 3,
+    "category": "Vartotojų teisės",
+    "question": "Pagrindinis vartotojų teisių tikslas:",
+    "options": [
+      "Didinti pelną",
+      "Užtikrinti vartotojų saugumą ir interesus",
+      "Reguliuoti verslą",
+      "Bausti įmones"
+    ],
+    "correct": 1,
+    "explanation": "Svarbiausia – vartotojų apsauga."
+  },
+  {
+    "id": 4,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas turi teisę į:",
+    "options": [
+      "Tik kainą",
+      "Saugias prekes ir paslaugas",
+      "Tik informaciją",
+      "Tik reklamą"
+    ],
+    "correct": 1,
+    "explanation": "Saugumas yra viena pagrindinių teisių."
+  },
+  {
+    "id": 5,
+    "category": "Vartotojų teisės",
+    "question": "Nesąžininga komercinė veikla yra:",
+    "options": [
+      "Teisėta reklama",
+      "Klaidinanti ar agresyvi veikla vartotojų atžvilgiu",
+      "Akcijos",
+      "Nuolaidos"
+    ],
+    "correct": 1,
+    "explanation": "Tai klaidinimas ar spaudimas vartotojui."
+  },
+  {
+    "id": 6,
+    "category": "Vartotojų teisės",
+    "question": "Klaidinanti reklama:",
+    "options": [
+      "Visada leidžiama",
+      "Pateikia neteisingą informaciją",
+      "Yra tik nuomonė",
+      "Neturi reikšmės"
+    ],
+    "correct": 1,
+    "explanation": "Klaidinimas draudžiamas."
+  },
+  {
+    "id": 7,
+    "category": "Vartotojų teisės",
+    "question": "Agresyvi komercinė veikla:",
+    "options": [
+      "Informavimas",
+      "Spaudimas ar įtaka vartotojo pasirinkimui",
+      "Reklama",
+      "Nuolaidos"
+    ],
+    "correct": 1,
+    "explanation": "Naudojamas spaudimas vartotojui."
+  },
+  {
+    "id": 8,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas turi teisę atsisakyti sutarties per:",
+    "options": [
+      "3 dienas",
+      "14 dienų",
+      "30 dienų",
+      "1 dieną"
+    ],
+    "correct": 1,
+    "explanation": "Dažniausiai taikomas 14 dienų terminas."
+  },
+  {
+    "id": 9,
+    "category": "Vartotojų teisės",
+    "question": "Nuotolinė sutartis yra:",
+    "options": [
+      "Sudaryta parduotuvėje",
+      "Sudaryta internetu ar telefonu",
+      "Sudaryta teisme",
+      "Sudaryta valstybėje"
+    ],
+    "correct": 1,
+    "explanation": "Nuotolinės sutartys sudaromos be fizinio kontakto."
+  },
+  {
+    "id": 10,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas turi teisę gauti informaciją apie:",
+    "options": [
+      "Tik kainą",
+      "Prekę ar paslaugą",
+      "Tik pardavėją",
+      "Tik akcijas"
+    ],
+    "correct": 1,
+    "explanation": "Privaloma pateikti išsamią informaciją."
+  },
+  {
+    "id": 11,
+    "category": "Vartotojų teisės",
+    "question": "Nekokybiškos prekės atveju vartotojas gali:",
+    "options": [
+      "Nieko nedaryti",
+      "Reikalauti taisymo, keitimo ar pinigų grąžinimo",
+      "Tik skųstis",
+      "Tik laukti"
+    ],
+    "correct": 1,
+    "explanation": "Vartotojas turi kelias gynimo priemones."
+  },
+  {
+    "id": 12,
+    "category": "Vartotojų teisės",
+    "question": "Garantija reiškia:",
+    "options": [
+      "Reklamą",
+      "Įsipareigojimą dėl prekės kokybės",
+      "Nuolaidą",
+      "Akciją"
+    ],
+    "correct": 1,
+    "explanation": "Tai pardavėjo ar gamintojo įsipareigojimas."
+  },
+  {
+    "id": 13,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojų teisių apsaugą Lietuvoje vykdo:",
+    "options": [
+      "Policija",
+      "Valstybinė vartotojų teisių apsaugos tarnyba",
+      "Teismai tik",
+      "Verslas"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindinė institucija – VVTAT."
+  },
+  {
+    "id": 14,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas gali ginti savo teises:",
+    "options": [
+      "Tik pats",
+      "Per institucijas ar teismą",
+      "Tik per verslą",
+      "Negali"
+    ],
+    "correct": 1,
+    "explanation": "Yra kelios gynimo formos."
+  },
+  {
+    "id": 15,
+    "category": "Vartotojų teisės",
+    "question": "Nesąžiningos sutarties sąlygos:",
+    "options": [
+      "Visada galioja",
+      "Yra negaliojančios",
+      "Yra rekomendacinės",
+      "Neturi reikšmės"
+    ],
+    "correct": 1,
+    "explanation": "Jos laikomos negaliojančiomis."
+  },
+  {
+    "id": 16,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojų teisės yra:",
+    "options": [
+      "Privataus pobūdžio",
+      "Viešojo intereso dalis",
+      "Verslo interesas",
+      "Tik ekonominės"
+    ],
+    "correct": 1,
+    "explanation": "Jos saugo viešąjį interesą."
+  },
+  {
+    "id": 17,
+    "category": "Vartotojų teisės",
+    "question": "Prekė laikoma nekokybiška, jei:",
+    "options": [
+      "Yra brangi",
+      "Neatitinka sutarties ar kokybės reikalavimų",
+      "Yra sena",
+      "Yra reklamuojama"
+    ],
+    "correct": 1,
+    "explanation": "Svarbu atitikimas reikalavimams."
+  },
+  {
+    "id": 18,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojų teisės Europos Sąjungoje:",
+    "options": [
+      "Nereguliuojamos",
+      "Vienodinamos direktyvomis",
+      "Taikomos tik Lietuvoje",
+      "Neturi galios"
+    ],
+    "correct": 1,
+    "explanation": "ES direktyvos harmonizuoja vartotojų apsaugą."
+  },
+  {
+    "id": 19,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojų apsaugos principas:",
+    "options": [
+      "Silpnesnės šalies apsauga",
+      "Stipresnės šalies apsauga",
+      "Verslo apsauga",
+      "Teismo apsauga"
+    ],
+    "correct": 0,
+    "explanation": "Svarbiausia – silpnesnės šalies apsauga."
+  },
+  {
+    "id": 20,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas gali kreiptis į teismą:",
+    "options": [
+      "Tik su advokatu",
+      "Jei pažeistos jo teisės",
+      "Tik valstybės leidimu",
+      "Negali"
+    ],
+    "correct": 1,
+    "explanation": "Teismas – viena iš gynimo priemonių."
+  },
+  {
+    "id": 21,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas negali atsisakyti nuotolinės sutarties per 14 dienų, kai:",
+    "options": [
+      "Prekė buvo nupirkta su nuolaida",
+      "Prekė pagaminta pagal vartotojo individualų užsakymą",
+      "Prekė buvo užsakyta internetu",
+      "Prekė pristatyta kurjeriu"
+    ],
+    "correct": 1,
+    "explanation": "Atsisakymo teisė netaikoma individualiai vartotojui pagamintoms prekėms."
+  },
+  {
+    "id": 22,
+    "category": "Vartotojų teisės",
+    "question": "Kas paprastai apmoka prekės grąžinimo išlaidas atsisakius nuotolinės sutarties?",
+    "options": [
+      "Visada pardavėjas",
+      "Visada valstybė",
+      "Vartotojas, jei apie tai buvo tinkamai informuotas",
+      "Kurjerių tarnyba"
+    ],
+    "correct": 2,
+    "explanation": "Grąžinimo išlaidas paprastai dengia vartotojas, jei pardavėjas iš anksto apie tai informavo."
+  },
+  {
+    "id": 23,
+    "category": "Vartotojų teisės",
+    "question": "Kiek laiko vartotojas atsako už prekės vertės sumažėjimą?",
+    "options": [
+      "Tik jei prekę naudojo daugiau nei metus",
+      "Jei su preke elgėsi daugiau, nei būtina jos pobūdžiui, savybėms ir veikimui nustatyti",
+      "Niekada neatsako",
+      "Atsako visada, net jei tik apžiūrėjo prekę"
+    ],
+    "correct": 1,
+    "explanation": "Vartotojas atsako tik už perteklinį naudojimą, viršijantį įprastą apžiūrą."
+  },
+  {
+    "id": 24,
+    "category": "Vartotojų teisės",
+    "question": "Įstatyminė vartotojo teisė reikšti reikalavimus dėl prekės trūkumų paprastai galioja:",
+    "options": [
+      "6 mėnesius",
+      "1 metus",
+      "2 metus",
+      "5 metus"
+    ],
+    "correct": 2,
+    "explanation": "Paprastai vartotojo teisės dėl netinkamos kokybės daikto galioja 2 metus."
+  },
+  {
+    "id": 25,
+    "category": "Vartotojų teisės",
+    "question": "Pirmiausia vartotojas dėl netinkamos kokybės prekės paprastai gali reikalauti:",
+    "options": [
+      "Tik baudos pardavėjui",
+      "Taisymo arba pakeitimo",
+      "Visada tik pinigų grąžinimo",
+      "Tik moralinės žalos"
+    ],
+    "correct": 1,
+    "explanation": "Pirmiausia dažniausiai taikomi taisymas arba pakeitimas, jei tai įmanoma."
+  },
+  {
+    "id": 26,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojas gali reikalauti kainos sumažinimo ar sutarties nutraukimo, kai:",
+    "options": [
+      "Jam tiesiog nepatiko prekės spalva",
+      "Trūkumas yra pašalintas laiku ir tinkamai",
+      "Pardavėjas netaiso, nekeičia arba trūkumas yra esminis",
+      "Praėjo viena diena nuo pirkimo"
+    ],
+    "correct": 2,
+    "explanation": "Šios gynimo priemonės taikomos, kai pirminės priemonės neveiksmingos arba trūkumas esminis."
+  },
+  {
+    "id": 27,
+    "category": "Vartotojų teisės",
+    "question": "Komercinė garantija yra:",
+    "options": [
+      "Vienintelė vartotojo teisė",
+      "Papildomas pardavėjo ar gamintojo įsipareigojimas šalia įstatyminės atsakomybės",
+      "Tik reklaminis pažadas be teisinės reikšmės",
+      "Valstybės išmoka vartotojui"
+    ],
+    "correct": 1,
+    "explanation": "Komercinė garantija papildo, bet nepanaikina įstatyme numatytų vartotojo teisių."
+  },
+  {
+    "id": 28,
+    "category": "Vartotojų teisės",
+    "question": "Nesąžininga sutarties sąlyga vartojimo sutartyje:",
+    "options": [
+      "Automatiškai tampa privaloma, jei vartotojas pasirašė",
+      "Negalioja vartotojui",
+      "Galioja tik pusę termino",
+      "Tampa rekomendacija"
+    ],
+    "correct": 1,
+    "explanation": "Nesąžiningos sąlygos vartotojui nėra privalomos."
+  },
+  {
+    "id": 29,
+    "category": "Vartotojų teisės",
+    "question": "Jei pardavėjas neinformavo vartotojo apie teisę atsisakyti nuotolinės sutarties, tai:",
+    "options": [
+      "Vartotojas vis tiek turi tik 14 dienų terminą",
+      "Sutartis automatiškai tampa negaliojanti",
+      "Atsisakymo terminas gali pailgėti",
+      "Vartotojas praranda visas teises"
+    ],
+    "correct": 2,
+    "explanation": "Neinformavus apie atsisakymo teisę, terminas gali būti pratęsiamas."
+  },
+  {
+    "id": 30,
+    "category": "Vartotojų teisės",
+    "question": "Vartotojų ginčai ne teismo tvarka paprastai sprendžiami kreipiantis į:",
+    "options": [
+      "Vyriausiąją rinkimų komisiją",
+      "Valstybinę vartotojų teisių apsaugos tarnybą",
+      "Konstitucinį Teismą",
+      "Notarą"
+    ],
+    "correct": 1,
+    "explanation": "VVTAT yra pagrindinė vartotojų ginčų nagrinėjimo institucija ne teismo tvarka."
+  }
+]

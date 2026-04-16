@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "Kriminalistika",
+    "question": "Kriminalistika yra:",
+    "options": [
+      "Teisės šaka",
+      "Mokslas apie nusikaltimų atskleidimą, tyrimą ir prevenciją",
+      "Teismo procesas",
+      "Baudžiamosios teisės dalis"
+    ],
+    "correct": 1,
+    "explanation": "Kriminalistika – mokslas apie nusikaltimų tyrimą ir prevenciją."
+  },
+  {
+    "id": 2,
+    "category": "Kriminalistika",
+    "question": "Pagrindinis kriminalistikos tikslas:",
+    "options": [
+      "Bausti nusikaltėlius",
+      "Užkirsti kelią nusikaltimams ir juos ištirti",
+      "Kurti įstatymus",
+      "Spręsti civilinius ginčus"
+    ],
+    "correct": 1,
+    "explanation": "Kriminalistika siekia tiek išaiškinti, tiek užkirsti kelią nusikaltimams."
+  },
+  {
+    "id": 3,
+    "category": "Kriminalistika",
+    "question": "Kuri dalis nepriklauso kriminalistikos sistemai?",
+    "options": [
+      "Kriminalistikos technika",
+      "Kriminalistikos taktika",
+      "Kriminalistikos metodika",
+      "Konstitucinė teisė"
+    ],
+    "correct": 3,
+    "explanation": "Konstitucinė teisė nėra kriminalistikos dalis."
+  },
+  {
+    "id": 4,
+    "category": "Kriminalistika",
+    "question": "Kriminalistikos technika apima:",
+    "options": [
+      "Tik apklausas",
+      "Technines priemones įrodymams rinkti ir tirti",
+      "Teismo sprendimus",
+      "Baudų skyrimą"
+    ],
+    "correct": 1,
+    "explanation": "Technika – priemonės ir metodai įrodymams surasti ir tirti."
+  },
+  {
+    "id": 5,
+    "category": "Kriminalistika",
+    "question": "Kriminalistikos taktika yra:",
+    "options": [
+      "Teisės normos",
+      "Rekomendacijos, kaip atlikti tyrimo veiksmus",
+      "Tik laboratoriniai tyrimai",
+      "Teismo sprendimai"
+    ],
+    "correct": 1,
+    "explanation": "Taktika – optimalūs tyrimo veiksmų atlikimo būdai."
+  },
+  {
+    "id": 6,
+    "category": "Kriminalistika",
+    "question": "Kriminalistikos metodika skirta:",
+    "options": [
+      "Baudoms skirti",
+      "Konkrečių nusikaltimų tyrimo būdams",
+      "Įstatymams kurti",
+      "Advokatų darbui"
+    ],
+    "correct": 1,
+    "explanation": "Metodika – konkrečių nusikaltimų tyrimo sistema."
+  },
+  {
+    "id": 7,
+    "category": "Kriminalistika",
+    "question": "Pėdsakai kriminalistikoje yra:",
+    "options": [
+      "Tik pirštų atspaudai",
+      "Visi nusikaltimo padariniai ir objektų pokyčiai",
+      "Tik kraujo dėmės",
+      "Tik liudytojų parodymai"
+    ],
+    "correct": 1,
+    "explanation": "Pėdsakai – visi materialūs nusikaltimo padariniai."
+  },
+  {
+    "id": 8,
+    "category": "Kriminalistika",
+    "question": "Daktiloskopija tiria:",
+    "options": [
+      "Kraujo dėmes",
+      "Pirštų atspaudus",
+      "Ginklus",
+      "Dokumentus"
+    ],
+    "correct": 1,
+    "explanation": "Daktiloskopija – pirštų atspaudų tyrimas."
+  },
+  {
+    "id": 9,
+    "category": "Kriminalistika",
+    "question": "Pagrindinės papiliarinių raštų rūšys:",
+    "options": [
+      "Linijiniai, taškiniai, spiraliniai",
+      "Lankiniai, kilpiniai, apvalieji",
+      "Statiniai, dinaminiai, mišrūs",
+      "Plokšti, gilūs, paviršiniai"
+    ],
+    "correct": 1,
+    "explanation": "Trys pagrindinės rūšys: lankai, kilpos, sūkuriai."
+  },
+  {
+    "id": 10,
+    "category": "Kriminalistika",
+    "question": "Identifikacija kriminalistikoje reiškia:",
+    "options": [
+      "Asmens apklausą",
+      "Objekto tapatybės nustatymą",
+      "Įrodymų sunaikinimą",
+      "Teismo sprendimą"
+    ],
+    "correct": 1,
+    "explanation": "Identifikacija – objekto tapatybės nustatymas pagal požymius."
+  },
+  {
+    "id": 11,
+    "category": "Kriminalistika",
+    "question": "Identifikacijos proceso etapas:",
+    "options": [
+      "Baudimas",
+      "Lyginamasis tyrimas",
+      "Nuosprendis",
+      "Apeliacija"
+    ],
+    "correct": 1,
+    "explanation": "Vienas etapų – lyginamasis tyrimas."
+  },
+  {
+    "id": 12,
+    "category": "Kriminalistika",
+    "question": "Kriminalistinė diagnostika nustato:",
+    "options": [
+      "Tik asmens tapatybę",
+      "Įvykio mechanizmą ir aplinkybes",
+      "Tik dokumentų tikrumą",
+      "Tik liudytojus"
+    ],
+    "correct": 1,
+    "explanation": "Diagnostika – nustato įvykio eigą ir aplinkybes."
+  },
+  {
+    "id": 13,
+    "category": "Kriminalistika",
+    "question": "Kriminalistinis vaizdo fiksavimas yra:",
+    "options": [
+      "Tik fotografavimas",
+      "Vaizdo įrašymo ir tyrimo metodų sistema",
+      "Tik filmavimas",
+      "Tik liudytojų apklausa"
+    ],
+    "correct": 1,
+    "explanation": "Apima fotografiją, filmavimą ir kitus metodus."
+  },
+  {
+    "id": 14,
+    "category": "Kriminalistika",
+    "question": "Mastelinė fotografija naudojama:",
+    "options": [
+      "Grožiui",
+      "Objekto dydžiui nustatyti",
+      "Tik reklamai",
+      "Tik dokumentams"
+    ],
+    "correct": 1,
+    "explanation": "Naudojama tiksliai nustatyti objektų matmenis."
+  },
+  {
+    "id": 15,
+    "category": "Kriminalistika",
+    "question": "Trasologija tiria:",
+    "options": [
+      "Kalbą",
+      "Pėdsakus",
+      "Ginklus",
+      "Dokumentus"
+    ],
+    "correct": 1,
+    "explanation": "Trasologija – pėdsakų tyrimas."
+  },
+  {
+    "id": 16,
+    "category": "Kriminalistika",
+    "question": "Šūvio pėdsakai leidžia nustatyti:",
+    "options": [
+      "Tik ginklo kainą",
+      "Šūvio atstumą ir kryptį",
+      "Tik kulkos spalvą",
+      "Tik laiką"
+    ],
+    "correct": 1,
+    "explanation": "Pagal pėdsakus nustatomas atstumas, kryptis ir kt."
+  },
+  {
+    "id": 17,
+    "category": "Kriminalistika",
+    "question": "Rašysenos tyrimas leidžia:",
+    "options": [
+      "Nustatyti dokumento kainą",
+      "Identifikuoti asmenį",
+      "Nustatyti laiką",
+      "Nustatyti vietą"
+    ],
+    "correct": 1,
+    "explanation": "Rašysena padeda nustatyti autorių."
+  },
+  {
+    "id": 18,
+    "category": "Kriminalistika",
+    "question": "Rašysenos savybės:",
+    "options": [
+      "Atsitiktinės",
+      "Individualios ir pastovios",
+      "Tik laikinos",
+      "Vienodos visiems"
+    ],
+    "correct": 1,
+    "explanation": "Rašysena yra individuali ir gana pastovi."
+  },
+  {
+    "id": 19,
+    "category": "Kriminalistika",
+    "question": "Kriminalistiniai metodai turi būti:",
+    "options": [
+      "Greiti",
+      "Teisėti ir moksliški",
+      "Pigūs",
+      "Slapti"
+    ],
+    "correct": 1,
+    "explanation": "Metodai turi atitikti teisėtumo ir moksliškumo reikalavimus."
+  },
+  {
+    "id": 20,
+    "category": "Kriminalistika",
+    "question": "Kriminalistika remiasi:",
+    "options": [
+      "Tik teisės mokslu",
+      "Kitų mokslų pasiekimais",
+      "Tik praktika",
+      "Tik teorija"
+    ],
+    "correct": 1,
+    "explanation": "Naudojami gamtos, technikos ir kiti mokslai."
+  }
+]

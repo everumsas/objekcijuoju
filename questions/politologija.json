@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "category": "Politologija",
+    "question": "Iš kurio graikų kalbos žodžio kildinamas terminas 'politika'?",
+    "options": [
+      "Demos (liaudis)",
+      "Polis (miestas-valstybė)",
+      "Kratos (valdžia)",
+      "Arche (pradžia)"
+    ],
+    "correct": 1,
+    "explanation": "Terminas 'politika' kildinamas iš žodžio 'polis', reiškiančio miestą-valstybę – Senovės Graikijoje politika buvo suprantama kaip polio reikalų tvarkymas."
+  },
+  {
+    "id": 2,
+    "category": "Politologija",
+    "question": "Kaip politiką apibrėžė H. Lasswellas savo 1936 m. knygoje?",
+    "options": [
+      "Autoritetinis vertybių paskirstymas visuomenėje",
+      "Kas ką gauna, kada, kaip",
+      "Viešųjų reikalų tvarkymas",
+      "Valdžios siekimas ir jos įgyvendinimas"
+    ],
+    "correct": 1,
+    "explanation": "H. Lasswellas politiką apibūdino kaip galios reiškinį ir savo knygą pavadino 'Politika: kas ką gauna, kada, kaip?' (1936)."
+  },
+  {
+    "id": 3,
+    "category": "Politologija",
+    "question": "Kaip D. Eastonas sisteminės analizės teorijos pagrindu apibrėžė politiką?",
+    "options": [
+      "Kaip viešųjų reikalų tvarkymo procesą",
+      "Kaip valstybės valdymo meną",
+      "Kaip autoritetinį vertybių paskirstymą visuomenėje",
+      "Kaip kompromisą tarp skirtingų grupių"
+    ],
+    "correct": 2,
+    "explanation": "D. Eastonas sisteminės analizės teorijos pagrindu nurodė, kad politika yra autoritetinis vertybių paskirstymas visuomenėje."
+  },
+  {
+    "id": 4,
+    "category": "Politologija",
+    "question": "Ką anglų kalboje reiškia žodis 'policy' (skirtingai nei 'politics')?",
+    "options": [
+      "Politinę sistemą ir institucinę sąrangą",
+      "Politinių veikėjų sąveiką ir procesą",
+      "Politikos turinį – priemones, programas, jų įgyvendinimą",
+      "Valdžios formavimą ir struktūrą"
+    ],
+    "correct": 2,
+    "explanation": "'Policy' anglų kalboje reiškia politikos turinį – konkrečias priemones, programas ir jų įgyvendinimo procesą, o 'politics' – politinių veikėjų sąveikas."
+  },
+  {
+    "id": 5,
+    "category": "Politologija",
+    "question": "Kurie iš šių asmenų neturėjo piliečių teisių Senovės Atėnų tiesioginės demokratijos laikotarpiu?",
+    "options": [
+      "Tik vergai",
+      "Tik moterys ir vergai",
+      "Moterys, vergai ir metekai",
+      "Tik užsieniečiai (metekai)"
+    ],
+    "correct": 2,
+    "explanation": "Senovės Atėnuose piliečių teisių neturėjo moterys, vergai ir metekai (laisvi, bet ne atėniečių kilmės gyventojai)."
+  },
+  {
+    "id": 6,
+    "category": "Politologija",
+    "question": "Kuo antikinė Atėnų demokratija skyrėsi nuo šiuolaikinės demokratijos?",
+    "options": [
+      "Antikinė buvo atstovaujamoji, šiuolaikinė – tiesioginė",
+      "Antikinė buvo tiesioginė ir išskirianti, šiuolaikinė – atstovaujamoji ir priskirianti",
+      "Antikinėje dalyvavo visi gyventojai, šiuolaikinėje – tik išrinktieji",
+      "Antikinė rėmėsi valdžių padalijimu, šiuolaikinė – bendruomenės sutartimi"
+    ],
+    "correct": 1,
+    "explanation": "Antikinė Atėnų demokratija buvo tiesioginė ir išskirianti (politines teises turėjo tik labai nedidelė dalis gyventojų), o šiuolaikinė – atstovaujamoji ir priskirianti."
+  },
+  {
+    "id": 7,
+    "category": "Politologija",
+    "question": "Kiek principų išvardijama kaip demokratijos pagrindas (pagal pateiktą medžiagą)?",
+    "options": [
+      "5 principai",
+      "6 principai",
+      "7 principai",
+      "9 principai"
+    ],
+    "correct": 2,
+    "explanation": "Išvardijami 7 demokratijos principai: tautos suverenitetas, laisvi rinkimai, teisinės valstybės principas, valdžių padalijimas, spaudos ir žodžio laisvė, žmogaus teisių užtikrinimas, skirtingų partijų konkurencija."
+  },
+  {
+    "id": 8,
+    "category": "Politologija",
+    "question": "Kurios demokratijos teorijos pagrindas yra tas, kad politinė galia plačiai išsisklaidžiusi visoje visuomenėje, o politinis procesas yra grupinių interesų sąveika?",
+    "options": [
+      "Elitistinė demokratijos teorija (J. Schumpeteris)",
+      "Pliuralistinė demokratijos teorija (R. Dahlis)",
+      "Plebiscitinė demokratijos teorija (M. Weberis)",
+      "Deliberatyvinė demokratijos teorija (J. Habermasas)"
+    ],
+    "correct": 1,
+    "explanation": "Pliuralistinės demokratijos teorija (R. Dahlis) teigia, kad politinė galia išsisklaidžiusi visoje visuomenėje ir politinis procesas yra grupinių interesų sąveika."
+  },
+  {
+    "id": 9,
+    "category": "Politologija",
+    "question": "Kurios demokratijos teorijos pagrindas yra tai, kad bet kurioje visuomenėje egzistuoja gyventojų mažuma, priimanti pagrindinius sprendimus, o demokratijos esmė – elito tarpusavio konkurencija?",
+    "options": [
+      "Pliuralistinė (R. Dahlis)",
+      "Deliberatyvinė (J. Habermasas)",
+      "Elitistinė (J. Schumpeteris)",
+      "Plebiscitinė (M. Weberis)"
+    ],
+    "correct": 2,
+    "explanation": "Elitistinės demokratijos teorija (J. Schumpeteris) teigia, kad demokratijos esmė – elito tarpusavio konkurencija, o sprendimus reikia patikėti profesionaliems politikams."
+  },
+  {
+    "id": 10,
+    "category": "Politologija",
+    "question": "Kuo autoritarinis režimas skiriasi nuo totalitarinio?",
+    "options": [
+      "Autoritarinis turi vieną masinę partiją, totalitarinis – ne",
+      "Autoritarinis neturi vienos ideologijos, o totalitarinis – turi",
+      "Autoritarinis kontroliuoja asmeninį gyvenimą, totalitarinis – tik viešąjį",
+      "Autoritarinis yra demokratinis, totalitarinis – ne"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindinis skirtumas yra tas, kad autoritariniai režimai neturi vienos privalomosios ideologijos (tai būdinga tik totalitariniams), o išlaiko skirtumą tarp privataus ir viešo gyvenimo."
+  },
+  {
+    "id": 11,
+    "category": "Politologija",
+    "question": "Kiek totalitarizmo požymių (bruožų) išskyrė K. J. Friedrichas ir Z. Brzezinskis?",
+    "options": [
+      "3 požymiai",
+      "4 požymiai",
+      "5 požymiai",
+      "6 požymiai"
+    ],
+    "correct": 3,
+    "explanation": "K. J. Friedrichas ir Z. Brzezinskis suformulavo totalitarinio sindromo koncepciją ir nurodė 6 pagrindinius jos bruožus."
+  },
+  {
+    "id": 12,
+    "category": "Politologija",
+    "question": "Koks buvo pirmasis K. J. Friedricho ir Z. Brzezinskio išskirtas totalitarizmo požymis?",
+    "options": [
+      "Vienpartinė sistema, vadovaujama diktatoriaus",
+      "Teroristinė policinės kontrolės sistema",
+      "Officialioji visaapimanti ideologija, privaloma visiems visuomenės nariams",
+      "Centralizuotas vadovavimas ekonomikai"
+    ],
+    "correct": 2,
+    "explanation": "Pirmas totalitarizmo požymis – oficialioji ideologija, apimanti visus žmogaus gyvenimo aspektus ir privaloma visiems visuomenės nariams."
+  },
+  {
+    "id": 13,
+    "category": "Politologija",
+    "question": "Kokie yra trys būtini valstybės elementai?",
+    "options": [
+      "Tauta, kalba ir kultūra",
+      "Teritorija, gyventojai (tauta) ir suverenitetas",
+      "Konstitucija, parlamentas ir kariuomenė",
+      "Valdymo forma, teisinė sistema ir ekonomika"
+    ],
+    "correct": 1,
+    "explanation": "Trys būtini valstybės elementai yra teritorija, nuolat gyvenanti žmonių bendrija (tauta) ir suverenitetas (aukščiausia politinė valdžia)."
+  },
+  {
+    "id": 14,
+    "category": "Politologija",
+    "question": "Kokios yra dvi pagrindinės valstybės valdymo formos?",
+    "options": [
+      "Demokratija ir diktatūra",
+      "Federacija ir unitarinė valstybė",
+      "Monarchija ir respublika",
+      "Parlamentinė ir prezidentinė sistema"
+    ],
+    "correct": 2,
+    "explanation": "Pagal valdymo formą valstybės skirstomos į dvi kategorijas: monarchiją ir respubliką."
+  },
+  {
+    "id": 15,
+    "category": "Politologija",
+    "question": "Kuris iš šių teiginių teisingai apibūdina konstitucinę parlamentinę monarchiją?",
+    "options": [
+      "Monarchas aktyviai dalyvauja valdymo darbe ir tvirtina įstatymus",
+      "Vyriausybė yra atskaitinga monarchui, o ne parlamentui",
+      "Monarchas faktiškai nedalyvauja valdymo darbe, vyriausybė atskaitinga parlamentui",
+      "Monarchas turi veto teisę, kurią negali įveikti parlamentas"
+    ],
+    "correct": 2,
+    "explanation": "Konstitucinėje parlamentinėje monarchijoje monarchas faktiškai nedalyvauja nei įstatymų leidybos, nei vyriausybės darbe, o vyriausybė yra atskaitinga parlamentui, ne monarchui."
+  },
+  {
+    "id": 16,
+    "category": "Politologija",
+    "question": "Koks politinės sistemos identifikavimas buvo pateiktas Lietuvos Konstitucinio Teismo 1998 m. nutarime?",
+    "options": [
+      "Prezidentinė respublika",
+      "Grynai parlamentinė respublika",
+      "Parlamentinė respublika su kai kuriais mišriosios valdymo formos ypatumais",
+      "Pusiau prezidentinė respublika"
+    ],
+    "correct": 2,
+    "explanation": "Konstitucinis Teismas 1998 m. nutarime Lietuvą apibūdino kaip 'parlamentinę respubliką su kai kuriais mišriosios (pusiau prezidentinės) valdymo formos ypatumais'."
+  },
+  {
+    "id": 17,
+    "category": "Politologija",
+    "question": "Kuo skiriasi unitarinė valstybė nuo federacinės?",
+    "options": [
+      "Unitarinėje yra tik viena partija, federacinėje – daugiau",
+      "Unitarinėje valdžia centralizuota (arba decentralizuota) vienoje struktūroje, federacinėje – padalinta tarp centro ir regionų",
+      "Unitarinėje galioja konstitucija, federacinėje – ne",
+      "Unitarinė valstybė visada demokratinė, federacinė – ne"
+    ],
+    "correct": 1,
+    "explanation": "Unitarinėje valstybėje valdžia yra centralizuota arba decentralizuota vienoje struktūroje, o federacinėje – padalinta tarp centrinės valdžios ir autonominių regionų (valstijų)."
+  },
+  {
+    "id": 18,
+    "category": "Politologija",
+    "question": "Kuris iš šių teiginių teisingai apibūdina politinės partijos pagrindinį tikslą (pagal Heywoodą)?",
+    "options": [
+      "Ginti konkrečios socialinės grupės interesus",
+      "Teikti socialines paslaugas visuomenei",
+      "Siekti politinės valdžios ir formuoti vyriausybę",
+      "Vykdyti spaudimą valdžios institucijoms"
+    ],
+    "correct": 2,
+    "explanation": "Pagal Heywoodą pagrindinis politinės partijos tikslas yra politinė valdžia ir (vienai arba koalicijoje) vyriausybės formavimas."
+  },
+  {
+    "id": 19,
+    "category": "Politologija",
+    "question": "Kaip M. Duvergeris skirstė politines partijas pagal dydį ir struktūrą?",
+    "options": [
+      "Į kairės ir dešinės partijas",
+      "Į kadrines (elitines) ir masines partijas",
+      "Į vienpartines ir daugiapartines sistemas",
+      "Į visuotines ir regionines partijas"
+    ],
+    "correct": 1,
+    "explanation": "M. Duvergeris partijas skirstė į kadrines (elitines, formuotasi iš 'viršaus') ir masines (formuotasi iš 'apačios', turinčias masinę narystę)."
+  },
+  {
+    "id": 20,
+    "category": "Politologija",
+    "question": "Kas yra 'catch-all' (visuotinė) partija ir kas ją išskyrė?",
+    "options": [
+      "Partija siekianti pritraukti kuo daugiau rinkėjų neatsižvelgiant į jų socialinį sluoksnį; išskyrė O. Kirchheimeris",
+      "Partija atstovaujanti konkrečiai socialinei klasei; išskyrė M. Duvergeris",
+      "Partija finansuojama valstybės; išskyrė R. Katzas ir P. Mairas",
+      "Partija vienijanti darbo ir kapitalo interesus; išskyrė S. Lipset"
+    ],
+    "correct": 0,
+    "explanation": "'Catch-all' (visuotinio tipo) partiją, siekiančią pritraukti rinkėjus iš visų socialinių sluoksnių, išskyrė O. Kirchheimeris po Antrojo pasaulinio karo."
+  },
+  {
+    "id": 21,
+    "category": "Politologija",
+    "question": "Kaip M. Duvergeris klasifikavo partines sistemas pagal partijų skaičių?",
+    "options": [
+      "Į vienapartines, anglosaksų dvipartines ir daugiapartines",
+      "Į hegemoninę, dvipartinę ir ribotą pliuralizmą",
+      "Į kairės, centro ir dešinės sistemas",
+      "Į parlamentines, prezidentines ir mišrias"
+    ],
+    "correct": 0,
+    "explanation": "M. Duvergeris (1954) partines sistemas suskirstė į tris tipus: vienpartines, anglosaksų dvipartines ir daugiapartines."
+  },
+  {
+    "id": 22,
+    "category": "Politologija",
+    "question": "Pagal S. Lipsetą ir S. Rokkaną, kurios socialinės takoskryros pagrindu Vakarų Europoje susiformavo socialistų ir liberalų partijos?",
+    "options": [
+      "Bažnyčios / valstybės takoskyros",
+      "Miesto / kaimo takoskyros",
+      "Darbo / kapitalo takoskyros",
+      "Centro / periferijos takoskyros"
+    ],
+    "correct": 2,
+    "explanation": "Pagal Lipsetą ir Rokkaną socialistų ir liberalų partijos susiformavo darbo / kapitalo (klasinės) takoskryros pagrindu."
+  },
+  {
+    "id": 23,
+    "category": "Politologija",
+    "question": "Kiek socialinių takoskyrų Lipset ir Rokkan išskyrė kaip partijų susiformavimo pagrindą?",
+    "options": [
+      "2 takoskyros",
+      "3 takoskyros",
+      "4 takoskyros",
+      "5 takoskyros"
+    ],
+    "correct": 2,
+    "explanation": "Lipset ir Rokkan išskyrė 4 takoskyras: darbo/kapitalo, bažnyčios/valstybės, miesto/kaimo ir centro/periferijos."
+  },
+  {
+    "id": 24,
+    "category": "Politologija",
+    "question": "Kokie trys interesų grupių ir valdžios sąveikos modeliai išskiriami politikos moksle?",
+    "options": [
+      "Pliuralistinis, korporatyvistinis ir klientistinis",
+      "Elitistinis, demokratinis ir autoritarinis",
+      "Rinkos, valstybinis ir mišrus",
+      "Liberalus, konservatyvus ir socialistinis"
+    ],
+    "correct": 0,
+    "explanation": "Politikos moksle išskiriami trys interesų grupių ir valdžios sąveikos modeliai: pliuralistinis, korporatyvistinis ir klientistinis."
+  },
+  {
+    "id": 25,
+    "category": "Politologija",
+    "question": "Kuriame kongrese (ir kuriaisiais metais) politikos mokslas buvo įteisintas kaip atskira disciplina?",
+    "options": [
+      "Paryžiaus mokslų akademijoje 1903 m.",
+      "UNESCO kongrese 1948 m.",
+      "Amerikos politikos mokslų asociacijos posėdyje 1903 m.",
+      "Jungtinių Tautų konferencijoje 1945 m."
+    ],
+    "correct": 1,
+    "explanation": "Politikos mokslas kaip atskira disciplina buvo įteisintas (anot vyraujančio požiūrio) UNESCO kongrese 1948 m."
+  },
+  {
+    "id": 26,
+    "category": "Politologija",
+    "question": "Kas laikomas konservatizmo kaip politinės ideologijos pradininku?",
+    "options": [
+      "Niccolò Machiavelli",
+      "Thomas Hobbes",
+      "Edmundas Berkas",
+      "John Locke"
+    ],
+    "correct": 2,
+    "explanation": "Konservatizmo pradininku laikytinas anglų mąstytojas ir politikas Edmundas Berkas, parašęs 'Apmąstymai apie prancūzų revoliuciją'."
+  },
+  {
+    "id": 27,
+    "category": "Politologija",
+    "question": "Kokiomis sąvokomis politologijoje apibūdinami šiuolaikiniai politiniai režimų tipai (pagal vieną populiarų požiūrį)?",
+    "options": [
+      "Demokratiniai, autoritariniai ir totalitariniai",
+      "Kapitalistiniai, socialistiniai ir komunistiniai",
+      "Respublikos, monarchijos ir diktatūros",
+      "Prezidentiniai, parlamentiniai ir mišrūs"
+    ],
+    "correct": 0,
+    "explanation": "Šiuolaikiniai politiniai režimai paprastai skirstomi į tris tipus: demokratinius, autoritarinius ir totalitarinius."
+  },
+  {
+    "id": 28,
+    "category": "Politologija",
+    "question": "Ką Š. Aizenštadtas išskyrė kaip šiuolaikines politines sistemas (3 tipai)?",
+    "options": [
+      "Parlamentines, prezidentines ir mišrias",
+      "Totalitarines, autoritarines ir demokratines",
+      "Kapitalistines, komunistines ir teokratines",
+      "Monarchijas, respublikas ir federacijas"
+    ],
+    "correct": 1,
+    "explanation": "Aizenštadtas tarp šiuolaikinių politinių sistemų išskyrė totalitarines, autoritarines ir demokratines."
+  },
+  {
+    "id": 29,
+    "category": "Politologija",
+    "question": "Kuo skiriasi politinė partija nuo interesų grupės?",
+    "options": [
+      "Partija neturi narių, interesų grupė – turi",
+      "Partija siekia valdžios ir formuoti vyriausybę, interesų grupė to nedaro",
+      "Interesų grupė dalyvauja rinkimuose, partija – ne",
+      "Partija atstovauja visuomenei, interesų grupė – tik verslo sektoriui"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindinis skirtumas yra tai, kad politinės partijos tikslas – siekti valdžios ir formuoti vyriausybę, o interesų grupės į valdžią nesiekia, tik daro spaudimą."
+  },
+  {
+    "id": 30,
+    "category": "Politologija",
+    "question": "Kaip kairės ir dešinės skalė naudojama politinėms partijoms apibūdinti?",
+    "options": [
+      "Pagal partijos dydį ir narių skaičių",
+      "Pagal požiūrį į socialinę ekonominę politiką: valstybinę ar privatinę nuosavybę, valstybės vaidmenį ekonomikoje, turto perskirstymą",
+      "Pagal požiūrį į užsienio politiką ir kariuomenę",
+      "Pagal partijos amžių ir istorinę tradiciją"
+    ],
+    "correct": 1,
+    "explanation": "Kairės-dešinės skalė apibūdina partijų požiūrį į socialinę ekonominę politiką: valstybinę ar privatinę nuosavybę, valstybės vaidmenį ekonomikoje ir turto perskirstymą."
+  },
+  {
+    "id": 31,
+    "category": "Politologija",
+    "question": "Kokios yra dvi pagrindinės politologijos funkcijų grupės (vienas iš požiūrių)?",
+    "options": [
+      "Normatyvinės ir empirinės funkcijos",
+      "Instrumentinės ir pažintinės funkcijos",
+      "Aprašomosios ir prognozavimo funkcijos",
+      "Ideologinės ir metodologinės funkcijos"
+    ],
+    "correct": 1,
+    "explanation": "Vienas iš požiūrių politologijos funkcijas skirsto į instrumentines (atsakymai į praktinės politikos klausimus) ir pažintines (politinių reiškinių pažinimas ir aiškinimas)."
+  },
+  {
+    "id": 32,
+    "category": "Politologija",
+    "question": "Kas buvo demokratinei parlamentinei politinei sistemai NEBŪDINGA (pagal pateiktą medžiagą)?",
+    "options": [
+      "Gali būti konstitucinė parlamentinė monarchija",
+      "Vykdomosios valdžios galva yra prezidentas",
+      "Nėra griežtai atskirta įstatymų leidžiamoji ir vykdomoji valdžia",
+      "Vykdomosios valdžios galva yra premjeras"
+    ],
+    "correct": 1,
+    "explanation": "Demokratinei parlamentinei sistemai NEBŪDINGA tai, kad vykdomosios valdžios galva yra prezidentas – tai būdinga prezidentinei, o ne parlamentinei sistemai."
+  },
+  {
+    "id": 33,
+    "category": "Politologija",
+    "question": "Kuo skiriasi suvereniteto vidinis aspektas nuo išorinio?",
+    "options": [
+      "Vidinis suverenitetas – tautos valdžia šalies viduje, išorinis – nepriklausomybė santykiuose su kitomis valstybėmis",
+      "Vidinis suverenitetas – konstitucija, išorinis – kariuomenė",
+      "Vidinis – ekonominė, išorinis – politinė nepriklausomybė",
+      "Vidinis – parlamento galia, išorinis – prezidento įgaliojimai"
+    ],
+    "correct": 0,
+    "explanation": "Vidinis suverenitetas reiškia aukščiausią valdžią šalies viduje, o išorinis suverenitetas lygus nepriklausomybei – suvereniai santykiuose su kitomis valstybėmis."
+  },
+  {
+    "id": 34,
+    "category": "Politologija",
+    "question": "Kuris valdžios legitimumo tipas pagal M. Weberį grindžiamas asmenine lyderio charizma?",
+    "options": [
+      "Tradicinis legitimumas",
+      "Racionalusis-teisinis legitimumas",
+      "Charizmatinis legitimumas",
+      "Demokratinis legitimumas"
+    ],
+    "correct": 2,
+    "explanation": "M. Weberis išskyrė charizmatinį legitimumą, grindžiamą asmenine lyderio charizma ir pasekėjų tikėjimu jo ypatingomis savybėmis."
+  },
+  {
+    "id": 35,
+    "category": "Politologija",
+    "question": "Kaip vadinamas valstybės valdymo formos tipas, kai vykdomosios valdžios galva yra prezidentas ir galioja griežtas valdžių padalijimo principas?",
+    "options": [
+      "Parlamentinė respublika",
+      "Pusiau prezidentinė sistema",
+      "Prezidentinė respublika",
+      "Konstitucinė monarchija"
+    ],
+    "correct": 2,
+    "explanation": "Prezidentinei respublikai būdingas griežtas valdžių padalijimo principas, vykdomosios valdžios galva yra prezidentas, renkamas visuotiniuose rinkimuose."
+  },
+  {
+    "id": 36,
+    "category": "Politologija",
+    "question": "Pagal kurią valdymo formą vyriausybė yra atskaitinga tiek parlamentui, tiek prezidentui?",
+    "options": [
+      "Parlamentinė respublika",
+      "Prezidentinė respublika",
+      "Pusiau prezidentinė (mišri) respublika",
+      "Konstitucinė parlamentinė monarchija"
+    ],
+    "correct": 2,
+    "explanation": "Pusiau prezidentinėje (mišrioje) respublikoje vyriausybė yra atskaitinga tiek parlamentui, tiek prezidentui."
+  },
+  {
+    "id": 37,
+    "category": "Politologija",
+    "question": "Kas yra politinė sistema?",
+    "options": [
+      "Valstybės konstitucija ir teisinė sistema",
+      "Valdančiosios partijos ideologinė programa",
+      "Visų politiniame procese dalyvaujančių institucijų, veikėjų ir jų tarpusavio santykių visuma",
+      "Rinkimų sistema ir balsavimo tvarka"
+    ],
+    "correct": 2,
+    "explanation": "Politinė sistema – tai visų politiniame procese dalyvaujančių institucijų, veikėjų ir jų tarpusavio santykių visuma, per kurią visuomenėje priimami ir įgyvendinami sprendimai."
+  },
+  {
+    "id": 38,
+    "category": "Politologija",
+    "question": "Kuri iš nurodytų partijų rūšių yra finansuojama valstybės ir sudaro kartelį mažindama tarpusavio konkurenciją?",
+    "options": [
+      "Kadrinė (elito) partija",
+      "Masinė partija",
+      "Visuotinė ('catch-all') partija",
+      "Kartelio tipo partija"
+    ],
+    "correct": 3,
+    "explanation": "Kartelio tipo partijas (R. Katzas ir P. Mairas) finansuoja valstybė, šios partijos mažina tarpusavio konkurenciją ir politika laikoma profesija."
+  }
+]
