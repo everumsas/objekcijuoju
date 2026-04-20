@@ -1,5 +1,5 @@
 const STORAGE_KEY = "objekcijuoju_progress_multi_v1";
-const QUESTIONS_VERSION = "20260416-3";
+const QUESTIONS_VERSION = "20260416-4";
 
 const QUESTION_FILES = [
   "./questions/administracine_teise.json",
@@ -35,6 +35,7 @@ let answered = false;
 let recentQuestionIds = [];
 
 const RECENT_QUESTION_BLOCK_COUNT = 2;
+const MASTERED_WEIGHT = 2;
 
 async function init() {
   await loadQuestions();
@@ -153,8 +154,14 @@ function updateStats() {
 
 function getQuestionWeight(question) {
   const p = progress[question._uid];
-  let weight = 1;
 
+  if (!p) return 7;
+
+  if (p.mastered) {
+    return MASTERED_WEIGHT;
+  }
+
+  let weight = 1;
   weight += p.wrongTotal * 4;
   weight += Math.max(0, 3 - p.streak) * 2;
 
@@ -184,14 +191,12 @@ function pickRandomWeightedQuestion(pool) {
 }
 
 function pickNextQuestion() {
-  const available = questions.filter(q => !progress[q._uid]?.mastered);
+  if (questions.length === 0) return null;
 
-  if (available.length === 0) return null;
-
-  let filtered = available.filter(q => !recentQuestionIds.includes(q._uid));
+  let filtered = questions.filter(q => !recentQuestionIds.includes(q._uid));
 
   if (filtered.length === 0) {
-    filtered = available;
+    filtered = questions;
   }
 
   return pickRandomWeightedQuestion(filtered);
@@ -243,7 +248,7 @@ function showQuestion() {
     document.body.classList.remove("quiz-active");
     document.getElementById("quizPanel").classList.add("hidden");
     document.getElementById("startPanel").classList.remove("hidden");
-    alert("Puiku. Šiuo metu visi klausimai pažymėti kaip išmokti.");
+    alert("Nepavyko parinkti klausimo.");
     window.scrollTo({ top: 0, behavior: "smooth" });
     return;
   }
@@ -307,7 +312,10 @@ function handleAnswer(selectedIndex) {
   if (isCorrect) {
     p.correctTotal += 1;
     p.streak += 1;
-    if (p.streak >= 3) p.mastered = true;
+
+    if (p.streak >= 3) {
+      p.mastered = true;
+    }
 
     resultTitle.textContent = "Teisingai";
     resultTitle.className = "result-title good";
