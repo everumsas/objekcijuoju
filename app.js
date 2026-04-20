@@ -33,19 +33,24 @@ let currentShuffledOptions = [];
 let currentCorrectIndex = null;
 let answered = false;
 let recentQuestionIds = [];
+let failedQuestionFiles = [];
 
 const RECENT_QUESTION_BLOCK_COUNT = 2;
 const MASTERED_WEIGHT = 2;
 
 async function init() {
+  setLoadingState("Kraunami klausimai...", true);
   await loadQuestions();
   registerEvents();
   updateStats();
   renderVersion();
+  renderLoadStatus();
+  registerServiceWorker();
 }
 
 async function loadQuestions() {
   questions = [];
+  failedQuestionFiles = [];
 
   for (const filePath of QUESTION_FILES) {
     try {
@@ -55,6 +60,7 @@ async function loadQuestions() {
 
       if (!response.ok) {
         console.error(`Nepavyko užkrauti failo: ${filePath}`);
+        failedQuestionFiles.push(filePath);
         continue;
       }
 
@@ -62,6 +68,7 @@ async function loadQuestions() {
 
       if (!Array.isArray(data)) {
         console.error(`Failas nėra JSON masyvas: ${filePath}`);
+        failedQuestionFiles.push(filePath);
         continue;
       }
 
@@ -78,6 +85,7 @@ async function loadQuestions() {
       console.log(`Užkrauta iš ${fileName}: ${normalizedQuestions.length} klausimų`);
     } catch (error) {
       console.error(`Klaida kraunant ${filePath}:`, error);
+      failedQuestionFiles.push(filePath);
     }
   }
 
@@ -108,6 +116,36 @@ async function loadQuestions() {
   saveProgress();
 
   console.log(`Viso užkrauta klausimų: ${questions.length}`);
+}
+
+function setLoadingState(message, disableStart) {
+  const statusEl = document.getElementById("loadStatus");
+  const startBtn = document.getElementById("startBtn");
+
+  if (statusEl) {
+    statusEl.textContent = message;
+  }
+
+  if (startBtn) {
+    startBtn.disabled = disableStart;
+  }
+}
+
+function renderLoadStatus() {
+  if (questions.length === 0) {
+    setLoadingState("Klausimų užkrauti nepavyko. Patikrink ryšį ir perkrauk puslapį.", true);
+    return;
+  }
+
+  if (failedQuestionFiles.length > 0) {
+    setLoadingState(
+      `Dalis klausimų neužsikrovė (${failedQuestionFiles.length} fail.). Viktorina veiks, bet ne su pilnu rinkiniu.`,
+      false
+    );
+    return;
+  }
+
+  setLoadingState(`Užkrauta ${questions.length} klausimų. Galima pradėti.`, false);
 }
 
 function getFileNameWithoutExtension(path) {
@@ -234,6 +272,8 @@ function scrollToQuizTop() {
 }
 
 function startQuiz() {
+  if (questions.length === 0) return;
+
   document.body.classList.add("quiz-active");
   document.getElementById("startPanel").classList.add("hidden");
   document.getElementById("quizPanel").classList.remove("hidden");
@@ -274,7 +314,10 @@ function showQuestion() {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "answer-btn";
-    button.innerHTML = `<strong>${String.fromCharCode(65 + index)}.</strong> ${option}`;
+    const label = document.createElement("strong");
+    label.textContent = `${String.fromCharCode(65 + index)}. `;
+    button.appendChild(label);
+    button.append(option);
     button.addEventListener("click", () => handleAnswer(index));
     answersContainer.appendChild(button);
   });
@@ -382,6 +425,16 @@ function renderVersion() {
   if (!versionEl) return;
 
   versionEl.textContent = `Versija: ${QUESTIONS_VERSION}`;
+}
+
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) return;
+
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./service-worker.js").catch(error => {
+      console.error("Nepavyko užregistruoti service worker:", error);
+    });
+  });
 }
 
 init();

@@ -110,6 +110,11 @@ body {
   margin-bottom: 10px;
 }
 
+.load-status {
+  min-height: 24px;
+  margin: 10px 0 0;
+}
+
 .progress-bar {
   width: 100%;
   height: 14px;
