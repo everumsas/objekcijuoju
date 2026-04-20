@@ -4,12 +4,12 @@
     "category": "Vartotojų teisės",
     "question": "Vartotojas yra:",
     "options": [
-      "Bet kuris asmuo",
-      "Fizinis asmuo, sudarantis sutartis ne verslo tikslais",
-      "Tik verslininkas",
-      "Valstybės institucija"
+      "Bet kuris asmuo, sudarantis bet kokias sutartis",
+      "Juridinis asmuo, veikiantis profesiniais tikslais",
+      "Fizinis asmuo, sudarantis sutartis ir verslo, ir ne verslo tikslais",
+      "Fizinis asmuo, sudarantis sutartis ne verslo tikslais"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Vartotojas – fizinis asmuo, veikiantis ne verslo tikslais."
   },
   {
@@ -17,12 +17,12 @@
     "category": "Vartotojų teisės",
     "question": "Vartotojų teisės saugo:",
     "options": [
-      "Tik verslą",
+      "Stipresniąją šalį sutartiniuose santykiuose",
+      "Abi sutarties šalis vienodai",
       "Silpnesnę sutarties šalį",
-      "Valstybę",
-      "Teismus"
+      "Tik profesionalius rinkos dalyvius"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Vartotojas laikomas silpnesne šalimi."
   },
   {
@@ -30,12 +30,12 @@
     "category": "Vartotojų teisės",
     "question": "Pagrindinis vartotojų teisių tikslas:",
     "options": [
-      "Didinti pelną",
+      "Suderinti verslo ir vartotojų interesus be prioriteto vienai šaliai",
+      "Apriboti rinkos dalyvių konkurenciją",
       "Užtikrinti vartotojų saugumą ir interesus",
-      "Reguliuoti verslą",
-      "Bausti įmones"
+      "Reguliuoti pardavėjų kainodaros politiką"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Svarbiausia – vartotojų apsauga."
   },
   {
@@ -43,10 +43,10 @@
     "category": "Vartotojų teisės",
     "question": "Vartotojas turi teisę į:",
     "options": [
-      "Tik kainą",
+      "Kainodaros skaidrumą ir sutarčių derybų teisę",
       "Saugias prekes ir paslaugas",
-      "Tik informaciją",
-      "Tik reklamą"
+      "Kainodaros kontrolę ir konkurencinę apsaugą",
+      "Kokybiškas prekes ir grąžinimo galimybę be jokių sąlygų"
     ],
     "correct": 1,
     "explanation": "Saugumas yra viena pagrindinių teisių."
@@ -56,12 +56,12 @@
     "category": "Vartotojų teisės",
     "question": "Nesąžininga komercinė veikla yra:",
     "options": [
-      "Teisėta reklama",
-      "Klaidinanti ar agresyvi veikla vartotojų atžvilgiu",
-      "Akcijos",
-      "Nuolaidos"
+      "Palyginimo tikslais pateikiama informacija apie konkurentų kainas",
+      "Verslo komunikacija, pagražinanti prekės savybes",
+      "Informaciniai pranešimai apie akcijų sąlygas",
+      "Klaidinanti ar agresyvi veikla vartotojų atžvilgiu"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Tai klaidinimas ar spaudimas vartotojui."
   },
   {
@@ -69,12 +69,12 @@
     "category": "Vartotojų teisės",
     "question": "Klaidinanti reklama:",
     "options": [
-      "Visada leidžiama",
-      "Pateikia neteisingą informaciją",
-      "Yra tik nuomonė",
-      "Neturi reikšmės"
+      "Leidžiama, jei pažymėta kaip reklama",
+      "Draudžiama tik jei sukelia tiesioginę materialinę žalą",
+      "Leidžiama reklamuojant paslaugas, bet ne prekes",
+      "Pateikia neteisingą informaciją"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Klaidinimas draudžiamas."
   },
   {
@@ -82,12 +82,12 @@
     "category": "Vartotojų teisės",
     "question": "Agresyvi komercinė veikla:",
     "options": [
-      "Informavimas",
       "Spaudimas ar įtaka vartotojo pasirinkimui",
-      "Reklama",
-      "Nuolaidos"
+      "Pagrįstas pardavimo skatinimas teisingais teiginiais",
+      "Lyginamoji reklama su tikromis savybėmis",
+      "Informaciniai renginiai ir produktų pristatymai"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Naudojamas spaudimas vartotojui."
   },
   {
@@ -96,11 +96,11 @@
     "question": "Vartotojas turi teisę atsisakyti sutarties per:",
     "options": [
       "3 dienas",
-      "14 dienų",
       "30 dienų",
+      "14 dienų",
       "1 dieną"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Dažniausiai taikomas 14 dienų terminas."
   },
   {
@@ -108,12 +108,12 @@
     "category": "Vartotojų teisės",
     "question": "Nuotolinė sutartis yra:",
     "options": [
-      "Sudaryta parduotuvėje",
       "Sudaryta internetu ar telefonu",
-      "Sudaryta teisme",
-      "Sudaryta valstybėje"
+      "Sudaryta pardavėjo verslo patalpose",
+      "Sudaryta tarpininko biure dalyvaujant abiem šalims",
+      "Sudaryta raštu notaro patvirtinta tvarka"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Nuotolinės sutartys sudaromos be fizinio kontakto."
   },
   {
@@ -121,12 +121,12 @@
     "category": "Vartotojų teisės",
     "question": "Vartotojas turi teisę gauti informaciją apie:",
     "options": [
-      "Tik kainą",
       "Prekę ar paslaugą",
-      "Tik pardavėją",
-      "Tik akcijas"
+      "Tik sutarties sąlygas ir kainodaros politiką",
+      "Tik kainą ir pristatymo terminus",
+      "Tik pardavėjo registracijos duomenis"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Privaloma pateikti išsamią informaciją."
   },
   {
@@ -134,10 +134,10 @@
     "category": "Vartotojų teisės",
     "question": "Nekokybiškos prekės atveju vartotojas gali:",
     "options": [
-      "Nieko nedaryti",
+      "Pirmiausia reikalauti kainos sumažinimo",
       "Reikalauti taisymo, keitimo ar pinigų grąžinimo",
-      "Tik skųstis",
-      "Tik laukti"
+      "Tik kreiptis į VVTAT per 14 dienų",
+      "Raštu pareikšti pretenziją per 3 darbo dienas"
     ],
     "correct": 1,
     "explanation": "Vartotojas turi kelias gynimo priemones."
@@ -148,11 +148,11 @@
     "question": "Garantija reiškia:",
     "options": [
       "Reklamą",
-      "Įsipareigojimą dėl prekės kokybės",
       "Nuolaidą",
-      "Akciją"
+      "Akciją",
+      "Įsipareigojimą dėl prekės kokybės"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Tai pardavėjo ar gamintojo įsipareigojimas."
   },
   {
@@ -161,11 +161,11 @@
     "question": "Vartotojų teisių apsaugą Lietuvoje vykdo:",
     "options": [
       "Policija",
-      "Valstybinė vartotojų teisių apsaugos tarnyba",
       "Teismai tik",
+      "Valstybinė vartotojų teisių apsaugos tarnyba",
       "Verslas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Pagrindinė institucija – VVTAT."
   },
   {
@@ -173,12 +173,12 @@
     "category": "Vartotojų teisės",
     "question": "Vartotojas gali ginti savo teises:",
     "options": [
-      "Tik pats",
+      "Tik per vartotojų asociacijas kolektyviniuose ginčuose",
+      "Tik mediacijos būdu iki teismo",
       "Per institucijas ar teismą",
-      "Tik per verslą",
-      "Negali"
+      "Tik per valstybinės kontrolės institucijas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Yra kelios gynimo formos."
   },
   {
@@ -186,12 +186,12 @@
     "category": "Vartotojų teisės",
     "question": "Nesąžiningos sutarties sąlygos:",
     "options": [
-      "Visada galioja",
       "Yra negaliojančios",
+      "Visada galioja",
       "Yra rekomendacinės",
       "Neturi reikšmės"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Jos laikomos negaliojančiomis."
   },
   {
@@ -200,11 +200,11 @@
     "question": "Vartotojų teisės yra:",
     "options": [
       "Privataus pobūdžio",
-      "Viešojo intereso dalis",
-      "Verslo interesas",
-      "Tik ekonominės"
+      "Vienodai privataus ir viešojo sektoriaus interesu",
+      "Tik ekonominės prigimties normos",
+      "Viešojo intereso dalis"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Jos saugo viešąjį interesą."
   },
   {
@@ -212,10 +212,10 @@
     "category": "Vartotojų teisės",
     "question": "Prekė laikoma nekokybiška, jei:",
     "options": [
-      "Yra brangi",
+      "Neatitinka analogiškų prekių rinkos vidurkio",
       "Neatitinka sutarties ar kokybės reikalavimų",
-      "Yra sena",
-      "Yra reklamuojama"
+      "Neturi visų vartotojo pageidaujamų savybių",
+      "Neatitinka gamintojo deklaruotos gamybos datos"
     ],
     "correct": 1,
     "explanation": "Svarbu atitikimas reikalavimams."
@@ -225,12 +225,12 @@
     "category": "Vartotojų teisės",
     "question": "Vartotojų teisės Europos Sąjungoje:",
     "options": [
-      "Nereguliuojamos",
       "Vienodinamos direktyvomis",
+      "Nereguliuojamos",
       "Taikomos tik Lietuvoje",
       "Neturi galios"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "ES direktyvos harmonizuoja vartotojų apsaugą."
   },
   {
@@ -251,12 +251,12 @@
     "category": "Vartotojų teisės",
     "question": "Vartotojas gali kreiptis į teismą:",
     "options": [
-      "Tik su advokatu",
       "Jei pažeistos jo teisės",
-      "Tik valstybės leidimu",
-      "Negali"
+      "Tik po išankstinio skundo VVTAT ir negavus atsakymo",
+      "Tik dėl žalos, viršijančios 1000 EUR",
+      "Tik per vartotojų asociacijas ar advokatus"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Teismas – viena iš gynimo priemonių."
   },
   {
@@ -291,11 +291,11 @@
     "question": "Kiek laiko vartotojas atsako už prekės vertės sumažėjimą?",
     "options": [
       "Tik jei prekę naudojo daugiau nei metus",
-      "Jei su preke elgėsi daugiau, nei būtina jos pobūdžiui, savybėms ir veikimui nustatyti",
       "Niekada neatsako",
+      "Jei su preke elgėsi daugiau, nei būtina jos pobūdžiui, savybėms ir veikimui nustatyti",
       "Atsako visada, net jei tik apžiūrėjo prekę"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Vartotojas atsako tik už perteklinį naudojimą, viršijantį įprastą apžiūrą."
   },
   {
@@ -303,12 +303,12 @@
     "category": "Vartotojų teisės",
     "question": "Įstatyminė vartotojo teisė reikšti reikalavimus dėl prekės trūkumų paprastai galioja:",
     "options": [
+      "2 metus",
       "6 mėnesius",
       "1 metus",
-      "2 metus",
       "5 metus"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Paprastai vartotojo teisės dėl netinkamos kokybės daikto galioja 2 metus."
   },
   {
@@ -317,11 +317,11 @@
     "question": "Pirmiausia vartotojas dėl netinkamos kokybės prekės paprastai gali reikalauti:",
     "options": [
       "Tik baudos pardavėjui",
-      "Taisymo arba pakeitimo",
       "Visada tik pinigų grąžinimo",
-      "Tik moralinės žalos"
+      "Tik moralinės žalos",
+      "Taisymo arba pakeitimo"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Pirmiausia dažniausiai taikomi taisymas arba pakeitimas, jei tai įmanoma."
   },
   {
@@ -330,11 +330,11 @@
     "question": "Vartotojas gali reikalauti kainos sumažinimo ar sutarties nutraukimo, kai:",
     "options": [
       "Jam tiesiog nepatiko prekės spalva",
-      "Trūkumas yra pašalintas laiku ir tinkamai",
       "Pardavėjas netaiso, nekeičia arba trūkumas yra esminis",
+      "Trūkumas yra pašalintas laiku ir tinkamai",
       "Praėjo viena diena nuo pirkimo"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Šios gynimo priemonės taikomos, kai pirminės priemonės neveiksmingos arba trūkumas esminis."
   },
   {
@@ -356,11 +356,11 @@
     "question": "Nesąžininga sutarties sąlyga vartojimo sutartyje:",
     "options": [
       "Automatiškai tampa privaloma, jei vartotojas pasirašė",
-      "Negalioja vartotojui",
       "Galioja tik pusę termino",
-      "Tampa rekomendacija"
+      "Tampa rekomendacija",
+      "Negalioja vartotojui"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Nesąžiningos sąlygos vartotojui nėra privalomos."
   },
   {
@@ -369,11 +369,11 @@
     "question": "Jei pardavėjas neinformavo vartotojo apie teisę atsisakyti nuotolinės sutarties, tai:",
     "options": [
       "Vartotojas vis tiek turi tik 14 dienų terminą",
-      "Sutartis automatiškai tampa negaliojanti",
       "Atsisakymo terminas gali pailgėti",
+      "Sutartis automatiškai tampa negaliojanti",
       "Vartotojas praranda visas teises"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Neinformavus apie atsisakymo teisę, terminas gali būti pratęsiamas."
   },
   {
@@ -382,11 +382,11 @@
     "question": "Vartotojų ginčai ne teismo tvarka paprastai sprendžiami kreipiantis į:",
     "options": [
       "Vyriausiąją rinkimų komisiją",
-      "Valstybinę vartotojų teisių apsaugos tarnybą",
       "Konstitucinį Teismą",
+      "Valstybinę vartotojų teisių apsaugos tarnybą",
       "Notarą"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "VVTAT yra pagrindinė vartotojų ginčų nagrinėjimo institucija ne teismo tvarka."
   }
 ]

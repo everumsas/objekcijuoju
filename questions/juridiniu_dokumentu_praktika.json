@@ -4,12 +4,12 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Juridinis dokumentas yra:",
     "options": [
-      "Bet koks tekstas",
       "Dokumentas, sukuriantis, pakeičiantis ar patvirtinantis teisinius santykius",
+      "Bet koks tekstas",
       "Tik laiškas",
       "Tik teismo sprendimas"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Juridiniai dokumentai turi teisinę reikšmę."
   },
   {
@@ -17,12 +17,12 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Kuris elementas yra būtinas daugeliui juridinių dokumentų?",
     "options": [
-      "Nuotrauka",
-      "Data",
-      "Spalva",
-      "Logo"
+      "Antspaudas",
+      "Priedai",
+      "Pavadinimas",
+      "Data"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Data yra esminis dokumento rekvizitas."
   },
   {
@@ -31,11 +31,11 @@
     "question": "Dokumento rekvizitai yra:",
     "options": [
       "Tik tekstas",
-      "Privalomi dokumento elementai",
       "Papildoma informacija",
-      "Tik parašas"
+      "Tik parašas",
+      "Privalomi dokumento elementai"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Rekvizitai – būtini elementai."
   },
   {
@@ -56,12 +56,12 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Dokumento numeris skirtas:",
     "options": [
-      "Papuošti dokumentą",
+      "Registruoti dokumentą archyve",
+      "Nustatyti dokumento galiojimo trukmę",
       "Identifikuoti dokumentą",
-      "Sutrumpinti tekstą",
-      "Nustatyti datą"
+      "Nustatyti priėmimo datą"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Numeris leidžia identifikuoti dokumentą."
   },
   {
@@ -69,10 +69,10 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Oficialus dokumentas pasižymi tuo, kad:",
     "options": [
-      "Yra neformalus",
+      "Yra neformalus ir nesukelia pareigų",
       "Sukuria teisines pasekmes",
-      "Neturi reikšmės",
-      "Yra tik informacinis"
+      "Turi apibrėžtą struktūrą, bet neįpareigoja šalių",
+      "Yra tik informacinis be juridinės galios"
     ],
     "correct": 1,
     "explanation": "Oficialūs dokumentai turi teisinę galią."
@@ -82,12 +82,12 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Kuris teiginys apie dokumento kalbą yra teisingas?",
     "options": [
-      "Gali būti bet kokia",
-      "Turi būti aiški ir tiksli",
-      "Turi būti ilga",
-      "Turi būti sudėtinga"
+      "Turi būti formuluojama be specialiųjų teisinių terminų",
+      "Turi atitikti nustatytą minimalų apimties reikalavimą",
+      "Turi būti suprantama tik specialistams",
+      "Turi būti aiški ir tiksli"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Svarbiausia – aiškumas ir tikslumas."
   },
   {
@@ -95,12 +95,12 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Dokumentų rūšys:",
     "options": [
-      "Tik oficialūs",
+      "Viešieji ir valstybiniai",
+      "Pirminiai ir išvestiniai",
       "Oficialūs ir neoficialūs",
-      "Tik elektroniniai",
-      "Tik rašytiniai"
+      "Skubūs ir įprastiniai"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Skirstoma į oficialius ir neoficialius."
   },
   {
@@ -108,12 +108,12 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Elektroninis dokumentas:",
     "options": [
-      "Neturi galios",
+      "Gali būti naudojamas tik kaip įrodymų papildas",
+      "Turi teisinę galią tik notariškai patvirtintas",
       "Gali turėti tokią pačią galią kaip popierinis",
-      "Yra tik kopija",
-      "Negalioja"
+      "Yra lygiavertis tik viešojo administravimo srityje"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Elektroniniai dokumentai turi juridinę galią."
   },
   {
@@ -121,26 +121,25 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Dokumento struktūra turi būti:",
     "options": [
-      "Chaotiška",
       "Aiški ir logiška",
-      "Ilga",
-      "Sudėtinga"
+      "Standartizuota pagal valstybės nustatytus privalomus šablonus",
+      "Detalizuota su kuo gausesniais priedais",
+      "Lanksti ir pritaikoma prie situacijos be fiksuotų dalių"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Svarbus aiškumas."
   },
-
   {
     "id": 11,
     "category": "Juridinių dokumentų praktika",
     "question": "Kuris rekvizitas pirmiausia leidžia nustatyti dokumento priėmimo momentą?",
     "options": [
-      "Dokumento numeris",
       "Dokumento data",
+      "Dokumento numeris",
       "Parašas",
       "Pavadinimas"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Data rodo dokumento priėmimo laiką."
   },
   {
@@ -149,11 +148,11 @@
     "question": "Kuris teiginys apie parašą yra tiksliausias?",
     "options": [
       "Parašas yra tik formalumas",
-      "Parašas patvirtina dokumento turinio autentiškumą ir atsakomybę",
       "Parašas reikalingas tik elektroniniuose dokumentuose",
+      "Parašas patvirtina dokumento turinio autentiškumą ir atsakomybę",
       "Parašas neturi teisinės reikšmės"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Parašas patvirtina turinį ir atsakomybę."
   },
   {
@@ -174,12 +173,12 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Kuris teiginys apie dokumentų rekvizitus yra tiksliausias?",
     "options": [
-      "Rekvizitai yra neprivalomi",
       "Rekvizitai užtikrina dokumento teisinę galią ir identifikavimą",
+      "Rekvizitai yra neprivalomi",
       "Rekvizitai reikalingi tik grožiui",
       "Rekvizitai naudojami tik elektroniniuose dokumentuose"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Rekvizitai būtini dokumento galiojimui."
   },
   {
@@ -187,10 +186,10 @@
     "category": "Juridinių dokumentų praktika",
     "question": "Kuris teiginys apie juridinių dokumentų reikšmę yra teisingas?",
     "options": [
-      "Juridiniai dokumentai neturi teisinės galios",
+      "Juridiniai dokumentai tik fiksuoja faktus ir neturi privalomosios galios",
       "Juridiniai dokumentai sukelia teisines pasekmes",
-      "Juridiniai dokumentai yra tik informaciniai",
-      "Juridiniai dokumentai naudojami tik teismuose"
+      "Juridiniai dokumentai įrodo faktus, bet nesukuria naujų teisių",
+      "Juridiniai dokumentai naudojami tik kaip įrodymų šaltinis teisme"
     ],
     "correct": 1,
     "explanation": "Jie sukuria teisinius santykius ar pasekmes."

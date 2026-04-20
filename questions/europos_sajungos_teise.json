@@ -5,11 +5,11 @@
     "question": "Ar Europos Sąjunga yra EŽTK narė?",
     "options": [
       "Taip, nuo Lisabonos sutarties įsigaliojimo",
-      "Ne, nėra",
       "Taip, bet tik ribotai",
+      "Ne, nėra",
       "Tik Europos Komisija yra EŽTK narė"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Koliokviumo klausimų medžiagoje aiškiai nurodyta, kad ES nėra EŽTK narė."
   },
   {
@@ -18,11 +18,11 @@
     "question": "Kokia sutartimi buvo oficialiai įkurta Europos Sąjunga?",
     "options": [
       "Romos sutartimi",
-      "Mastrichto sutartimi",
       "Nicos sutartimi",
-      "Lisabonos sutartimi"
+      "Lisabonos sutartimi",
+      "Mastrichto sutartimi"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "ES oficialiai įkurta Mastrichto sutartimi, pasirašyta 1992 m., įsigaliojusia 1993 m."
   },
   {
@@ -83,11 +83,11 @@
     "question": "Pirminiai ES teisės šaltiniai nuo antrinių pirmiausia skiriasi tuo, kad pirminiai šaltiniai:",
     "options": [
       "Yra priimami tik Europos Komisijos",
-      "Sudaryti valstybių narių ir turi aukščiausią galią ES teisės sistemoje",
       "Gali būti lengvai keičiami institucijų sprendimais",
-      "Neturi privalomosios galios"
+      "Neturi privalomosios galios",
+      "Sudaryti valstybių narių ir turi aukščiausią galią ES teisės sistemoje"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Pirminė teisė kyla iš valstybių narių sutarčių ir turi aukščiausią juridinę galią."
   },
   {
@@ -147,10 +147,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "ES teisės principų pagrindinė paskirtis yra:",
     "options": [
-      "Pakeisti visas sutartis",
+      "Pakeisti sutartis naujais privalomais principais",
       "Padėti spręsti ES teisės aiškinimo ir taikymo problemas, kai rašytinių šaltinių nepakanka",
-      "Reguliuoti tik nacionalinę teisę",
-      "Suteikti prioritetą nacionalinėms normoms"
+      "Reguliuoti nacionalinės teisės santykį su tarptautine teise",
+      "Užtikrinti nacionalinių teismų kompetencijų ribas"
     ],
     "correct": 1,
     "explanation": "Konspekte pabrėžta, kad principai padeda užpildyti aiškinimo ir taikymo spragas."
@@ -160,10 +160,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Lygybės (vienodo požiūrio) principas ES teisėje reiškia, kad:",
     "options": [
-      "Skirtingose situacijose visi turi būti vertinami vienodai",
+      "Visi asmenys visais atvejais turi būti vertinami identiškai, net ir skirtingose situacijose",
       "Panašioje padėtyje esantys asmenys negali būti traktuojami skirtingai, jei tam nėra objektyvaus pateisinimo",
-      "Valstybės narės gali laisvai diskriminuoti, jei tai numato nacionalinė teisė",
-      "Lygybės principas taikomas tik institucijoms, bet ne asmenims"
+      "Skirtingos valstybės narės gali vienodai taikyti skirtingus standartus savo piliečiams",
+      "Lygybės principas taikomas tik ES institucijų tarpusavio santykiams"
     ],
     "correct": 1,
     "explanation": "Taip šis principas tiesiogiai apibrėžtas paskaitų medžiagoje."
@@ -173,10 +173,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Jei kyla prieštaravimas tarp ES teisės ir nacionalinės teisės, taikomas:",
     "options": [
-      "Nacionalinės teisės viršenybės principas",
+      "Tiesioginio veikimo principas",
       "Subsidiarumo principas",
       "ES teisės viršenybės principas",
-      "Vienodo požiūrio principas"
+      "Lojalaus bendradarbiavimo principas"
     ],
     "correct": 2,
     "explanation": "Koliokviumo klausimuose aiškiai nurodyta, kad tokiu atveju taikoma ES teisė."
@@ -186,10 +186,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Po Lisabonos sutarties Pagrindinių teisių chartija:",
     "options": [
-      "Lik o tik politinio pobūdžio dokumentu",
+      "Liko tik politinio pobūdžio deklaracija be teisinės galios",
       "Įgijo tokią pačią teisinę galią kaip ir Sutartys",
-      "Tapo rekomendacija valstybėms narėms",
-      "Privaloma tik ES institucijoms, bet ne valstybėms narėms"
+      "Tapo rekomendaciniu dokumentu, kurį valstybės narės gali pasirinktinai taikyti",
+      "Privaloma tik ES institucijoms, bet ne valstybėms narėms taikant ES teisę"
     ],
     "correct": 1,
     "explanation": "Koliokviumo medžiagoje tai įvardyta kaip teisingas teiginys."
@@ -200,11 +200,11 @@
     "question": "Europos Vadovų Tarybą sudaro:",
     "options": [
       "Tik valstybių narių užsienio reikalų ministrai",
-      "Valstybių narių vadovai, Europos Vadovų Tarybos pirmininkas ir Komisijos pirmininkas",
       "Tik Europos Parlamento nariai",
-      "ESTT teisėjai ir Komisijos nariai"
+      "ESTT teisėjai ir Komisijos nariai",
+      "Valstybių narių vadovai, Europos Vadovų Tarybos pirmininkas ir Komisijos pirmininkas"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Taip ši institucija apibrėžta koliokviumo klausimuose."
   },
   {
@@ -212,10 +212,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Kuri iš šių yra viena iš trijų pagrindinių Europos Parlamento funkcijų?",
     "options": [
-      "Biudžeto valdymo funkcija",
-      "Baudžiamųjų bylų nagrinėjimas",
-      "Valstybių narių teismų kontrolė",
-      "Direktyvų ratifikavimas nacionaliniu lygmeniu"
+      "Biudžeto valdymo (biudžetinė) funkcija",
+      "Prejudicinių klausimų nagrinėjimas",
+      "Valstybių narių nacionalinių teismų sprendimų peržiūra",
+      "ES teisės aktų ratifikavimas valstybėse narėse"
     ],
     "correct": 0,
     "explanation": "Testų medžiagoje kaip viena iš pagrindinių Parlamento funkcijų išskirta biudžeto valdymo funkcija."
@@ -225,10 +225,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Kuri funkcija būdinga Europos Sąjungos Tarybai?",
     "options": [
-      "Ji vykdo teisminę kontrolę ir naikina nacionalinius įstatymus",
+      "Ji pakeičia nacionalinius parlamentus teisėkūros srityje",
       "Ji veda derybas dėl ES teisės aktų ir kartu su Parlamentu priima biudžetą",
-      "Ji vienintelė leidžia visus teisės aktus be Parlamento dalyvavimo",
-      "Ji nagrinėja prejudicinius klausimus"
+      "Ji yra atsakinga už Europos Komisijos narių skyrimą vietoje valstybių narių",
+      "Ji vienintelė turi teisėkūros iniciatyvos teisę ES teisėje"
     ],
     "correct": 1,
     "explanation": "Būtent tokios Tarybos funkcijos nurodytos koliokviumo medžiagoje."
@@ -238,10 +238,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Kuri iš šių aplinkybių laikoma viena iš istorinių ES atsiradimo prielaidų?",
     "options": [
-      "Vien tik technologijų plėtra",
+      "Bendros rinkos technologinis konkurencingumo poreikis",
       "Antrojo pasaulinio karo pasekmės ir Šaltojo karo grėsmė",
-      "Vien tik euro įvedimas",
-      "Tik EŽTK priėmimas"
+      "Euro įvedimas kaip atsakas į ekonominę krizę",
+      "Europos žmogaus teisių konvencijos (EŽTK) priėmimas"
     ],
     "correct": 1,
     "explanation": "Istorinėse prielaidose tiesiogiai minimos Antrojo pasaulinio karo pasekmės ir komunistinio režimo grėsmė."
@@ -251,10 +251,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "ES teisė paskaitų medžiagoje apibūdinama kaip:",
     "options": [
-      "Vien nacionalinės teisės sudėtinė dalis",
+      "Tarptautinės viešosios teisės atmaina, taikoma tik valstybių tarpusavio santykiams",
       "Viršnacionalinė teisė, taikoma visoms Sąjungos valstybėms narėms",
-      "Tik paprotinė teisė",
-      "Tik tarptautinių teismų praktika"
+      "Valstybių narių nacionalinių teisės sistemų bendras nenustatytas vardiklis",
+      "Papročių ir bendrųjų teisės principų visuma be rašytinių šaltinių"
     ],
     "correct": 1,
     "explanation": "Taip ES teisė apibrėžta pačioje paskaitų medžiagoje."
@@ -264,12 +264,12 @@
     "category": "Europos Sąjungos teisė",
     "question": "Reglamentas ES teisėje geriausiai apibūdinamas kaip aktas, kuris:",
     "options": [
-      "Privalomas tik rezultato atžvilgiu ir palieka valstybėms formos bei priemonių pasirinkimą",
       "Yra tiesiogiai taikomas visose valstybėse narėse ir privalomas visa apimtimi",
+      "Privalomas tik rezultato atžvilgiu ir palieka valstybėms formos bei priemonių pasirinkimą",
       "Privalomas tik konkrečiam adresatui, kuriam skirtas",
       "Neturi privalomosios galios ir tik rekomenduoja elgesį"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Tai klasikinis reglamento požymis, papildantis koliokviumo medžiagą."
   },
   {
@@ -277,10 +277,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Direktyva nuo reglamento pirmiausia skiriasi tuo, kad direktyva:",
     "options": [
-      "Visada taikoma tiesiogiai ir nereikalauja jokio perkėlimo",
+      "Direktyva visada taikoma tiesiogiai kaip reglamentas ir nereikalauja perkėlimo",
       "Privaloma tik dėl siektino rezultato, o forma ir priemonės paliekamos valstybėms narėms",
-      "Skirta tik ES institucijoms",
-      "Yra neprivalomas aktas"
+      "Direktyva skirta tik ES institucijoms ir jų tarpusavio santykiams",
+      "Direktyva privaloma tik konkrečiam adresatui, kuriam ji yra skirta"
     ],
     "correct": 1,
     "explanation": "Tai pagrindinis direktyvos požymis ES teisėje."
@@ -290,10 +290,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Sprendimas ES teisėje paprastai pasižymi tuo, kad:",
     "options": [
-      "Visada taikomas visoms valstybėms narėms be išimties",
+      "Sprendimas visada taikomas visoms valstybėms narėms be išimties",
       "Yra privalomas tik tiems, kam jis skirtas",
-      "Nėra privalomas ir turi tik politinę reikšmę",
-      "Gali būti leidžiamas tik nacionalinio parlamento"
+      "Sprendimas nėra privalomas ir turi tik politinę reikšmę",
+      "Sprendimą gali priimti tik Europos Vadovų Taryba"
     ],
     "correct": 1,
     "explanation": "Sprendimas paprastai privalomas konkrečiam adresatui."
@@ -304,11 +304,11 @@
     "question": "Tiesioginio veikimo principas reiškia, kad:",
     "options": [
       "Bet kuri ES teisės norma automatiškai netenka galios nacionalinėje teisėje",
-      "Tam tikromis sąlygomis ES teisės nuostatomis asmenys gali tiesiogiai remtis nacionaliniuose teismuose",
       "Tik ES institucijos gali remtis ES teise",
-      "ES teisė taikoma tik tada, kai ją patvirtina nacionalinis parlamentas"
+      "ES teisė taikoma tik tada, kai ją patvirtina nacionalinis parlamentas",
+      "Tam tikromis sąlygomis ES teisės nuostatomis asmenys gali tiesiogiai remtis nacionaliniuose teismuose"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Tai vienas kertinių ES teisės principų, papildantis bazinį koliokviumo rinkinį."
   },
   {
@@ -316,10 +316,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Subsidiarumo principas ES teisėje reiškia, kad:",
     "options": [
-      "ES visada turi veikti vietoj valstybių narių",
+      "ES turi veikti visose srityse, kuriose yra valstybių narių interesų sankirta",
       "Srityse, kurios nepriklauso išimtinei ES kompetencijai, ES veikia tik tada, kai tikslų valstybės narės negali pakankamai pasiekti pačios",
-      "Valstybės narės negali priimti jokių sprendimų be Komisijos leidimo",
-      "ES teisė visada turi absoliučią pirmenybę bet kurioje srityje"
+      "Valstybės narės privalo gauti Komisijos pritarimą kiekvienam nacionalinės teisės aktui",
+      "ES kompetencija plečiama automatiškai pagal politinius poreikius"
     ],
     "correct": 1,
     "explanation": "Tai svarbus papildomas principas, kurio trūksta vien tik koliokviumo klausimų rinkinyje."
@@ -330,9 +330,9 @@
     "question": "Proporcingumo principas ES teisėje reikalauja, kad:",
     "options": [
       "ES institucijų priemonės neviršytų to, kas būtina Sutarties tikslams pasiekti",
-      "Visos valstybės narės būtų reguliuojamos identiškai visose srityse",
-      "Tik teismai galėtų tikrinti ES institucijų veiksmus",
-      "ES visada rinktųsi griežčiausią priemonę"
+      "Visoms valstybėms narėms būtų taikomos identiškos priemonės, neatsižvelgiant į ypatumus",
+      "Griežčiausios priemonės būtų pirmenybė siekiant tikslų",
+      "Proporcingumas būtų vertinamas tik politiniu, o ne teisiniu pagrindu"
     ],
     "correct": 0,
     "explanation": "Proporcingumas riboja ES institucijų veiksmų intensyvumą ir apimtį."
@@ -343,11 +343,11 @@
     "question": "ES kompetencijos skirstomos į:",
     "options": [
       "Pagrindines, papildomas ir rekomendacines",
-      "Išimtines, pasidalijamąsias ir remiamąsias",
       "Nacionalines, tarptautines ir mišriąsias",
-      "Teisines, politines ir ekonomines"
+      "Teisines, politines ir ekonomines",
+      "Išimtines, pasidalijamąsias ir remiamąsias"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "ES kompetencijos klasifikuojamos į išimtines, pasidalijamąsias ir remiamąsias."
   },
   {
@@ -356,9 +356,9 @@
     "question": "Išimtinės ES kompetencijos srityje:",
     "options": [
       "Tik valstybės narės gali priimti teisiškai privalomus aktus",
-      "ES ir valstybės narės visada veikia vienodai",
+      "ES ir valstybės narės visada priima tuos pačius aktus kartu",
       "Tik ES gali priimti teisiškai privalomus aktus, o valstybės narės veikia tik ES įgaliojimu",
-      "Valstybės narės gali laisvai ignoruoti ES sprendimus"
+      "Valstybės narės perima kompetenciją, jei ES neveikia per nustatytą terminą"
     ],
     "correct": 2,
     "explanation": "Išimtinėje kompetencijoje sprendimus priima ES, o valstybės narės veikia tik jos įgaliojimu."
@@ -368,10 +368,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Pasidalijamoji kompetencija reiškia, kad:",
     "options": [
-      "Joje gali veikti tik Europos Komisija",
+      "Pasidalijamojoje kompetencijoje veikia tik Europos Komisija per deleguotus aktus",
       "Ir ES, ir valstybės narės gali priimti teisės aktus, tačiau valstybės narės naudojasi kompetencija tiek, kiek ES jos neįgyvendino",
-      "Valstybės narės negali veikti jokiu atveju",
-      "Ji taikoma tik užsienio politikai"
+      "Valstybės narės visada turi pirmenybę prieš ES teisėkūrą",
+      "Pasidalijamoji kompetencija taikoma tik ekonominiams ir finansiniams klausimams"
     ],
     "correct": 1,
     "explanation": "Pasidalijamosios kompetencijos esmė – veikti gali abi pusės, bet ES veikimas riboja valstybių veikimą toje pačioje srityje."
@@ -381,12 +381,12 @@
     "category": "Europos Sąjungos teisė",
     "question": "Prejudicinis sprendimas yra procedūra, kai:",
     "options": [
-      "Europos Komisija apskundžia valstybę narę už pažeidimą",
       "Nacionalinis teismas kreipiasi į ESTT dėl ES teisės aiškinimo ar galiojimo",
+      "Europos Komisija apskundžia valstybę narę už pažeidimą",
       "Europos Parlamentas panaikina nacionalinį įstatymą",
       "Valstybė narė prašo Tarybos leidimo nukrypti nuo Sutarties"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Prejudicinis sprendimas užtikrina vienodą ES teisės aiškinimą visose valstybėse narėse."
   },
   {
@@ -407,10 +407,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Europos Komisija pirmiausia yra institucija, kuri:",
     "options": [
-      "Atstovauja tik valstybių narių vyriausybių interesams",
+      "Atstovauja tik valstybių narių vyriausybių interesams Taryboje",
       "Prižiūri ES teisės taikymą ir turi teisėkūros iniciatyvą daugelyje sričių",
-      "Vykdo teisminę kontrolę vietoje ESTT",
-      "Ratifik uoja valstybių narių sutartis"
+      "Vykdo teisminę kontrolę vietoje Europos Sąjungos Teisingumo Teismo",
+      "Ratifikuoja valstybių narių pasirašytas sutartis ES vardu"
     ],
     "correct": 1,
     "explanation": "Komisija yra viena svarbiausių ES institucijų – ji turi iniciatyvos teisę ir prižiūri ES teisės laikymąsi."
@@ -421,11 +421,11 @@
     "question": "Pagrindinis skirtumas tarp ESTT ir Bendrojo Teismo yra tas, kad:",
     "options": [
       "ESTT nagrinėja tik baudžiamąsias bylas, o Bendrasis Teismas – tik civilines",
-      "ESTT daugiausia sprendžia prejudicinius klausimus ir apeliacijas, o Bendrasis Teismas dažniau nagrinėja tiesioginius ieškinius",
       "Bendrasis Teismas turi aukštesnę galią nei ESTT",
-      "Tarp jų nėra jokio funkcijų skirtumo"
+      "Tarp jų nėra jokio funkcijų skirtumo",
+      "ESTT daugiausia sprendžia prejudicinius klausimus ir apeliacijas, o Bendrasis Teismas dažniau nagrinėja tiesioginius ieškinius"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Bendrasis Teismas dažniausiai nagrinėja tiesioginius ieškinius, o ESTT užtikrina vienodą ES teisės aiškinimą ir veikia kaip aukštesnė instancija."
   },
   {
@@ -433,10 +433,10 @@
     "category": "Europos Sąjungos teisė",
     "question": "Lojalaus bendradarbiavimo principas reiškia, kad:",
     "options": [
-      "Valstybės narės gali vykdyti tik savo nacionalinę teisę",
+      "Valstybės narės privalo laikytis savo nacionalinės teisės viršenybės prieš ES teisę",
       "ES institucijos ir valstybės narės turi viena kitai padėti vykdyti iš Sutarčių kylančias pareigas",
-      "Tik Komisija turi pareigą bendradarbiauti su valstybėmis narėmis",
-      "Valstybės narės gali nevykdyti ES teisės, jei tai politiškai nepatogu"
+      "Lojalus bendradarbiavimas yra tik politinis, o ne teisinis įpareigojimas",
+      "Pareiga bendradarbiauti taikoma tik tarp ES institucijų, bet ne valstybių narių atžvilgiu"
     ],
     "correct": 1,
     "explanation": "Lojalus bendradarbiavimas įpareigoja tiek ES, tiek valstybes nares veikti taip, kad būtų įgyvendinti Sutarties tikslai."
@@ -446,12 +446,12 @@
     "category": "Europos Sąjungos teisė",
     "question": "Vidaus rinkos laisvės ES teisėje apima:",
     "options": [
-      "Tik laisvą prekių judėjimą",
       "Prekių, asmenų, paslaugų ir kapitalo laisvą judėjimą",
+      "Tik laisvą prekių judėjimą",
       "Tik kapitalo ir paslaugų judėjimą",
       "Tik asmenų ir prekių judėjimą"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Keturios pagrindinės vidaus rinkos laisvės yra prekės, asmenys, paslaugos ir kapitalas."
   },
   {
@@ -460,11 +460,11 @@
     "question": "Jei valstybė narė netinkamai perkelia direktyvą, tai gali lemti:",
     "options": [
       "Tik politinę kritiką be teisinių pasekmių",
-      "Valstybės atsakomybę už ES teisės pažeidimą ir tam tikrais atvejais asmens teisę remtis direktyvos nuostatomis",
       "Automatinį direktyvos panaikinimą",
+      "Valstybės atsakomybę už ES teisės pažeidimą ir tam tikrais atvejais asmens teisę remtis direktyvos nuostatomis",
       "Tai neturi jokios reikšmės, nes direktyvos neprivalomos"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Netinkamas direktyvos perkėlimas gali sukelti valstybės atsakomybę, o tam tikromis sąlygomis – ir tiesioginio veikimo klausimą."
   }
 ]

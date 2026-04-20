@@ -5,11 +5,11 @@
     "question": "Ikiteisminis tyrimas yra:",
     "options": [
       "Baudžiamojo proceso stadija iki teismo nuosprendžio",
-      "Baudžiamojo proceso stadija iki bylos perdavimo teismui",
       "Administracinė procedūra",
+      "Baudžiamojo proceso stadija iki bylos perdavimo teismui",
       "Teismo proceso dalis"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Ikiteisminis tyrimas trunka iki bylos perdavimo teismui."
   },
   {
@@ -17,10 +17,10 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Ikiteisminis tyrimas pradedamas:",
     "options": [
-      "Kai surenkami visi įrodymai",
+      "Kai prokuroras gauna teismo nutartį pradėti tyrimą",
       "Kai yra tikėtina informacija apie nusikalstamą veiką",
-      "Tik gavus teismo leidimą",
-      "Tik nukentėjusiojo prašymu"
+      "Kai surenkama pakankamai įrodymų kaltei nustatyti",
+      "Kai nukentėjusysis pateikia oficialų skundą prokurorui"
     ],
     "correct": 1,
     "explanation": "Pakanka tikėtinos informacijos apie galimai padarytą veiką."
@@ -31,11 +31,11 @@
     "question": "Kas organizuoja ir vadovauja ikiteisminiam tyrimui?",
     "options": [
       "Teismas",
-      "Prokuroras",
       "Ikiteisminio tyrimo pareigūnas",
-      "Advokatas"
+      "Advokatas",
+      "Prokuroras"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Pagal Konstituciją ir BPK – prokuroras."
   },
   {
@@ -43,12 +43,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Ikiteisminio tyrimo subjektai yra:",
     "options": [
-      "Teismas, advokatas, liudytojas",
       "Prokuroras, ikiteisminio tyrimo pareigūnas, teisėjas",
+      "Teismas, advokatas, liudytojas",
       "Tik prokuroras",
       "Tik policija"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Tai valstybės subjektai – BPK 164 str."
   },
   {
@@ -57,11 +57,11 @@
     "question": "Ikiteisminio tyrimo įstaigoms nepriskiriama:",
     "options": [
       "Policija",
+      "Teismas",
       "STT",
-      "FNTT",
-      "Teismas"
+      "FNTT"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Teismas nėra ikiteisminio tyrimo įstaiga."
   },
   {
@@ -82,12 +82,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Ikiteisminio tyrimo pradžia reiškia:",
     "options": [
-      "Teismo proceso pradžią",
-      "Baudžiamojo proceso pradžią",
-      "Apeliacijos pradžią",
-      "Nuosprendžio vykdymą"
+      "Teisminio nagrinėjimo pradžią",
+      "Kaltinamojo akto surašymo pradžią",
+      "Ikiteisminio tyrimo teisėjo dalyvavimo pradžią",
+      "Baudžiamojo proceso pradžią"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Tai yra viso baudžiamojo proceso pradžia."
   },
   {
@@ -96,11 +96,11 @@
     "question": "Kas gali nuspręsti pradėti ikiteisminį tyrimą?",
     "options": [
       "Tik teismas",
-      "Prokuroras arba įstaigos vadovas",
       "Advokatas",
-      "Liudytojas"
+      "Liudytojas",
+      "Prokuroras arba įstaigos vadovas"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "BPK 166 str. – prokuroras arba įstaigos vadovas."
   },
   {
@@ -109,11 +109,11 @@
     "question": "Patikslinamieji veiksmai atliekami kai:",
     "options": [
       "Jau pradėtas tyrimas",
-      "Neaišku ar pradėti tyrimą",
       "Yra teismo sprendimas",
+      "Neaišku ar pradėti tyrimą",
       "Yra kaltinamasis aktas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Kai trūksta duomenų sprendimui pradėti tyrimą."
   },
   {
@@ -122,11 +122,11 @@
     "question": "Patikslinamieji veiksmai gali būti:",
     "options": [
       "Krata",
-      "Suėmimas",
       "Liudytojų apklausa",
+      "Suėmimas",
       "Telefoninių pokalbių sekimas"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Negali būti susiję su prievartos priemonėmis."
   },
   {
@@ -134,12 +134,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Per kiek laiko atliekami patikslinamieji veiksmai?",
     "options": [
-      "5 dienas",
       "10 kalendorinių dienų",
+      "5 dienas",
       "10 darbo dienų",
       "30 dienų"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Iki 10 kalendorinių dienų."
   },
   {
@@ -147,12 +147,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Ikiteisminio tyrimo pareigūnas gali:",
     "options": [
-      "Priimti nuosprendį",
+      "Priimti nutarimą nutraukti ikiteisminį tyrimą",
+      "Skirti suėmimą kaip kardomąją priemonę",
       "Apklausti liudytojus",
-      "Skirti laisvės atėmimą",
-      "Priimti galutinį sprendimą byloje"
+      "Tvirtinti prokuroro procesines nutartis"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Pareigūnas atlieka procesinius veiksmus."
   },
   {
@@ -161,11 +161,11 @@
     "question": "Kas sprendžia dėl tyrimo nutraukimo?",
     "options": [
       "Teismas",
-      "Prokuroras",
       "Policija",
+      "Prokuroras",
       "Advokatas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Tik prokuroras."
   },
   {
@@ -174,11 +174,11 @@
     "question": "Ikiteisminio tyrimo teisėjas:",
     "options": [
       "Atlieka visą tyrimą",
-      "Skiria prievartos priemones",
       "Gina kaltinamąjį",
-      "Priima nuosprendį"
+      "Priima nuosprendį",
+      "Skiria prievartos priemones"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Jis sankcionuoja ir kontroliuoja."
   },
   {
@@ -186,12 +186,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Apklausa yra:",
     "options": [
-      "Teismo procesas",
+      "Dokumentų rinkimo ikiteisminio tyrimo etapas",
+      "Procesinės prievartos priemonė",
       "Duomenų rinkimo procesinis veiksmas",
-      "Baudimo priemonė",
-      "Sprendimas byloje"
+      "Ikiteisminio tyrimo teisėjo įgaliojimų įgyvendinimas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Tai procesinis veiksmas duomenims gauti."
   },
   {
@@ -200,11 +200,11 @@
     "question": "Liudytojui draudžiama:",
     "options": [
       "Duoti parodymus",
-      "Duoti atsakymą menančius klausimus",
       "Pasirašyti protokolą",
-      "Susipažinti su protokolu"
+      "Susipažinti su protokolu",
+      "Duoti atsakymą menančius klausimus"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Draudžiami vedantys klausimai."
   },
   {
@@ -212,12 +212,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Įtariamasis laikomas asmuo:",
     "options": [
+      "Sulaikytas ar apklausiamas dėl veikos",
       "Tik nuteistas",
       "Tik liudytojas",
-      "Sulaikytas ar apklausiamas dėl veikos",
       "Tik advokatas"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Apibrėžimas pagal BPK."
   },
   {
@@ -226,11 +226,11 @@
     "question": "Gynėjo dalyvavimas būtinas kai:",
     "options": [
       "Visada",
-      "Tik teisme",
       "Nepilnamečio bylose",
+      "Tik teisme",
       "Tik pagal pageidavimą"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Vienas iš privalomų atvejų."
   },
   {
@@ -240,10 +240,10 @@
     "options": [
       "Apklausa",
       "Krata",
-      "Eksperimentas",
-      "Nuosprendis"
+      "Nuosprendis",
+      "Eksperimentas"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Eksperimentas yra patikrinimo veiksmas."
   },
   {
@@ -251,12 +251,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Akistata atliekama kai:",
     "options": [
-      "Yra įtarimas",
       "Parodymai prieštarauja",
+      "Yra įtarimas",
       "Nėra liudytojų",
       "Baigiamas tyrimas"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Tikslas – pašalinti prieštaravimus."
   },
   {
@@ -277,12 +277,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Kuri iš šių yra kardomoji priemonė?",
     "options": [
-      "Laikinas sulaikymas",
       "Intensyvi priežiūra",
+      "Laikinas sulaikymas",
       "Krata",
       "Ekspertizė"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Intensyvi priežiūra yra kardomoji priemonė."
   },
   {
@@ -291,11 +291,11 @@
     "question": "Kuri priemonė nėra kardomoji?",
     "options": [
       "Rašytinis pasižadėjimas neišvykti",
-      "Dokumentų paėmimas",
       "Įpareigojimas registruotis policijoje",
-      "Karinio dalinio stebėjimas"
+      "Karinio dalinio stebėjimas",
+      "Dokumentų paėmimas"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Dokumentų paėmimas yra procesinė prievartos priemonė."
   },
   {
@@ -304,11 +304,11 @@
     "question": "Tik teismas gali skirti:",
     "options": [
       "Dokumentų paėmimą",
-      "Intensyvią priežiūrą",
       "Specialios teisės sustabdymą",
+      "Intensyvią priežiūrą",
       "Apklausą"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Ši priemonė skiriama tik teismo."
   },
   {
@@ -330,11 +330,11 @@
     "question": "Procesinės prievartos priemonės turi būti taikomos:",
     "options": [
       "Visada",
-      "Kai patogu pareigūnui",
       "Tik kai būtina",
+      "Kai patogu pareigūnui",
       "Tik teismo sprendimu"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Tik kai negalima pasiekti tikslų kitaip."
   },
   {
@@ -342,12 +342,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Parodymų patikrinimas vietoje yra skirtas:",
     "options": [
-      "Nubausti asmenį",
       "Patikrinti parodymų tikrumą realioje vietoje",
+      "Nubausti asmenį",
       "Surinkti naujus įrodymus tik teisme",
       "Pakeisti parodymus"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Tikrinama ar parodymai atitinka realybę."
   },
   {
@@ -356,11 +356,11 @@
     "question": "Eksperimentas atliekamas:",
     "options": [
       "Tik laboratorijoje",
-      "Atkuriant įvykio aplinkybes",
       "Tik teisme",
+      "Atkuriant įvykio aplinkybes",
       "Tik ekspertams"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Atkuriama situacija ir tikrinamos versijos."
   },
   {
@@ -383,10 +383,10 @@
     "options": [
       "Tik liudytojai",
       "Tik įtariamieji",
-      "Du asmenys su prieštaringais parodymais",
-      "Bet kurie proceso dalyviai"
+      "Bet kurie proceso dalyviai",
+      "Du asmenys su prieštaringais parodymais"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Tikslas – pašalinti prieštaravimus."
   },
   {
@@ -395,11 +395,11 @@
     "question": "Anonimiškumas gali būti taikomas:",
     "options": [
       "Tik teismo sprendimu",
-      "Tik liudytojui",
       "Liudytojui ar nukentėjusiajam",
+      "Tik liudytojui",
       "Tik įtariamajam"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Taikomas apsaugai užtikrinti."
   },
   {
@@ -434,11 +434,11 @@
     "question": "Kas sprendžia ar duomenys yra įrodymai?",
     "options": [
       "Prokuroras",
-      "Policija",
       "Teismas",
+      "Policija",
       "Advokatas"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Galutinai sprendžia teismas."
   },
   {
@@ -447,11 +447,11 @@
     "question": "Specialistas yra:",
     "options": [
       "Advokatas",
-      "Asmuo su specialiomis žiniomis",
       "Teisėjas",
-      "Liudytojas"
+      "Liudytojas",
+      "Asmuo su specialiomis žiniomis"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Padeda tyrimui su specialiomis žiniomis."
   },
   {
@@ -459,12 +459,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Ekspertizę skiria:",
     "options": [
+      "Teisėjas arba teismas",
       "Tik policija",
       "Prokuroras ir pareigūnas",
-      "Teisėjas arba teismas",
       "Liudytojas"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Tai procesinis sprendimas aukštesnio lygio."
   },
   {
@@ -473,11 +473,11 @@
     "question": "Dokumentų paėmimas yra:",
     "options": [
       "Kardomoji priemonė",
-      "Procesinė prievartos priemonė",
       "Baudimo forma",
+      "Procesinė prievartos priemonė",
       "Teismo sprendimas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Tai prievartos priemonė."
   },
   {
@@ -486,11 +486,11 @@
     "question": "Laikinas sulaikymas yra:",
     "options": [
       "Kardomoji priemonė",
-      "Procesinė prievartos priemonė",
       "Teismo sprendimas",
+      "Procesinė prievartos priemonė",
       "Baudimo forma"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Tai prievartos priemonė."
   },
   {
@@ -498,12 +498,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Įtariamajam taikomos priemonės turi būti:",
     "options": [
-      "Griežčiausios",
+      "Nulemtos ikiteisminio tyrimo efektyvumo poreikio",
+      "Parinktos prokuroro nuožiūra be papildomų kriterijų",
       "Proporcingos",
-      "Visada vienodos",
-      "Nepriklausomos nuo situacijos"
+      "Griežtesnės, jei įtariamas pasikartojantis nusikaltimas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Taikomas proporcingumo principas."
   },
   {
@@ -512,11 +512,11 @@
     "question": "Kardomosios priemonės skiriamos:",
     "options": [
       "Tik policijos",
-      "Prokuroro, pareigūno ar teismo",
       "Tik teismo",
-      "Tik advokato"
+      "Tik advokato",
+      "Prokuroro, pareigūno ar teismo"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Priklausomai nuo priemonės."
   },
   {
@@ -524,12 +524,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Įtariamojo teisė į gynybą užtikrinama:",
     "options": [
-      "Nuo ikiteisminio tyrimo pradžios",
       "Nuo sulaikymo arba pirmosios apklausos",
+      "Nuo ikiteisminio tyrimo pradžios",
       "Nuo teismo proceso",
       "Nuo nuosprendžio paskelbimo"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Teisė į gynybą atsiranda nuo sulaikymo ar pirmos apklausos."
   },
   {
@@ -539,10 +539,10 @@
     "options": [
       "Visais atvejais",
       "Kai to nori įtariamasis",
-      "Kai įtariamasis nepilnametis arba suimtas",
-      "Tik teismo stadijoje"
+      "Tik teismo stadijoje",
+      "Kai įtariamasis nepilnametis arba suimtas"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "BPK numato privalomus gynėjo dalyvavimo atvejus."
   },
   {
@@ -551,11 +551,11 @@
     "question": "Nepilnamečio įtariamojo atstovas pagal įstatymą:",
     "options": [
       "Negali dalyvauti procese",
-      "Gali būti apklausiamas kaip liudytojas",
       "Gali būti tik advokatas",
-      "Gali dalyvauti tik teisme"
+      "Gali dalyvauti tik teisme",
+      "Gali būti apklausiamas kaip liudytojas"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Atstovas gali būti apklausiamas kaip liudytojas."
   },
   {
@@ -563,12 +563,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Nepilnamečio procesinės garantijos:",
     "options": [
-      "Visada taikomos pagal apklausos momentą",
       "Vertinamos pagal veikos padarymo momentą",
+      "Visada taikomos pagal apklausos momentą",
       "Taikomos tik teisme",
       "Neturi reikšmės"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Vertinamas amžius veikos padarymo metu."
   },
   {
@@ -590,11 +590,11 @@
     "question": "Liudytojas privalo:",
     "options": [
       "Visada atsakyti į visus klausimus",
-      "Duoti teisingus parodymus",
       "Atsisakyti jei nori",
+      "Duoti teisingus parodymus",
       "Nedalyvauti procese"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Liudytojas privalo sakyti tiesą."
   },
   {
@@ -602,12 +602,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Liudytojas turi teisę atsisakyti duoti parodymus kai:",
     "options": [
-      "Nenori dalyvauti",
       "Gali apkaltinti save ar artimuosius",
-      "Neturi laiko",
-      "Yra pavargęs"
+      "Jo parodymai nesutampa su kitų liudytojų parodymais",
+      "Prokuroras nurodo, kad parodymai greičiausiai nebus panaudoti",
+      "Ankstesniame procese davė parodymus ta pačia tema"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Taikomas savęs nekaltinimo principas."
   },
   {
@@ -628,12 +628,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Apklausa gali būti nutraukta jei:",
     "options": [
-      "Asmuo pavargęs",
-      "Pažeidžiamos teisės",
-      "Praėjo 10 minučių",
-      "Nėra advokato"
+      "Asmuo paprašo padaryti pertrauką",
+      "Prokuroras duoda atskirus nurodymus",
+      "Ikiteisminio tyrimo pareigūnas keičiamas",
+      "Pažeidžiamos teisės"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Svarbiausia – procesinių teisių užtikrinimas."
   },
   {
@@ -641,12 +641,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Įtariamasis apklausiamas:",
     "options": [
-      "Tik teisme",
+      "Tik teismo posėdžio metu",
+      "Tik prokuroro biure",
       "Ikiteisminio tyrimo metu",
-      "Tik po nuosprendžio",
-      "Tik advokato kabinete"
+      "Tik po to, kai pateiktas kaltinamasis aktas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Apklausa vyksta tyrimo stadijoje."
   },
   {
@@ -654,12 +654,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Kada gynėjas privalo dalyvauti apklausoje?",
     "options": [
+      "Kai to reikalauja įstatymas",
       "Kai to nori pareigūnas",
       "Kai to nori liudytojas",
-      "Kai to reikalauja įstatymas",
       "Visada"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Tik įstatymo nustatytais atvejais."
   },
   {
@@ -668,11 +668,11 @@
     "question": "Įtariamajam turi būti paaiškintos teisės:",
     "options": [
       "Tik teisme",
-      "Prieš apklausą",
       "Po apklausos",
-      "Nebūtina"
+      "Nebūtina",
+      "Prieš apklausą"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Prieš atliekant apklausą."
   },
   {
@@ -680,12 +680,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Gynėjas yra:",
     "options": [
-      "Teisėjas",
       "Advokatas",
+      "Teisėjas",
       "Liudytojas",
       "Prokuroras"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Gynėjas – advokatas."
   },
   {
@@ -693,12 +693,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Įtariamasis gali bendrauti su gynėju:",
     "options": [
-      "Tik teisme",
       "Be apribojimų",
+      "Tik teisme",
       "Tik su leidimu",
       "Tik vieną kartą"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Tai viena iš pagrindinių teisių."
   },
   {
@@ -733,11 +733,11 @@
     "question": "Įrodymai turi būti:",
     "options": [
       "Tik naudingi",
-      "Teisėti ir patikimi",
       "Tik rašytiniai",
-      "Tik liudytojų"
+      "Tik liudytojų",
+      "Teisėti ir patikimi"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Reikalavimai – teisėtumas ir patikimumas."
   },
   {
@@ -745,12 +745,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Įrodymų vertinimas grindžiamas:",
     "options": [
-      "Pareigūno nuomone",
       "Įstatymu ir vidiniu įsitikinimu",
+      "Pareigūno nuomone",
       "Advokato nuomone",
       "Liudytojo nuomone"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Teismas vertina pagal įstatymą ir vidinį įsitikinimą."
   },
   {
@@ -758,12 +758,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Įtariamasis gali pateikti:",
     "options": [
+      "Įrodymus ir paaiškinimus",
       "Tik parodymus",
       "Tik skundus",
-      "Įrodymus ir paaiškinimus",
       "Nieko"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Gali aktyviai gintis."
   },
   {
@@ -771,12 +771,12 @@
     "category": "Ikiteisminis tyrimas",
     "question": "Baudžiamasis procesas grindžiamas:",
     "options": [
-      "Tik formaliais principais",
+      "Ekspedicinio proceso ir bylos operatyvumo principais",
+      "Institucinio efektyvumo ir biudžeto taupymo principais",
       "Teisėtumo ir teisingumo principais",
-      "Tik prokuroro sprendimais",
-      "Tik liudytojų parodymais"
+      "Kolegialumo ir savivaldos principais"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Pagrindiniai principai – teisėtumas ir teisingumas."
   }
 ]
