@@ -1,418 +1,327 @@
 [
   {
     "id": 1,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnyba yra:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisė yra:",
     "options": [
-      "Privatus darbas įmonėje",
-      "Valstybės funkcijų įgyvendinimas per valstybės tarnautojus",
-      "Teismo procesas",
-      "Verslo veikla"
+      "Moralės normų visuma",
+      "Religinės taisyklės",
+      "Valstybės nustatytų ir saugomų privalomų elgesio taisyklių sistema",
+      "Tik papročiai"
     ],
-    "correct": 1,
-    "explanation": "Valstybės tarnyba – viešųjų funkcijų vykdymas."
+    "correct": 2,
+    "explanation": "Teisė – valstybės nustatytos ir užtikrinamos normos."
   },
   {
     "id": 2,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojas yra:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės norma pasižymi tuo, kad:",
     "options": [
-      "Bet kuris darbuotojas",
-      "Asmuo, dirbantis valstybės ar savivaldybės institucijoje ir atliekantis viešojo administravimo funkcijas",
-      "Verslininkas",
-      "Teisėjas"
+      "Yra rekomendacinė",
+      "Taikoma tik vienam asmeniui",
+      "Neturi sankcijos",
+      "Yra privaloma ir bendro pobūdžio"
     ],
-    "correct": 1,
-    "explanation": "Valstybės tarnautojas vykdo viešojo administravimo funkcijas."
+    "correct": 3,
+    "explanation": "Teisės normos yra privalomos ir bendros."
   },
   {
     "id": 3,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnybos principas:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės normos struktūrą sudaro:",
     "options": [
-      "Privatumo",
-      "Skaidrumo",
-      "Pelno siekimo",
-      "Konkurencijos"
+      "Tik dispozicija",
+      "Įžanga ir pabaiga",
+      "Tik sankcija",
+      "Hipotezė, dispozicija ir sankcija"
     ],
-    "correct": 1,
-    "explanation": "Skaidrumas yra vienas pagrindinių principų."
+    "correct": 3,
+    "explanation": "Klasikinė struktūra – 3 elementai."
   },
   {
     "id": 4,
-    "category": "Valstybės tarnyba",
-    "question": "Kuris principas reiškia, kad sprendimai turi būti pagrįsti įstatymais?",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Hipotezė teisės normoje reiškia:",
     "options": [
-      "Efektyvumo",
-      "Teisėtumo",
-      "Neutralumo",
-      "Lojalumo"
+      "Taikymo sąlygas",
+      "Elgesio taisyklę",
+      "Baudą",
+      "Teismo sprendimą"
     ],
-    "correct": 1,
-    "explanation": "Teisėtumas reiškia veikimą pagal teisę."
+    "correct": 0,
+    "explanation": "Hipotezė nurodo kada norma taikoma."
   },
   {
     "id": 5,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnyba grindžiama:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Dispozicija teisės normoje yra:",
     "options": [
-      "Asmenine nauda",
-      "Viešuoju interesu",
-      "Verslo interesais",
-      "Politiniais ryšiais"
+      "Sąlyga",
+      "Bauda",
+      "Atsakomybė už pažeidimą",
+      "Elgesio taisyklė"
     ],
-    "correct": 1,
-    "explanation": "Pagrindas – viešasis interesas."
+    "correct": 3,
+    "explanation": "Dispozicija nustato elgesį."
   },
   {
     "id": 6,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojų rūšys:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Sankcija teisės normoje reiškia:",
     "options": [
-      "Tik karjeros",
-      "Karjeros ir politinio pasitikėjimo",
-      "Tik laikini",
-      "Tik vadovai"
+      "Leidimą",
+      "Pasekmes už pažeidimą",
+      "Sąlygą",
+      "Normos tikslą"
     ],
     "correct": 1,
-    "explanation": "Yra kelios pagrindinės tarnautojų kategorijos."
+    "explanation": "Sankcija – atsakomybė už pažeidimą."
   },
   {
     "id": 7,
-    "category": "Valstybės tarnyba",
-    "question": "Karjeros valstybės tarnautojas:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisiniai santykiai yra:",
     "options": [
-      "Skiriamas politiniu pagrindu",
-      "Priimamas konkurso būdu",
-      "Dirba laikinai",
-      "Neturi teisių"
+      "Teisės normomis reguliuojami visuomeniniai santykiai",
+      "Bet kokie santykiai",
+      "Tik ekonominiai santykiai",
+      "Tik moraliniai santykiai"
     ],
-    "correct": 1,
-    "explanation": "Karjeros tarnautojai priimami konkurso būdu."
+    "correct": 0,
+    "explanation": "Teisiniai santykiai grindžiami teisės normomis."
   },
   {
     "id": 8,
-    "category": "Valstybės tarnyba",
-    "question": "Politinio pasitikėjimo tarnautojas:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės subjektas yra:",
     "options": [
-      "Priimamas konkurso būdu",
-      "Skiriamas pagal politinį pasitikėjimą",
-      "Dirba visą gyvenimą",
-      "Neturi vadovo"
+      "Valstybė ir jos institucijos",
+      "Asmuo, turintis teises ir pareigas",
+      "Asmuo, vykdantis viešąsias funkcijas",
+      "Pilietis, sulaukęs pilnametystės"
     ],
     "correct": 1,
-    "explanation": "Jis priklauso nuo politinės valdžios pasitikėjimo."
+    "explanation": "Subjektas – turintis teisnumą ir veiksnumą."
   },
   {
     "id": 9,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnybos tikslas:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisinis faktas yra:",
     "options": [
-      "Uždirbti pelną",
-      "Užtikrinti viešųjų funkcijų vykdymą",
-      "Didinti verslą",
-      "Kontroliuoti piliečius"
+      "Aplinkybė, sukelianti teisinius padarinius",
+      "Valios pareiškimas",
+      "Teismo sprendimas",
+      "Įstatymas"
     ],
-    "correct": 1,
-    "explanation": "Tikslas – vykdyti valstybės funkcijas."
+    "correct": 0,
+    "explanation": "Teisiniai faktai sukelia teisinius santykius."
   },
   {
     "id": 10,
-    "category": "Valstybės tarnyba",
-    "question": "Interesų konfliktas atsiranda, kai:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Valstybė yra:",
     "options": [
-      "Asmuo neturi interesų",
-      "Asmens privatūs interesai prieštarauja pareigoms",
-      "Asmuo dirba vienas",
-      "Nėra sprendimų"
+      "Privati organizacija",
+      "Suvereni politinė organizacija",
+      "Verslo subjektas",
+      "Teismo sistema"
     ],
     "correct": 1,
-    "explanation": "Konfliktas kyla tarp viešojo ir privataus intereso."
+    "explanation": "Valstybė – suvereni valdžios organizacija."
   },
   {
     "id": 11,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojas privalo:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Valstybės požymiai:",
     "options": [
-      "Siekti pelno",
-      "Laikytis įstatymų",
-      "Ignoruoti taisykles",
-      "Dirbti tik sau"
+      "Teritorija, valdžia, suverenitetas",
+      "Tik teritorija",
+      "Tik valdžia",
+      "Tik piliečiai"
     ],
-    "correct": 1,
-    "explanation": "Pagrindinė pareiga – laikytis teisės aktų."
+    "correct": 0,
+    "explanation": "Tai pagrindiniai valstybės elementai."
   },
   {
     "id": 12,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnyboje svarbus principas:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Suverenitetas reiškia:",
     "options": [
-      "Slaptumas",
-      "Neutralumas",
-      "Pelningumas",
-      "Konkurencija"
+      "Aukščiausią valdžią valstybėje",
+      "Priklausomybę",
+      "Ekonomiką",
+      "Teritoriją"
     ],
-    "correct": 1,
-    "explanation": "Neutralumas reiškia nešališkumą."
+    "correct": 0,
+    "explanation": "Suverenitetas – aukščiausia valdžia."
   },
   {
     "id": 13,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojas negali:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės šaltinis yra:",
     "options": [
-      "Laikytis įstatymų",
-      "Piktnaudžiauti pareigomis",
-      "Dirbti",
-      "Priimti sprendimų"
+      "Moralės normų visuma",
+      "Forma, kuria išreiškiama teisė",
+      "Teismų precedentai",
+      "Valstybės tradicijos"
     ],
     "correct": 1,
-    "explanation": "Piktnaudžiavimas draudžiamas."
+    "explanation": "Teisė turi būti išreikšta formaliai."
   },
   {
     "id": 14,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnybos sistema yra:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Įstatymas yra:",
     "options": [
-      "Privati",
-      "Viešojo administravimo dalis",
-      "Teismo sistema",
-      "Verslo sistema"
+      "Žemiausios galios aktas",
+      "Aukštos juridinės galios teisės aktas",
+      "Rekomendacija",
+      "Teismo sprendimas"
     ],
     "correct": 1,
-    "explanation": "Ji priklauso viešajam administravimui."
+    "explanation": "Įstatymai turi aukštą juridinę galią."
   },
   {
     "id": 15,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojų atsakomybė:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės sistema yra:",
     "options": [
-      "Nėra taikoma",
-      "Teisinė",
-      "Tik moralinė",
-      "Tik finansinė"
+      "Atsitiktinių normų rinkinys",
+      "Suderinta teisės normų visuma",
+      "Hierarchiškai sutvarkytas teismų tinklas",
+      "Valstybinių institucijų tinklas"
     ],
     "correct": 1,
-    "explanation": "Tarnautojai atsako teisiškai."
+    "explanation": "Teisė sudaro sistemą."
   },
   {
     "id": 16,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnyboje svarbus:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės normos struktūrą yra tiksliausias?",
     "options": [
-      "Privatus interesas",
-      "Viešasis interesas",
-      "Verslo interesas",
-      "Asmeninė nauda"
+      "Kiekviena teisės norma visada turi aiškiai išreikštą hipotezę, dispoziciją ir sankciją",
+      "Teisės norma turi tik dispoziciją",
+      "Teisės norma gali būti sudaryta iš visų trijų elementų, tačiau jie ne visada aiškiai išskiriami",
+      "Teisės norma gali egzistuoti tik su sankcija"
     ],
-    "correct": 1,
-    "explanation": "Svarbiausias – viešasis interesas."
+    "correct": 2,
+    "explanation": "Elementai gali būti neišreikšti tiesiogiai, bet egzistuoja logiškai."
   },
   {
     "id": 17,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojų veikla turi būti:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris pavyzdys geriausiai atspindi hipotezės esmę?",
     "options": [
-      "Slapta",
-      "Skaidri",
-      "Privati",
-      "Nežinoma"
+      "Asmuo privalo laikytis įstatymų",
+      "Skiriama bauda",
+      "Teismas priima sprendimą",
+      "Jei asmuo pažeidžia įstatymą"
     ],
-    "correct": 1,
-    "explanation": "Skaidrumas – esminis principas."
+    "correct": 3,
+    "explanation": "Hipotezė nurodo sąlygą („jei“)."
   },
   {
     "id": 18,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnybos paskirtis:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės principus yra teisingas?",
     "options": [
-      "Valdyti verslą",
-      "Įgyvendinti valstybės politiką",
-      "Kaupti pelną",
-      "Kontroliuoti teismus"
+      "Teisės principai yra bendrosios idėjos, kurios lemia teisės normų turinį",
+      "Teisės principai neturi teisinės reikšmės",
+      "Teisės principai galioja tik teismuose",
+      "Teisės principai yra tik teoriniai"
     ],
-    "correct": 1,
-    "explanation": "Tarnautojai įgyvendina valstybės politiką."
+    "correct": 0,
+    "explanation": "Principai formuoja teisės turinį ir taikymą."
   },
   {
     "id": 19,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojo veikla turi būti:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės aiškinimą yra tiksliausias?",
     "options": [
-      "Subjektyvi",
-      "Nešališka",
-      "Šališka",
-      "Atsitiktinė"
+      "Teisės aiškinimas padeda nustatyti tikrąją normos prasmę",
+      "Teisės aiškinimas reikalingas tik tada, kai norma aiški",
+      "Teisės aiškinimas atliekamas tik įstatymų leidėjo",
+      "Teisės aiškinimas nėra reikalingas praktikoje"
     ],
-    "correct": 1,
-    "explanation": "Nešališkumas yra esminis reikalavimas."
+    "correct": 0,
+    "explanation": "Aiškinimas padeda suprasti normos turinį."
   },
   {
     "id": 20,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnyba užtikrina:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės spragas yra teisingas?",
     "options": [
-      "Pelno augimą",
-      "Valstybės funkcijų vykdymą",
-      "Verslo plėtrą",
-      "Asmeninę naudą"
+      "Teisėje negali būti spragų",
+      "Teisės spraga yra teisės norma",
+      "Teisės spraga atsiranda, kai nėra normos konkrečiai situacijai",
+      "Teisės spragos taikomos tik teismuose"
     ],
-    "correct": 1,
-    "explanation": "Ji skirta valstybės funkcijoms vykdyti."
+    "correct": 2,
+    "explanation": "Spraga – kai nėra reguliavimo."
   },
   {
     "id": 21,
-    "category": "Valstybės tarnyba",
-    "question": "Priėmimas į karjeros valstybės tarnautojo pareigas vyksta:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės funkcijas yra tiksliausias?",
     "options": [
-      "Tiesiog paskiriant vadovo sprendimu",
-      "Konkurso būdu",
-      "Per rinkimus",
-      "Pagal darbo sutartį"
+      "Teisė atlieka tik represinę funkciją",
+      "Teisė neturi jokios socialinės funkcijos",
+      "Teisė reguliuoja visuomeninius santykius ir saugo vertybes",
+      "Teisė egzistuoja tik teorijoje"
     ],
-    "correct": 1,
-    "explanation": "Karjeros tarnautojai priimami konkurso būdu."
+    "correct": 2,
+    "explanation": "Teisė atlieka reguliacinę ir apsauginę funkcijas."
   },
   {
     "id": 22,
-    "category": "Valstybės tarnyba",
-    "question": "Asmuo gali būti valstybės tarnautoju, jei:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės sistemą yra teisingas?",
     "options": [
-      "Turi tik vidurinį išsilavinimą",
-      "Atitinka įstatymo nustatytus reikalavimus ir yra nepriekaištingos reputacijos",
-      "Yra verslininkas",
-      "Neturi darbo patirties"
+      "Teisės sistema yra atsitiktinių normų rinkinys",
+      "Teisės sistema egzistuoja tik teorijoje",
+      "Teisės sistema neturi struktūros",
+      "Teisės sistema yra nuosekli ir struktūruota normų visuma"
     ],
-    "correct": 1,
-    "explanation": "Reikalaujama nepriekaištingos reputacijos ir kitų sąlygų."
+    "correct": 3,
+    "explanation": "Teisė sudaro struktūruotą sistemą."
   },
   {
     "id": 23,
-    "category": "Valstybės tarnyba",
-    "question": "Tarnybinis nusižengimas yra:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie valstybės suverenitetą yra tiksliausias?",
     "options": [
-      "Bet koks nusikaltimas",
-      "Pareigų neatlikimas ar netinkamas atlikimas",
-      "Civilinis ginčas",
-      "Privatus konfliktas"
+      "Suverenitetas reiškia priklausomybę kitoms valstybėms",
+      "Suverenitetas taikomas tik teismams",
+      "Suverenitetas reiškia ekonominę galią",
+      "Suverenitetas reiškia aukščiausią valdžią valstybėje ir nepriklausomybę išorėje"
     ],
-    "correct": 1,
-    "explanation": "Tai pareigų pažeidimas tarnyboje."
+    "correct": 3,
+    "explanation": "Suverenitetas – vidinė ir išorinė nepriklausomybė."
   },
   {
     "id": 24,
-    "category": "Valstybės tarnyba",
-    "question": "Drausminė atsakomybė taikoma už:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisinius santykius yra teisingas?",
     "options": [
-      "Administracinius nusižengimus",
-      "Tarnybinius nusižengimus",
-      "Civilinius pažeidimus",
-      "Verslo klaidas"
+      "Teisiniai santykiai egzistuoja be teisės normų",
+      "Teisiniai santykiai yra tik moraliniai",
+      "Teisiniai santykiai atsiranda teisės normų pagrindu",
+      "Teisiniai santykiai neturi subjektų"
     ],
-    "correct": 1,
-    "explanation": "Drausminė atsakomybė taikoma už tarnybinius pažeidimus."
+    "correct": 2,
+    "explanation": "Jie grindžiami teisės normomis."
   },
   {
     "id": 25,
-    "category": "Valstybės tarnyba",
-    "question": "Viena iš drausminių nuobaudų:",
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės subjektus yra tiksliausias?",
     "options": [
-      "Laisvės atėmimas",
-      "Pastaba",
-      "Baudžiamoji atsakomybė",
-      "Administracinė bauda"
+      "Teisės subjektu gali būti tik fizinis asmuo",
+      "Teisės subjektai neturi pareigų",
+      "Teisės subjektai yra asmenys, turintys teisnumą ir veiksnumą",
+      "Teisės subjektai egzistuoja tik teorijoje"
     ],
-    "correct": 1,
-    "explanation": "Pastaba yra viena iš drausminių nuobaudų."
-  },
-  {
-    "id": 26,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojas gali būti atleistas iš pareigų, jei:",
-    "options": [
-      "Nori pakeisti darbą",
-      "Pažeidžia tarnybinius įsipareigojimus",
-      "Dirba gerai",
-      "Neturi darbo"
-    ],
-    "correct": 1,
-    "explanation": "Atleidimas galimas dėl pareigų pažeidimo."
-  },
-  {
-    "id": 27,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojo teisė:",
-    "options": [
-      "Ignoruoti įstatymus",
-      "Gauti darbo užmokestį",
-      "Nevykdyti pareigų",
-      "Dirbti be atsakomybės"
-    ],
-    "correct": 1,
-    "explanation": "Tarnautojas turi teisę į atlyginimą."
-  },
-  {
-    "id": 28,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojo pareiga:",
-    "options": [
-      "Siekti asmeninės naudos",
-      "Laikytis įstatymų ir etikos",
-      "Ignoruoti taisykles",
-      "Dirbti privačiai"
-    ],
-    "correct": 1,
-    "explanation": "Pagrindinė pareiga – laikytis teisės ir etikos."
-  },
-  {
-    "id": 29,
-    "category": "Valstybės tarnyba",
-    "question": "Viešų ir privačių interesų derinimas reiškia:",
-    "options": [
-      "Privataus intereso prioritetą",
-      "Konfliktų vengimą ir interesų deklaravimą",
-      "Verslo interesų gynimą",
-      "Slaptumą"
-    ],
-    "correct": 1,
-    "explanation": "Svarbu deklaruoti interesus ir vengti konfliktų."
-  },
-  {
-    "id": 30,
-    "category": "Valstybės tarnyba",
-    "question": "Nusišalinimas taikomas, kai:",
-    "options": [
-      "Tarnautojas neturi darbo",
-      "Yra interesų konfliktas",
-      "Dirba vienas",
-      "Nėra sprendimų"
-    ],
-    "correct": 1,
-    "explanation": "Nusišalinama esant interesų konfliktui."
-  },
-  {
-    "id": 31,
-    "category": "Valstybės tarnyba",
-    "question": "Valstybės tarnautojo veikla turi būti:",
-    "options": [
-      "Slapta",
-      "Lojali valstybei",
-      "Privati",
-      "Atsitiktinė"
-    ],
-    "correct": 1,
-    "explanation": "Lojalumas valstybei yra esminis principas."
-  },
-  {
-    "id": 32,
-    "category": "Valstybės tarnyba",
-    "question": "Konfidencialumas reiškia:",
-    "options": [
-      "Informacijos viešinimą",
-      "Tarnybinės informacijos saugojimą",
-      "Informacijos ignoravimą",
-      "Duomenų perdavimą visiems"
-    ],
-    "correct": 1,
-    "explanation": "Tarnautojas privalo saugoti informaciją."
+    "correct": 2,
+    "explanation": "Subjektai turi teises ir pareigas."
   }
 ]

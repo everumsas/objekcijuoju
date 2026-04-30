@@ -4,12 +4,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Teisėsaugos institucijų sistema apima:",
     "options": [
-      "Tik teismus",
-      "Institucijas, užtikrinančias teisės laikymąsi ir viešąją tvarką",
-      "Tik policiją",
-      "Tik valstybės tarnybą"
+      "Teismus ir tardymo įstaigas",
+      "Policiją ir administravimo įstaigas",
+      "Valstybės tarnybą ir kontrolės institucijas",
+      "Institucijas, užtikrinančias teisės laikymąsi ir viešąją tvarką"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Sistema apima visas institucijas, vykdančias teisėsaugos funkcijas."
   },
   {
@@ -18,11 +18,11 @@
     "question": "Kuri institucija vykdo ikiteisminį tyrimą?",
     "options": [
       "Teismas",
-      "Policija",
       "Seimas",
+      "Policija",
       "Konstitucinis Teismas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Policija yra pagrindinė ikiteisminio tyrimo institucija."
   },
   {
@@ -69,12 +69,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Ikiteisminio tyrimo pareigūnai:",
     "options": [
-      "Priima nuosprendžius",
       "Atlieka tyrimo veiksmus",
+      "Priima nuosprendžius",
       "Leidžia įstatymus",
       "Sprendžia ginčus"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Jie vykdo tyrimo veiksmus."
   },
   {
@@ -82,12 +82,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Teisėsaugos institucijų tikslas:",
     "options": [
-      "Uždirbti pelną",
       "Užtikrinti teisės laikymąsi",
-      "Vykdyti verslą",
+      "Vykdyti administracinį valdymą",
+      "Teikti mokamas paslaugas",
       "Kurti įstatymus"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Pagrindinis tikslas – teisės laikymasis."
   },
   {
@@ -96,11 +96,11 @@
     "question": "Advokatai teisėsaugos sistemoje:",
     "options": [
       "Atstovauja valstybę",
-      "Gina asmenų teises ir interesus",
       "Priima sprendimus",
+      "Gina asmenų teises ir interesus",
       "Atlieka tyrimus"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Advokatai gina klientų interesus."
   },
   {
@@ -108,12 +108,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Notarai:",
     "options": [
-      "Atlieka ikiteisminį tyrimą",
       "Tvirtina sandorius ir juridinius faktus",
+      "Atlieka ikiteisminį tyrimą",
       "Priima nuosprendžius",
       "Vykdo bausmes"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Notarai tvirtina sandorius."
   },
   {
@@ -136,8 +136,8 @@
     "options": [
       "Nepriklausomai nuo įstatymų",
       "Pagal įstatymus",
-      "Pagal verslo interesus",
-      "Pagal politiką"
+      "Pagal politines direktyvas",
+      "Pagal hierarchinius nurodymus"
     ],
     "correct": 1,
     "explanation": "Jos veikia pagal teisę."
@@ -148,11 +148,11 @@
     "question": "Teismų nepriklausomumas reiškia:",
     "options": [
       "Teismai pavaldūs Vyriausybei",
-      "Teismai nepriklausomi nuo kitų valdžių",
       "Teismai priklauso policijai",
+      "Teismai nepriklausomi nuo kitų valdžių",
       "Teismai priklauso Seimui"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Teismai yra nepriklausomi."
   },
   {
@@ -161,11 +161,11 @@
     "question": "Prokuroras baudžiamajame procese:",
     "options": [
       "Gina kaltinamąjį",
-      "Palaiko valstybinį kaltinimą",
       "Priima sprendimą",
-      "Vykdo bausmę"
+      "Vykdo bausmę",
+      "Palaiko valstybinį kaltinimą"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Prokuroras palaiko kaltinimą."
   },
   {
@@ -173,12 +173,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Teisėsaugos institucijų sistema yra:",
     "options": [
-      "Privati",
-      "Valstybinė",
-      "Verslo",
-      "Tarptautinė"
+      "Savivaldybių",
+      "Mišri – valstybinė ir privati",
+      "Tarptautinė",
+      "Valstybinė"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Tai valstybės sistema."
   },
   {
@@ -186,12 +186,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Teisėsaugos institucijų veikla skirta:",
     "options": [
-      "Pelno siekimui",
       "Viešajam interesui",
+      "Pelno siekimui",
       "Verslui",
       "Privatiems santykiams"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Jos tarnauja visuomenei."
   },
   {
@@ -200,11 +200,11 @@
     "question": "Policija:",
     "options": [
       "Priima įstatymus",
-      "Užtikrina viešąją tvarką ir tiria nusikaltimus",
       "Priima sprendimus",
-      "Tvirtina sandorius"
+      "Tvirtina sandorius",
+      "Užtikrina viešąją tvarką ir tiria nusikaltimus"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Policija vykdo viešosios tvarkos ir tyrimo funkcijas."
   },
   {
@@ -212,10 +212,10 @@
     "category": "Teisėsaugos institucijos",
     "question": "Teisėsaugos institucijų bendradarbiavimas:",
     "options": [
-      "Nereikalingas",
+      "Galimas tik tarptautiniu lygiu",
       "Svarbus efektyviam teisės taikymui",
-      "Draudžiamas",
-      "Tik teorinis"
+      "Nerekomenduojamas dėl konfidencialumo",
+      "Vykdomas tik prokuratūros iniciatyva"
     ],
     "correct": 1,
     "explanation": "Institucijos bendradarbiauja."
@@ -225,12 +225,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Teisėsaugos institucijos užtikrina:",
     "options": [
-      "Tik ekonomikos augimą",
-      "Teisės viršenybę",
-      "Verslo interesus",
-      "Politiką"
+      "Tik administracinę tvarką",
+      "Ūkinių santykių stabilumą",
+      "Politinę pusiausvyrą",
+      "Teisės viršenybę"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Jos užtikrina teisės viršenybę."
   },
   {
@@ -238,12 +238,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Teismas sprendžia:",
     "options": [
-      "Įstatymų leidybą",
       "Ginčus ir baudžiamąsias bylas",
-      "Verslo klausimus",
-      "Administravimą"
+      "Įstatymų leidybą",
+      "Administravimo klausimus",
+      "Valstybės biudžeto paskirstymą"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Teismas sprendžia ginčus."
   },
   {
@@ -252,11 +252,11 @@
     "question": "Teisėsaugos institucijų veiklos pagrindas:",
     "options": [
       "Privatūs interesai",
-      "Teisėtumas",
-      "Pelningumas",
-      "Politika"
+      "Politinė valia",
+      "Hierarchija ir subordinacija",
+      "Teisėtumas"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Pagrindas – teisėtumas."
   },
   {
@@ -264,12 +264,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Kuri institucija organizuoja ir vadovauja ikiteisminiam tyrimui, tačiau pati dažniausiai neatlieka visų tyrimo veiksmų?",
     "options": [
+      "Prokuratūra",
       "Teismas",
       "Policija",
-      "Prokuratūra",
       "Antstoliai"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Prokuratūra vadovauja tyrimui, bet veiksmus dažniausiai atlieka pareigūnai."
   },
   {
@@ -279,10 +279,10 @@
     "options": [
       "Policija",
       "Prokuratūra",
-      "Teismas",
-      "Advokatas"
+      "Advokatas",
+      "Teismas"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Tik teismas vykdo teisingumą ir priima galutinį sprendimą."
   },
   {
@@ -291,11 +291,11 @@
     "question": "Kuris teiginys apie policijos ir prokuratūros santykį yra teisingas?",
     "options": [
       "Policija vadovauja prokuratūrai",
-      "Prokuratūra vadovauja policijos atliekamam ikiteisminiam tyrimui",
       "Abi institucijos veikia visiškai nepriklausomai viena nuo kitos",
+      "Prokuratūra vadovauja policijos atliekamam ikiteisminiam tyrimui",
       "Prokuratūra vykdo teismo sprendimus"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Prokuratūra organizuoja ir kontroliuoja policijos tyrimą."
   },
   {
@@ -317,11 +317,11 @@
     "question": "Kuris teiginys apie advokato vaidmenį yra tiksliausias?",
     "options": [
       "Advokatas palaiko valstybinį kaltinimą",
-      "Advokatas atstovauja ir gina kliento interesus procese",
       "Advokatas priima sprendimą byloje",
+      "Advokatas atstovauja ir gina kliento interesus procese",
       "Advokatas vadovauja tyrimui"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Advokatas gina asmens teises ir interesus."
   },
   {
@@ -330,11 +330,11 @@
     "question": "Kuri institucija gali sankcionuoti tam tikrus procesinius veiksmus (pvz., suėmimą)?",
     "options": [
       "Policija",
-      "Prokuratūra",
       "Teismas",
+      "Prokuratūra",
       "Antstoliai"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Tokius sprendimus priima teismas."
   },
   {
@@ -342,12 +342,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Kuris teiginys apie prokuroro funkcijas yra teisingas?",
     "options": [
-      "Prokuroras vykdo bausmes",
       "Prokuroras palaiko valstybinį kaltinimą teisme",
+      "Prokuroras vykdo bausmes",
       "Prokuroras priima galutinį nuosprendį",
       "Prokuroras gina kaltinamąjį"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Prokuroras palaiko kaltinimą teisme."
   },
   {
@@ -369,11 +369,11 @@
     "question": "Kuris teiginys apie teismo nepriklausomumą yra tiksliausias?",
     "options": [
       "Teismas pavaldus prokuratūrai",
-      "Teismas sprendžia bylas nepriklausomai nuo kitų institucijų",
       "Teismas vykdo Vyriausybės nurodymus",
+      "Teismas sprendžia bylas nepriklausomai nuo kitų institucijų",
       "Teismas derina sprendimus su policija"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Teismai yra nepriklausomi."
   },
   {
@@ -381,12 +381,12 @@
     "category": "Teisėsaugos institucijos",
     "question": "Kuri institucija neturi teisės vykdyti ikiteisminio tyrimo?",
     "options": [
+      "Teismas",
       "Policija",
       "Prokuratūra",
-      "Teismas",
       "Specialiosios tarnybos"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Teismas nevykdo tyrimo – jis sprendžia bylas."
   }
 ]

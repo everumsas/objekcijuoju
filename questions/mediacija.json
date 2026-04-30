@@ -5,11 +5,11 @@
     "question": "Mediacija yra:",
     "options": [
       "Teismo procesas",
-      "Ginčų sprendimo būdas dalyvaujant neutraliam trečiajam asmeniui",
       "Baudimo forma",
+      "Ginčų sprendimo būdas dalyvaujant neutraliam trečiajam asmeniui",
       "Valstybės institucijos veikla"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Mediacija – alternatyvus ginčų sprendimo būdas."
   },
   {
@@ -17,12 +17,12 @@
     "category": "Mediacija",
     "question": "Mediatorius yra:",
     "options": [
-      "Teisėjas",
       "Nešališkas trečiasis asmuo",
+      "Teisėjas",
       "Advokatas",
       "Prokuroras"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Mediatorius padeda šalims susitarti, bet nesprendžia ginčo."
   },
   {
@@ -31,11 +31,11 @@
     "question": "Mediacijos tikslas:",
     "options": [
       "Nubausti kaltąją šalį",
-      "Padėti šalims susitarti",
       "Priimti teismo sprendimą",
+      "Padėti šalims susitarti",
       "Surinkti įrodymus"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Tikslas – susitarimas tarp šalių."
   },
   {
@@ -43,12 +43,12 @@
     "category": "Mediacija",
     "question": "Pagrindinis mediacijos principas:",
     "options": [
-      "Privalomumas",
       "Savanoriškumas",
-      "Baudimas",
-      "Kontrolė"
+      "Privalomumas",
+      "Konfidencialumas",
+      "Efektyvumas"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Mediacija grindžiama savanoriškumu."
   },
   {
@@ -56,10 +56,10 @@
     "category": "Mediacija",
     "question": "Konfidencialumas mediacijoje reiškia:",
     "options": [
-      "Informacijos viešinimą",
+      "Mediatoriaus teisę dalintis informacija moksliniams tyrimams",
       "Informacijos slaptumą",
-      "Duomenų perdavimą teismui",
-      "Viešą nagrinėjimą"
+      "Mediacijos rezultato viešą paskelbimą šalių sutikimu",
+      "Duomenų perdavimą kompetentingoms institucijoms"
     ],
     "correct": 1,
     "explanation": "Mediacijos metu informacija yra konfidenciali."
@@ -70,11 +70,11 @@
     "question": "Mediatorius priima sprendimą ginče:",
     "options": [
       "Taip",
-      "Tik kartais",
       "Ne",
+      "Tik kartais",
       "Tik su teismo leidimu"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Mediatorius nepriima sprendimo – sprendžia šalys."
   },
   {
@@ -95,12 +95,12 @@
     "category": "Mediacija",
     "question": "Teisminė mediacija vyksta:",
     "options": [
-      "Tik pas notarą",
       "Teismo procese",
-      "Internete",
-      "Tik policijoje"
+      "Notaro biure",
+      "Arbitražo institucijoje",
+      "Savivaldybės administracijoje"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Ji vyksta nagrinėjant bylą teisme."
   },
   {
@@ -109,11 +109,11 @@
     "question": "Mediacijos procesas prasideda:",
     "options": [
       "Teismo sprendimu",
-      "Šalių susitarimu",
+      "Prokuroro nutarimu",
       "Advokato nurodymu",
-      "Policijos įsakymu"
+      "Šalių susitarimu"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Svarbiausia – šalių valia."
   },
   {
@@ -122,11 +122,11 @@
     "question": "Mediacijos rezultatas:",
     "options": [
       "Nuosprendis",
-      "Šalių susitarimas",
       "Bauda",
+      "Šalių susitarimas",
       "Sprendimas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Pasiekiamas susitarimas tarp šalių."
   },
   {
@@ -135,11 +135,11 @@
     "question": "Mediatorius turi būti:",
     "options": [
       "Šališkas",
-      "Neutralus",
       "Teisėjas",
-      "Advokatas"
+      "Advokatas",
+      "Neutralus"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Neutralumas yra esminis reikalavimas."
   },
   {
@@ -160,12 +160,12 @@
     "category": "Mediacija",
     "question": "Mediatorius gali siūlyti sprendimus:",
     "options": [
-      "Ne",
       "Taip, bet nepriima sprendimo",
+      "Ne",
       "Tik teisme",
       "Tik advokatui"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Mediatorius gali padėti, bet nesprendžia už šalis."
   },
   {
@@ -173,12 +173,12 @@
     "category": "Mediacija",
     "question": "Mediacijos privalumas:",
     "options": [
-      "Ilgai trunka",
-      "Lankstumas ir greitis",
-      "Brangumas",
-      "Sudėtingumas"
+      "Privalomas susitarimas net ir nesutinkančioms šalims",
+      "Galimybė kreiptis į aukštesnę instanciją",
+      "Griežtas teisinis reglamentavimas ir sprendimų privalomumas",
+      "Lankstumas ir greitis"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Mediacija paprastai greitesnė ir lankstesnė."
   },
   {
@@ -187,11 +187,11 @@
     "question": "Mediacija gali būti nutraukta:",
     "options": [
       "Tik teismo sprendimu",
-      "Bet kurios šalies iniciatyva",
       "Tik mediatoriaus sprendimu",
+      "Bet kurios šalies iniciatyva",
       "Negali būti nutraukta"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Šalys gali bet kada pasitraukti."
   },
   {
@@ -199,12 +199,12 @@
     "category": "Mediacija",
     "question": "Mediacija grindžiama:",
     "options": [
-      "Prievarta",
-      "Savanoriškumu ir bendradarbiavimu",
-      "Baudimu",
-      "Kontrole"
+      "Teisiniu aiškumu ir norminiais standartais",
+      "Institucine atsakomybe ir kontrole",
+      "Rezultatų privalomumu ir vykdymo užtikrinimu",
+      "Savanoriškumu ir bendradarbiavimu"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Svarbiausia – bendradarbiavimas."
   },
   {
@@ -212,10 +212,10 @@
     "category": "Mediacija",
     "question": "Mediacijos metu šalys:",
     "options": [
-      "Neturi teisių",
+      "Privalo laikytis mediatoriaus siūlomų sprendimų",
       "Pačios priima sprendimą",
-      "Privalo laikytis mediatoriaus sprendimo",
-      "Neturi pasirinkimo"
+      "Netenka teisės kreiptis į teismą mediacijos metu",
+      "Perduoda sprendimų priėmimą mediatoriui"
     ],
     "correct": 1,
     "explanation": "Sprendimą priima pačios šalys."
@@ -225,12 +225,12 @@
     "category": "Mediacija",
     "question": "Mediacijos susitarimas:",
     "options": [
-      "Neturi galios",
       "Gali turėti teisinę galią",
-      "Yra tik rekomendacija",
-      "Negalioja"
+      "Neturi jokios teisinės galios",
+      "Yra tik rekomendacinio pobūdžio",
+      "Turi galią tik jei patvirtintas teismo"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Susitarimas gali būti įtvirtintas teisiškai."
   },
   {
@@ -239,11 +239,11 @@
     "question": "Mediacijos principas:",
     "options": [
       "Slaptumas",
-      "Konfidencialumas",
       "Viešumas",
+      "Konfidencialumas",
       "Privalomumas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Konfidencialumas yra esminis principas."
   },
   {
@@ -251,10 +251,10 @@
     "category": "Mediacija",
     "question": "Mediacija padeda:",
     "options": [
-      "Padidinti konfliktą",
+      "Nustatyti kaltąją šalį ir jos teisinę atsakomybę",
       "Išspręsti ginčą taikiai",
-      "Nubausti šalis",
-      "Atidėti sprendimą"
+      "Pateikti privalomą sprendimą šalims",
+      "Atidėti ginčo sprendimą"
     ],
     "correct": 1,
     "explanation": "Tikslas – taikus ginčo sprendimas."
@@ -265,11 +265,11 @@
     "question": "Kuris teiginys geriausiai apibūdina mediatoriaus vaidmenį?",
     "options": [
       "Mediatorius priima galutinį sprendimą, jei šalys nesusitaria",
-      "Mediatorius padeda šalims rasti sprendimą, tačiau pats jo nepriima",
       "Mediatorius vertina įrodymus ir nustato, kuri šalis teisi",
-      "Mediatorius pateikia privalomą sprendimo variantą"
+      "Mediatorius pateikia privalomą sprendimo variantą",
+      "Mediatorius padeda šalims rasti sprendimą, tačiau pats jo nepriima"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Mediatorius tik padeda, bet sprendimo nepriima."
   },
   {
@@ -291,11 +291,11 @@
     "question": "Kuris iš šių geriausiai apibūdina konfidencialumo principą mediacijoje?",
     "options": [
       "Visa mediacijos metu pateikta informacija gali būti naudojama teisme",
-      "Mediatorius gali viešai aptarti ginčo detales",
       "Mediacijos metu gauta informacija negali būti atskleidžiama ar naudojama be šalių sutikimo",
+      "Mediatorius gali viešai aptarti ginčo detales",
       "Konfidencialumas galioja tik mediatoriui, bet ne šalims"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Konfidencialumas saugo visą mediacijos metu pateiktą informaciją."
   },
   {
@@ -303,12 +303,12 @@
     "category": "Mediacija",
     "question": "Kuris teiginys apie mediacijos rezultatą yra tiksliausias?",
     "options": [
-      "Mediacijos rezultatas visada yra teismo sprendimas",
       "Mediacijos metu priimtas susitarimas gali turėti teisinę galią",
+      "Mediacijos rezultatas visada yra teismo sprendimas",
       "Mediacijos susitarimas yra tik rekomendacinio pobūdžio",
       "Mediatorius pasirašo sprendimą vietoje šalių"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Šalių susitarimas gali būti teisiškai įtvirtintas."
   },
   {
@@ -317,11 +317,11 @@
     "question": "Kuris teiginys apie mediacijos ir teismo santykį yra teisingas?",
     "options": [
       "Mediacija visiškai pakeičia teismo procesą",
-      "Mediacija gali būti taikoma prieš teismą arba jo metu",
       "Mediacija galima tik po teismo sprendimo",
-      "Teismas negali siūlyti mediacijos"
+      "Teismas negali siūlyti mediacijos",
+      "Mediacija gali būti taikoma prieš teismą arba jo metu"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Mediacija gali vykti tiek prieš teismą, tiek proceso metu."
   },
   {
@@ -329,12 +329,12 @@
     "category": "Mediacija",
     "question": "Kuris teiginys apie mediatoriaus neutralumą yra teisingas?",
     "options": [
-      "Mediatorius gali palaikyti vieną šalį, jei ji teisi",
       "Mediatorius turi būti neutralus ir nešališkas abiejų šalių atžvilgiu",
+      "Mediatorius gali palaikyti vieną šalį, jei ji teisi",
       "Mediatorius sprendžia, kuri šalis yra silpnesnė",
       "Mediatorius turi remtis tik įrodymais"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Neutralumas yra vienas pagrindinių mediacijos principų."
   },
   {
@@ -343,11 +343,11 @@
     "question": "Kuris teiginys apie mediacijos eigą yra teisingas?",
     "options": [
       "Mediacija vyksta pagal griežtą procesinę tvarką kaip teisme",
-      "Mediacija yra lankstus procesas, pritaikomas pagal šalių poreikius",
       "Mediacija visada vyksta tik vieno susitikimo metu",
+      "Mediacija yra lankstus procesas, pritaikomas pagal šalių poreikius",
       "Mediacijos eigą nustato tik teismas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Mediacija pasižymi lankstumu."
   },
   {
@@ -356,11 +356,11 @@
     "question": "Kuris iš šių geriausiai apibūdina mediacijos privalumus?",
     "options": [
       "Formali procedūra ir ilgas procesas",
-      "Greitas, lankstus ir mažiau konfliktiškas sprendimo būdas",
       "Privalomas sprendimo priėmimas",
-      "Griežtas teisinių normų taikymas"
+      "Griežtas teisinių normų taikymas",
+      "Greitas, lankstus ir mažiau konfliktiškas sprendimo būdas"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Mediacija pasižymi greičiu ir lankstumu."
   },
   {
@@ -368,12 +368,12 @@
     "category": "Mediacija",
     "question": "Kuris teiginys apie mediacijos taikymą yra teisingas?",
     "options": [
-      "Mediacija gali būti taikoma tik civiliniuose ginčuose",
       "Mediacija gali būti taikoma įvairiuose ginčuose, jei šalys sutinka",
+      "Mediacija gali būti taikoma tik civiliniuose ginčuose",
       "Mediacija galima tik valstybės institucijose",
       "Mediacija taikoma tik tarptautiniuose ginčuose"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Mediacija taikoma plačiai, jei šalys sutinka."
   },
   {
@@ -382,11 +382,11 @@
     "question": "Kuris teiginys apie mediacijos nutraukimą yra tiksliausias?",
     "options": [
       "Mediaciją gali nutraukti tik mediatorius",
-      "Mediaciją gali nutraukti bet kuri šalis savo iniciatyva",
       "Mediacija negali būti nutraukta pradėjus procesą",
+      "Mediaciją gali nutraukti bet kuri šalis savo iniciatyva",
       "Nutraukimui būtinas teismo leidimas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Šalys gali bet kada nutraukti mediaciją."
   }
 ]

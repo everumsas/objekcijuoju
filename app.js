@@ -1,5 +1,5 @@
 const STORAGE_KEY = "objekcijuoju_progress_multi_v1";
-const QUESTIONS_VERSION = "20260416-4";
+const QUESTIONS_VERSION = "20260430-5";
 
 const QUESTION_FILES = [
   "./questions/administracine_teise.json",

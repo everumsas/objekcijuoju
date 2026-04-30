@@ -18,11 +18,11 @@
     "question": "Kuris iš šių teiginių geriausiai apibūdina ius gentium?",
     "options": [
       "Formali ir griežta teisė",
-      "Teisė, taikoma tik piliečiams",
       "Lanksti teisė, grindžiama teisingumu ir papročiais",
+      "Teisė, taikoma tik piliečiams",
       "Tik baudžiamoji teisė"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Ius gentium buvo lankstesnė ir grindžiama teisingumo principais."
   },
   {
@@ -31,11 +31,11 @@
     "question": "Kuris iš šių NĖRA ius publicum požymis?",
     "options": [
       "Reguliuoja valstybės santykius",
-      "Normos yra imperatyvios",
       "Skirta individualiems interesams",
+      "Normos yra imperatyvios",
       "Negali būti keičiama susitarimu"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Individualūs interesai priklauso ius privatum."
   },
   {
@@ -44,11 +44,11 @@
     "question": "Kuri teisės šaka reguliavo pavienių asmenų santykius?",
     "options": [
       "Ius publicum",
-      "Ius privatum",
       "Ius gentium",
-      "Ius naturale"
+      "Ius naturale",
+      "Ius privatum"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Ius privatum reguliavo privačius santykius."
   },
   {
@@ -56,12 +56,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris principas reiškia teisingumą ir lygybę?",
     "options": [
-      "Fides",
       "Aequitas",
+      "Fides",
       "Humanitas",
       "Utilitas"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Aequitas reiškia teisingumą ir lygybę."
   },
   {
@@ -69,12 +69,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris principas pabrėžia pagarbą žmogui?",
     "options": [
-      "Aequitas",
       "Humanitas",
+      "Aequitas",
       "Fides",
       "Ius"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Humanitas reiškia pagarbą žmogaus asmenybei."
   },
   {
@@ -84,8 +84,8 @@
     "options": [
       "Gebėjimas sudaryti sandorius",
       "Gebėjimas turėti teises ir pareigas",
-      "Gebėjimas balsuoti",
-      "Gebėjimas dirbti"
+      "Gebėjimas dalyvauti teisiniuose procesuose",
+      "Gebėjimas reikšti valią teisiškai"
     ],
     "correct": 1,
     "explanation": "Teisnumas – gebėjimas turėti teises ir pareigas."
@@ -96,11 +96,11 @@
     "question": "Kas yra veiksnumas?",
     "options": [
       "Gebėjimas turėti turtą",
-      "Gebėjimas būti piliečiu",
       "Gebėjimas savo veiksmais įgyti teises",
+      "Gebėjimas būti piliečiu",
       "Gebėjimas paveldėti"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Veiksnumas reiškia galėjimą savo veiksmais įgyti teises ir pareigas."
   },
   {
@@ -108,12 +108,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių teiginių apie vergus yra teisingas?",
     "options": [
+      "Jie buvo laikomi daiktais",
       "Jie buvo piliečiai",
       "Jie turėjo teisnumą",
-      "Jie buvo laikomi daiktais",
-      "Jie galėjo balsuoti"
+      "Jiems galėjo būti suteikta pilietybė"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Vergai romėnų teisėje buvo laikomi daiktais."
   },
   {
@@ -122,11 +122,11 @@
     "question": "Kuris statusas reiškia laisvės buvimą?",
     "options": [
       "Status civitatis",
-      "Status familiae",
       "Status libertatis",
+      "Status familiae",
       "Status iuris"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Status libertatis reiškia laisvės statusą."
   },
   {
@@ -134,12 +134,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių NĖRA caput elementas?",
     "options": [
+      "Status pecuniae",
       "Status libertatis",
       "Status civitatis",
-      "Status familiae",
-      "Status pecuniae"
+      "Status familiae"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Caput sudaro trys statusai: libertatis, civitatis, familiae."
   },
   {
@@ -148,11 +148,11 @@
     "question": "Kada išnyko skirtumas tarp piliečių ir nepiliečių teisės?",
     "options": [
       "Respublikos laikais",
-      "Po Karakalos konstitucijos",
       "Viduramžiais",
-      "Karalystės laikais"
+      "Karalystės laikais",
+      "Po Karakalos konstitucijos"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Karakalos konstitucija suteikė pilietybę visiems laisviems gyventojams."
   },
   {
@@ -161,11 +161,11 @@
     "question": "Kuris teiginys teisingas apie dispozityvias normas?",
     "options": [
       "Jos visada privalomos",
-      "Jos gali būti keičiamos šalių susitarimu",
       "Jos galioja tik valstybės institucijoms",
-      "Jos taikomos tik baudžiamojoje teisėje"
+      "Jos taikomos tik baudžiamojoje teisėje",
+      "Jos gali būti keičiamos šalių susitarimu"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Dispozityvios normos leidžia šalims susitarti kitaip."
   },
   {
@@ -175,10 +175,10 @@
     "options": [
       "Ius privatum",
       "Ius gentium",
-      "Ius publicum",
-      "Ius naturale"
+      "Ius naturale",
+      "Ius publicum"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Ius publicum normos yra imperatyvios."
   },
   {
@@ -187,11 +187,11 @@
     "question": "Kuris iš šių geriausiai apibūdina ius naturale?",
     "options": [
       "Tik piliečių teisė",
-      "Universali teisė visiems žmonėms",
       "Baudžiamoji teisė",
-      "Teisė taikoma tik vergams"
+      "Tik papročių ir senųjų tradicijų rinkinys",
+      "Universali teisė visiems žmonėms"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Ius naturale laikyta universalia visiems žmonėms."
   },
   {
@@ -199,12 +199,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris teiginys apie ius privatum yra teisingas?",
     "options": [
-      "Reguliuoja valstybės institucijas",
       "Skirtas individualiems interesams",
+      "Reguliuoja valstybės institucijas",
       "Negali būti keičiamas",
       "Taikomas tik teismams"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Ius privatum saugo individualius interesus."
   },
   {
@@ -226,11 +226,11 @@
     "question": "Kas yra caput?",
     "options": [
       "Teismo sprendimas",
-      "Teisinė asmens padėtis",
       "Turto forma",
+      "Teisinė asmens padėtis",
       "Bauda"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Caput apibūdina asmens teisinį statusą."
   },
   {
@@ -239,11 +239,11 @@
     "question": "Kuris statusas susijęs su pilietybe?",
     "options": [
       "Status libertatis",
-      "Status civitatis",
       "Status familiae",
+      "Status civitatis",
       "Status pecuniae"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Status civitatis reiškia pilietybę."
   },
   {
@@ -265,11 +265,11 @@
     "question": "Kuris iš šių NĖRA teisnumo požymis?",
     "options": [
       "Gebėjimas turėti teises",
-      "Gebėjimas turėti pareigas",
       "Gebėjimas sudaryti sandorius",
+      "Gebėjimas turėti pareigas",
       "Priklausymas teisės sistemai"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Sandorių sudarymas priklauso veiksnumui."
   },
   {
@@ -292,10 +292,10 @@
     "options": [
       "Aequitas",
       "Humanitas",
-      "Fides",
-      "Ius"
+      "Ius",
+      "Fides"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Fides reiškia sąžiningumą ir pasitikėjimą."
   },
   {
@@ -303,12 +303,12 @@
     "category": "Romėnų teisė",
     "question": "Kuri teisės rūšis buvo mažiau formali?",
     "options": [
+      "Ius gentium",
       "Ius civile",
       "Ius publicum",
-      "Ius gentium",
       "Ius strictum"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Ius gentium buvo lankstesnė ir mažiau formali."
   },
   {
@@ -317,11 +317,11 @@
     "question": "Kuris teiginys apie ius publicum yra teisingas?",
     "options": [
       "Skirtas individualiems santykiams",
-      "Gali būti keičiamas susitarimu",
       "Reguliuoja valstybės santykius",
+      "Gali būti keičiamas susitarimu",
       "Taikomas tik prekybai"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Ius publicum reguliuoja valstybės ir viešuosius santykius."
   },
   {
@@ -330,11 +330,11 @@
     "question": "Kuris iš šių geriausiai paaiškina ius civile formalumą?",
     "options": [
       "Buvo grindžiamas papročiais",
-      "Reikalavo griežtų formų ir ritualų",
       "Buvo lankstus ir lengvai pritaikomas",
+      "Reikalavo griežtų formų ir ritualų",
       "Buvo taikomas tik prekybai"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Ius civile pasižymėjo formalumu ir griežtais teisiniais veiksmais."
   },
   {
@@ -355,12 +355,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių NĖRA ius privatum reguliavimo objektas?",
     "options": [
+      "Valstybės valdymas",
       "Nuosavybė",
       "Sutartys",
-      "Šeimos santykiai",
-      "Valstybės valdymas"
+      "Šeimos santykiai"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Valstybės valdymas priklauso ius publicum."
   },
   {
@@ -370,10 +370,10 @@
     "options": [
       "Ius strictum",
       "Ius civile",
-      "Ius gentium",
-      "Ius publicum"
+      "Ius publicum",
+      "Ius gentium"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Ius gentium buvo grindžiama praktiniu teisingumu ir sąžiningumu."
   },
   {
@@ -382,11 +382,11 @@
     "question": "Kuris iš šių geriausiai apibūdina imperatyvias normas?",
     "options": [
       "Gali būti keičiamos šalių susitarimu",
-      "Privalomos ir negali būti keičiamos",
-      "Taikomos tik civilinėje teisėje",
-      "Taikomos tik prekyboje"
+      "Taikomos tik pareigūnų priimamose nutartyse",
+      "Taikomos tik viešojo administravimo santykiuose",
+      "Privalomos ir negali būti keičiamos"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Imperatyvios normos yra privalomos ir negali būti keičiamos."
   },
   {
@@ -394,12 +394,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių teiginių apie dispozityvias normas yra teisingas?",
     "options": [
-      "Jos visada privalomos",
       "Jos leidžia pasirinkti kitą reguliavimą",
+      "Jos visada privalomos",
       "Jos galioja tik valstybės institucijoms",
       "Jos taikomos tik baudžiamojoje teisėje"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Dispozityvios normos leidžia šalims susitarti kitaip."
   },
   {
@@ -421,11 +421,11 @@
     "question": "Kuris iš šių geriausiai apibūdina status civitatis?",
     "options": [
       "Asmens šeimos padėtis",
-      "Asmens pilietybė",
       "Asmens turtinė padėtis",
-      "Asmens laisvė"
+      "Asmens laisvė",
+      "Asmens pilietybė"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Status civitatis reiškia pilietybę."
   },
   {
@@ -434,11 +434,11 @@
     "question": "Kuris iš šių teiginių apie status familiae yra teisingas?",
     "options": [
       "Apibūdina pilietybę",
-      "Apibūdina šeimos santykius",
       "Apibūdina laisvę",
-      "Apibūdina valstybės santykius"
+      "Apibūdina valstybės santykius",
+      "Apibūdina šeimos santykius"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Status familiae nusako asmens padėtį šeimoje."
   },
   {
@@ -447,11 +447,11 @@
     "question": "Kuris iš šių NĖRA status libertatis požymis?",
     "options": [
       "Laisvas asmuo",
-      "Vergas",
       "Turintis teises",
+      "Vergas",
       "Nepriklausomas"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Vergas neturi status libertatis."
   },
   {
@@ -472,12 +472,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių geriausiai apibūdina ius naturale?",
     "options": [
-      "Teisė skirta tik piliečiams",
       "Teisė grindžiama gamtos principais",
+      "Teisė skirta tik piliečiams",
       "Teisė reguliuojanti valstybę",
       "Teisė skirta tik prekybai"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Ius naturale laikyta visiems būdinga teise."
   },
   {
@@ -498,12 +498,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių teiginių apie ius publicum yra teisingas?",
     "options": [
-      "Gali būti keičiamas susitarimu",
-      "Reguliuoja valstybės santykius",
-      "Taikomas tik prekyboje",
-      "Skirtas šeimos santykiams"
+      "Gali būti keičiamas šalių susitarimu",
+      "Taikomas tik valstybinių įmonių santykiams",
+      "Skirtas šeimos ir paveldo santykiams",
+      "Reguliuoja valstybės santykius"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Ius publicum reguliuoja valstybės ir viešuosius santykius."
   },
   {
@@ -511,12 +511,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių geriausiai apibūdina ius strictum?",
     "options": [
-      "Lanksti teisė",
       "Griežta ir formali teisė",
+      "Lanksti teisė",
       "Tarptautinė teisė",
       "Neprivaloma teisė"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Ius strictum reiškia griežtą teisės taikymą."
   },
   {
@@ -538,11 +538,11 @@
     "question": "Kuris iš šių geriausiai apibūdina teisnumą ir veiksnumą santykį?",
     "options": [
       "Tai tas pats dalykas",
-      "Teisnumas yra platesnis už veiksnumą",
       "Veiksnumas yra platesnis už teisnumą",
+      "Teisnumas yra platesnis už veiksnumą",
       "Jie nesusiję"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Teisnumas yra platesnė sąvoka nei veiksnumas."
   },
   {
@@ -550,12 +550,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių teiginių apie caput yra teisingas?",
     "options": [
-      "Apima tik turtą",
       "Apima asmens teisinį statusą",
-      "Apima tik pilietybę",
-      "Apima tik laisvę"
+      "Apibrėžia finansinę ir turtinę padėtį",
+      "Sutapatintinas su pilietybe ir visuomeniniu statusu",
+      "Atspindi laisvo asmens socialinę padėtį"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Caput apibūdina visą asmens teisinę padėtį."
   },
   {
@@ -564,11 +564,11 @@
     "question": "Kuris iš šių NĖRA romėnų teisės skirstymo kriterijus?",
     "options": [
       "Viešoji ir privati teisė",
-      "Piliečių ir nepiliečių teisė",
       "Civilinė ir baudžiamoji teisė",
+      "Piliečių ir nepiliečių teisė",
       "Natūralioji teisė"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Romėnų teisė nebuvo skirstoma į civilinę ir baudžiamąją taip kaip dabar."
   },
   {
@@ -576,12 +576,12 @@
     "category": "Romėnų teisė",
     "question": "Kuris iš šių teiginių apie ius gentium yra teisingas?",
     "options": [
+      "Taikyta plačiai visiems žmonėms",
       "Buvo skirta tik piliečiams",
       "Buvo griežtai formali",
-      "Taikyta plačiai visiems žmonėms",
       "Buvo tik baudžiamoji teisė"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Ius gentium buvo taikoma visiems žmonėms, ne tik piliečiams."
   }
 ]
