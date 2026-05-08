@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "category": "Europos Sąjungos teisė",
+    "question": "Ar Europos Sąjunga yra EŽTK (Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos) narė?",
+    "options": [
+      "Taip, nuo Lisabonos sutarties įsigaliojimo",
+      "Ne, Europos Sąjunga nėra EŽTK narė",
+      "Taip, bet tik ribotai – kaip stebėtoja",
+      "Taip, ES prisijungė 2009 m. gruodžio 1 d."
+    ],
+    "correct": 1,
+    "explanation": "Lisabonos sutarties 6 str. 2 d. įpareigoja ES prisijungti prie EŽTK, tačiau iki šiol ES faktiškai nėra EŽTK narė."
+  },
+  {
+    "id": 2,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kokia sutartimi buvo oficialiai įkurta Europos Sąjunga?",
+    "options": [
+      "Romos sutartimi (1957 m.)",
+      "Mastrichto sutartimi (pasirašyta 1992 m., įsigaliojo 1993 m.)",
+      "Nicos sutartimi (2001 m.)",
+      "Lisabonos sutartimi (2007 m.)"
+    ],
+    "correct": 1,
+    "explanation": "ES oficialiai įkurta Mastrichto sutartimi, pasirašyta 1992 m. vasario 7 d. ir įsigaliojusia 1993 m. lapkričio 1 d."
+  },
+  {
+    "id": 3,
+    "category": "Europos Sąjungos teisė",
+    "question": "Mastrichto sutartimi sukurta Europos Sąjunga rėmėsi trimis ramsčiais. Kurie jie?",
+    "options": [
+      "Bendra rinka/pinigų/žemės ūkio politika; Bendra užsienio ir saugumo politika (BUSP); Bendradarbiavimas teisingumo ir vidaus reikalų srityje (TVR)",
+      "Bendra valiuta, muitų sąjunga ir vartotojų apsauga",
+      "Žemės ūkio politika, aplinkos apsauga ir gynyba",
+      "Vidaus rinka, švietimas ir migracija"
+    ],
+    "correct": 0,
+    "explanation": "Mastrichto sutarties 3 ramsčiai: Europos Bendrijų pagrindas (rinka/pinigai/žemės ūkis), BUSP ir TVR."
+  },
+  {
+    "id": 4,
+    "category": "Europos Sąjungos teisė",
+    "question": "Po Lisabonos sutarties Europos Sąjunga teisiškai grindžiama:",
+    "options": [
+      "Tik ESS ir Europos žmogaus teisių konvencija (EŽTK)",
+      "Tik SESV ir Pagrindinių teisių chartija",
+      "Europos Sąjungos sutartimi (ESS), Sutartimi dėl ES veikimo (SESV) ir Euratomo steigimo sutartimi",
+      "Romos sutartimi ir Nicos sutartimi"
+    ],
+    "correct": 2,
+    "explanation": "Po Lisabonos ES grindžiama trimis sutartimis: ESS, SESV ir Euratomo sutartimi; ESS ir SESV turi vienodą teisinę galią."
+  },
+  {
+    "id": 5,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuri iš šių grupių tinkamai apibūdina visus ES teisės šaltinius?",
+    "options": [
+      "Tik steigimo sutartys ir nacionaliniai įstatymai",
+      "Tik reglamentai ir direktyvos",
+      "Tik Europos Sąjungos Teisingumo Teismo sprendimai",
+      "Steigimo sutartys, ES institucijų teisės aktai, ES tarptautinės sutartys, bendrieji principai ir teismų praktika"
+    ],
+    "correct": 3,
+    "explanation": "ES teisės šaltiniai apima pirminę, antrinę ir tretinę teisę: sutartis, institucijų aktus, tarptautines sutartis, principus ir teismų praktiką."
+  },
+  {
+    "id": 6,
+    "category": "Europos Sąjungos teisė",
+    "question": "Pirminiai ES teisės šaltiniai nuo antrinių pirmiausia skiriasi tuo, kad pirminiai:",
+    "options": [
+      "Yra priimami tik Europos Komisijos sprendimais",
+      "Gali būti lengvai keičiami ES institucijų nutarimais",
+      "Sudaryti valstybių narių ir turi aukščiausią juridinę galią ES teisės sistemoje",
+      "Neturi privalomos teisinės galios ir yra tik politiniai dokumentai"
+    ],
+    "correct": 2,
+    "explanation": "Pirminė teisė (steigimo sutartys, Chartija) kyla iš valstybių narių sutarčių ir turi aukščiausią galią ES teisės hierarchijoje."
+  },
+  {
+    "id": 7,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuris teiginys apie pirminius ES teisės šaltinius yra teisingas?",
+    "options": [
+      "ESTT gali panaikinti pirminių šaltinių nuostatas savo sprendimais",
+      "ES institucijos gali laisvai modifikuoti pirminius šaltinius paprastu sprendimu",
+      "Pirminiai šaltiniai neprivalo būti ratifikuojami valstybių narių",
+      "Jie gali būti keičiami tik sutartyse nustatyta tvarka, paprastai reikalaujant visų valstybių narių sutikimo"
+    ],
+    "correct": 3,
+    "explanation": "Pirminiai šaltiniai negali būti keičiami institucijų valia – tam reikalinga speciali tvarka, įtraukianti visas valstybes nares."
+  },
+  {
+    "id": 8,
+    "category": "Europos Sąjungos teisė",
+    "question": "Antriniai ES teisės šaltiniai yra:",
+    "options": [
+      "Tik valstybių narių tarpusavio susitarimai",
+      "Teisės aktai, kuriuos ES institucijos priima pagal joms pirminės teisės suteiktą kompetenciją",
+      "Tik teismų praktika ir bendrieji principai",
+      "Tik Pagrindinių teisių chartija ir ESS"
+    ],
+    "correct": 1,
+    "explanation": "Antrinė (išvestinė) teisė: reglamentai, direktyvos, sprendimai, rekomendacijos, nuomonės – priimami ES institucijų pagal pirminės teisės kompetenciją."
+  },
+  {
+    "id": 9,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuris iš šių yra privalomasis antrinės ES teisės aktas?",
+    "options": [
+      "Nuomonė",
+      "Rekomendacija",
+      "Direktyva",
+      "Rezoliucija"
+    ],
+    "correct": 2,
+    "explanation": "Privalomieji aktai: reglamentai, direktyvos ir sprendimai. Neprivalomieji: rekomendacijos ir nuomonės."
+  },
+  {
+    "id": 10,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuris iš šių ES teisės aktų yra neprivalomasis?",
+    "options": [
+      "Reglamentas",
+      "Direktyva",
+      "Nuomonė",
+      "Sprendimas"
+    ],
+    "correct": 2,
+    "explanation": "Nuomonės ir rekomendacijos – neprivalomieji aktai; reglamentai, direktyvos ir sprendimai – privalomieji."
+  },
+  {
+    "id": 11,
+    "category": "Europos Sąjungos teisė",
+    "question": "Po Lisabonos sutarties įsigaliojimo Europos Sąjungos Pagrindinių teisių chartija:",
+    "options": [
+      "Liko tik politinio pobūdžio deklaracija be privalomos teisinės galios",
+      "Įgijo tokią pačią teisinę galią kaip ir Sutartys ir tapo pirminės teisės dalimi",
+      "Tapo rekomendaciniu dokumentu, kurį valstybės gali pasirinktinai taikyti",
+      "Privaloma tik ES institucijoms, bet ne valstybėms narėms"
+    ],
+    "correct": 1,
+    "explanation": "ESS 6 str. 1 d. nustatyta, kad Chartija turi tokią pat galią kaip Sutartys – ji tapo pirminės teisės dalimi."
+  },
+  {
+    "id": 12,
+    "category": "Europos Sąjungos teisė",
+    "question": "Europos Vadovų Tarybą (kitaip – Viršūnių Tarybą) sudaro:",
+    "options": [
+      "Tik valstybių narių užsienio reikalų ministrai",
+      "Valstybių narių vadovai, Europos Vadovų Tarybos pirmininkas ir Europos Komisijos pirmininkas",
+      "Tik Europos Parlamento nariai",
+      "Europos Sąjungos Teisingumo Teismo teisėjai ir Komisijos nariai"
+    ],
+    "correct": 1,
+    "explanation": "Europos Vadovų Taryba – aukščiausio lygio ES institucija, kurią sudaro valstybių narių prezidentai ar premjerai, jos pirmininkas ir Komisijos pirmininkas."
+  },
+  {
+    "id": 13,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuri iš šių yra viena iš pagrindinių Europos Parlamento funkcijų?",
+    "options": [
+      "Prejudicinių klausimų nagrinėjimas",
+      "Biudžeto valdymo (biudžetinė) funkcija",
+      "Valstybių narių nacionalinių teismų sprendimų peržiūra",
+      "ES teisės aktų ratifikavimas valstybėse narėse"
+    ],
+    "correct": 1,
+    "explanation": "Trys pagrindinės Parlamento funkcijos: teisėkūros (kartu su Taryba), biudžetinė ir demokratinės priežiūros."
+  },
+  {
+    "id": 14,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuri funkcija yra būdinga Europos Sąjungos Tarybai (Ministrų Tarybai)?",
+    "options": [
+      "Ji pakeičia nacionalinius parlamentus teisėkūros srityje",
+      "Ji yra atsakinga už Europos Komisijos narių skyrimą",
+      "Ji vienintelė turi teisėkūros iniciatyvos teisę ES teisėje",
+      "Ji veda derybas dėl ES teisės aktų ir kartu su Europos Parlamentu priima ES biudžetą"
+    ],
+    "correct": 3,
+    "explanation": "ES Taryba (Ministrų Taryba) – institucija, kurią sudaro valstybių narių ministrai; ji dalyvauja teisėkūroje ir biudžeto priėmime."
+  },
+  {
+    "id": 15,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuri iš šių aplinkybių laikoma viena iš istorinių ES atsiradimo prielaidų?",
+    "options": [
+      "Antrojo pasaulinio karo pasekmės ir komunistinio režimo grėsmė (Šaltasis karas)",
+      "Bendros rinkos technologinio konkurencingumo poreikis",
+      "Euro įvedimas kaip atsakas į ekonominę krizę",
+      "Europos žmogaus teisių konvencijos (EŽTK) priėmimas"
+    ],
+    "correct": 0,
+    "explanation": "ES istorinės prielaidos: II pasaulinio karo pasekmės, komunistinio režimo grėsmė, JAV užsienio politika ir ekonominės plėtros poreikis."
+  },
+  {
+    "id": 16,
+    "category": "Europos Sąjungos teisė",
+    "question": "Reglamentas ES teisėje yra aktas, kuris:",
+    "options": [
+      "Privalomas tik dėl rezultato, o forma paliekama valstybėms narėms",
+      "Privalomas tik konkrečiam adresatui, kuriam yra skirtas",
+      "Tiesiogiai taikomas visose valstybėse narėse ir privalomas visa apimtimi be papildomo perkėlimo",
+      "Neturi privalomosios galios ir tik rekomenduoja elgesį"
+    ],
+    "correct": 2,
+    "explanation": "Reglamentas – tiesiogiai taikomas ir privalomas visa apimtimi visose ES valstybėse narėse be jokio perkėlimo į nacionalinę teisę."
+  },
+  {
+    "id": 17,
+    "category": "Europos Sąjungos teisė",
+    "question": "Direktyva nuo reglamento pirmiausia skiriasi tuo, kad direktyva:",
+    "options": [
+      "Yra tiesiogiai taikoma kaip reglamentas ir nereikalauja perkėlimo į nacionalinę teisę",
+      "Yra skirta tik ES institucijų tarpusavio santykiams reguliuoti",
+      "Yra privaloma tik konkrečiam adresatui, kuriam ji skirta",
+      "Privaloma tik dėl siektino rezultato, o formos ir priemonių pasirinkimas paliekamas valstybėms narėms"
+    ],
+    "correct": 3,
+    "explanation": "Direktyva nustato tikslą, bet valstybės narės turi laisvę pasirinkti įgyvendinimo formą ir priemones."
+  },
+  {
+    "id": 18,
+    "category": "Europos Sąjungos teisė",
+    "question": "Sprendimas ES teisėje paprastai pasižymi tuo, kad:",
+    "options": [
+      "Yra privalomas tik tiems, kam jis yra skirtas (konkrečiam adresatui)",
+      "Visada taikomas visoms valstybėms narėms be išimties",
+      "Nėra privalomas ir turi tik politinę reikšmę",
+      "Gali jį priimti tik Europos Vadovų Taryba"
+    ],
+    "correct": 0,
+    "explanation": "Sprendimas – privalomas visomis atžvilgiais tiems, kuriems skirtas; gali būti adresuotas valstybei narei ar privačiam asmeniui."
+  },
+  {
+    "id": 19,
+    "category": "Europos Sąjungos teisė",
+    "question": "Europos Komisija pirmiausia yra institucija, kuri:",
+    "options": [
+      "Atstovauja tik valstybių narių vyriausybių interesams Taryboje",
+      "Vykdo teisminę kontrolę vietoje Europos Sąjungos Teisingumo Teismo",
+      "Prižiūri ES teisės taikymą ir turi teisėkūros iniciatyvos teisę daugelyje sričių",
+      "Ratifikuoja valstybių narių pasirašytas sutartis ES vardu"
+    ],
+    "correct": 2,
+    "explanation": "Komisija – ES vykdomoji institucija, ginanti bendrą ES interesą; ji prižiūri ES teisę ir paprastai turi išimtinę teisėkūros iniciatyvą."
+  },
+  {
+    "id": 20,
+    "category": "Europos Sąjungos teisė",
+    "question": "Vidaus rinkos laisvės Europos Sąjungoje apima:",
+    "options": [
+      "Laisvą prekių, asmenų, paslaugų ir kapitalo judėjimą",
+      "Tik laisvą prekių judėjimą ir muitų sąjungą",
+      "Tik laisvą kapitalo ir paslaugų judėjimą",
+      "Tik laisvą asmenų ir prekių judėjimą"
+    ],
+    "correct": 0,
+    "explanation": "Keturios pagrindinės ES vidaus rinkos laisvės: prekių, asmenų, paslaugų ir kapitalo laisvas judėjimas."
+  },
+  {
+    "id": 21,
+    "category": "Europos Sąjungos teisė",
+    "question": "Europos anglių ir plieno bendrijos (EAPB) steigimo sutartis buvo pasirašyta:",
+    "options": [
+      "1949 m. gegužės 5 d., kartu su Europos Tarybos įkūrimu",
+      "1957 m. kovo 25 d. pagal Romos sutartis",
+      "1958 m. sausio 1 d., kai įsigaliojo Romos sutartys",
+      "1951 m. balandžio 18 d."
+    ],
+    "correct": 3,
+    "explanation": "EAPB steigimo sutartis pasirašyta 1951 m. balandžio 18 d. (pradėjo veikti 1952 m.) – tai buvo pirmoji Europos integracijos sutartis."
+  },
+  {
+    "id": 22,
+    "category": "Europos Sąjungos teisė",
+    "question": "Romos sutartimis (1957 m. kovo 25 d.) buvo įsteigtos:",
+    "options": [
+      "Europos anglių ir plieno bendrija (EAPB) ir Europos Taryba",
+      "Europos ekonominė bendrija (EEB) ir Europos atominės energijos bendrija (Euratomas)",
+      "Europos Sąjunga ir Šengeno erdvė",
+      "Europos Centrinis Bankas ir Europos Parlamentas"
+    ],
+    "correct": 1,
+    "explanation": "Romos sutartimis 1957 m. įsteigtos EEB ir Euratomas; jos įsigaliojo 1958 m. sausio 1 d."
+  },
+  {
+    "id": 23,
+    "category": "Europos Sąjungos teisė",
+    "question": "Šumano planas (1950 m. gegužės 9 d.) siūlė:",
+    "options": [
+      "Įsteigti Europos Tarybą kaip žmogaus teisių apsaugos organizaciją",
+      "Sukurti bendrą Europos rinką visoms prekėms ir paslaugoms",
+      "Integruoti Vakarų Europos anglių ir plieno pramonę, įsteigiant Europos anglių ir plieno bendriją (EAPB)",
+      "Priimti Europos žmogaus teisių konvenciją (EŽTK)"
+    ],
+    "correct": 2,
+    "explanation": "R. Šumanas 1950 m. gegužės 9 d. pasiūlė integruoti anglių ir plieno pramonę – šis planas davė pradžią EAPB ir vėlesnei ES integracijai."
+  },
+  {
+    "id": 24,
+    "category": "Europos Sąjungos teisė",
+    "question": "Europos Taryba (angl. Council of Europe), įkurta 1949 m.:",
+    "options": [
+      "Nėra ES institucija – tai atskira tarptautinė organizacija, skirta žmogaus teisių apsaugai pagal EŽTK",
+      "Yra kitas Europos Vadovų Tarybos (Viršūnių Tarybos) pavadinimas",
+      "Yra ES institucija, atsakinga už žmogaus teisių apsaugą",
+      "Buvo panaikinta įsigaliojus Lisabonos sutarčiai 2009 m."
+    ],
+    "correct": 0,
+    "explanation": "Europos Taryba – nuo ES atskira organizacija; jos pagrindinis tikslas – žmogaus teisių apsauga pagal EŽTK. ES valstybės narės yra Europos Tarybos narės."
+  },
+  {
+    "id": 25,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuo Europos Sąjungos Taryba (Ministrų Taryba) skiriasi nuo Europos Vadovų Tarybos (Viršūnių Tarybos)?",
+    "options": [
+      "Abi tarybos turi tą pačią sudėtį, skiriasi tik pavadinimai",
+      "Europos Vadovų Taryba yra žemesnio lygio institucija nei ES Taryba",
+      "ES Tarybą sudaro valstybių narių prezidentai ir ministrai pirmininkai",
+      "Europos Vadovų Tarybą sudaro valstybių narių vadovai, o ES Tarybą – atitinkamų sričių ministrai"
+    ],
+    "correct": 3,
+    "explanation": "Europos Vadovų Taryba (Viršūnių Taryba) – valstybių ar vyriausybių vadovai; ES Taryba (Ministrų Taryba) – atitinkamų sričių ministrai."
+  },
+  {
+    "id": 26,
+    "category": "Europos Sąjungos teisė",
+    "question": "Koks yra pagrindinis Europos Centrinio Banko (ECB) tikslas?",
+    "options": [
+      "Reguliuoti ES valstybių narių valstybės biudžeto deficitą",
+      "Teikti paskolas ES valstybėms narėms finansinių krizių metu",
+      "Prižiūrėti ES finansų rinkas ir kovoti su pinigų plovimu",
+      "Palaikyti kainų stabilumą, t. y. užtikrinti euro vertę"
+    ],
+    "correct": 3,
+    "explanation": "Pagrindinis ECB tikslas – kainų stabilumas ir euro vertės užtikrinimas, kaip nustatyta Mastrichto sutartimi."
+  },
+  {
+    "id": 27,
+    "category": "Europos Sąjungos teisė",
+    "question": "Europos Audito Rūmų pagrindinė funkcija yra:",
+    "options": [
+      "Nagrinėti ES piliečių skundus dėl ES institucijų neteisėtų veiksmų",
+      "Priimti ir ratifikuoti ES metinį biudžetą",
+      "Tikrinti, ar ES biudžetas valdomas teisėtai ir tinkamai (vykdyti ES išorės auditą)",
+      "Teikti teisines konsultacijas ES institucijoms ir valstybėms narėms"
+    ],
+    "correct": 2,
+    "explanation": "Audito Rūmai – ES išorės auditorius, tikrinantis ES lėšų naudojimo teisėtumą ir efektyvumą."
+  },
+  {
+    "id": 28,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuo skiriasi ETT (Europos Teisingumo Teismas, dar – ESTT) nuo EŽTT (Europos Žmogaus Teisių Teismas)?",
+    "options": [
+      "ETT yra ES institucija, sprendžianti ES teisės klausimus; EŽTT – Europos Tarybos institucija, ginanti EŽTK numatytas teises",
+      "EŽTT yra aukštesnė instancija nei ETT ir gali panaikinti jo sprendimus",
+      "ETT ir EŽTT yra tos pačios teisinės sistemos skirtingi padaliniai",
+      "Abi institucijos veikia pagal tą pačią ES teisinę sistemą ir vienodą kompetenciją"
+    ],
+    "correct": 0,
+    "explanation": "ETT (ESTT) priklauso ES ir sprendžia ES teisės klausimus; EŽTT priklauso Europos Tarybai ir gina žmogaus teises pagal EŽTK."
+  },
+  {
+    "id": 29,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuo ES vidaus rinkos laisvės (pvz., laisvas prekių judėjimas) skiriasi nuo ES Pagrindinių teisių chartijoje įtvirtintų teisių (pvz., teisės į orumą)?",
+    "options": [
+      "Laisvės ir teisės yra tapačios sąvokos ES teisėje",
+      "Teisės galioja tik ES piliečiams, o laisvėmis gali naudotis visi asmenys",
+      "Laisvės – ekonominio pobūdžio ir skirtos rinkos veikimui; teisės – fundamentalios žmogaus vertybės (orumas, laisvė, lygybė)",
+      "Laisvės yra stipresnės nei teisės, nes reglamentuojamos aukštesnio lygio teisės aktais"
+    ],
+    "correct": 2,
+    "explanation": "Vidaus rinkos laisvės – ekonominės (prekės, asmenys, paslaugos, kapitalas); pagrindinės teisės – žmogaus vertybių apsauga (orumas, laisvė, lygybė ir kt.)."
+  },
+  {
+    "id": 30,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kaip skiriasi Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencija (EŽTK) nuo ES Pagrindinių teisių chartijos?",
+    "options": [
+      "EŽTK – Europos Tarybos dokumentas, ginamas per EŽTT; Chartija – ES pirminės teisės dalis, taikoma ES institucijoms ir valstybėms narėms",
+      "EŽTK privaloma tik ES valstybėms narėms, o Chartija – visoms Europos šalims",
+      "Chartija pakeitė EŽTK ir dabar vienintelė gina žmogaus teises Europoje",
+      "Abi konvencijos yra identiškos tiek turiniu, tiek taikymo sritimi"
+    ],
+    "correct": 0,
+    "explanation": "EŽTK – Europos Tarybos 1950 m. konvencija, ginama per EŽTT; ES Pagrindinių teisių chartija – atskiras ES dokumentas, tapęs pirmine teise po Lisabonos sutarties."
+  },
+  {
+    "id": 31,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kuri ES vadinamoji „tretinė\" teisė apima:",
+    "options": [
+      "Steigimo sutartis (ESS ir SESV) ir Pagrindinių teisių chartiją",
+      "Reglamentus, direktyvas ir sprendimus",
+      "Rekomendacijas ir nuomones",
+      "ES tarptautines sutartis, bendruosius teisės principus ir teismų praktiką"
+    ],
+    "correct": 3,
+    "explanation": "Tretinei teisei priskiriama: ES tarptautinės sutartys, bendrieji teisės principai ir Teisingumo Teismo praktika – šaltiniai, papildantys pirminę ir antrinę teisę."
+  },
+  {
+    "id": 32,
+    "category": "Europos Sąjungos teisė",
+    "question": "Su kuria iš keturių pagrindinių ES laisvių yra neatsiejamai susijusi įsisteigimo laisvė?",
+    "options": [
+      "Su laisvu asmenų judėjimu",
+      "Su paslaugų teikimo laisve",
+      "Su laisvu kapitalo judėjimu",
+      "Su laisvu prekių judėjimu"
+    ],
+    "correct": 1,
+    "explanation": "Įsisteigimo laisvė – galimybė steigti ir valdyti įmones kitoje ES valstybėje; ji neatsiejamai susijusi su paslaugų teikimo laisve."
+  },
+  {
+    "id": 33,
+    "category": "Europos Sąjungos teisė",
+    "question": "Nuo kada pradėjo veikti Europos Sąjungos vidaus rinka (tuomet vadinta bendrąja rinka)?",
+    "options": [
+      "1958 m. sausio 1 d., kai įsigaliojo Romos sutartys",
+      "1993 m. sausio 1 d.",
+      "1992 m. vasario 7 d., kai pasirašyta Mastrichto sutartis",
+      "2009 m. gruodžio 1 d., kai įsigaliojo Lisabonos sutartis"
+    ],
+    "correct": 1,
+    "explanation": "1993 m. sausio 1 d. pradėjo veikti bendroji rinka (vėliau – vidaus rinka), kurioje įtvirtintos 4 pagrindinės laisvės."
+  },
+  {
+    "id": 34,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kas užtikrina Europos Sąjungos vidaus rinkos laisves (prekių, asmenų, paslaugų ir kapitalo judėjimą)?",
+    "options": [
+      "Europos Sąjungos Teisingumo Teismas (ETT / ESTT)",
+      "Europos Žmogaus Teisių Teismas (EŽTT)",
+      "Europos Audito Rūmai",
+      "Europos Komisija kaip vienintelė laisvių užtikrintoja"
+    ],
+    "correct": 0,
+    "explanation": "ES vidaus rinkos laisves užtikrina Teisingumo Teismas (ETT/ESTT), o žmogaus teises saugo Europos Žmogaus Teisių Teismas (EŽTT)."
+  },
+  {
+    "id": 35,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kas užtikrina žmogaus teises Europoje pagal EŽTK (Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvenciją)?",
+    "options": [
+      "Europos Žmogaus Teisių Teismas (EŽTT)",
+      "Europos Sąjungos Teisingumo Teismas (ETT / ESTT)",
+      "Europos Komisija",
+      "Europos Vadovų Taryba"
+    ],
+    "correct": 0,
+    "explanation": "EŽTT – Europos Tarybos teismas, ginantis EŽTK numatytas žmogaus teises; ETT/ESTT yra ES institucija, užtikrinanti ES teisę ir vidaus rinkos laisves."
+  }
+]
