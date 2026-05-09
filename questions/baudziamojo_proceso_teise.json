@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip apibrėžiamas baudžiamasis procesas?",
+    "options": [
+      "Tik teismo veikla nagrinėjant baudžiamąsias bylas ir priimant nuosprendžius",
+      "Teismo, prokuroro ir ikiteisminio tyrimo pareigūnų įstatymo nustatyta tvarka vykdoma veikla tiriant ir nagrinėjant baudžiamąsias bylas, sudaranti sąlygas naudotis teisėmis visiems proceso subjektams",
+      "Tik ikiteisminio tyrimo pareigūnų veikla, kuri baigiasi bylą perduodant prokurorui",
+      "Prokuroro ir gynėjo ginčas teisme dėl kaltinamojo kaltės"
+    ],
+    "correct": 1,
+    "explanation": "Baudžiamasis procesas apima teismo, prokuroro ir ikiteisminio tyrimo pareigūnų veiklą tiriant ir nagrinėjant baudžiamąsias bylas bei visų proceso subjektų teisių užtikrinimą."
+  },
+  {
+    "id": 2,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ką reikalauja BPK 1 straipsnyje įtvirtinta baudžiamojo proceso paskirtis?",
+    "options": [
+      "Greitai ir išsamiai atskleisti nusikalstamas veikas, teisingai nubausti kaltą asmenį ir užtikrinti, kad niekas nekaltas nebūtų nuteistas",
+      "Tik greitai perduoti baudžiamąsias bylas nagrinėjimui teisme",
+      "Užtikrinti, kad kiekvienas nusikalstamą veiką padaręs asmuo gautų griežčiausią galimą bausmę",
+      "Apsaugoti visuomenę nuo nusikalstamų veikų prevenciškai sulaikant įtariamuosius"
+    ],
+    "correct": 0,
+    "explanation": "BPK 1 str. numato: greitai ir išsamiai atskleisti nusikalstamas veikas saugant žmogaus teises, teisingai nubausti kaltą ir užtikrinti, kad niekas nekaltas nebūtų nuteistas."
+  },
+  {
+    "id": 3,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuriame Konstitucijos straipsnyje įtvirtinta nekaltumo prezumpcija?",
+    "options": [
+      "Konstitucijos 29 straipsnio 1 dalyje",
+      "Konstitucijos 31 straipsnio 1 dalyje",
+      "Konstitucijos 109 straipsnio 1 dalyje",
+      "Konstitucijos 117 straipsnio 1 dalyje"
+    ],
+    "correct": 1,
+    "explanation": "Nekaltumo prezumpcija įtvirtinta Konstitucijos 31 str. 1 d.: 'Asmuo laikomas nekaltu, kol jo kaltumas neįrodytas įstatymo nustatyta tvarka ir pripažintas įsiteisėjusiu teismo nuosprendžiu'."
+  },
+  {
+    "id": 4,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kada nekaltumo prezumpcija nustoja galioti?",
+    "options": [
+      "Nuo apkaltinamojo nuosprendžio priėmimo pirmosios instancijos teisme",
+      "Nuo kaltinamojo akto surašymo ir bylos perdavimo teismui",
+      "Nuo suėmimo skyrimo kaip kardomosios priemonės",
+      "Nuo apkaltinamojo nuosprendžio įsiteisėjimo momento"
+    ],
+    "correct": 3,
+    "explanation": "Nekaltumo prezumpcija nustoja galioti nuo apkaltinamojo nuosprendžio įsiteisėjimo momento – ne nuo jo priėmimo, nes tarp šių faktų gali praeiti daug laiko."
+  },
+  {
+    "id": 5,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuriame BPK straipsnyje įtvirtintas proporcingumo principas?",
+    "options": [
+      "BPK 11 straipsnyje",
+      "BPK 6 straipsnyje",
+      "BPK 7 straipsnyje",
+      "BPK 9 straipsnyje"
+    ],
+    "correct": 0,
+    "explanation": "Proporcingumo principas baudžiamajame procese yra įtvirtintas BPK 11 straipsnyje."
+  },
+  {
+    "id": 6,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ką baudžiamojo proceso kontekste reiškia principas 'teisingumą vykdo tik teismas'?",
+    "options": [
+      "Tik teismas gali inicijuoti baudžiamąjį procesą ir skirti ikiteisminio tyrimo tyrėją",
+      "Tik teismas gali nuspręsti dėl kardomosios priemonės skyrimo ikiteisminio tyrimo metu",
+      "Tik teismas gali suteikti imunitetą baudžiamojoje byloje įtariamiems asmenims",
+      "Tik teismas gali konstatuoti nusikaltimo faktą, pripažinti kaltinamojo kaltumą ir paskirti bausmę"
+    ],
+    "correct": 3,
+    "explanation": "Principas reiškia, kad tik teismas gali konstatuoti, ar veika buvo padaryta, pripažinti kaltinamąjį kaltu ir paskirti bausmę – kaltės klausimo sprendimas sudaro teisingumo vykdymo esmę."
+  },
+  {
+    "id": 7,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Nuo kokio amžiaus asmeniui leidžiama stebėti teismo posėdį teismo salėje?",
+    "options": [
+      "Nuo 14 metų",
+      "Nuo 18 metų",
+      "Nuo 16 metų",
+      "Nuo 21 metų"
+    ],
+    "correct": 2,
+    "explanation": "BPK 9 str. 5 d. numato, kad proceso viešumo principas leidžia kiekvienam asmeniui, sulaukusiam 16 metų amžiaus, stebėti teismo procesą teismo salėje."
+  },
+  {
+    "id": 8,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokiais atvejais teismas PRIVALO rengti neviešą posėdį?",
+    "options": [
+      "Kai kaltinamasis yra jaunesnis nei 18 metų",
+      "Kai bylos nagrinėjimo metu reikia tirti informaciją, esančią valstybės, tarnybos, profesine ar komercine paslaptimi",
+      "Kai nagrinėjama byla dėl nusikalstamos veikos žmogaus seksualinio apsisprendimo laisvei",
+      "Kai reikia apklausti anoniminį liudytoją ar nukentėjusįjį"
+    ],
+    "correct": 1,
+    "explanation": "Teismas privalo rengti neviešus posėdžius, kai reikia tirti informaciją, sudarančią valstybės, tarnybos, profesinę ar komercinę paslaptį – tai privalomas, o ne diskrecinis atvejis."
+  },
+  {
+    "id": 9,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Nuo kurio momento garantuojama teisė į gynybą ir teisė turėti gynėją advokatą?",
+    "options": [
+      "Nuo kaltinamojo akto surašymo",
+      "Nuo bylos perdavimo teismui",
+      "Nuo sulaikymo ar pirmosios apklausos momento",
+      "Nuo teisiamojo posėdžio pradžios"
+    ],
+    "correct": 2,
+    "explanation": "Konstitucijos 31 str. 6 d. garantuoja: 'Asmeniui, kuris įtariamas padaręs nusikaltimą, ir kaltinamajam nuo jų sulaikymo arba pirmosios apklausos momento garantuojama teisė į gynybą ir teisė turėti advokatą'."
+  },
+  {
+    "id": 10,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kurie procesiniai dokumentai būtinai turi būti išversti lietuvių kalbos nemokantiems proceso dalyviams?",
+    "options": [
+      "Tik nuosprendis, nes tai galutinis bylos sprendimas",
+      "Visi bylos dokumentai be išimčių",
+      "Pranešimas apie įtarimą, kaltinamasis aktas ir baigiamieji teismo aktai (nuosprendžiai, nutartys)",
+      "Tik prokuroro prašymai ir motyvai, pateikti teismo posėdyje"
+    ],
+    "correct": 2,
+    "explanation": "Būtinai išverčiami turi būti pranešimas apie įtarimą, kaltinamasis aktas ir baigiamieji teismo aktai – nuosprendžiai, nutartys ir teismo baudžiamieji įsakymai."
+  },
+  {
+    "id": 11,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip keičiasi asmens procesinis statusas baudžiamojo proceso eigoje?",
+    "options": [
+      "Sulaikytasis → įtariamasis → kaltinamasis → nuteistasis",
+      "Apklausiamasis → įtariamasis → kaltinamasis → kalinys",
+      "Įtariamasis → kaltinamasis → teisiamasis → nuteistasis",
+      "Įtariamasis (ikiteisminio tyrimo metu) → kaltinamasis (pasibaigus ikiteisminiam tyrimui) → nuteistasis arba išteisintas (po nuosprendžio)"
+    ],
+    "correct": 3,
+    "explanation": "Asmuo baudžiamajame procese pereina tokius statusus: ikiteisminio tyrimo metu yra įtariamasis, pasibaigus ikiteisminiam tyrimui tampa kaltinamuoju, o po nuosprendžio – nuteistuoju arba išteisintuoju."
+  },
+  {
+    "id": 12,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kas yra baudžiamojo proceso dalyviai siaurąja prasme?",
+    "options": [
+      "Prokuroras, ikiteisminio tyrimo pareigūnai, teismas ir jo pirmininkas",
+      "Liudytojai, ekspertai, vertėjai ir specialistai",
+      "Nukentėjusysis, įtariamasis/kaltinamasis, gynėjas, civilinis ieškovas, civilinis atsakovas ir jų atstovai",
+      "Tik kaltinamasis ir jo gynėjas"
+    ],
+    "correct": 2,
+    "explanation": "Proceso dalyviai siaurąja prasme yra nukentėjusysis, įtariamasis/kaltinamasis, gynėjas, civilinis ieškovas, civilinis atsakovas ir jų atstovai – šalys, turinčios asmeninį interesą byloje."
+  },
+  {
+    "id": 13,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kiek reikalavimų numato baudžiamojo proceso paskirtis pagal BPK 1 str.?",
+    "options": [
+      "Tris",
+      "Penkis",
+      "Šešis",
+      "Keturis"
+    ],
+    "correct": 3,
+    "explanation": "BPK 1 str. nurodo keturis reikalavimus: atskleisti NV išaiškinant aplinkybes, saugoti žmogaus teises, atskleisti greitai ir garantuoti, kad nubaustas tik kaltas."
+  },
+  {
+    "id": 14,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kas yra faktinis pagrindas tapti nukentėjusiuoju baudžiamajame procese?",
+    "options": [
+      "Nusikalstamos veikos padarymas asmeniui – fizinės, turtinės ar neturtinės žalos atsiradimas",
+      "IT pareigūno nutarimas pripažinti nukentėjusiuoju",
+      "Prokuroro nutarimas dėl baudžiamojo persekiojimo pradėjimo",
+      "Asmens paties prašymas suteikti nukentėjusiojo statusą"
+    ],
+    "correct": 0,
+    "explanation": "Faktinis pagrindas yra pati nusikalstama veika ir jos sukelta žala (fizinė, turtinė ar neturtinė); juridinis pagrindas – IT pareigūno, prokuroro ar teismo sprendimas."
+  },
+  {
+    "id": 15,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip įgyjamas nukentėjusiojo procesinis statusas pagal BPK 28 str.?",
+    "options": [
+      "IT pareigūno, prokuroro nutarimu arba teismo nutartimi",
+      "Vien faktinio žalos patyrimo pagrindu be oficialaus dokumento",
+      "Tik teismo nutartimi posėdžio metu",
+      "Generalinio prokuroro įsakymu ypač sunkiose bylose"
+    ],
+    "correct": 0,
+    "explanation": "BPK 28 str. numato, kad nukentėjusiuoju asmuo pripažįstamas IT pareigūno ar prokuroro nutarimu arba teismo nutartimi – tai yra juridinis pagrindas statuso įgijimui."
+  },
+  {
+    "id": 16,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kurie principai yra konstituciniai baudžiamojo proceso principai?",
+    "options": [
+      "Nekaltumo prezumpcijos, proceso teisingumo (sąžiningumo), proporcingumo, teisingumo vykdo tik teismas, proceso viešumo, teisės į gynybą, valstybinės proceso kalbos, teismo nepriklausomumo ir bešališkumo",
+      "Nekaltumo prezumpcijos, rungimosi, proporcingumo, teisingumo, proceso viešumo, teisės į gynybą, valstybinės proceso kalbos, teismo nepriklausomumo",
+      "Legalumo, tikslingumo, proporcingumo, teisingumo, proceso viešumo, teisės į gynybą, valstybinės proceso kalbos, nekaltumo prezumpcijos",
+      "Nekaltumo prezumpcijos, proceso teisingumo, proporcingumo, teisingumo vykdo tik teismas, proceso viešumo, teisės į gynybą, teisės į vertimą, teismo nepriklausomumo"
+    ],
+    "correct": 0,
+    "explanation": "Aštuoni konstituciniai baudžiamojo proceso principai apima: nekaltumo prezumpcijos, proceso teisingumo, proporcingumo, teisingumo vykdo tik teismas, proceso viešumo, teisės į gynybą, valstybinės proceso kalbos, teismo nepriklausomumo ir bešališkumo."
+  },
+  {
+    "id": 17,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ką reiškia teismo nepriklausomumo ir bešališkumo principas baudžiamajame procese?",
+    "options": [
+      "Teismas sprendžia bylas remdamasis tik įstatymais ir teise, nepriklausomai nuo jokio poveikio ar išorinių interesų",
+      "Teismas gali priimti sprendimus atsižvelgdamas į generalinio prokuroro rekomendacijas",
+      "Teismo sprendimai negali būti skundžiami apeliacine tvarka dėl šio principo apsaugos",
+      "Teismas privalo vienodai traktuoti visus proceso šalių pateiktus įrodymus nepaisant jų šaltinio"
+    ],
+    "correct": 0,
+    "explanation": "Teismo nepriklausomumo ir bešališkumo principas reiškia, kad teismas sprendžia bylas vadovaudamasis tik įstatymais ir teise, be jokio išorinio poveikio ar šališkumo."
+  },
+  {
+    "id": 18,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kurioje EŽTT byloje buvo nagrinėta nekaltumo prezumpcija Lietuvos kontekste?",
+    "options": [
+      "Petkevičius prieš Lietuvą",
+      "Paksas prieš Lietuvą",
+      "Balsytė-Lideikienė prieš Lietuvą",
+      "Butkevičius prieš Lietuvą"
+    ],
+    "correct": 3,
+    "explanation": "Byla Butkevičius prieš Lietuvą EŽTT yra svarbus precedentas, susijęs su nekaltumo prezumpcijos apsauga baudžiamajame procese Lietuvoje."
+  },
+  {
+    "id": 19,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ko reikalauja proporcingumo principas pagal LR KT 2000-12-08 nutarimą?",
+    "options": [
+      "Kad bausmė visada tiksliai atitiktų nukentėjusiojo patirtą žalą piniginiais ekvivalentais",
+      "Kad kiekviena prievartos priemonė būtų sankcionuota teismo, neatsižvelgiant į veikos sunkumą",
+      "Proporcingos pusiausvyros tarp taikomų prievartos priemonių ir siekiamo teisėto tikslo",
+      "Kad ikiteisminis tyrimas truktų ne ilgiau kaip tris mėnesius"
+    ],
+    "correct": 2,
+    "explanation": "LR KT 2000-12-08 nutarimu nustatyta, kad kuo sunkesnė veika, tuo griežtesnių priemonių naudojimas pateisinamas, tačiau turi būti išlaikyta proporcinga pusiausvyra tarp priemonių ir tikslo."
+  },
+  {
+    "id": 20,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kas yra nukentėjusysis baudžiamajame procese?",
+    "options": [
+      "Fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar neturtinės žalos, arba mirusio ar priverstinai pradanginto fizinio asmens šeimos narys",
+      "Bet koks fizinis asmuo, kuris kreipėsi į policiją su skundu dėl jam padarytos žalos",
+      "Juridinis asmuo, kurio turtui buvo padaryta žala nusikalstamos veikos metu",
+      "Bet koks asmuo, buvęs nusikalstamos veikos įvykio vietoje"
+    ],
+    "correct": 0,
+    "explanation": "Nukentėjusysis yra fizinis asmuo, kuriam NV padarė fizinės, turtinės ar neturtinės žalos, taip pat mirusio ar priverstinai pradanginto asmens šeimos narys."
+  },
+  {
+    "id": 21,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokias pareigas turi nukentėjusysis baudžiamajame procese?",
+    "options": [
+      "Privalo duoti parodymus, prisiekia ir atsako kaip liudytojas",
+      "Privalo tik dalyvauti teismo posėdžiuose ir pasirašyti parodymų protokolus",
+      "Neturi jokių pareigų – gali atsisakyti duoti parodymus be jokių pasekmių",
+      "Privalo savarankiškai rinkti įrodymus ir pateikti juos teismui"
+    ],
+    "correct": 0,
+    "explanation": "Nukentėjusysis privalo duoti parodymus, prisiekia ir atsako kaip liudytojas – šios pareigos skiriasi nuo paprastų proceso dalyvių teisių."
+  },
+  {
+    "id": 22,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip asmuo įgyja įtariamojo statusą pagal tipinį atvejį Nr. 1 (BPK 21 str. 2 d.)?",
+    "options": [
+      "Prokuroras paskelbia jį įtariamuoju žodiniu nurodymu",
+      "IT pareigūnas parašo raportą apie galimą įtarimą",
+      "Sulaikomas BPK 140 straipsnyje nustatyta tvarka",
+      "Teismas priima nutartį dėl įtariamojo statuso suteikimo"
+    ],
+    "correct": 2,
+    "explanation": "Pirmasis tipinis atvejis pagal BPK 21 str. 2 d. – asmuo sulaikomas BPK 140 str. nustatyta tvarka, nuo to momento jis laikomas įtariamuoju."
+  },
+  {
+    "id": 23,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuris yra išimtinis 4-asis atvejis, kada asmuo įgyja įtariamojo statusą?",
+    "options": [
+      "Kai asmuo raštu pareiškia, kad pripažįsta esąs įtariamasis",
+      "Kai slapstosi arba kai nežinoma jo buvimo vieta",
+      "Kai prokuroras pateikia prašymą teismui dėl įtariamojo statuso",
+      "Kai nusikalstamos veikos liudytojas nurodo asmenį kaip galimą kaltininką"
+    ],
+    "correct": 1,
+    "explanation": "4-asis (išimtinis) atvejis – kai asmuo slapstosi arba jo buvimo vieta nežinoma; šis atvejis išimtinis, nes asmuo nepajėgia tiesiogiai įgyti statuso per standartines procedūras."
+  },
+  {
+    "id": 24,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip apibrėžiama įrodinėjimo samprata baudžiamajame procese?",
+    "options": [
+      "Tik teismo veikla vertinant proceso šalių pateiktus įrodymus teisiamojo posėdžio metu",
+      "Tik ikiteisminio tyrimo pareigūnų veikla renkant ir fiksuojant nusikaltimo pėdsakus",
+      "Įstatymo reglamentuota IT įstaigų ir jų pareigūnų, prokuroro, IT teisėjo, teismo ir proceso dalyvių veikla, kuria renkami, pateikiami, tikrinami ir vertinami duomenys",
+      "Proceso šalių ginčas dėl faktinių bylos aplinkybių teismo posėdžio metu"
+    ],
+    "correct": 2,
+    "explanation": "Įrodinėjimas – tai įstatymo reglamentuota IT įstaigų ir pareigūnų, prokuroro, IT teisėjo, teismo ir proceso dalyvių veikla, apimanti duomenų rinkimą, pateikimą, tikrinimą ir vertinimą."
+  },
+  {
+    "id": 25,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokie veiksmai sudaro įrodinėjimo procesą baudžiamajame procese?",
+    "options": [
+      "Duomenų rinkimas, analizė, pateikimas ir sprendimo priėmimas",
+      "Duomenų fiksavimas, tyrimas, palyginimas ir vertinimas",
+      "Duomenų rinkimas, pateikimas, tikrinimas ir vertinimas",
+      "Parodymų gavimas, ekspertizės atlikimas, apžiūra ir tyrimas"
+    ],
+    "correct": 2,
+    "explanation": "Įrodinėjimo proceso sudedamosios dalys yra keturios: duomenų rinkimas, jų pateikimas, tikrinimas ir vertinimas."
+  },
+  {
+    "id": 26,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kas yra įrodymai pagal baudžiamojo proceso teisę?",
+    "options": [
+      "Tik kaltinamojo prisipažinimas ir liudytojų parodymai",
+      "Apklausų, apžiūrų ir tyrimo metu gauti duomenys, kuriais grindžiamas teismo sprendimas",
+      "Dokumentai ir daiktai, esantys bylos medžiagoje",
+      "Bet kokie duomenys, kuriuos proceso šalys pateikia teismui"
+    ],
+    "correct": 1,
+    "explanation": "Įrodymai – tai apklausų, apžiūrų ir tyrimo metu gauti duomenys; jais grindžiamas teismo sprendimas (Konstitucijos 31 str. nekaltumo prezumpcija)."
+  },
+  {
+    "id": 27,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kas sprendžia dėl įrodymų pagal BPK 20 straipsnį?",
+    "options": [
+      "Prokuroras ir gynėjas bendru sutarimu",
+      "Teisėjas arba teismas",
+      "IT pareigūnas, vadovaudamasis prokuroro nurodymais",
+      "Proceso dalyviai balsavimu teismo posėdžio metu"
+    ],
+    "correct": 1,
+    "explanation": "BPK 20 str. nustatyta, kad dėl įrodymų sprendžia teisėjas arba teismas – tai išskirtinė teisminės valdžios prerogatyva."
+  },
+  {
+    "id": 28,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip teisėjai vertina įrodymus pagal BPK 20 straipsnį?",
+    "options": [
+      "Pagal proceso šalių pateiktų įrodymų kiekį ir svorį",
+      "Pagal vidinį įsitikinimą",
+      "Pagal formalius įrodinėjimo standartus, nustatytus BPK priede",
+      "Pagal aukštesniųjų teismų suformuotą precedentų sąrašą"
+    ],
+    "correct": 1,
+    "explanation": "BPK 20 str. nustatyta, kad teisėjai įrodymus vertina pagal vidinį įsitikinimą – tai subjektyviai-objektyvus vertinimo standartas."
+  },
+  {
+    "id": 29,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokie yra trys įrodymų leistinumo kriterijai?",
+    "options": [
+      "Gauti teismo sprendimu; patvirtinti ekspertizės; saugomi byloje",
+      "Surašyti procesiniame dokumente; pateikti proceso šalių; patvirtinti prokuratūros",
+      "Gauti iš patikimų šaltinių; patvirtinti liudytojų parodymais; saugomi teismo archyve",
+      "Gauti įstatymo nustatyta tvarka; gauti teisėtais būdais; galima patikrinti BPK numatytais proceso veiksmais"
+    ],
+    "correct": 3,
+    "explanation": "Įrodymų leistinumas – tai tinkamumas formos atžvilgiu; trys kriterijai: gauti įstatymo nustatyta tvarka, gauti teisėtais būdais, galima patikrinti BPK numatytais veiksmais."
+  },
+  {
+    "id": 30,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Ką reiškia įrodymų leistinumas baudžiamajame procese?",
+    "options": [
+      "Įrodymų turinio atitikimą bylos faktinėms aplinkybėms",
+      "Įrodymų pateikimą nustatytais proceso terminais",
+      "Įrodymų patvirtinimą oficialiais proceso dokumentais",
+      "Įrodymų tinkamumą formos atžvilgiu"
+    ],
+    "correct": 3,
+    "explanation": "Įrodymų leistinumas apibrėžiamas kaip jų tinkamumas formos atžvilgiu – t. y. ar laikomasi įstatymo reikalavimų jų gavimo procese."
+  },
+  {
+    "id": 31,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokios dvi formos sudaro ikiteisminio tyrimo supaprastintą procesą?",
+    "options": [
+      "Teismo baudžiamojo įsakymo priėmimo procesas ir pagreitintas procesas",
+      "Privataus kaltinimo procesas ir pagreitintas procesas",
+      "Mediacija ir baudžiamojo įsakymo priėmimo procesas",
+      "Lygtinis atleidimas nuo atsakomybės ir pagreitintas procesas"
+    ],
+    "correct": 0,
+    "explanation": "Supaprastinto proceso dvi formos – baudžiamojo įsakymo procesas ir pagreitintas procesas; abi leidžia išnagrinėti bylą greičiau nei įprastu keliu."
+  },
+  {
+    "id": 32,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Koks reikalavimas keliamas nusikalstamai veikai baudžiamojo įsakymo taikymui?",
+    "options": [
+      "Bausmė turi būti ne mažesnė kaip 2 metai laisvės atėmimo",
+      "Bausmė turi būti nustatyta tik kaip bauda",
+      "BK sankcijoje nenumatyta terminuotas laisvės atėmimas ar laisvės atėmimas iki gyvos galvos",
+      "Laisvės atėmimas gali būti skirtas, bet ne ilgesnis nei 1 metai"
+    ],
+    "correct": 2,
+    "explanation": "Baudžiamasis įsakymas galimas tik kai BK sankcijoje nenumatytas terminuotas laisvės atėmimas ar LA iki gyvos galvos – tai pirmoji iš penkių taikymo sąlygų."
+  },
+  {
+    "id": 33,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokia yra baudžiamojo įsakymo taikymo sąlyga dėl žalos atlyginimo?",
+    "options": [
+      "Žalos atlyginimo klausimas sprendžiamas tik civiliniame procese, ne baudžiamajame",
+      "Žalos atlyginimas nereikalaujamas, jei nukentėjusysis neprieštarauja",
+      "Pakanka, kad kaltininkas žodžiu pareiškė ketinantis atlyginti žalą",
+      "Kaltininkas atlygino arba pašalino žalą, arba įsipareigojo tai padaryti"
+    ],
+    "correct": 3,
+    "explanation": "Viena iš penkių baudžiamojo įsakymo taikymo sąlygų – kaltininkas atlygino arba pašalino padarytą žalą arba aiškiai įsipareigojo tai padaryti."
+  },
+  {
+    "id": 34,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Per kiek dienų nuo ikiteisminio tyrimo pradžios turi būti nagrinėjama byla pagreitinto proceso tvarka?",
+    "options": [
+      "Per 30 dienų",
+      "Per 14 dienų",
+      "Per 7 dienas",
+      "Per 21 dieną"
+    ],
+    "correct": 1,
+    "explanation": "Pagreitintas procesas – byla nagrinėjama per 14 dienų nuo IT pradžios; tai esminis bruožas, skiriantis jį nuo įprastos bylos nagrinėjimo trukmės."
+  },
+  {
+    "id": 35,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kuo pagreitintas procesas skiriasi nuo baudžiamojo įsakymo žalos atlyginimo atžvilgiu?",
+    "options": [
+      "Abiejuose procesuose privaloma atlyginti žalą iki bylos nagrinėjimo",
+      "Pagreitintame procese žalos atlyginimas nereikalaujamas, o baudžiamajame įsakyme kaltininkas turi atlyginti ar įsipareigoti atlyginti žalą",
+      "Pagreitintame procese žalos atlyginimas privalomas, o baudžiamajame įsakyme nereikalaujamas",
+      "Abiejuose procesuose žalos atlyginimo klausimą sprendžia tik civilinis teismas"
+    ],
+    "correct": 1,
+    "explanation": "Skirtumas: baudžiamajame įsakyme žalos atlyginimas yra privaloma sąlyga, o pagreitintame procese jos nereikalaujama – tai vienas pagrindinių skirtumų tarp šių dviejų supaprastinto proceso formų."
+  },
+  {
+    "id": 36,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Koks dokumentas pagreitintame procese pakeičia kaltinamąjį aktą?",
+    "options": [
+      "Ikiteisminio tyrimo pareigūno raportas",
+      "IT teisėjo nutartis",
+      "Nukentėjusiojo skundas",
+      "Prokuroro pareiškimas"
+    ],
+    "correct": 3,
+    "explanation": "Pagreitintame procese prokuroras surašo pareiškimą (ne kaltinamąjį aktą), o bylos parengimas teisminiams posėdžiams praleidžiamas."
+  }
+]

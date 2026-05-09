@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Fakultatyviniai konstitucinės teisės šaltiniai yra:",
+    "options": [
+      "Europos Sąjungos teisės aktai ir tarptautinės sutartys",
+      "Konstitucija, konstituciniai įstatymai ir aktai pagal Konstitucijos 150 straipsnį, Konstitucijos pataisos ir Konstitucinio Teismo nutarimai",
+      "Doktrina, papročiai ir principai",
+      "Įstatymai ir poįstatyminiai teisės aktai"
+    ],
+    "correct": 2,
+    "explanation": "Doktrina, papročiai ir principai laikomi fakultatyviniais, o ne pagrindiniais šaltiniais."
+  },
+  {
+    "id": 2,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Koks teiginys yra neteisingas?",
+    "options": [
+      "Konstitucija yra aukščiausios galios teisės aktas, kuris yra tiesiogiai taikomas ir kuriam negali prieštarauti joks kitas teisės aktas",
+      "Konstituciniai įstatymai gali būti keičiami ar panaikinami įstatymais",
+      "Konstitucinio Teismo jurisprudencija yra vientelis teisiškai įpareigojantis Konstitucijos turinio interpretacijos šaltinis",
+      "Konstitucinė teisė yra teisė be spragų"
+    ],
+    "correct": 1,
+    "explanation": "Konstituciniai įstatymai negali būti keičiami paprastais įstatymais."
+  },
+  {
+    "id": 3,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Konstitucijos savybės – pažymėkite teisingą atsakymą:",
+    "options": [
+      "Nestabilus teisės aktas",
+      "Negali būti taikoma tiesiogiai",
+      "Svarbiausias, pagrindinis šalies teisės aktas, kuriam tenka viršiausia vieta teisės sistemoje",
+      "Priimama, keičiama ir pripažįstama netekusia galios tokia pat tvarka kaip ir įstatymai"
+    ],
+    "correct": 2,
+    "explanation": "Konstitucija yra aukščiausią juridinę galią turintis teisės aktas."
+  },
+  {
+    "id": 4,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Konstitucinio Teismo sandara:",
+    "options": [
+      "5 teisėjai, skiriami 5 metams, gali būti paskiriami dviem kadencijoms",
+      "9 teisėjai, skiriami iki 65 metų amžiaus",
+      "9 teisėjai, skiriami 12 metų kadencijai, teismo sudėtis atnaujinama po trečdalį kas ketverius metus",
+      "9 teisėjai, skiriami vienai 9 metų kadencijai, teismo sudėtis atnaujinama po trečdalį kas trejus metus"
+    ],
+    "correct": 3,
+    "explanation": "Konstitucinį Teismą sudaro 9 teisėjai, skiriami vienai 9 metų kadencijai."
+  },
+  {
+    "id": 5,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kokiais atvejais Konstitucinis Teismas teikia išvadas – pažymėkite neteisingą:",
+    "options": [
+      "Ar nebuvo pažeisti rinkimų įstatymai per Respublikos Prezidento ar Seimo narių rinkimus",
+      "Ar nepažeidžiama Konstitucija Lietuvos Respublikos Seimo priimti įstatymai",
+      "Ar Respublikos Prezidento sveikatos būklė leidžia jam ir toliau eiti pareigas",
+      "Ar Lietuvos Respublikos ratifikuotos tarptautinės sutartys neprieštarauja Konstitucijai"
+    ],
+    "correct": 1,
+    "explanation": "Įstatymų atitiktį Konstitucijai KT sprendžia nutarimais, o ne išvadomis."
+  },
+  {
+    "id": 6,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Konstitucinio Teismo kompetencija – pažymėkite teisingą:",
+    "options": [
+      "Vykdo teisingumą",
+      "Sprendžia, ar savivaldybių teisės aktai neprieštarauja Konstitucijai ir įstatymams",
+      "Peržiūri kitų teismų priimtus procesinius sprendimus",
+      "Nagrinėja ir priima sprendimą, ar neprieštarauja Lietuvos Respublikos Konstitucijai Lietuvos Respublikos įstatymai"
+    ],
+    "correct": 3,
+    "explanation": "Konstitucinis Teismas sprendžia įstatymų ir kitų aktų atitiktį Konstitucijai."
+  },
+  {
+    "id": 7,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Sąlygos, kurių reikia, norint apriboti žmogaus teises:",
+    "options": [
+      "Ribojimo galimybė turi būti numatyta Konstitucijoje, ribojimas būtinas valstybės valdžios institucijoms, teismo sprendimu numatytas ribojimo laikotarpis",
+      "Žmogaus teisių riboti negalima, jos yra absoliučios",
+      "Ribojimo galimybė turi būti numatyta įstatymu, ribojimai turi būti būtini demokratinėje visuomenėje, ribojimais turi būti siekiama teisėto tikslo ir jie turi būti proporcingi",
+      "Žmogaus teisės gali būti ribojamos tik teismo sprendimu, itin trumpam laikotarpiui, esant valstybės institucijos ar kito asmens prašymui"
+    ],
+    "correct": 2,
+    "explanation": "Konstituciniai teisių ribojimai turi būti nustatyti įstatymu, būtini ir proporcingi."
+  },
+  {
+    "id": 8,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kokių sąlygų visumą asmuo turi atitikti, norėdamas įgyti Lietuvos Respublikos pilietybę natūralizacijos būdu?",
+    "options": [
+      "Pastaruosius 10 metų teisėtai nuolat gyvena Lietuvos Respublikoje; prašymo dėl Lietuvos Respublikos pilietybės suteikimo pateikimo ir sprendimo metu turi teisę nuolat gyventi Lietuvos Respublikoje; išlaikė valstybinės kalbos egzaminą; išlaikė Lietuvos Respublikos Konstitucijos pagrindų egzaminą",
+      "Pastaruosius 10 metų teisėtai nuolat gyvena Lietuvos Respublikoje; prašymo dėl Lietuvos Respublikos pilietybės suteikimo pateikimo ir sprendimo metu turi teisę nuolat gyventi Lietuvos Respublikoje; išlaikė valstybinės kalbos egzaminą; teisėtą pragyvenimo šaltinį",
+      "Pastaruosius 10 metų teisėtai nuolat gyvena Lietuvos Respublikoje; išlaikė valstybinės kalbos egzaminą; išlaikė Lietuvos Respublikos Konstitucijos pagrindų egzaminą; turi teisėtą pragyvenimo šaltinį; nėra valstybės, pagal kurios teisę Lietuvos Respublikos pilietybės įgijimo atveju praranda tos valstybės pilietybę, arba raštu pareiškia savo valią atsisakyti turimos kitos valstybės pilietybės, kai jam bus suteikta Lietuvos Respublikos pilietybė",
+      "Prašymo dėl Lietuvos Respublikos pilietybės suteikimo pateikimo ir sprendimo dėl Lietuvos Respublikos pilietybės suteikimo priėmimo metu turi teisę nuolat gyventi Lietuvos Respublikoje; išlaikė valstybinės kalbos egzaminą; išlaikė Lietuvos Respublikos Konstitucijos pagrindų egzaminą; turi teisėtą pragyvenimo šaltinį"
+    ],
+    "correct": 2,
+    "explanation": "Natūralizacijai reikia atitikti visą įstatyme nustatytų sąlygų visumą."
+  },
+  {
+    "id": 9,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Lietuvos Respublikoje vykdomų rinkimų rūšys:",
+    "options": [
+      "Vyriausybės rinkimai, Prezidento rinkimai, Savivaldybės administracijos direktoriaus rinkimai, Ministro Pirmininko rinkimai",
+      "Seimo rinkimai, rinkimai į Europos Parlamentą, Ministro Pirmininko rinkimai, Seimo pirmininko rinkimai",
+      "Savivaldybės mero rinkimai, rinkimai į Europos Komisiją, Seimo rinkimai, ministerijų vadovų rinkimai",
+      "Seimo rinkimai, Prezidento rinkimai, savivaldybių tarybų rinkimai, rinkimai į Europos Parlamentą"
+    ],
+    "correct": 3,
+    "explanation": "Lietuvoje vyksta Seimo, Prezidento, savivaldybių tarybų ir Europos Parlamento rinkimai."
+  },
+  {
+    "id": 10,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Politinių režimų rūšys:",
+    "options": [
+      "Demokratinis, autoritarinis ir totalitarinis",
+      "Federacinis ir respublikinis",
+      "Unitarinis ir demokratinis",
+      "Parlamentinis ir prezidentinis"
+    ],
+    "correct": 0,
+    "explanation": "Tai klasikinis politinių režimų skirstymas."
+  },
+  {
+    "id": 11,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kas ketveriems metams nerenkamas?",
+    "options": [
+      "Seimas – 4 metams, Prezidentas – 5 metams, Savivaldybių tarybos – 4 metams",
+      "Seimas – 3 metams, Prezidentas – 4 metams, Savivaldybių tarybos – 2 metams",
+      "Seimas – 4 metams, Prezidentas – 4 metams, Savivaldybių tarybos – 4 metams",
+      "Nėra teisingo atsakymo"
+    ],
+    "correct": 0,
+    "explanation": "Prezidentas renkamas 5 metams, o ne ketveriems."
+  },
+  {
+    "id": 12,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Pilietybės įgijimo būdai – pažymėkite neteisingą:",
+    "options": [
+      "Pilietybės įgijimas gimimu (filiacija)",
+      "Pilietybės įgijimas santuokos su Lietuvos Respublikos piliečiu",
+      "Pilietybės suteikimas įstatymų nustatyta tvarka (natūralizacija)",
+      "Pilietybės suteikimas išimties tvarka"
+    ],
+    "correct": 1,
+    "explanation": "Santuoka savaime nėra savarankiškas pilietybės įgijimo būdas."
+  },
+  {
+    "id": 13,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Konstitucinis Teismas priima:",
+    "options": [
+      "Nutarimus ir išvadas",
+      "Įstatymus",
+      "Nutartis",
+      "Baudžiamuosius sprendimus"
+    ],
+    "correct": 0,
+    "explanation": "KT priima nutarimus ir teikia išvadas."
+  },
+  {
+    "id": 14,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Valstybės forma apima:",
+    "options": [
+      "Teritoriją, gyventojus ir suverenitetą",
+      "Teisės šaltinių sistemą ir valdžios legitimumą",
+      "Valdymo formą, santvarką ir režimą",
+      "Valdžios padalijimo principą ir žmogaus teisių apsaugą"
+    ],
+    "correct": 2,
+    "explanation": "Valstybės forma apima šiuos tris elementus."
+  },
+  {
+    "id": 15,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Iš kokių trijų grupių susideda Lietuvos teismų sistema?",
+    "options": [
+      "Konstitucinis Teismas; bendrosios kompetencijos teismai; specializuoti teismai",
+      "Konstitucinis Teismas; apylinkių teismai; administraciniai teismai",
+      "Aukščiausiasis Teismas; apygardų teismai; Konstitucinis Teismas",
+      "Bendrosios kompetencijos teismai; specializuoti teismai; tarptautiniai teismai"
+    ],
+    "correct": 0,
+    "explanation": "Lietuvos teismų sistemą sudaro trys grandys: Konstitucinis Teismas, bendrosios kompetencijos teismai ir specializuoti (administraciniai) teismai."
+  },
+  {
+    "id": 16,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kurie teismai priklauso bendrosios kompetencijos teismams?",
+    "options": [
+      "Apylinkių teismai, apygardų teismai, Lietuvos apeliacinis teismas ir Lietuvos Aukščiausiasis Teismas",
+      "Apylinkių teismai, apygardų teismai ir Lietuvos vyriausiasis administracinis teismas",
+      "Regionų administracinis teismas, apygardų teismai ir Lietuvos Aukščiausiasis Teismas",
+      "Apylinkių teismai, Konstitucinis Teismas ir Lietuvos Aukščiausiasis Teismas"
+    ],
+    "correct": 0,
+    "explanation": "Bendrosios kompetencijos teismų sistemą sudaro apylinkių, apygardų teismai, Lietuvos apeliacinis teismas ir Lietuvos Aukščiausiasis Teismas."
+  },
+  {
+    "id": 17,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kurie teismai Lietuvoje laikomi specializuotais teismais?",
+    "options": [
+      "Apygardų teismai ir Lietuvos apeliacinis teismas",
+      "Konstitucinis Teismas ir Lietuvos Aukščiausiasis Teismas",
+      "Regionų administracinis teismas ir Lietuvos vyriausiasis administracinis teismas",
+      "Apylinkių teismai ir Lietuvos Aukščiausiasis Teismas"
+    ],
+    "correct": 2,
+    "explanation": "Lietuvoje specializuoti teismai yra administraciniai: Regionų administracinis teismas ir Lietuvos vyriausiasis administracinis teismas."
+  },
+  {
+    "id": 18,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kokius procesinius sprendimus priima Konstitucinis Teismas?",
+    "options": [
+      "Tik nutarimus ir sprendimus",
+      "Nutarimus, išvadas ir sprendimus",
+      "Nuosprendžius, nutarimus ir išvadas",
+      "Tik išvadas ir nutarimus"
+    ],
+    "correct": 1,
+    "explanation": "Konstitucinis Teismas priima tris rūšių procesinius sprendimus: nutarimus (bylos esmė), išvadas (Konstitucijoje nustatytais atvejais) ir sprendimus (procesinio pobūdžio)."
+  },
+  {
+    "id": 19,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kokius du nutarimus gali priimti Konstitucinis Teismas, išnagrinėjęs bylą iš esmės?",
+    "options": [
+      "Grąžinti bylą nagrinėti iš naujo arba perduoti ją apygardos teismui",
+      "Pripažinti, kad teisės aktas neprieštarauja Konstitucijai arba įstatymams, arba pripažinti, kad teisės aktas prieštarauja Konstitucijai arba įstatymams",
+      "Panaikinti teisės aktą arba nurodyti Seimui jį pakeisti per nustatytą terminą",
+      "Sustabdyti teisės akto galiojimą arba leisti jam galioti laikinai"
+    ],
+    "correct": 1,
+    "explanation": "Konstitucinis Teismas, išnagrinėjęs bylą iš esmės, priima vieną iš dviejų nutarimų: pripažinti, kad teisės aktas neprieštarauja, arba pripažinti, kad prieštarauja Konstitucijai arba įstatymams."
+  },
+  {
+    "id": 20,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Dėl ko Konstitucinis Teismas priima sprendimus (ne nutarimus ir ne išvadas)?",
+    "options": [
+      "Dėl teisės aktų atitikties Konstitucijai ir dėl tarptautinių sutarčių ratifikavimo",
+      "Tik dėl Prezidento sveikatos ir rinkimų įstatymų pažeidimų",
+      "Dėl prašymo priimtinumo; procesiniais klausimais; kuriais baigiama konstitucinės justicijos byla; teisėjų statuso ir Teismo vidaus darbo organizavimo klausimais",
+      "Dėl savivaldybių aktų ir dėl Vyriausybės nutarimų atitikties Konstitucijai"
+    ],
+    "correct": 2,
+    "explanation": "Konstitucinio Teismo sprendimai (skirtingai nuo nutarimų ir išvadų) priimami dėl prašymų priimtinumo, procesiniais klausimais, kuriais baigiama byla, po nutarimo priėmimo bei teisėjų statuso ir vidaus organizavimo klausimais."
+  },
+  {
+    "id": 21,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kokios yra trys žmogaus teisių ir laisvių kategorijos?",
+    "options": [
+      "Turtinės, asmeninės ir kolektyvinės teisės",
+      "Prigimtinės, pozityviosios ir tarptautinės teisės",
+      "Klasikinės (pilietinės) teisės ir laisvės; politinės teisės ir laisvės; socialinės, ekonominės ir kultūrinės teisės",
+      "Individualios, grupinės ir valstybinės teisės"
+    ],
+    "correct": 2,
+    "explanation": "Žmogaus teisės ir laisvės klasifikuojamos į tris grupes: klasikines (pilietines), politines bei socialines, ekonomines ir kultūrines."
+  },
+  {
+    "id": 22,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kurios teisės priskiriamos klasikinėms žmogaus teisėms ir laisvėms?",
+    "options": [
+      "Rinkimų teisė, peticijų teisė, asociacijų teisė ir teisė dalyvauti valdant šalį",
+      "Teisė į gyvybę, asmens neliečiamumą, nuosavybės neliečiamumą, būsto neliečiamybę, orumo neliečiamumą, privataus gyvenimo apsaugą ir saviraiškos laisvė",
+      "Teisė į darbą, socialinę apsaugą, sveikatos priežiūrą ir mokslą",
+      "Teisė balsuoti referendumuose, steigti politines partijas ir teikti įstatymų projektus"
+    ],
+    "correct": 1,
+    "explanation": "Klasikinės (pilietinės) teisės apima teisę į gyvybę, asmens ir nuosavybės neliečiamumą, orumo ir privataus gyvenimo apsaugą bei saviraiškos laisvę."
+  },
+  {
+    "id": 23,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kurios teisės priskiriamos politinėms teisėms ir laisvėms?",
+    "options": [
+      "Teisė į darbą, socialinę apsaugą, sveikatos priežiūrą ir mokslą",
+      "Teisė dalyvauti valdant savo šalį, rinkimų teisė, įstatymų leidybos iniciatyvos teisė, teisė ginti valstybę nuo ginkluoto užpuolimo, peticijų teisė ir asociacijų teisė",
+      "Teisė į gyvybę, asmens neliečiamumą, orumo apsaugą ir privataus gyvenimo neliečiamumą",
+      "Teisė į nuosavybę, paveldėjimą, ūkinę veiklą ir tinkamą aplinkosaugą"
+    ],
+    "correct": 1,
+    "explanation": "Politinės teisės ir laisvės apima dalyvavimą valdyme, rinkimų teisę, iniciatyvos teisę, teisę ginti valstybę, peticijų teisę ir asociacijų teisę."
+  },
+  {
+    "id": 24,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kurios teisės priskiriamos socialinėms, ekonominėms ir kultūrinėms teisėms?",
+    "options": [
+      "Rinkimų teisė, peticijų teisė ir asociacijų teisė",
+      "Teisė į gyvybę, asmens neliečiamumą ir orumo apsaugą",
+      "Teisė dalyvauti valdant šalį ir teisė ginti valstybę",
+      "Teisė į darbą, socialinę apsaugą, sveikatos priežiūrą ir mokslą"
+    ],
+    "correct": 3,
+    "explanation": "Socialinės, ekonominės ir kultūrinės teisės apima teisę į darbą, socialinę apsaugą, sveikatos priežiūrą, mokslą ir kitas socialines garantijas."
+  },
+  {
+    "id": 25,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kiek pilietybės įgijimo būdų numatyta Lietuvos Respublikos pilietybės įstatyme?",
+    "options": [
+      "Trys",
+      "Šeši",
+      "Keturi",
+      "Penki"
+    ],
+    "correct": 1,
+    "explanation": "Pagal LR pilietybės įstatymą yra 6 pilietybės įgijimo būdai: gimimu, supaprastinta tvarka, natūralizacijos tvarka, išimties tvarka, grąžinant pilietybę ir tarptautinių sutarčių pagrindais."
+  },
+  {
+    "id": 26,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kaip Lietuvos Respublikos pilietybė gali būti įgyjama gimimu?",
+    "options": [
+      "Gimstant – pagal kilmę iš tėvų, kurie abu arba vienas yra Lietuvos Respublikos piliečiai",
+      "Registruojant vaiką savivaldybėje per 30 dienų nuo gimimo",
+      "Tik jeigu vaikas gimė Lietuvos Respublikos teritorijoje",
+      "Tik jeigu abu tėvai yra Lietuvos Respublikos piliečiai"
+    ],
+    "correct": 0,
+    "explanation": "Pilietybė gimimu įgyjama pagal kilmę (jus sanguinis) – pakanka, kad bent vienas iš tėvų būtų Lietuvos Respublikos pilietis."
+  },
+  {
+    "id": 27,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Ką reiškia, kad Konstitucija yra vientisas teisės aktas?",
+    "options": [
+      "Tai reiškia, kad Konstitucija negali būti keičiama dalimis – tik visiškai pakeičiama",
+      "Tai reiškia, kad visos Konstitucijos nuostatos turi vienodą teisinę galią nepriklausomai nuo skyriaus",
+      "Tai reiškia, kad Konstitucija sudaryta iš vieno dokumento, be papildomų priedų ar aktų",
+      "Nė viena jos nuostata negali prieštarauti kitai ar būti svarbesnė – visos normos ir principai sudaro darnią sistemą"
+    ],
+    "correct": 3,
+    "explanation": "Konstitucijos vientisumo principas reiškia, kad Konstitucija yra darni sistema – nė viena jos nuostata negali prieštarauti kitai ar būti laikoma svarbesnė."
+  },
+  {
+    "id": 28,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Ką reiškia, kad Konstitucija yra tiesiogiai taikomas aktas?",
+    "options": [
+      "Tai reiškia, kad Konstitucija taikoma tik po to, kai Seimas priima atitinkamą įstatymą, ją detalizuojantį",
+      "Tai reiškia, kad Konstitucija taikoma tik Konstitucinio Teismo bylose, ne bendruosiuose teismuose",
+      "Tai reiškia, kad piliečiai gali tiesiogiai kreiptis į Konstitucinį Teismą dėl savo teisių gynimo",
+      "Konstitucijos normomis vadovaujantis yra leidžiami įstatymai ir poįstatyminiai teisės aktai, o teismai gali tiesiogiai ją taikyti nagrinėjant bylas"
+    ],
+    "correct": 3,
+    "explanation": "Tiesiogiai taikomas aktas – Konstitucija gali būti taikoma teismų tiesiogiai, nenukrypstant nuo jos teksto, ir leidžia įstatymus vadovaujantis jos normomis."
+  },
+  {
+    "id": 29,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kas yra konstitucinės teisės šaltiniai siaurąja prasme?",
+    "options": [
+      "Konstitucija, konstituciniai įstatymai ir aktai (sudedamoji Konstitucijos dalis), Konstitucijos pataisos ir Konstitucinio Teismo nutarimai",
+      "Tik Konstitucija ir Seimo įstatymai",
+      "Konstitucija, Seimo statutas ir Vyriausybės nutarimai",
+      "Konstitucija, tarptautinės sutartys ir poįstatyminiai teisės aktai"
+    ],
+    "correct": 0,
+    "explanation": "Siaurąja prasme konstitucinę teisę sudaro: Konstitucija su sudedamosiomis dalimis ir pataisomis bei Konstitucinio Teismo nutarimai – kaip vienintelis teisiškai įpareigojantis interpretacijos šaltinis."
+  },
+  {
+    "id": 30,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kokios yra valstybės valdymo formos ir jų rūšys?",
+    "options": [
+      "Demokratija ir autokratija",
+      "Federacija ir unitarinė valstybė",
+      "Parlamentinė ir prezidentinė sistema",
+      "Monarchija (absoliutinė ir konstitucinė) bei respublika (prezidentinė, parlamentinė ir pusiau prezidentinė)"
+    ],
+    "correct": 3,
+    "explanation": "Valstybės valdymo forma skirstoma į monarchiją (absoliutinę ir konstitucinę) ir respubliką (prezidentinę, parlamentinę ir pusiau prezidentinę)."
+  },
+  {
+    "id": 31,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kokios yra valstybės sandaros formos?",
+    "options": [
+      "Unitarinė valstybė ir federacija",
+      "Demokratinė ir totalitarinė valstybė",
+      "Monarchija ir respublika",
+      "Centralizuota ir decentralizuota valstybė"
+    ],
+    "correct": 0,
+    "explanation": "Pagal sandarą valstybė gali būti unitarinė (vientisa, su viena konstitucija) arba federacija (sudėtinė valstybė, kurios dalys turi tam tikrą savarankiškumą)."
+  },
+  {
+    "id": 32,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kaip tiksliai vadinamas vietos savivaldos rinkimas Lietuvoje?",
+    "options": [
+      "Tik savivaldybių tarybų rinkimai – merai renkami atskiru procesu",
+      "Savivaldybės valdybos rinkimai",
+      "Seniūnijų ir savivaldybių tarybų rinkimai",
+      "Savivaldybių tarybų ir merų rinkimai"
+    ],
+    "correct": 3,
+    "explanation": "Savivaldos rinkimai apima tiek savivaldybių tarybų, tiek merų rinkimus – tai vienas bendras rinkimų procesas."
+  }
+]

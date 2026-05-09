@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuris teiginys teisingai apibūdina baudžiamąją teisę?",
+    "options": [
+      "Teisės šaka, reguliuojanti baudų skyrimą administracinių nusižengimų atvejais",
+      "Visuma teisės normų, nustatančių draudimus, nusikalstamas veikas ir poveikio priemones",
+      "Teisės normų sistema, nustatanti valstybės ir piliečių tarpusavio pareigas",
+      "Visuma normų, reglamentuojančių baudžiamąjį procesą ir teisminę procedūrą"
+    ],
+    "correct": 1,
+    "explanation": "Baudžiamoji teisė – tai visuma teisės normų, kuri nustato draudimus, nusikalstamas veikas ir poveikio priemones, taip pat atleidimą nuo atsakomybės."
+  },
+  {
+    "id": 2,
+    "category": "Baudžiamoji teisė",
+    "question": "Kokie du pagrindiniai požymiai, pagal BK apibrėžimus, apibūdina nusikalstamą veiką?",
+    "options": [
+      "Veikos pavojingumas ir veikos draudžiamumas (priešingumas baudžiamajam įstatymui)",
+      "Kaltės forma ir veikos padariniai",
+      "Veikos motyvai ir padarymo aplinkybės",
+      "Veikos tikslas ir panaudotos priemonės"
+    ],
+    "correct": 0,
+    "explanation": "Nusikaltimo ir baudžiamojo nusižengimo apibrėžimuose nustatyti du pagrindiniai požymiai: veikos pavojingumas (materialusis požymis) ir veikos draudžiamumas pagal baudžiamąjį įstatymą (formalusis požymis)."
+  },
+  {
+    "id": 3,
+    "category": "Baudžiamoji teisė",
+    "question": "Kaip BK 11 straipsnis apibrėžia nusikaltimą?",
+    "options": [
+      "Bet kokia pavojinga veika, padariusi didelę žalą visuomenei",
+      "Pavojinga ir BK uždrausta veika (veikimas ar neveikimas), už kurią numatyta laisvės atėmimo bausmė",
+      "BK uždrausta veika, padaryta tik tyčia, dėl kurios galima suimti asmenį",
+      "Pavojinga veika, už kurią numatyta laisvės atėmimo bausmė ar bauda"
+    ],
+    "correct": 1,
+    "explanation": "BK 11 str. 1 d. nusikaltimas apibrėžiamas kaip pavojinga ir BK uždrausta veika (veikimas ar neveikimas), už kurią numatyta laisvės atėmimo bausmė."
+  },
+  {
+    "id": 4,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuo baudžiamasis nusižengimas skiriasi nuo nusikaltimo pagal BK?",
+    "options": [
+      "Baudžiamasis nusižengimas padaromas tik dėl neatsargumo, o nusikaltimas – tik tyčia",
+      "Baudžiamajam nusižengimui taikoma tik administracinė, ne baudžiamoji atsakomybė",
+      "Baudžiamasis nusižengimas yra mažiau pavojinga veika, todėl jam netaikomas BK",
+      "Baudžiamajam nusižengimui numatyta bausmė nesusijusi su laisvės atėmimu (išskyrus areštą)"
+    ],
+    "correct": 3,
+    "explanation": "BK 12 str. baudžiamasis nusižengimas apibrėžiamas kaip pavojinga ir BK uždrausta veika, už kurią numatyta bausmė nesusijusi su laisvės atėmimu, išskyrus areštą."
+  },
+  {
+    "id": 5,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuris apibūdinimas teisingas nesunkiam nusikaltimui pagal BK klasifikaciją?",
+    "options": [
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė neviršija trejų metų laisvės atėmimo",
+      "Tyčinis nusikaltimas, už kurį numatyta bausmė nuo vienų iki šešerių metų laisvės atėmimo",
+      "Bet koks nusikaltimas, padarytas pirmą kartą",
+      "Nusikaltimas, nesukėlęs sunkių padarinių nukentėjusiajam"
+    ],
+    "correct": 0,
+    "explanation": "Nesunkus nusikaltimas yra tyčinis nusikaltimas, už kurį baudžiamajame įstatyme numatyta didžiausia bausmė neviršija trejų metų laisvės atėmimo."
+  },
+  {
+    "id": 6,
+    "category": "Baudžiamoji teisė",
+    "question": "Pagal BK nusikaltimų klasifikaciją, kuris apibūdinimas tinkamas apysunkiam nusikaltimui?",
+    "options": [
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė iki trejų metų laisvės atėmimo",
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė viršija šešerius, bet neviršija dešimties metų",
+      "Nusikaltimas, padarytas dėl neatsargumo ar aplaidumo",
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė viršija trejus, bet neviršija šešerių metų laisvės atėmimo"
+    ],
+    "correct": 3,
+    "explanation": "Apysunkis nusikaltimas – tyčinis nusikaltimas, už kurį baudžiamajame įstatyme numatyta didžiausia bausmė viršija trejus metus, bet neviršija šešerių metų laisvės atėmimo."
+  },
+  {
+    "id": 7,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuriuo atveju gali kilti baudžiamoji atsakomybė pagal nusikalstamos veikos sudėties principą (BK 2 str. 4 d.)?",
+    "options": [
+      "Jei asmuo padarė pavojingą veiką, net jei ji tiesiogiai nenumatyta BK",
+      "Jei ikiteisminio tyrimo pareigūnas nustato, kad veika kelia grėsmę visuomenės saugumui",
+      "Tik jei asmens padaryta veika atitinka baudžiamojo įstatymo numatytą nusikaltimo ar baudžiamojo nusižengimo sudėtį",
+      "Jei prokuroras nusprendžia, kad asmens veiksmai prieštarauja visuomenės moralei"
+    ],
+    "correct": 2,
+    "explanation": "BK 2 str. 4 d. nustato, kad pagal baudžiamąjį įstatymą atsako tik tas asmuo, kurio padaryta veika atitinka baudžiamojo įstatymo numatytą nusikaltimo ar baudžiamojo nusižengimo sudėtį."
+  },
+  {
+    "id": 8,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra nusikalstamų veikų kvalifikavimas?",
+    "options": [
+      "Ikiteisminio tyrimo proceso eigos ir atliktų veiksmų fiksavimas baudžiamojoje byloje",
+      "Tapatumo tarp požymių asmens padarytoje veikoje ir nusikalstamos veikos sudėties požymių BK normoje nustatymas bei šio tapatumo įtvirtinimas procesiniuose dokumentuose",
+      "Teismo sprendimas skirti konkrečią bausmę atsižvelgiant į nusikaltimo sunkumą",
+      "Prokuroro veiksmai, būtini patraukti asmenį baudžiamojon atsakomybėn"
+    ],
+    "correct": 1,
+    "explanation": "Nusikalstamų veikų kvalifikavimas – tapatumo tarp veikoje esančių požymių ir BK normos sudėties požymių nustatymas bei įtvirtinimas procesiniuose dokumentuose."
+  },
+  {
+    "id": 9,
+    "category": "Baudžiamoji teisė",
+    "question": "Į kokias dvi formas skirstoma kaltė baudžiamojoje teisėje pagal BK?",
+    "options": [
+      "Tiesioginę ir netiesioginę",
+      "Apibrėžtą ir neapibrėžtą",
+      "Tyčią ir neatsargumą",
+      "Sąmoningą ir nesąmoningą"
+    ],
+    "correct": 2,
+    "explanation": "BK išskiria dvi kaltės formas: tyčią (tiesioginę ir netiesioginę) ir neatsargumą (nusikalstamas pasitikėjimas ir nerūpestingumas)."
+  },
+  {
+    "id": 10,
+    "category": "Baudžiamoji teisė",
+    "question": "Koks apibūdinimas tinkamas sunkiam nusikaltimui pagal BK klasifikaciją?",
+    "options": [
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė viršija trejus, bet neviršija šešerių metų",
+      "Bet koks nusikaltimas, sukėlęs sunkius padarinius nukentėjusiajam",
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė viršija šešerius, bet neviršija dešimties metų laisvės atėmimo",
+      "Tyčinis nusikaltimas, už kurį numatyta bausmė viršija dešimt metų laisvės atėmimo"
+    ],
+    "correct": 2,
+    "explanation": "Sunkus nusikaltimas – tyčinis nusikaltimas, už kurį BK numatyta didžiausia bausmė viršija šešerius, bet neviršija dešimties metų laisvės atėmimo."
+  },
+  {
+    "id": 11,
+    "category": "Baudžiamoji teisė",
+    "question": "Koks apibūdinimas tinkamas labai sunkiam nusikaltimui pagal BK klasifikaciją?",
+    "options": [
+      "Tyčinis nusikaltimas, už kurį numatyta didžiausia bausmė nuo šešerių iki dešimties metų",
+      "Nusikaltimas, padarytas organizuotos nusikalstamos grupės",
+      "Nusikaltimas, sukėlęs ypač sunkius padarinius ar žūtį",
+      "Tyčinis nusikaltimas, už kurį baudžiamajame įstatyme numatyta didžiausia bausmė viršija dešimt metų laisvės atėmimo"
+    ],
+    "correct": 3,
+    "explanation": "Labai sunkus nusikaltimas – tyčinis nusikaltimas, už kurį BK numatyta didžiausia bausmė viršija dešimt metų laisvės atėmimo."
+  },
+  {
+    "id": 12,
+    "category": "Baudžiamoji teisė",
+    "question": "Pagal kokį kriterijų nusikaltimai skirstomi į tyčinius ir neatsargius?",
+    "options": [
+      "Pagal padarinius: tyčiniai visada sukelia sunkesnes pasekmes",
+      "Pagal subjektą: tyčinius nusikaltimus gali padaryti tik pilnamečiai",
+      "Pagal kaltės formą: tyčiniuose inkriminuojama tyčia, o neatsargiuose – neatsargumas",
+      "Pagal objektą: tyčiniai kėsinasi į asmenines teises, neatsargūs – į turtinius interesus"
+    ],
+    "correct": 2,
+    "explanation": "Nusikaltimai skirstomi į tyčinius ir neatsargius pagal kaltės formą – ar buvo tyčia, ar neatsargumas."
+  },
+  {
+    "id": 13,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuo pasižymi materiali nusikalstamos veikos sudėtis?",
+    "options": [
+      "Baudžiamoji atsakomybė kyla už pačią veiką, nepriklausomai nuo padarinių kilimo",
+      "Sudėties požymiai yra tik subjektyvūs – kaltės forma ir motyvas",
+      "Baudžiamoji atsakomybė priklauso tik nuo padarytos materialinės žalos dydžio",
+      "Baudžiamoji atsakomybė kyla tik tada, kai nusikalstama veika sukelia BK dispozicijoje aprašytus pavojingus padarinius"
+    ],
+    "correct": 3,
+    "explanation": "Materiali sudėtis reikalauja, kad dispozicijoje aprašyti pavojingi padariniai faktiškai atsirastų – tik tada kyla baudžiamoji atsakomybė."
+  },
+  {
+    "id": 14,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuo pasižymi formali nusikalstamos veikos sudėtis?",
+    "options": [
+      "Baudžiamoji atsakomybė kyla už pačią nusikalstamą veiką, neatsižvelgiant į pavojingų padarinių kilimą",
+      "Baudžiamoji atsakomybė kyla tik tada, kai dėl veikos atsiranda įstatyme aprašyti padariniai",
+      "Baudžiamoji atsakomybė priklauso nuo to, ar veika padaryta viešoje vietoje",
+      "Baudžiamoji atsakomybė kyla tik esant tiesioginei tyčiai"
+    ],
+    "correct": 0,
+    "explanation": "Formali sudėtis reiškia, kad baudžiamoji atsakomybė kyla už pačią veiką – padarinių kilimas nėra sudėties požymis."
+  },
+  {
+    "id": 15,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas būdinga nukirstinei nusikalstamos veikos sudėčiai?",
+    "options": [
+      "Nusikaltimo baigtumas siejamas su veiksmais, kurie baudžiamosios teisės teorijoje vertinami kaip rengimasis ar pasikėsinimas",
+      "Nusikaltimas laikomas baigtu tik atsiradus sunkiems padariniams",
+      "Nusikaltimas laikomas baigtu tik tada, kai kaltininkas pasiekia galutinį tikslą",
+      "Nusikaltimas laikomas baigtu nuo to momento, kai kaltininkas pradeda bet kokį parengiamąjį veiksmą"
+    ],
+    "correct": 0,
+    "explanation": "Nukirstinėje sudėtyje nusikaltimo baigtumas siejamas su veiksmu, kuris teorijoje laikomas rengimusi ar pasikėsinimu."
+  },
+  {
+    "id": 16,
+    "category": "Baudžiamoji teisė",
+    "question": "Kaip apibūdinama tiesioginė tyčia baudžiamojoje teisėje?",
+    "options": [
+      "Asmuo suvokia pavojingą savo veikos pobūdį, numato nusikalstamus padarinius ir jų nori",
+      "Asmuo numato galimus padarinius ir, nors jų nenori, sąmoningai leidžia jiems kilti",
+      "Asmuo numato galimus padarinius, tačiau nepagrįstai tikisi, kad jų nekils",
+      "Asmuo nenumatė galimų padarinių, nors pagal aplinkybes galėjo ir turėjo juos numatyti"
+    ],
+    "correct": 0,
+    "explanation": "Tiesioginė tyčia – asmuo suvokia veikos pavojingumą, numato padarinius ir jų nori (intelektualusis ir valinis elementai)."
+  },
+  {
+    "id": 17,
+    "category": "Baudžiamoji teisė",
+    "question": "Kaip apibūdinama netiesioginė tyčia baudžiamojoje teisėje?",
+    "options": [
+      "Asmuo suvokia pavojingą savo veikos pobūdį, numato galimus pavojingus padarinius ir, nors jų nenori, sąmoningai leidžia jiems kilti",
+      "Asmuo suvokia veikos pavojingumą, numato padarinius ir jų nori",
+      "Asmuo numato galimus padarinius, tačiau nepagrįstai tikisi, kad jų nekils",
+      "Asmuo nenumatė padarinių, nors pagal aplinkybes galėjo ir turėjo juos numatyti"
+    ],
+    "correct": 0,
+    "explanation": "Netiesioginė tyčia – asmuo numato galimus padarinius, jų nenori, bet sąmoningai leidžia jiems kilti (abejingumas padariniams)."
+  },
+  {
+    "id": 18,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra nusikalstamas pasitikėjimas kaip neatsargumo rūšis?",
+    "options": [
+      "Asmuo suvokia veikos pavojingumą, numato padarinius ir jų nori",
+      "Asmuo sąmoningai leidžia kilti padariniams, nors ir jų nenori",
+      "Asmuo nenumatė galimų padarinių, nors pagal aplinkybes galėjo ir turėjo juos numatyti",
+      "Asmuo numato galimus pavojingus padarinius, tačiau nepagrįstai tikisi, kad jų nekils"
+    ],
+    "correct": 3,
+    "explanation": "Nusikalstamas pasitikėjimas – neatsargumo rūšis, kai asmuo numato padarinius, tačiau nepagrįstai tikisi, kad jų nekils."
+  },
+  {
+    "id": 19,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra nusikalstamas nerūpestingumas kaip neatsargumo rūšis?",
+    "options": [
+      "Asmuo numato galimus padarinius, tačiau nepagrįstai tikisi, kad jų nekils",
+      "Asmuo sąmoningai leidžia kilti padariniams, nors jų ir nenori",
+      "Asmuo nenumatė galimų pavojingų padarinių, nors pagal bylos aplinkybes galėjo ir turėjo juos numatyti",
+      "Asmuo numato padarinius ir jų nori, tačiau veikia impulsyviai"
+    ],
+    "correct": 2,
+    "explanation": "Nusikalstamas nerūpestingumas – neatsargumo rūšis, kai asmuo nenumatė padarinių, nors galėjo ir turėjo juos numatyti."
+  },
+  {
+    "id": 20,
+    "category": "Baudžiamoji teisė",
+    "question": "Iš kokių keturių elementų susideda nusikalstamos veikos sudėtis?",
+    "options": [
+      "Objekto, objektyviosios pusės, subjekto ir subjektyviosios pusės",
+      "Kaltės, padarinių, subjekto ir sankcijos",
+      "Veikos, padarinių, kaltininko ir nukentėjusiojo",
+      "Nusikaltimo, bausmės, kaltės ir nusikaltėlio"
+    ],
+    "correct": 0,
+    "explanation": "Nusikalstamos veikos sudėtis susideda iš keturių elementų: objekto, objektyviosios pusės, subjekto ir subjektyviosios pusės."
+  },
+  {
+    "id": 21,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra nusikalstamos veikos objektas (dalykas)?",
+    "options": [
+      "Baudžiamojo įstatymo saugoma vertybė ar gėris, į kurį kėsinamasi nusikalstama veika",
+      "Fizinis asmuo, padaręs nusikalstamą veiką",
+      "Nusikalstamos veikos padarymo įrankis ar priemonė",
+      "Nusikaltimo padariniai, atsiradę po veikos įvykdymo"
+    ],
+    "correct": 0,
+    "explanation": "Nusikalstamos veikos objektas – baudžiamojo įstatymo saugoma vertybė (pvz., žmogaus gyvybė, nuosavybė), į kurią kėsinamasi veika."
+  },
+  {
+    "id": 22,
+    "category": "Baudžiamoji teisė",
+    "question": "Kurie požymiai priskiriami nusikalstamos veikos objektyviajai pusei?",
+    "options": [
+      "Kaltė, motyvai, tikslai ir asmens amžius",
+      "Subjektas, jo amžius, pakaltinamumas ir specialūs požymiai",
+      "Veikimas ar neveikimas, padariniai, priežastinis ryšys, vieta, laikas, priemonės ar įrankiai, būdas ir sąlygos",
+      "Bausmė, sankcija, nusikaltimo rūšis ir pavojingumo laipsnis"
+    ],
+    "correct": 2,
+    "explanation": "Objektyviąją pusę sudaro veikimas/neveikimas, padariniai, priežastinis ryšys ir kiti išoriniai veikos požymiai (vieta, laikas, priemonės, būdas, sąlygos)."
+  },
+  {
+    "id": 23,
+    "category": "Baudžiamoji teisė",
+    "question": "Kokie du pagrindiniai požymiai apibūdina nusikalstamos veikos subjektą?",
+    "options": [
+      "Kaltė ir motyvai",
+      "Amžius ir pakaltinamumas",
+      "Pilietybė ir gyvenamoji vieta",
+      "Išsilavinimas ir socialinė padėtis"
+    ],
+    "correct": 1,
+    "explanation": "Nusikalstamos veikos subjekto pagrindiniai požymiai yra amžius (BK nustatytas minimumas) ir pakaltinamumas."
+  },
+  {
+    "id": 24,
+    "category": "Baudžiamoji teisė",
+    "question": "Kokie požymiai priskiriami nusikalstamos veikos subjektyviajai pusei?",
+    "options": [
+      "Veikimas ar neveikimas, padariniai ir priežastinis ryšys",
+      "Amžius, pakaltinamumas ir specialūs subjekto požymiai",
+      "Kaltė, motyvai ir tikslai",
+      "Objektas, dalykas ir priežastinis ryšys"
+    ],
+    "correct": 2,
+    "explanation": "Subjektyviąją pusę sudaro kaltė (tyčia arba neatsargumas), taip pat motyvai ir tikslai, kai jie yra sudėties požymis."
+  },
+  {
+    "id": 25,
+    "category": "Baudžiamoji teisė",
+    "question": "Kokios yra trys pavienių nusikalstamų veikų rūšys pagal baudžiamąją teisę?",
+    "options": [
+      "Idealioji sutaptis, realioji sutaptis ir recidyvas",
+      "Tyčinė, neatsargi ir mišri nusikalstama veika",
+      "Tęstinė, trunkamoji ir sudėtinė nusikalstama veika",
+      "Baigta, nebaigta ir sustabdyta nusikalstama veika"
+    ],
+    "correct": 2,
+    "explanation": "Pavienės nusikalstamos veikos skirstomos į tęstines, trunkamąsias ir sudėtines."
+  },
+  {
+    "id": 26,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra tęstinė nusikalstama veika?",
+    "options": [
+      "Nusikaltimas, kurio padariniai tęsiasi ilgą laiką po pačios veikos padarymo",
+      "Keletas tapačių veiksmų, padarytų vieningos tyčios pagrindu, nukreiptų į tą pačią vertybę ir vertinami kaip vienas nusikaltimas",
+      "Nusikaltimas, kurį sudaro keli skirtingi BK straipsniuose numatyti veiksmai",
+      "Vienas veiksmas, vienu metu pažeidžiantis kelis BK specialiosios dalies straipsnius"
+    ],
+    "correct": 1,
+    "explanation": "Tęstinė veika – keli tapačios pobūdžio veiksmai, padaryti vieningos tyčios pagrindu, vertinami kaip vienas nusikaltimas."
+  },
+  {
+    "id": 27,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra trunkamoji nusikalstama veika?",
+    "options": [
+      "Veika, kuri padaroma per labai ilgą laiko tarpą – kelerius metus",
+      "Veika, kai asmuo nuo tam tikro momento nuolat pažeidžia baudžiamąjį įstatymą, t. y. nusikalstama būsena tęsiasi nuolat",
+      "Veika, susidedanti iš kelių tarpusavyje susijusių, bet skirtingų nusikaltimų",
+      "Veika, kuri pradedama viename rajone ir tęsiama kitame"
+    ],
+    "correct": 1,
+    "explanation": "Trunkamoji veika – asmuo nuolat realizuoja nusikaltimo sudėtį (pvz., neteisėtas ginklo laikymas), esant nusikalstamam stoviui."
+  },
+  {
+    "id": 28,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra sudėtinė nusikalstama veika?",
+    "options": [
+      "Veika, kurią kartu padaro keletas asmenų bendrininkavimo forma",
+      "Veika, susidedanti iš kelių pavojingų veiksmų, kurių kiekvienas atskirai galėtų sudaryti savarankišką sudėtį, bet įstatymų leidėjas juos sujungė į vieną",
+      "Veika, padaryta iš eilės be laiko pertraukos ta pačia tyčia",
+      "Veika, kuri pažeidžia kelias skirtingas baudžiamojo įstatymo normas tuo pačiu metu"
+    ],
+    "correct": 1,
+    "explanation": "Sudėtinė veika apima kelis veiksmus (pvz., plėšimas = smurtas + pagrobimas), kurie atskirtai sudarytų atskiras sudėtis."
+  },
+  {
+    "id": 29,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra idealioji nusikalstamų veikų sutaptis?",
+    "options": [
+      "Keliais skirtingais veiksmais padaromi keli skirtingi nusikaltimai",
+      "Keli asmenys kartu padaro tą patį nusikaltimą organizuotoje grupėje",
+      "Ta pati nusikalstama veika pakartotinai padaroma recidyvo atveju",
+      "Viena veika (vienas veiksmas) padaro kelias nusikalstamas veikas, numatytas skirtinguose BK straipsniuose"
+    ],
+    "correct": 3,
+    "explanation": "Idealioji sutaptis – vienu veiksmu padaromos kelios nusikalstamos veikos (pvz., padegimas ir nužudymas)."
+  },
+  {
+    "id": 30,
+    "category": "Baudžiamoji teisė",
+    "question": "Kas yra realioji nusikalstamų veikų sutaptis?",
+    "options": [
+      "Vienas veiksmas, pažeidžiantis kelis BK straipsnius vienu metu",
+      "Kelių asmenų kartu padarytas vienas bendras nusikaltimas",
+      "Nusikaltimas, padarytas toje pačioje vietoje skirtingais laikais",
+      "Keli skirtingi veiksmai, kurių kiekvienas sudaro atskirą nusikaltimą, padarytų to paties asmens"
+    ],
+    "correct": 3,
+    "explanation": "Realioji sutaptis – tas pats asmuo keliais atskirais veiksmais padaro kelis skirtingus nusikaltimus."
+  },
+  {
+    "id": 31,
+    "category": "Baudžiamoji teisė",
+    "question": "Kokios šešios bausmės numatytos dabartiniame LR baudžiamajame kodekse?",
+    "options": [
+      "Viešieji darbai, bauda, laisvės apribojimas, areštas, laisvės atėmimas ir laisvės atėmimas iki gyvos galvos",
+      "Bauda, areštas, laisvės atėmimas, mirties bausmė, tremtis ir turto konfiskavimas",
+      "Viešieji darbai, bauda, areštas, laisvės atėmimas, turto konfiskavimas ir mirties bausmė",
+      "Piniginė išpirka, bauda, areštas, laisvės apribojimas, laisvės atėmimas ir priverčiamasis gydymas"
+    ],
+    "correct": 0,
+    "explanation": "BK bausmių sistemą sudaro 6 bausmės didėjančio sunkumo tvarka: viešieji darbai, bauda, laisvės apribojimas, areštas, laisvės atėmimas, laisvės atėmimas iki gyvos galvos."
+  },
+  {
+    "id": 32,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuri bausmė yra pirmoji (lengviausia) LR baudžiamojo kodekso bausmių sistemoje?",
+    "options": [
+      "Bauda",
+      "Laisvės apribojimas",
+      "Viešieji darbai",
+      "Areštas"
+    ],
+    "correct": 2,
+    "explanation": "Bausmių sistemoje bausmės išdėstytos nuo lengviausios iki sunkiausios – pirmoji yra viešieji darbai."
+  },
+  {
+    "id": 33,
+    "category": "Baudžiamoji teisė",
+    "question": "Kiek baudžiamąją atsakomybę šalinančių aplinkybių numatyta LR baudžiamajame kodekse?",
+    "options": [
+      "Penkios",
+      "Šešios",
+      "Dešimt",
+      "Aštuonios"
+    ],
+    "correct": 3,
+    "explanation": "BK numato aštuonias baudžiamąją atsakomybę šalinančias aplinkybes, tarp jų būtinoji gintis, būtinasis reikalingumas ir mokslinis eksperimentas."
+  },
+  {
+    "id": 34,
+    "category": "Baudžiamoji teisė",
+    "question": "Kuri iš šių NĖRA baudžiamąją atsakomybę šalinanti aplinkybė pagal BK?",
+    "options": [
+      "Būtinoji gintis",
+      "Nukentėjusiojo atleidimas kaltininkui nuo atsakomybės",
+      "Mokslinis eksperimentas",
+      "Pateisinama profesinė ar ūkinė rizika"
+    ],
+    "correct": 1,
+    "explanation": "BK numato 8 šalinančias aplinkybes (būtinoji gintis, sulaikymas, profesinių pareigų vykdymas, būtinasis reikalingumas ir kt.), tačiau nukentėjusiojo atleidimas nėra viena iš jų."
+  },
+  {
+    "id": 35,
+    "category": "Baudžiamoji teisė",
+    "question": "Kurios trys nusikalstamų veikų grupės nurodytos BK specialiosios dalies temose?",
+    "options": [
+      "Nusikaltimai valstybei, nusikaltimai ekonomikai ir nusikaltimai aplinkosaugai",
+      "Nusikaltimai žmogaus gyvybei, nusikaltimai žmogaus sveikatai ir nusikalstamos veikos nuosavybei, turtinėms teisėms bei turtiniams interesams",
+      "Nusikaltimai žmogaus orumui, nusikaltimai šeimos santykiams ir nusikaltimai valdžiai",
+      "Nusikaltimai žmogaus laisvei, nusikaltimai visuomenės saugumui ir nusikaltimai tvarkai"
+    ],
+    "correct": 1,
+    "explanation": "Iš BK specialiosios dalies studijuojamos trys grupės: nusikaltimai žmogaus gyvybei, sveikatai ir nusikalstamos veikos nuosavybei."
+  },
+  {
+    "id": 36,
+    "category": "Baudžiamoji teisė",
+    "question": "Kaip skirstomi nusikaltimai žmogaus gyvybei BK teorijoje?",
+    "options": [
+      "Tyčiniai nužudymai ir netyčiniai gyvybės atėmimai",
+      "Paprasti nužudymai, kvalifikuoti nužudymai ir netyčiniai nužudymai",
+      "Tyčiniai nusikaltimai, neatsargūs nusikaltimai ir mišrios kaltės nusikaltimai gyvybei",
+      "Nužudymai, neatsargus gyvybės atėmimas ir kitos su neteisėtu gyvybės atėmimu susijusios nusikalstamos veikos"
+    ],
+    "correct": 3,
+    "explanation": "Nusikaltimai žmogaus gyvybei: nužudymai (BK 129-131 str.), neatsargus gyvybės atėmimas (132 str.) ir kitos susijusios veikos (133-134 str.)."
+  }
+]
