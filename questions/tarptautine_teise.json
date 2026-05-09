@@ -1,0 +1,483 @@
+[
+  {
+    "id": 1,
+    "category": "Tarptautinė teisė",
+    "question": "Pagrindiniai tarptautinės teisės subjektai yra:",
+    "options": [
+      "Valstybės ir tarptautinės organizacijos",
+      "Fiziniai asmenys ir privačios korporacijos",
+      "Diplomatinės atstovybės ir tarptautiniai teismai",
+      "Tik JT narės valstybės"
+    ],
+    "correct": 0,
+    "explanation": "Valstybės ir tarptautinės organizacijos – pagrindiniai ir pilnateisiai tarptautinės teisės subjektai."
+  },
+  {
+    "id": 2,
+    "category": "Tarptautinė teisė",
+    "question": "Kuris iš šių subjektų nėra laikomas pilnateisiu tarptautinės teisės subjektu?",
+    "options": [
+      "Valstybės",
+      "Privatūs juridiniai asmenys (bendrovės, asociacijos)",
+      "Tarptautinės organizacijos (pvz., JT)",
+      "Valstybiniu pripažinimu paremti sukilėlių judėjimai"
+    ],
+    "correct": 1,
+    "explanation": "Privatūs juridiniai asmenys neturi tarptautinio teisnumo – jie nėra pilnateisiai tarptautinės teisės subjektai."
+  },
+  {
+    "id": 3,
+    "category": "Tarptautinė teisė",
+    "question": "Valstybių suverenios lygybės principas tarptautinėje teisėje reiškia, kad:",
+    "options": [
+      "Visos valstybės yra lygios teisiškai, nepaisant jų dydžio ar ekonominės galios",
+      "Didesnės valstybės turi daugiau balsų tarptautinėse organizacijose",
+      "Suverenitetas reiškia teisę ignoruoti tarptautinę teisę",
+      "Mažesnės valstybės privalo paklusti didesnių valstybių sprendimams"
+    ],
+    "correct": 0,
+    "explanation": "Suvereni lygybė – vienas kertinių principų: visos valstybės yra lygios tarptautinėje teisėje neatsižvelgiant į faktinę galią."
+  },
+  {
+    "id": 4,
+    "category": "Tarptautinė teisė",
+    "question": "Nesikišimo į valstybių vidaus reikalus principas reiškia, kad:",
+    "options": [
+      "Valstybės negali sudaryti dvišalių sutarčių dėl abipusės pagalbos",
+      "Valstybės negali reikšti nuomonės apie kitas valstybes tarptautinėse organizacijose",
+      "Valstybės neturi teisės jėga ar spaudimu daryti įtakos kitų valstybių vidaus reikalams",
+      "Tarptautinės organizacijos negali stebėti žmogaus teisių padėties"
+    ],
+    "correct": 2,
+    "explanation": "Principas draudžia neteisėtą kišimąsi į kitos valstybės vidaus kompetenciją – ypač jėga ar grasinant ja."
+  },
+  {
+    "id": 5,
+    "category": "Tarptautinė teisė",
+    "question": "Jus cogens norma tarptautinėje teisėje yra:",
+    "options": [
+      "Bet kuri dvišalės sutarties sąlyga",
+      "Rekomendacinė tarptautinės organizacijos nuostata",
+      "Tik paprotinė norma, kurią valstybė gali laisvai atmesti",
+      "Imperatyvioji norma, nuo kurios nukrypti sutartimi neleidžiama (pvz., draudimas genocido, vergovės)"
+    ],
+    "correct": 3,
+    "explanation": "Jus cogens – aukščiausio lygio imperatyvios normos; bet kuri joms prieštaraujanti sutartis yra niekinė."
+  },
+  {
+    "id": 6,
+    "category": "Tarptautinė teisė",
+    "question": "Principas pacta sunt servanda tarptautinės teisės srityje reiškia:",
+    "options": [
+      "Sutartys gali būti laisvai keičiamos vienašališkai",
+      "Sutartys privalomosios tik po jų patvirtinimo JT Saugumo Taryboje",
+      "Sutarčių privalu laikytis – tai pagrindinis tarptautinių sutarčių teisės principas",
+      "Sutartys rekomendacinės ir neįpareigojančios"
+    ],
+    "correct": 2,
+    "explanation": "Pacta sunt servanda – fundamentalus principas: valstybės privalo vykdyti savo tarptautinius įsipareigojimus sąžiningai."
+  },
+  {
+    "id": 7,
+    "category": "Tarptautinė teisė",
+    "question": "Jei įsigaliojusi ratifikuota Lietuvos Respublikos tarptautinė sutartis nustato kitokias normas nei Lietuvos įstatymai:",
+    "options": [
+      "Visada taikomas nacionalinis įstatymas",
+      "Taikomos tarptautinės sutarties nuostatos",
+      "Abi normos netenka galios",
+      "Klausimą sprendžia Konstitucinis Teismas kiekvienu atveju"
+    ],
+    "correct": 1,
+    "explanation": "Tarptautinės sutarties viršenybė prieš įstatymus – LR teisės principas."
+  },
+  {
+    "id": 8,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinis paprotys kaip tarptautinės teisės šaltinis reikalauja:",
+    "options": [
+      "Oficialios tarptautinių organizacijų kodifikacijos ir patvirtinimo",
+      "Diplomatinio susirašinėjimo ir notarinio tvirtinimo",
+      "Pakankamai ilgo ir visuotinio taikymo bei valstybių įsitikinimo, kad taisyklė yra teisiškai privaloma (opinio juris)",
+      "Vienodos visų JT narių valstybių praktikos tik per 10 metų"
+    ],
+    "correct": 2,
+    "explanation": "Du paproties elementai: ilgalaikė, visuotinė valstybių praktika + opinio juris (įsitikinimas teisiniu privalomumu)."
+  },
+  {
+    "id": 9,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinės sutarties absoliutaus negaliojimo pagrindas yra:",
+    "options": [
+      "Vien tik politinio režimo pasikeitimas valstybėje",
+      "Valstybės ekonominė krizė, neleidžianti sutarties vykdyti",
+      "Prieštaravimas jus cogens normoms arba sutarties sudarymas grasinant jėga ar ją panaudojant",
+      "Sutarties neregistravimas JT Sekretoriate"
+    ],
+    "correct": 2,
+    "explanation": "Absoliutaus negaliojimo pagrindai: sutarties prieštaravimas jus cogens ir prievarta/grasinimas jėga sudarant sutartį."
+  },
+  {
+    "id": 10,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinės sutarties nutraukimo ar veikimo sustabdymo pagrindai yra:",
+    "options": [
+      "Tik vienos šalies vienašalė valia bet kuriuo metu",
+      "Vien vidaus teisės pakeitimas",
+      "Denonsavimas, šalių susitarimas ar esminis sutarties pažeidimas",
+      "Tik sutarties neįregistravimas JT"
+    ],
+    "correct": 2,
+    "explanation": "Tarptautinės sutarčių teisės numatomi pagrindai: denonsavimas, šalių susitarimas, esminis pažeidimas ar nauja jus cogens norma."
+  },
+  {
+    "id": 11,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinė ir konsulinė teisė yra:",
+    "options": [
+      "Viena ir ta pati teisės šaka",
+      "Dvi savarankiškos tarptautinės teisės šakos, reguliuojamos skirtingomis Vienos konvencijomis",
+      "Tik nacionalinės teisės dalis",
+      "Neformalios taisyklės be privalomosios galios"
+    ],
+    "correct": 1,
+    "explanation": "Diplomatinę teisę reguliuoja 1961 m. Vienos konvencija, konsulinę – 1963 m. Vienos konvencija; tai dvi atskiros šakos."
+  },
+  {
+    "id": 12,
+    "category": "Tarptautinė teisė",
+    "question": "Jei priimančioji valstybė paskelbia diplomatą persona non grata, atstovaujamoji valstybė turi:",
+    "options": [
+      "Atšaukti tokį asmenį arba atleisti jį iš pareigų atstovybėje",
+      "Ignoruoti tokį pranešimą kaip neteisinį veiksmą",
+      "Nedelsdama nutraukti visus diplomatinius santykius",
+      "Kreiptis tik į Tarptautinį Teisingumo Teismą"
+    ],
+    "correct": 0,
+    "explanation": "Persona non grata paskelbimas – priimančiosios valstybės teisė; atstovaujamoji valstybė privalo atšaukti tą asmenį."
+  },
+  {
+    "id": 13,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinio atstovo paskyrimo procedūra vadinama:",
+    "options": [
+      "Ratifikavimu",
+      "Akreditavimu",
+      "Denonsavimu",
+      "Parafavimu"
+    ],
+    "correct": 1,
+    "explanation": "Akreditavimas – oficiali diplomato paskyrimo ir priimančiosios valstybės pritarimo procedūra."
+  },
+  {
+    "id": 14,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinių santykių nutraukimas savaime nereiškia:",
+    "options": [
+      "Diplomatinių atstovybių darbo pasibaigimo",
+      "Diplomatinio personalo atšaukimo",
+      "Konsulinių santykių nutraukimo",
+      "Santykių pablogėjimo tarp valstybių"
+    ],
+    "correct": 2,
+    "explanation": "1961 m. Vienos konvencija aiškiai numato, kad diplomatinių santykių nutraukimas ipso facto nereiškia konsulinių santykių nutraukimo."
+  },
+  {
+    "id": 15,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatiniai imunitetai ir privilegijos reiškia:",
+    "options": [
+      "Diplomatinės atstovybės ir personalo išėmimą iš priimančiosios valstybės jurisdikcijos",
+      "Tik mokesčių lengvatas ir muito atleidimą",
+      "Teisę laisvai keliauti be pasų kontrolės",
+      "Vien tik asmeninę neliečiamybę be kitų pasekmių"
+    ],
+    "correct": 0,
+    "explanation": "Imunitetai – platus išėmimo iš jurisdikcijos principas: asmens neliečiamybė, patalpų neliečiamybė, imunitetas nuo teismų ir kt."
+  },
+  {
+    "id": 16,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinės atstovybės pagrindinė funkcija yra:",
+    "options": [
+      "Vykdyti baudžiamąją jurisdikciją priimančios valstybės teritorijoje",
+      "Prižiūrėti visus priimančios valstybės teismus",
+      "Išduoti vizas ir vykdyti administracines funkcijas (tai konsulinė funkcija)",
+      "Atstovauti valstybei politiniu lygmeniu ir skatinti draugiškus santykius, plėtoti ekonominius ir kultūrinius ryšius"
+    ],
+    "correct": 3,
+    "explanation": "Diplomatinė atstovybė – politinio atstovavimo institucija; konsulinė – administracinių ir praktinių funkcijų."
+  },
+  {
+    "id": 17,
+    "category": "Tarptautinė teisė",
+    "question": "Kuo diplomatinė atstovybė skiriasi nuo konsulinės įstaigos?",
+    "options": [
+      "Diplomatinė atstovybė atstovauja valstybei politiniu lygmeniu, o konsulinė atlieka administracines ir apsaugos funkcijas",
+      "Konsulinė įstaiga turi aukštesnį diplomatinį statusą nei atstovybė",
+      "Jų funkcijos tapačios – skiriasi tik pavadinimas",
+      "Diplomatinė atstovybė išduoda vizas, o konsulinė derasi politiniais klausimais"
+    ],
+    "correct": 0,
+    "explanation": "Diplomatinė atstovybė – politinė misija; konsulinė – praktinė paslauga (vizos, pilietybė, piliečių apsauga)."
+  },
+  {
+    "id": 18,
+    "category": "Tarptautinė teisė",
+    "question": "Negrąžinimo (non-refoulement) principas draudžia grąžinti asmenį į valstybę, kurioje:",
+    "options": [
+      "Asmeniui gresia persekiojimas dėl rasės, religijos, tautybės, politinių pažiūrų ar priklausymo socialinei grupei",
+      "Asmuo neturi gimimo liudijimo ar paso",
+      "Asmuo yra susijęs su šalies valstybinėmis institucijomis",
+      "Asmuo yra praleidęs daugiau nei 90 dienų"
+    ],
+    "correct": 0,
+    "explanation": "Non-refoulement – pagrindinis pabėgėlių teisės principas: draudžiama grąžinti asmenį ten, kur jam gresia persekiojimas."
+  },
+  {
+    "id": 19,
+    "category": "Tarptautinė teisė",
+    "question": "Saugi kilmės valstybė – tai valstybė, kurioje:",
+    "options": [
+      "Valstybė yra NATO narė ir turi demokratinę konstituciją",
+      "Valstybė yra Europos Sąjungos narė ar kandidatė",
+      "Valstybė neturi oficialių ginčų su Lietuva",
+      "Nėra ginkluoto konflikto, nepažeidžiamos pagrindinės žmogaus teisės ir laisvės, nevyksta asmenų persekiojimas"
+    ],
+    "correct": 3,
+    "explanation": "Saugi kilmės valstybė: nėra beatodairiško smurto, persekiojimo, kankinimų ar pagrindinių žmogaus teisių pažeidimų."
+  },
+  {
+    "id": 20,
+    "category": "Tarptautinė teisė",
+    "question": "Ar skiriasi pagrindinės žmogaus teisės legaliai ir nelegaliai atvykusiam užsieniečiui?",
+    "options": [
+      "Taip – nelegaliai atvykę neturi teisės į teisingą bylos nagrinėjimą",
+      "Taip – legaliai atvykę turi daugiau teisių visose srityse",
+      "Ne – pagrindinės žmogaus teisės vienodos, nepaisant atvykimo būdo",
+      "Taip – nelegaliai atvykusieji neturi teisės į medicinos pagalbą"
+    ],
+    "correct": 2,
+    "explanation": "Pagrindinės žmogaus teisės (gyvybė, orumas, draudimas kankinti) taikomos visiems, neatsižvelgiant į atvykimo būdą."
+  },
+  {
+    "id": 21,
+    "category": "Tarptautinė teisė",
+    "question": "Prašymą suteikti prieglobstį Lietuvoje užsienietis gali pateikti:",
+    "options": [
+      "Valstybės sienos apsaugos tarnybai prie LR vidaus reikalų ministerijos",
+      "Tiesiogiai Migracijos departamentui elektroniniu paštu",
+      "Bet kuriai Lietuvos policijai ar savivaldybei",
+      "Tik atvykęs į Vilniaus oro uostą"
+    ],
+    "correct": 0,
+    "explanation": "Prašymą suteikti prieglobstį priima Valstybės sienos apsaugos tarnyba (pasienio kontrolės punktuose ar viduje)."
+  },
+  {
+    "id": 22,
+    "category": "Tarptautinė teisė",
+    "question": "Per kiek laiko Migracijos departamentas priima sprendimą dėl prieglobsčio prašytojo įleidimo, jei jis prašymą pateikė kirtęs sieną?",
+    "options": [
+      "48 valandos",
+      "24 valandos",
+      "7 dienos",
+      "30 dienų"
+    ],
+    "correct": 0,
+    "explanation": "Įstatymas numato 48 valandų terminą Migracijos departamentui nuspręsti dėl prieglobsčio prašytojo įleidimo."
+  },
+  {
+    "id": 23,
+    "category": "Tarptautinė teisė",
+    "question": "Migracijos departamento sprendimas dėl pabėgėlio statuso (ne)suteikimo gali būti skundžiamas:",
+    "options": [
+      "Lietuvos Aukščiausiajam Teismui per 30 dienų",
+      "Europos Žmogaus Teisių Teismui per 4 mėnesius",
+      "Generalinei prokuratūrai per 14 dienų",
+      "Regionų administraciniam teismui per 7 dienas nuo sprendimo įteikimo"
+    ],
+    "correct": 3,
+    "explanation": "Administracinis skundas dėl prieglobsčio sprendimo paduodamas regionų administraciniam teismui per 7 dienas."
+  },
+  {
+    "id": 24,
+    "category": "Tarptautinė teisė",
+    "question": "Prieš ką galima paduoti skundą Europos Žmogaus Teisių Teismui?",
+    "options": [
+      "Prieš privačius asmenis ar bendroves, pažeidusius žmogaus teises",
+      "Prieš bet kurią pasaulio valstybę, neatsižvelgiant į narystę",
+      "Tik prieš valstybę – Europos žmogaus teisių konvencijos dalyvę, kuri pažeidė Konvencijoje įtvirtintas teises",
+      "Prieš Europos Sąjungos institucijas ir jų pareigūnus"
+    ],
+    "correct": 2,
+    "explanation": "EŽTT nagrinėja tik skundus prieš EŽTK dalyves valstybes; skundų prieš privačius subjektus nepriima."
+  },
+  {
+    "id": 25,
+    "category": "Tarptautinė teisė",
+    "question": "Kokios sąlygos turi būti įvykdytos prieš kreipiantis į EŽTT?",
+    "options": [
+      "Pakanka pateikti skundą per metus nuo pažeidimo, be kitų sąlygų",
+      "Reikia turėti advokato atstovavimą nuo pat pradžių ir sumokėti rinkliavą",
+      "Pakanka išsiųsti skundą faksu per 6 mėnesius",
+      "Privalu išnaudoti visas vidaus (nacionalines) teisinės gynybos priemones ir kreiptis per 4 mėnesius nuo galutinio vidaus sprendimo"
+    ],
+    "correct": 3,
+    "explanation": "Du esminiai reikalavimai: (1) išnaudotos vidaus gynybos priemonės; (2) skundas pateiktas per 4 mėnesius nuo galutinio vidaus sprendimo."
+  },
+  {
+    "id": 26,
+    "category": "Tarptautinė teisė",
+    "question": "Per kiek laiko reikia kreiptis į EŽTT nuo galutinio vidaus teismo sprendimo?",
+    "options": [
+      "6 mėnesiai",
+      "1 metai",
+      "3 mėnesiai",
+      "4 mėnesiai"
+    ],
+    "correct": 3,
+    "explanation": "Nuo 2022 m. terminas sutrumpintas nuo 6 iki 4 mėnesių nuo galutinio vidaus sprendimo priėmimo datos."
+  },
+  {
+    "id": 27,
+    "category": "Tarptautinė teisė",
+    "question": "Ko Europos Žmogaus Teisių Teismas negali padaryti?",
+    "options": [
+      "Peržiūrėti ar panaikinti vidaus teismų sprendimų ir pakeisti nacionalinės teisės",
+      "Paskirti piniginę kompensaciją (teisingą atlyginimą) nukentėjusiajam",
+      "Nustatyti, ar buvo pažeista Konvencija",
+      "Pareikalauti, kad valstybė atlygintų bylinėjimosi išlaidas"
+    ],
+    "correct": 0,
+    "explanation": "EŽTT nėra apeliacija – jis negali peržiūrėti vidaus bylų. Gali tik nustatyti pažeidimą ir priteisti kompensaciją."
+  },
+  {
+    "id": 28,
+    "category": "Tarptautinė teisė",
+    "question": "Kaip EŽTT skundas turi būti pateiktas?",
+    "options": [
+      "Žodžiu, atvykus asmeniškai į Strasbūrą",
+      "Faksu arba elektroniniu paštu per 4 mėnesius",
+      "Per valstybės ambasadą Prancūzijoje",
+      "Raštu – tinkamai užpildyta ir pasirašyta pareiškimo forma, išsiųsta paštu į Strasbūrą"
+    ],
+    "correct": 3,
+    "explanation": "Skundas teikiamas tik paštu užpildyta forma; faksas ar asmeninis atvykimas termino nesustabdo ir bylos nepaspartina."
+  },
+  {
+    "id": 29,
+    "category": "Tarptautinė teisė",
+    "question": "Ar saviraiškos laisvė gina teisę skleisti neapykantą kitų asmenų atžvilgiu?",
+    "options": [
+      "Taip – saviraiška gina visas kalbos formas be išimčių",
+      "Ne – neapykantos kalba, kurstymas smurtui ir diskriminacijai nėra saugoma saviraiška",
+      "Taip, jei neapykanta nėra tiesiogiai nukreipta į konkretų asmenį",
+      "Taip – draudimas skleisti neapykantą pažeidžia saviraiškos laisvę"
+    ],
+    "correct": 1,
+    "explanation": "Saviraiška turi ribas: neapykantos kalba, smurto kurstymas, diskriminacija – nėra saugomos formos pagal EŽTK."
+  },
+  {
+    "id": 30,
+    "category": "Tarptautinė teisė",
+    "question": "Saviraiškos laisvė gina:",
+    "options": [
+      "Tik teigiamas ir konstruktyvias nuomones",
+      "Idėjų, nuomonių ir informacijos skleidimą, net jei jos erzina, šokiruoja ar neramina",
+      "Absoliučiai visas kalbos formas be jokių apribojimų",
+      "Tik politines kalbas, bet ne meną ar komercinius pranešimus"
+    ],
+    "correct": 1,
+    "explanation": "EŽTT yra konstatavęs, kad saviraiška saugo ir erzinančias, šokiruojančias ar nepopuliarias nuomones – tai pliuralizmo esmė."
+  },
+  {
+    "id": 31,
+    "category": "Tarptautinė teisė",
+    "question": "Atsakomosios priemonės, naudojamos užtikrinti tarptautinės teisės normas, yra:",
+    "options": [
+      "Embargas ir blokada",
+      "Diplomatinis protestas ir nota",
+      "Arbitražas ir mediacija",
+      "Retorsija ir represalija"
+    ],
+    "correct": 3,
+    "explanation": "Retorsija – teisėti, bet nedraugiški atsakomieji veiksmai; represalija – priemonės, normaliai pažeidžiančios teisę, bet teisėtos kaip atsakas."
+  },
+  {
+    "id": 32,
+    "category": "Tarptautinė teisė",
+    "question": "Retorsija tarptautinėje teisėje yra:",
+    "options": [
+      "Kariuomenės panaudojimas kaip atsakas į ginkluotą ataką",
+      "Teisėti, bet nedraugiški atsakomieji veiksmai į kitos valstybės nedraugiškus, bet neteisėtu nepripažįstamus veiksmus (pvz., vizų apribojimai)",
+      "Sutarties nutraukimas dėl esminio pažeidimo",
+      "Ekonominių sankcijų taikymas pagal JT Saugumo Tarybos rezoliuciją"
+    ],
+    "correct": 1,
+    "explanation": "Retorsija – nedraugiški, bet teisėti žingsniai (vizų apribojimai, prekybos kliūtys) kaip atsakas į kitos valstybės nedraugiškus veiksmus."
+  },
+  {
+    "id": 33,
+    "category": "Tarptautinė teisė",
+    "question": "Tarptautinės sankcijos yra:",
+    "options": [
+      "Priemonės (ekonominės, diplomatinės, karinės), kurių imamasi prieš valstybę, pažeidžiančią tarptautinę teisę, siekiant ją priversti keisti elgesį",
+      "Tik karinė jėga, leista JT Saugumo Tarybos",
+      "Bet koks vienos valstybės sprendimas nutraukti diplomatinius santykius",
+      "Tik JT Generalinės Asamblėjos priimamos rezoliucijos"
+    ],
+    "correct": 0,
+    "explanation": "Sankcijos – poveikio priemonės: ekonominės (embargai, įšaldymas), diplomatinės (izolacija) ar karinės (JT mandatu)."
+  },
+  {
+    "id": 34,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatija kaip užsienio politikos įgyvendinimo priemonė yra:",
+    "options": [
+      "Karinė priemonė, skirta konflikto atvejams spręsti",
+      "Priverstinė priemonė, taikoma kai sankcijos neveikia",
+      "Tik simbolinis procesas be teisinių pasekmių",
+      "Taikioji priemonė – valstybių santykių reguliavimas per derybas, susitarimus ir diplomatinę komunikaciją"
+    ],
+    "correct": 3,
+    "explanation": "Diplomatija – pagrindinė taikioji užsienio politikos priemonė; alternatyvos – sankcijos, arbitražas, teismas."
+  },
+  {
+    "id": 35,
+    "category": "Tarptautinė teisė",
+    "question": "Trečiosios kartos žmogaus teisės (solidarumo teisės) yra susijusios su:",
+    "options": [
+      "Pilietinėmis ir politinėmis teisėmis (balsavimas, saviraiška)",
+      "Aplinkos apsauga, klimatu, taika ir vystymusi – tai kolektyvinės teisės, ginančios žmonių grupes ir ateitį",
+      "Ekonominėmis ir socialinėmis teisėmis (darbas, sveikata)",
+      "Diplomatinėmis teisėmis ir imunitetais"
+    ],
+    "correct": 1,
+    "explanation": "Pirmoji karta: pilietinės/politinės; antroji: ekonominės/socialinės; trečioji: solidarumo (aplinka, klimatas, taika)."
+  },
+  {
+    "id": 36,
+    "category": "Tarptautinė teisė",
+    "question": "Ar klimato kaita gali pažeisti žmogaus teises pagal tarptautinę teisę?",
+    "options": [
+      "Ne – klimato kaita yra aplinkosaugos, o ne žmogaus teisių klausimas",
+      "Taip – klimato kaita daro neigiamą poveikį sveikatai, maistui, vandeniui ir saugiai aplinkai, t. y. teisėms, garantuojamoms tarptautine teise",
+      "Ne – tarptautinė teisė nereguliuoja klimato ir aplinkos klausimų",
+      "Tik jei klimato kaita sukelta tyčiniais valstybės veiksmais"
+    ],
+    "correct": 1,
+    "explanation": "Tarptautinė teisė vis labiau pripažįsta klimato kaitos poveikį žmogaus teisėms – teisė į sveiką aplinką, gyvenimą, maistą."
+  },
+  {
+    "id": 37,
+    "category": "Tarptautinė teisė",
+    "question": "Valstybės pareiga klimato kaitos srityje pagal tarptautinę teisę apima:",
+    "options": [
+      "Tik dalyvauti tarptautinėse klimato konferencijose be privalomų įsipareigojimų",
+      "Tik draudimą eksportuoti taršias technologijas į kitas šalis",
+      "Imtis priemonių mažinti šiltnamio efektą sukeliančias emisijas ir apsaugoti gyventojus nuo klimato kaitos padarinių",
+      "Tik teikti finansinę pagalbą besivystančioms šalims"
+    ],
+    "correct": 2,
+    "explanation": "Valstybės privalo imtis tinkamų priemonių klimato kaitos švelninimui ir adaptacijai – tai kyla iš tarptautinių žmogaus teisių įpareigojimų."
+  }
+]

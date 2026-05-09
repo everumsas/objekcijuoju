@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "category": "Darbo teisė",
+    "question": "Nuo kokio amžiaus asmuo įgyja pilną darbinį veiksnumą?",
+    "options": [
+      "Nuo 14 metų",
+      "Nuo 16 metų",
+      "Nuo 21 metų",
+      "Nuo 18 metų"
+    ],
+    "correct": 3,
+    "explanation": "Pilnas darbinis veiksnumas įgyjamas sulaukus 18 metų, o dalinis – nuo 16 metų."
+  },
+  {
+    "id": 2,
+    "category": "Darbo teisė",
+    "question": "Kuri iš šių sąlygų yra būtinoji darbo sutarties sąlyga?",
+    "options": [
+      "Darbo funkcija",
+      "Susitarimas dėl nekonkuravimo",
+      "Susitarimas dėl išbandymo",
+      "Papildomas atlyginimas"
+    ],
+    "correct": 0,
+    "explanation": "Prie būtinųjų darbo sutarties sąlygų priskiriama darbo funkcija, darbo apmokėjimo sąlygos ir darbovietė."
+  },
+  {
+    "id": 3,
+    "category": "Darbo teisė",
+    "question": "Kokia yra maksimali išbandymo termino trukmė pagal Darbo kodeksą?",
+    "options": [
+      "1 mėnesis",
+      "3 mėnesiai",
+      "2 mėnesiai",
+      "6 mėnesiai"
+    ],
+    "correct": 1,
+    "explanation": "Pagal Darbo kodeksą išbandymo terminas negali viršyti 3 mėnesių."
+  },
+  {
+    "id": 4,
+    "category": "Darbo teisė",
+    "question": "Kam išbandymo sąlyga negali būti taikoma?",
+    "options": [
+      "Nepilnamečiams ir nėščioms darbuotojoms",
+      "Darbuotojams su aukštuoju išsilavinimu",
+      "Darbuotojams, dirbantiems pirmą kartą",
+      "Pensinio amžiaus darbuotojams"
+    ],
+    "correct": 0,
+    "explanation": "Išbandymas negali būti taikomas asmenims iki 18 metų ir nėščioms darbuotojoms."
+  },
+  {
+    "id": 5,
+    "category": "Darbo teisė",
+    "question": "Kiek darbo dienų iki sutarties nutraukimo darbuotojas turi įspėti darbdavį išbandymo metu?",
+    "options": [
+      "1 darbo dieną",
+      "5 darbo dienas",
+      "7 darbo dienas",
+      "3 darbo dienas"
+    ],
+    "correct": 3,
+    "explanation": "Išbandymo metu darbuotojas privalo įspėti darbdavį ne vėliau kaip prieš 3 darbo dienas."
+  },
+  {
+    "id": 6,
+    "category": "Darbo teisė",
+    "question": "Kokia yra maksimali nekonkuravimo susitarimo trukmė po darbo santykių pasibaigimo?",
+    "options": [
+      "6 mėnesiai",
+      "2 metai",
+      "1 metai",
+      "5 metai"
+    ],
+    "correct": 1,
+    "explanation": "Susitarimas dėl nekonkuravimo gali būti sudaromas ne ilgiau kaip 2 metams po darbo santykių pasibaigimo."
+  },
+  {
+    "id": 7,
+    "category": "Darbo teisė",
+    "question": "Kokio dydžio kompensacija turi būti mokama darbuotojui pagal nekonkuravimo susitarimą?",
+    "options": [
+      "Ne mažiau kaip 20 proc. darbo užmokesčio",
+      "Ne mažiau kaip 30 proc. darbo užmokesčio",
+      "Ne mažiau kaip 40 proc. darbo užmokesčio",
+      "Ne mažiau kaip 50 proc. darbo užmokesčio"
+    ],
+    "correct": 2,
+    "explanation": "Pagal nekonkuravimo susitarimą darbuotojui turi būti mokama kompensacija – ne mažesnė kaip 40 proc. jo darbo užmokesčio."
+  },
+  {
+    "id": 8,
+    "category": "Darbo teisė",
+    "question": "Kiek laiko galioja susitarimas dėl konfidencialios informacijos apsaugos po darbo santykių pasibaigimo?",
+    "options": [
+      "6 mėnesiai",
+      "2 metai",
+      "1 metai",
+      "3 metai"
+    ],
+    "correct": 2,
+    "explanation": "Susitarimas dėl konfidencialios informacijos apsaugos galioja 1 metus po darbo santykių pasibaigimo."
+  },
+  {
+    "id": 9,
+    "category": "Darbo teisė",
+    "question": "Kokia yra maksimali terminuotos darbo sutarties trukmė?",
+    "options": [
+      "6 mėnesiai",
+      "1 metai",
+      "2 metai",
+      "3 metai"
+    ],
+    "correct": 2,
+    "explanation": "Terminuota darbo sutartis gali būti sudaroma ne ilgesniam kaip 2 metų laikotarpiui."
+  },
+  {
+    "id": 10,
+    "category": "Darbo teisė",
+    "question": "Kokia yra maksimali sezoninės darbo sutarties trukmė?",
+    "options": [
+      "3 mėnesiai",
+      "6 mėnesiai",
+      "12 mėnesių",
+      "8 mėnesiai"
+    ],
+    "correct": 3,
+    "explanation": "Sezoninė darbo sutartis gali būti sudaroma ne ilgesniam kaip 8 mėnesių laikotarpiui."
+  },
+  {
+    "id": 11,
+    "category": "Darbo teisė",
+    "question": "Kokia yra maksimali pameistrystės darbo sutarties trukmė?",
+    "options": [
+      "6 mėnesiai",
+      "3 mėnesiai",
+      "9 mėnesiai",
+      "12 mėnesių"
+    ],
+    "correct": 0,
+    "explanation": "Pameistrystės darbo sutartis sudaroma ne ilgesniam kaip 6 mėnesių laikotarpiui."
+  },
+  {
+    "id": 12,
+    "category": "Darbo teisė",
+    "question": "Kiek darbo sutarčių rūšių numatyta Darbo kodekse?",
+    "options": [
+      "5",
+      "6",
+      "10",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "DK numato 8 rūšis: neterminuotą, terminuotą, laikinojo, pameistrystės, projektinę, darbo vietos dalijimosi, darbo keliems darbdaviams ir sezoninę."
+  },
+  {
+    "id": 13,
+    "category": "Darbo teisė",
+    "question": "Likus kiek kalendorinių dienų darbuotojas privalo įspėti darbdavį apie ketinimą savo iniciatyva nutraukti darbo sutartį?",
+    "options": [
+      "7 kalendorines dienas",
+      "14 kalendorinių dienų",
+      "20 kalendorinių dienų",
+      "30 kalendorinių dienų"
+    ],
+    "correct": 2,
+    "explanation": "Darbuotojas privalo įspėti darbdavį apie darbo sutarties nutraukimą savo iniciatyva ne vėliau kaip prieš 20 kalendorinių dienų."
+  },
+  {
+    "id": 14,
+    "category": "Darbo teisė",
+    "question": "Koks yra standartinis įspėjimo terminas, kai darbdavys nutraukia darbo sutartį be darbuotojo kaltės (santykiams tęsiantis virš 1 metų)?",
+    "options": [
+      "1 mėnuo",
+      "2 savaitės",
+      "2 mėnesiai",
+      "3 mėnesiai"
+    ],
+    "correct": 0,
+    "explanation": "Nutraukiant darbo sutartį darbdavio iniciatyva be kaltės (dirbus >1 metus), įspėjama prieš 1 mėnesį (dirbusiam <1 metus – prieš 2 savaites)."
+  },
+  {
+    "id": 15,
+    "category": "Darbo teisė",
+    "question": "Kokio dydžio išeitinė išmoka mokama darbuotojui, atleidžiamam darbdavio iniciatyva be kaltės, kai darbo santykiai tęsėsi ilgiau nei 1 metus?",
+    "options": [
+      "0,5 VDU",
+      "2 VDU",
+      "1 VDU",
+      "3 VDU"
+    ],
+    "correct": 1,
+    "explanation": "Atleidžiamam be kaltės darbuotojui (dirbus >1 metus) mokama 2 VDU dydžio išeitinė išmoka."
+  },
+  {
+    "id": 16,
+    "category": "Darbo teisė",
+    "question": "Kuris iš šių veiksmų pagal Darbo kodeksą laikomas šiurkščiu darbo pareigų pažeidimu?",
+    "options": [
+      "Pavėlavimas į darbą 15 minučių",
+      "Kliento skundo laiku neatsakymas",
+      "Darbo tvarkos taisyklių nežinojimas",
+      "Pasirodymas neblaiviam darbo vietoje darbo metu"
+    ],
+    "correct": 3,
+    "explanation": "Pasirodymas neblaiviam ar apsvaigusiam nuo narkotinių ar psichotropinių medžiagų darbo metu – aiškiai nurodytas šiurkštaus pažeidimo pavyzdys DK."
+  },
+  {
+    "id": 17,
+    "category": "Darbo teisė",
+    "question": "Darbuotojas pasirodė darbe apsvaigęs nuo alkoholio. Kokią priemonę darbdavys privalo taikyti iš karto?",
+    "options": [
+      "Nušalinti nuo darbo",
+      "Iš karto atleisti iš darbo",
+      "Skirti papeikimą ir leisti dirbti",
+      "Perkelti į kitą darbo vietą"
+    ],
+    "correct": 0,
+    "explanation": "Neblaivus darbuotojas privalomai nušalinamas nuo darbo; atleidimui reikalinga atskira drausminė procedūra."
+  },
+  {
+    "id": 18,
+    "category": "Darbo teisė",
+    "question": "Iki kada darbdavys paprastai negali įspėti nėščios darbuotojos apie darbo sutarties nutraukimą?",
+    "options": [
+      "Iki gimdymo",
+      "Iki kūdikiui sukaks 4 mėnesiai",
+      "Iki kūdikiui sukaks 1 mėnesis",
+      "Iki kūdikiui sukaks 6 mėnesiai"
+    ],
+    "correct": 1,
+    "explanation": "Nuo darbdavio sužinojimo apie nėštumą iki kūdikiui sukaks 4 mėnesiai, darbdavys negali įspėti nėščios darbuotojos (išskyrus įstatyme numatytus atvejus)."
+  },
+  {
+    "id": 19,
+    "category": "Darbo teisė",
+    "question": "Kokia yra standartinė darbo laiko norma per savaitę?",
+    "options": [
+      "36 valandos",
+      "38 valandos",
+      "40 valandų",
+      "48 valandos"
+    ],
+    "correct": 2,
+    "explanation": "Darbuotojo darbo laiko norma – 40 valandų per savaitę, nebent darbo teisės normos nustato sutrumpintą normą."
+  },
+  {
+    "id": 20,
+    "category": "Darbo teisė",
+    "question": "Koks yra maksimalus vidutinis darbo laikas (su viršvalandžiais) per 7 dienų laikotarpį?",
+    "options": [
+      "40 valandų",
+      "44 valandos",
+      "48 valandos",
+      "60 valandų"
+    ],
+    "correct": 2,
+    "explanation": "Vidutinis darbo laikas, įskaitant viršvalandžius, per 7 dienų laikotarpį negali viršyti 48 valandų."
+  },
+  {
+    "id": 21,
+    "category": "Darbo teisė",
+    "question": "Koks laikotarpis pagal Darbo kodeksą laikomas nakties laiku?",
+    "options": [
+      "Nuo 21:00 iki 06:00",
+      "Nuo 22:00 iki 06:00",
+      "Nuo 23:00 iki 07:00",
+      "Nuo 22:00 iki 07:00"
+    ],
+    "correct": 1,
+    "explanation": "Nakties laikas pagal DK – laikotarpis nuo 22:00 iki 06:00 val."
+  },
+  {
+    "id": 22,
+    "category": "Darbo teisė",
+    "question": "Kokia yra maksimali darbo laiko norma per savaitę asmenims, dirbantiems kenksmingomis sąlygomis?",
+    "options": [
+      "30 valandų",
+      "32 valandos",
+      "40 valandų",
+      "36 valandos"
+    ],
+    "correct": 3,
+    "explanation": "Dirbantiems aplinkoje, kur kenksmingų veiksnių neįmanoma sumažinti iki normų, darbo laikas negali viršyti 36 valandų per savaitę."
+  },
+  {
+    "id": 23,
+    "category": "Darbo teisė",
+    "question": "Ne vėliau kaip po kiek valandų darbo darbuotojui turi būti suteikta pietų pertrauka?",
+    "options": [
+      "Po 3 valandų",
+      "Po 4 valandų",
+      "Po 6 valandų",
+      "Po 5 valandų"
+    ],
+    "correct": 3,
+    "explanation": "Pietų pertrauka pailsėti ir pavalgyti turi būti suteikiama ne vėliau kaip po 5 valandų darbo."
+  },
+  {
+    "id": 24,
+    "category": "Darbo teisė",
+    "question": "Kokia yra minimali kasdienio nepertraukiamojo poilsio trukmė tarp darbo dienų?",
+    "options": [
+      "8 valandos",
+      "9 valandos",
+      "11 valandų",
+      "12 valandų"
+    ],
+    "correct": 2,
+    "explanation": "Kasdienio nepertraukiamojo poilsio tarp darbo dienų trukmė negali būti trumpesnė kaip 11 valandų iš eilės."
+  },
+  {
+    "id": 25,
+    "category": "Darbo teisė",
+    "question": "Kokio dydžio darbo užmokestis mokamas už viršvalandinį darbą?",
+    "options": [
+      "Ne mažiau kaip 1,2 karto",
+      "Ne mažiau kaip 1,5 karto darbo užmokestis",
+      "Ne mažiau kaip 2 kartus",
+      "Ne mažiau kaip 2,5 karto"
+    ],
+    "correct": 1,
+    "explanation": "Už viršvalandinį darbą mokamas ne mažesnis kaip pusantro (1,5x) darbuotojo darbo užmokesčio dydžio atlygis."
+  },
+  {
+    "id": 26,
+    "category": "Darbo teisė",
+    "question": "Kokio dydžio darbo užmokestis mokamas už darbą švenčių dieną?",
+    "options": [
+      "Ne mažiau kaip 1,5 karto",
+      "Ne mažiau kaip dvigubas darbo užmokestis",
+      "Ne mažiau kaip 2,5 karto",
+      "Ne mažiau kaip trigubas"
+    ],
+    "correct": 1,
+    "explanation": "Už darbą švenčių dieną mokamas ne mažesnis kaip dvigubas (2x) darbuotojo darbo užmokestis."
+  },
+  {
+    "id": 27,
+    "category": "Darbo teisė",
+    "question": "Kiek darbo dienų kasmetinių atostogų suteikiama darbuotojui, dirbančiam 5 dienas per savaitę?",
+    "options": [
+      "20 darbo dienų",
+      "14 darbo dienų",
+      "16 darbo dienų",
+      "24 darbo dienos"
+    ],
+    "correct": 0,
+    "explanation": "Dirbant 5 dienas per savaitę, suteikiamos ne mažiau kaip 20 darbo dienų kasmetinės atostogos."
+  },
+  {
+    "id": 28,
+    "category": "Darbo teisė",
+    "question": "Ar kasmetines atostogas galima pakeisti pinigine kompensacija darbuotojo prašymu?",
+    "options": [
+      "Taip, visas atostogas",
+      "Taip, bet ne daugiau kaip 10 dienų per metus",
+      "Taip, jei darbdavys sutinka",
+      "Ne – tai draudžiama (išskyrus darbo santykių pasibaigimą)"
+    ],
+    "correct": 3,
+    "explanation": "Kasmetines atostogas pakeisti pinigine kompensacija draudžiama; vienintelė išimtis – darbo santykių pasibaigimas."
+  },
+  {
+    "id": 29,
+    "category": "Darbo teisė",
+    "question": "Po kiek laiko prarandama teisė pasinaudoti kasmetinėmis atostogomis?",
+    "options": [
+      "Po 1 metų",
+      "Po 2 metų",
+      "Po 3 metų",
+      "Po 5 metų"
+    ],
+    "correct": 2,
+    "explanation": "Teisė į kasmetines atostogas prarandama praėjus 3 metams nuo kalendorinių metų, kuriais buvo įgyta teisė, pabaigos."
+  },
+  {
+    "id": 30,
+    "category": "Darbo teisė",
+    "question": "Iki kada darbuotojui turi būti išmokėti atostoginiai?",
+    "options": [
+      "Ne vėliau kaip paskutinę darbo dieną prieš atostogas",
+      "Per pirmą atostogų savaitę",
+      "Ne vėliau kaip pirmą atostogų dieną",
+      "Per 5 darbo dienas po atostogų pradžios"
+    ],
+    "correct": 0,
+    "explanation": "Atostoginiai išmokami ne vėliau kaip paskutinę darbo dieną prieš kasmetinių atostogų pradžią."
+  },
+  {
+    "id": 31,
+    "category": "Darbo teisė",
+    "question": "Kokia yra bendra nėštumo ir gimdymo atostogų trukmė įprastu atveju?",
+    "options": [
+      "126 kalendorinės dienos",
+      "98 kalendorinės dienos",
+      "112 kalendorinių dienų",
+      "140 kalendorinių dienų"
+    ],
+    "correct": 0,
+    "explanation": "Bendra nėštumo ir gimdymo atostogų trukmė – 126 kal. dienos (komplikuoto gimdymo ar dvynių atveju – 140 k. d.)."
+  },
+  {
+    "id": 32,
+    "category": "Darbo teisė",
+    "question": "Kiek kalendorinių dienų tėvystės atostogų suteikiama tėvui po vaiko gimimo?",
+    "options": [
+      "14 kalendorinių dienų",
+      "30 kalendorinių dienų",
+      "21 kalendorinė diena",
+      "60 kalendorinių dienų"
+    ],
+    "correct": 1,
+    "explanation": "Tėvui po vaiko gimimo suteikiamos 30 kalendorinių dienų nepertraukiamos tėvystės atostogos."
+  },
+  {
+    "id": 33,
+    "category": "Darbo teisė",
+    "question": "Kokia yra bendra darbuotojo materialinės atsakomybės riba, kai žala padaryta dėl aplaidumo?",
+    "options": [
+      "3 VDU (vidutiniai darbo užmokesčiai)",
+      "1 VDU",
+      "2 VDU",
+      "6 VDU"
+    ],
+    "correct": 0,
+    "explanation": "Darbuotojas atlygina žalą, bet ne daugiau kaip 3 VDU; didelio neatsargumo atveju – ne daugiau kaip 6 VDU."
+  },
+  {
+    "id": 34,
+    "category": "Darbo teisė",
+    "question": "Kuriais atvejais darbuotojas privalo atlyginti visą padarytą žalą?",
+    "options": [
+      "Kai žala padaryta dėl neatsargumo",
+      "Kai žala viršija 3 VDU",
+      "Kai žala padaryta tyčia arba apsvaigus nuo alkoholio ar narkotikų",
+      "Kai žala padaryta darbo valandomis"
+    ],
+    "correct": 2,
+    "explanation": "Visa žala atlyginama, kai ji padaryta tyčia, esant nusikaltimo požymių, apsvaigus nuo alkoholio ar narkotikų ar pažeidus konfidencialumo / nekonkuravimo susitarimus."
+  },
+  {
+    "id": 35,
+    "category": "Darbo teisė",
+    "question": "Kuri institucija yra privaloma ikiteisminio darbo ginčų nagrinėjimo institucija?",
+    "options": [
+      "Apylinkės teismas",
+      "Darbo ginčų komisija",
+      "Apygardos teismas",
+      "Valstybinė darbo inspekcija"
+    ],
+    "correct": 1,
+    "explanation": "Darbo ginčų komisija – privaloma ikiteisminio nagrinėjimo institucija; tik jai neišsprendus ginčo, kreipiamasi į teismą."
+  },
+  {
+    "id": 36,
+    "category": "Darbo teisė",
+    "question": "Iš kiek narių sudaroma darbo ginčų komisija?",
+    "options": [
+      "Iš 1 nario",
+      "Iš 3 narių",
+      "Iš 2 narių",
+      "Iš 5 narių"
+    ],
+    "correct": 1,
+    "explanation": "Darbo ginčų komisija sudaroma iš 3 narių: pirmininko (VDI pareigūnas) ir profesinių sąjungų bei darbdavių organizacijų atstovų."
+  },
+  {
+    "id": 37,
+    "category": "Darbo teisė",
+    "question": "Koks yra bendrasis ieškinio senaties terminas darbo ginčuose?",
+    "options": [
+      "1 metai",
+      "2 metai",
+      "3 metai",
+      "5 metai"
+    ],
+    "correct": 2,
+    "explanation": "Bendrasis ieškinio senaties terminas Darbo kodekso reglamentuojamiems santykiams – treji metai."
+  },
+  {
+    "id": 38,
+    "category": "Darbo teisė",
+    "question": "Kiek kartų per mėnesį darbdavys privalo mokėti darbo užmokestį?",
+    "options": [
+      "Kartą per mėnesį",
+      "Ne rečiau kaip 3 kartus per mėnesį",
+      "Kiekvieną savaitę",
+      "Ne rečiau kaip 2 kartus per mėnesį"
+    ],
+    "correct": 3,
+    "explanation": "Darbo užmokestis mokamas ne rečiau kaip 2 kartus per mėnesį; darbuotojo rašytiniu prašymu – kartą per mėnesį."
+  },
+  {
+    "id": 39,
+    "category": "Darbo teisė",
+    "question": "Kas tvirtina minimalųjį darbo užmokestį Lietuvoje?",
+    "options": [
+      "Seimas",
+      "Vyriausybė",
+      "Prezidentas",
+      "Socialinės apsaugos ir darbo ministerija"
+    ],
+    "correct": 1,
+    "explanation": "Minimalųjį valandinį atlygį ir minimaliąją mėnesinę algą tvirtina Vyriausybė, gavusi Trišalės tarybos rekomendaciją."
+  },
+  {
+    "id": 40,
+    "category": "Darbo teisė",
+    "question": "Kiek dienų per 7 paeiliui einančias dienas darbuotojas gali dirbti daugiausiai?",
+    "options": [
+      "5 dienas",
+      "7 dienas",
+      "6 dienas",
+      "Tai nustatoma individualiai darbo sutartyje"
+    ],
+    "correct": 2,
+    "explanation": "Pagal DK negalima dirbti daugiau kaip 6 dienas per 7 paeiliui einančias dienas."
+  },
+  {
+    "id": 41,
+    "category": "Darbo teisė",
+    "question": "Darbuotojas pagal darbo teisę yra:",
+    "options": [
+      "Bet koks asmuo (fizinis ar juridinis), atliekantis darbus darbdavio naudai",
+      "Savarankiškai dirbantis asmuo, surašęs verslo liudijimą",
+      "Fizinis asmuo, turintis darbinį teisnumą ir veiksnumą, dirbantis pagal darbo sutartį už atlyginimą",
+      "Juridinis asmuo, teikiantis paslaugas pagal civilinę sutartį"
+    ],
+    "correct": 2,
+    "explanation": "Darbuotojas – fizinis asmuo, dirbantis pagal darbo sutartį ir gaunantis darbo užmokestį; juridiniai asmenys darbuotojais būti negali."
+  },
+  {
+    "id": 42,
+    "category": "Darbo teisė",
+    "question": "Darbdavys pagal darbo teisę yra:",
+    "options": [
+      "Tik juridinis asmuo, įregistruotas Juridinių asmenų registre",
+      "Fizinis arba juridinis asmuo, kuris samdo darbuotoją ir moka jam darbo užmokestį",
+      "Valstybės institucija, suteikianti leidimus verstis ūkine veikla",
+      "Tik įmonė, turinti ne mažiau kaip 10 darbuotojų"
+    ],
+    "correct": 1,
+    "explanation": "Darbdaviu gali būti tiek fizinis asmuo (ūkininkas, individualios įmonės savininkas), tiek viešasis ar privatusis juridinis asmuo."
+  },
+  {
+    "id": 43,
+    "category": "Darbo teisė",
+    "question": "Darbinis teisnumas (gebėjimas turėti darbo teises ir pareigas) pagal LR Darbo kodeksą:",
+    "options": [
+      "Įgyjamas sulaukus 16 metų",
+      "Įgyjamas sulaukus 18 metų",
+      "Suteikiamas tik turintiems aukštąjį išsilavinimą",
+      "Pripažįstamas lygus visiems LR piliečiams, taip pat nuolatiniams Lietuvos gyventojams"
+    ],
+    "correct": 3,
+    "explanation": "Darbinis teisnumas – gebėjimas turėti darbo teises ir pareigas – pripažįstamas lygus visiems piliečiams, nepaisant amžiaus ar išsilavinimo."
+  },
+  {
+    "id": 44,
+    "category": "Darbo teisė",
+    "question": "Darbinis veiksnumas (gebėjimas savo veiksmais įgyvendinti darbo teises ir pareigas) visiškai įgyjamas:",
+    "options": [
+      "Nuo gimimo momento",
+      "Sulaukus 16 metų",
+      "Sulaukus 14 metų",
+      "Sulaukus 18 metų (pilnametystės)"
+    ],
+    "correct": 3,
+    "explanation": "Darbinis veiksnumas – gebėjimas savo veiksmais įgyvendinti darbo teises ir pareigas – visiškai įgyjamas sulaukus 18 metų."
+  },
+  {
+    "id": 45,
+    "category": "Darbo teisė",
+    "question": "Darbo taryba privalo būti sudaroma, kai įmonėje vidutiniškai dirba:",
+    "options": [
+      "20 ir daugiau darbuotojų",
+      "10 ir daugiau darbuotojų",
+      "50 ir daugiau darbuotojų",
+      "100 ir daugiau darbuotojų"
+    ],
+    "correct": 0,
+    "explanation": "Pagal DK darbo taryba privaloma, kai įmonėje vidutiniškai dirba 20 ir daugiau darbuotojų."
+  },
+  {
+    "id": 46,
+    "category": "Darbo teisė",
+    "question": "Pagrindinis įstatymas, reglamentuojantis darbo teisę Lietuvoje, yra:",
+    "options": [
+      "Darbo sutarčių įstatymas",
+      "Profesinių sąjungų įstatymas",
+      "Socialinės apsaugos ir darbo įstatymas",
+      "Lietuvos Respublikos darbo kodeksas"
+    ],
+    "correct": 3,
+    "explanation": "LR Darbo kodeksas (priimtas 2017 m. liepos 1 d.) – pagrindinis darbo santykius reguliuojantis teisės aktas."
+  },
+  {
+    "id": 47,
+    "category": "Darbo teisė",
+    "question": "Darbo sutartis darbo teisės prasme yra:",
+    "options": [
+      "Rašytinis dokumentas, patvirtinantis asmens kvalifikaciją",
+      "Juridinis faktas, sukuriantis darbo santykius tarp darbuotojo ir darbdavio",
+      "Administracinis aktas, leidžiantis asmeniui dirbti",
+      "Susitarimas, kuris gali būti ir žodinis, ir jokių teisinių pasekmių nesukeliantis"
+    ],
+    "correct": 1,
+    "explanation": "Darbo sutartis – juridinis faktas; būtent jos pagrindu atsiranda darbo teisiniai santykiai."
+  },
+  {
+    "id": 48,
+    "category": "Darbo teisė",
+    "question": "Kokiais pagrindais gali būti nutraukta darbo sutartis?",
+    "options": [
+      "Šalių susitarimu, darbuotojo iniciatyva, darbdavio iniciatyva be kaltės ir darbdavio iniciatyva dėl darbuotojo kaltės",
+      "Tik darbdavio iniciatyva – darbuotojas negali inicijuoti nutraukimo",
+      "Tik teismo sprendimu arba šalių susitarimu",
+      "Tik darbuotojo iniciatyva arba darbdavio iniciatyva be kaltės"
+    ],
+    "correct": 0,
+    "explanation": "DK numato keturis pagrindinius darbo sutarties nutraukimo pagrindus: susitarimas, darbuotojo iniciatyva, darbdavio iniciatyva be kaltės ir darbdavio iniciatyva dėl kaltės."
+  },
+  {
+    "id": 49,
+    "category": "Darbo teisė",
+    "question": "Kokiais atvejais darbdavys privalo nušalinti darbuotoją nuo darbo?",
+    "options": [
+      "Kai darbuotojas pasirodo neblaivus, nesilaiko darbo saugos reikalavimų arba negali dirbti dėl sveikatos",
+      "Tik kai darbuotojas vėluoja į darbą daugiau nei 1 valandą",
+      "Tik kai darbuotojas atsisakė dirbti viršvalandžius",
+      "Kai darbuotojas pateikė prašymą dėl kasmetinių atostogų suteikimo"
+    ],
+    "correct": 0,
+    "explanation": "Trys nušalinimo pagrindai: (1) neblaivumas/apsvaigimas, (2) darbo saugos reikalavimų nesilaikymas, (3) negalėjimas dirbti dėl sveikatos būklės."
+  },
+  {
+    "id": 50,
+    "category": "Darbo teisė",
+    "question": "Ar pietų pertrauka įskaičiuojama į darbo laiką?",
+    "options": [
+      "Ne – pietų pertrauka paprastai neįskaičiuojama į darbo laiką",
+      "Taip – pietų pertrauka visada įskaičiuojama į darbo laiką",
+      "Tik jei pertrauka trumpesnė nei 30 minučių",
+      "Tik jei darbuotojas negali palikti darbovietės pertraukos metu"
+    ],
+    "correct": 0,
+    "explanation": "Pietų pertrauka pailsėti ir pavalgyti paprastai neįskaičiuojama į darbo laiką (išskyrus atvejus, kai darbuotojas negali palikti darbo vietos)."
+  }
+]

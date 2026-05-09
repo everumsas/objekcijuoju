@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės normos struktūrą sudaro:",
+    "options": [
+      "Tik dispozicija ir sankcija",
+      "Įžanga, turinys ir pabaiga",
+      "Tik sankcija ir dispozicija",
+      "Hipotezė, dispozicija ir sankcija"
+    ],
+    "correct": 3,
+    "explanation": "Klasikinė trijų elementų struktūra: hipotezė (sąlyga), dispozicija (elgesio taisyklė), sankcija (pasekmės)."
+  },
+  {
+    "id": 2,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Hipotezė teisės normoje yra tas elementas, kuris:",
+    "options": [
+      "Nurodo sąlygas, kurioms esant norma taikoma (baudžiamajame – prasideda „tas, kas\", kitur – „jeigu\")",
+      "Nustato konkrečią elgesio taisyklę",
+      "Nurodo poveikio priemones pažeidėjui",
+      "Apibrėžia teisės normos tikslą ir paskirtį"
+    ],
+    "correct": 0,
+    "explanation": "Hipotezė sujungia teisės normą su realiu gyvenimu – nurodo, kada ji taikoma."
+  },
+  {
+    "id": 3,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Dispozicija teisės normoje yra:",
+    "options": [
+      "Sąlyga, kurioms esant norma taikoma",
+      "Poveikio priemonė už normos pažeidimą",
+      "Normos galiojimo laikotarpio nustatymas",
+      "Konkreti elgesio taisyklė (pvz., draudimas priekabiauti, šmeižti, pagrobti)"
+    ],
+    "correct": 3,
+    "explanation": "Dispozicija – normos šerdis, formuluojanti patį elgesio reikalavimą."
+  },
+  {
+    "id": 4,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Sankcija teisės normoje:",
+    "options": [
+      "Yra privaloma kiekvienos teisės normos dalis",
+      "Nustato sąlygas, kada norma taikoma",
+      "Nurodo poveikio priemonę, taikomą pažeidėjui; nėra privaloma kiekvienos normos dalis",
+      "Suteikia teises, bet nenumato pareigų"
+    ],
+    "correct": 2,
+    "explanation": "Sankcija – konkretus atsakomybės numatymas; jos gali ir nebūti kiekvienoje normoje."
+  },
+  {
+    "id": 5,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Alternatyvioji sankcija pasižymi tuo, kad:",
+    "options": [
+      "Numatytos kelios poveikio priemonės ir gali būti taikoma viena ar kelios iš jų (su žodžiu „arba\")",
+      "Numatyta tik viena konkreti poveikio priemonė",
+      "Visos nurodytos poveikio priemonės turi būti taikomos kartu",
+      "Sankcija taikoma tik pirmą kartą padarius pažeidimą"
+    ],
+    "correct": 0,
+    "explanation": "Alternatyvioji sankcija suteikia teismui pasirinkimą tarp kelių priemonių (pvz., bauda arba areštas)."
+  },
+  {
+    "id": 6,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Sudėtinė sankcija reiškia, kad:",
+    "options": [
+      "Numatytos kelios poveikio priemonės, kurios turi būti taikomos visos kartu",
+      "Gali būti taikoma bet kuri iš numatytų priemonių",
+      "Taikoma tik viena griežčiausia numatyta priemonė",
+      "Sankcija apima tik baudas be kitų priemonių"
+    ],
+    "correct": 0,
+    "explanation": "Sudėtinė sankcija kumuliuoja priemones – visos turi būti taikomos kartu, ne pasirinktinai."
+  },
+  {
+    "id": 7,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės normos pagal pobūdį skirstomos į:",
+    "options": [
+      "Privalomąsias, rekomendacines ir deklaratyvias",
+      "Baudžiamąsias, civilines ir administracines",
+      "Hipotezines, dispozityvias ir sankcines",
+      "Įpareigojamąsias, įgalinamąsias ir draudžiamąsias"
+    ],
+    "correct": 3,
+    "explanation": "Trys normos rūšys: įpareigoja atlikti veiksmą, suteikia teisę jį atlikti arba draudžia."
+  },
+  {
+    "id": 8,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Įpareigojamosios teisės normos pavyzdys yra:",
+    "options": [
+      "Pareiga mokėti mokesčius",
+      "Teisė gauti leidimą",
+      "Draudimas pažeisti viešąją tvarką",
+      "Galimybė sudaryti sutartį"
+    ],
+    "correct": 0,
+    "explanation": "Įpareigojamoji norma nurodo pareigą atlikti tam tikrą veiksmą (pvz. mokėti mokesčius)."
+  },
+  {
+    "id": 9,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisinio santykio atsiradimui reikalinga:",
+    "options": [
+      "Tik teisės norma ir šalių susitarimas",
+      "Tik teismo sprendimas",
+      "Tik teisnumas be kitų sąlygų",
+      "Teisės norma (ar principas), teisiniai faktai ir teisinis subjektiškumas"
+    ],
+    "correct": 3,
+    "explanation": "Trys būtinos sąlygos: norma, faktai (situacija) ir subjektiškumas (asmens teisnumas/veiksnumas)."
+  },
+  {
+    "id": 10,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės subjektas yra:",
+    "options": [
+      "Tik valstybė ir jos institucijos",
+      "Tik fizinis asmuo, sulaukęs pilnametystės",
+      "Fizinis arba juridinis asmuo, turintis teisnumą ir veiksnumą",
+      "Tik teismas, nagrinėjantis bylą"
+    ],
+    "correct": 2,
+    "explanation": "Teisės subjektai – fiziniai ir juridiniai asmenys, galintys turėti teises ir pareigas."
+  },
+  {
+    "id": 11,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisiniai faktai yra:",
+    "options": [
+      "Aplinkybės (įvykiai ar veiksmai), sukeliančios teisinius padarinius – teisių ir pareigų atsiradimą, pasikeitimą ar pasibaigimą",
+      "Tik teismų praktika ir precedentai",
+      "Tik teisiniai dokumentai ir sutartys",
+      "Tik įstatymo nuostatos ir straipsniai"
+    ],
+    "correct": 0,
+    "explanation": "Teisiniai faktai – konkrečios gyvenimo aplinkybės, su kuriomis norma sieja teisinius padarinius."
+  },
+  {
+    "id": 12,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisnumas atsiranda:",
+    "options": [
+      "Sulaukus 14 metų",
+      "Sulaukus 18 metų",
+      "Nuo asmens įregistravimo valstybinėje institucijoje",
+      "Nuo asmens gimimo momento ir baigiasi mirus"
+    ],
+    "correct": 3,
+    "explanation": "Teisnumas – gebėjimas turėti teises; atsiranda gimimo metu ir baigiasi mirtimi."
+  },
+  {
+    "id": 13,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Visiškas veiksnumas Lietuvoje įgyjamas:",
+    "options": [
+      "Sulaukus 18 metų",
+      "Sulaukus 14 metų",
+      "Sulaukus 16 metų",
+      "Nuo gimimo momento"
+    ],
+    "correct": 0,
+    "explanation": "Visiškas veiksnumas – gebėjimas savarankiškai įgyti teises ir pareigas – atsiranda sulaukus 18 metų."
+  },
+  {
+    "id": 14,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Dalinis veiksnumas Lietuvoje taikomas asmenims:",
+    "options": [
+      "Nuo 12 iki 16 metų",
+      "Nuo 14 iki 18 metų",
+      "Nuo 16 iki 21 metų",
+      "Nuo gimimo iki 14 metų"
+    ],
+    "correct": 1,
+    "explanation": "Dalinis (ribotas) veiksnumas – asmenys nuo 14 iki 18 metų turi dalį teisių ir pareigų."
+  },
+  {
+    "id": 15,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Emancipacija yra:",
+    "options": [
+      "Automatiškai įgyjamas veiksnumas sulaukus 16 metų",
+      "Teismo nuosprendis, apribojantis asmens veiksnumą",
+      "Teismo suteikiamas visiškas veiksnumas asmeniui nuo 16 metų anksčiau nustatyto termino",
+      "Procesas, kuriuo asmuo atsisakomas teisnumo"
+    ],
+    "correct": 2,
+    "explanation": "Emancipacijos atveju asmuo nuo 16 m. kreipiasi į teismą ir prašo jį padaryti visiškai veiksnų."
+  },
+  {
+    "id": 16,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės pažeidimo rūšys yra:",
+    "options": [
+      "Tik baudžiamieji ir administraciniai",
+      "Tik civiliniai ir baudžiamieji",
+      "Administraciniai, baudžiamieji (nusikalstamos veikos), drausminiai ir civiliniai pažeidimai",
+      "Konstituciniai, tarptautiniai ir civiliniai"
+    ],
+    "correct": 2,
+    "explanation": "Keturios pagrindinės rūšys: administraciniai, baudžiamieji, drausminiai, civiliniai."
+  },
+  {
+    "id": 17,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Baudžiamosios teisės nusikalstamos veikos skirstomos į:",
+    "options": [
+      "Administracinį nusižengimą ir nusikaltimą",
+      "Drausminį nusižengimą ir baudžiamąjį nusikaltimą",
+      "Civilinį delyktą ir baudžiamąjį nusikaltimą",
+      "Baudžiamąjį nusižengimą ir nusikaltimą"
+    ],
+    "correct": 3,
+    "explanation": "BK nustato dvi nusikalstamos veikos rūšis: baudžiamasis nusižengimas (švelnesnė) ir nusikaltimas."
+  },
+  {
+    "id": 18,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Ar teisę galima pažeisti neveikimu?",
+    "options": [
+      "Ne, teisę galima pažeisti tik aktyviais veiksmais",
+      "Tik baudžiamojoje teisėje galima pažeisti neveikimu",
+      "Taip, galima – veika gali pasireikšti tiek veikimu, tiek neveikimu",
+      "Neveikimas niekada nelaikomas teisės pažeidimu"
+    ],
+    "correct": 2,
+    "explanation": "Veika apima tiek aktyvius veiksmus (pvz. vagystė), tiek neveikimą (pvz. tarnybos pareigų neatlikimas)."
+  },
+  {
+    "id": 19,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Objektyvieji teisės pažeidimo požymiai yra:",
+    "options": [
+      "Motyvas, tikslas ir kaltė",
+      "Veika, veikos padariniai ir tiesioginis priežastinis ryšys tarp veikos ir padarinių",
+      "Kaltė, subjektas ir objektas",
+      "Tyčia, neatsargumas ir kaltė"
+    ],
+    "correct": 1,
+    "explanation": "Objektyvieji požymiai: veika (veikimas ar neveikimas), žalingi padariniai ir priežastinis ryšys tarp jų."
+  },
+  {
+    "id": 20,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Subjektyvieji teisės pažeidimo požymiai yra:",
+    "options": [
+      "Veika, padariniai ir priežastinis ryšys",
+      "Veika, subjektas ir objektas",
+      "Įrodymai, liudytojai ir ekspertizė",
+      "Motyvas, tikslas ir kaltė (tyčia arba neatsargumas)"
+    ],
+    "correct": 3,
+    "explanation": "Subjektyvieji požymiai: kodėl tai padaryta (motyvas), ko siekta (tikslas) ir kaltės forma."
+  },
+  {
+    "id": 21,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kaltės formos teisėje yra:",
+    "options": [
+      "Tiesioginis ir netiesioginis nusikaltimas",
+      "Tyčia ir neatsargumas",
+      "Motyvas ir tikslas",
+      "Veikimas ir neveikimas"
+    ],
+    "correct": 1,
+    "explanation": "Dvi kaltės formos: tyčia (asmuo norėjo padaryti pažeidimą) ir neatsargumas (nepakankamas rūpestingumas)."
+  },
+  {
+    "id": 22,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Administracinėn atsakomybėn traukiami asmenys, kuriems iki pažeidimo sukako:",
+    "options": [
+      "Šešiolika metų",
+      "Keturiolika metų",
+      "Aštuoniolika metų",
+      "Dvidešimt vienas metai"
+    ],
+    "correct": 0,
+    "explanation": "ANK nustato, kad administracinėn atsakomybėn traukiami asmenys nuo 16 metų."
+  },
+  {
+    "id": 23,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kas traukiamas administracinėn atsakomybėn už 14–16 metų nepilnamečio padarytą pažeidimą?",
+    "options": [
+      "Pats nepilnametis kartu su tėvais",
+      "Mokyklos vadovas ar auklėtojas",
+      "Niekas – tokio amžiaus asmenys yra visiškai neveiksnūs",
+      "Tėvai arba globėjai (rūpintojai)"
+    ],
+    "correct": 3,
+    "explanation": "Už 14–16 metų asmenų padarytus pažeidimus administracinėn atsakomybėn traukiami tėvai ar globėjai."
+  },
+  {
+    "id": 24,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Administracinės nuobaudos pagal ANK yra:",
+    "options": [
+      "Įspėjimas, bauda ir laisvės atėmimas",
+      "Įspėjimas, bauda ir viešieji darbai",
+      "Bauda, areštas ir laisvės apribojimas",
+      "Įspėjimas, viešieji darbai ir papeikimas"
+    ],
+    "correct": 1,
+    "explanation": "ANK numato tris administracines nuobaudas: įspėjimas, bauda, viešieji darbai."
+  },
+  {
+    "id": 25,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisinė atsakomybė skirstoma į:",
+    "options": [
+      "Pozityviąją (be sankcijų) ir deliktinę (taikant sankcijas už pažeidimą)",
+      "Baudžiamąją ir administracinę",
+      "Civilinę ir drausminę",
+      "Tiesioginę ir netiesioginę"
+    ],
+    "correct": 0,
+    "explanation": "Pozityvioji atsakomybė veikia, kol laikomasi normų; deliktinė – pradeda veikti, kai norma pažeidžiama."
+  },
+  {
+    "id": 26,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Non bis in idem principas reiškia:",
+    "options": [
+      "Kiekvienas asmuo laikomas nekaltu, kol neįrodyta kaltė",
+      "Negalima bausti du kartus už tą patį teisės pažeidimą",
+      "Teismas privalo išklausyti abi bylos šalis",
+      "Pažeidėjui gali būti taikoma tik viena atsakomybės rūšis"
+    ],
+    "correct": 1,
+    "explanation": "Non bis in idem – draudimas taikyti atsakomybę du kartus už tą patį pažeidimą."
+  },
+  {
+    "id": 27,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Drausminė atsakomybė pagal Darbo kodeksą apima:",
+    "options": [
+      "Baudą ir laisvės apribojimą",
+      "Viešuosius darbus ir įspėjimą",
+      "Įspėjimą ir atleidimą iš darbo",
+      "Baudą, įspėjimą ir viešuosius darbus"
+    ],
+    "correct": 2,
+    "explanation": "Darbo kodekso drausminės nuobaudos: įspėjimas (apie galimą atleidimą) ir atleidimas iš darbo."
+  },
+  {
+    "id": 28,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Bendrosios kompetencijos teismų sistema Lietuvoje (nuo žemiausios iki aukščiausios instancijos) yra:",
+    "options": [
+      "Apygardos teismas → apylinkės teismas → LAT → apeliacinis teismas",
+      "Apylinkės teismas → Lietuvos apeliacinis teismas → LAT (apygardos teismų nėra)",
+      "Apylinkės teismas → apygardos teismas → Lietuvos apeliacinis teismas → Lietuvos Aukščiausiasis Teismas",
+      "Specializuotas teismas → apygardos teismas → apeliacinis teismas"
+    ],
+    "correct": 2,
+    "explanation": "Keturios instancijos: apylinkės (pirmoji), apygardos (apeliacinė), apeliacinis teismas, LAT (kasacinė)."
+  },
+  {
+    "id": 29,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Lietuvos Aukščiausiasis Teismas (LAT) yra:",
+    "options": [
+      "Apeliacinė instancija, kurios sprendimus galima skųsti toliau",
+      "Pirmoji instancija sudėtingoms baudžiamosioms byloms",
+      "Specializuotas teismas administraciniams ginčams",
+      "Kasacinė instancija – galutinė ir neskundžiama"
+    ],
+    "correct": 3,
+    "explanation": "LAT – aukščiausioji bendrosios kompetencijos teismų instancija (kasacinė), jos sprendimai galutiniai."
+  },
+  {
+    "id": 30,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Specializuoti teismai Lietuvoje nagrinėja:",
+    "options": [
+      "Tik baudžiamąsias bylas, kuriose kaltinamas valstybės tarnautojas",
+      "Tik tarptautinės teisės klausimus ir ES teisės taikymą",
+      "Tik šeimos ir darbo ginčus",
+      "Ginčus administracinėse bylose (mokesčiai ir kt.) – apygardų administraciniai teismai ir LVAT"
+    ],
+    "correct": 3,
+    "explanation": "Specializuoti administraciniai teismai (apygardų administ. teismai + LVAT) nagrinėja ginčus dėl viešojo administravimo."
+  },
+  {
+    "id": 31,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Baudžiamosiose bylose teismo baigiamasis aktas yra:",
+    "options": [
+      "Sprendimas",
+      "Nutartis",
+      "Nuosprendis",
+      "Rezoliucija"
+    ],
+    "correct": 2,
+    "explanation": "Baudžiamosiose bylose priimamas nuosprendis; civilinėse ir administracinėse – sprendimas."
+  },
+  {
+    "id": 32,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Civilinėse ir administracinėse bylose teismo baigiamasis aktas yra:",
+    "options": [
+      "Nuosprendis",
+      "Sprendimas",
+      "Dekretas",
+      "Nutarimas"
+    ],
+    "correct": 1,
+    "explanation": "Sprendimai priimami civilinėse ir administracinėse bylose; nuosprendžiai – baudžiamosiose."
+  },
+  {
+    "id": 33,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės šaltinis formaliuoju požiūriu yra:",
+    "options": [
+      "Išorės forma, kuria teisės normos įtvirtinamos ir oficialiai išreiškiamos (įstatymas, precedentas, paprotys ir kt.)",
+      "Vidiniai moraliniai įsitikinimai, lemiantys teisės normų turinį",
+      "Moksliniai tyrimai, kuriais grindžiama teisėkūra",
+      "Tik teismų sprendimai ir praktika"
+    ],
+    "correct": 0,
+    "explanation": "Formaliuoju požiūriu teisės šaltiniai: įstatymai, poįstatyminiai aktai, tarptautinės sutartys, papročiai, teismų praktika, teisės doktrina."
+  },
+  {
+    "id": 34,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Poįstatyminiai teisės aktai yra:",
+    "options": [
+      "Aktai, priimami įstatymo pagrindu ir tvarka: Prezidento dekretai, Vyriausybės nutarimai, ministrų įsakymai",
+      "Aktai, turintys aukštesnę galią nei įstatymai",
+      "Tik Seimo priimami nutarimai",
+      "Tik Konstitucijos nuostatos ir įstatymai"
+    ],
+    "correct": 0,
+    "explanation": "Poįstatyminiai aktai grindžiami įstatymais ir negali jiems prieštarauti."
+  },
+  {
+    "id": 35,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisinis precedentas Lietuvoje – tai:",
+    "options": [
+      "Bet kurio teismo sprendimas, tapęs privalomas visoms šalims",
+      "Įvykis ar situacija, kurią išaiškina Lietuvos Aukščiausiasis Teismas kitiems teismams",
+      "Seimo nutarimas, aiškinantis įstatymo taikymą",
+      "Europos Teisingumo Teismo sprendimas, privalomas Lietuvos teismams"
+    ],
+    "correct": 1,
+    "explanation": "Teisinis precedentas – LAT išaiškinimas, kaip tam tikroje situacijoje turi elgtis kiti teismai."
+  },
+  {
+    "id": 36,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės teorijos reguliavimo metodai yra:",
+    "options": [
+      "Baudžiamasis ir civilinis",
+      "Imperatyvusis (griežtai nustatytas, pvz. baudžiamoji teisė) ir dispozityvusis (pasirinkimo laisvė, pvz. civilinė teisė)",
+      "Viešasis ir privatusis",
+      "Norminis ir faktinis"
+    ],
+    "correct": 1,
+    "explanation": "Imperatyvusis metodas – griežtos taisyklės (BK, ANK); dispozityvusis – šalys gali susitarti (CK)."
+  },
+  {
+    "id": 37,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisininkas legistas skiriasi nuo teisininko juristo tuo, kad legistas:",
+    "options": [
+      "Turi daugiau teisių teisme nei juristas",
+      "Tiksliai taiko įstatymus (pvz. antstolis, policijos pareigūnas), o juristas juos taip pat aiškina ir vertina (pvz. teisėjas, advokatas)",
+      "Kuria naujus įstatymus, o juristas juos taiko",
+      "Dirba tik privačiame sektoriuje, o juristas – valstybinėse institucijose"
+    ],
+    "correct": 1,
+    "explanation": "Legistas – tiksliai taiko įstatymą; juristas – dar ir aiškina, vertina, kritikuoja teisę."
+  },
+  {
+    "id": 38,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Trys teisinės būties lygmenys (pirminės fundamentinės teisės kategorijos) yra:",
+    "options": [
+      "Teisėkūra, teisės taikymas ir teisinis reguliavimas",
+      "Teisinės idėjos, teisės normos ir teisiniai santykiai",
+      "Konstitucija, įstatymai ir poįstatyminiai aktai",
+      "Subjektinė, objektinė ir tarptautinė teisė"
+    ],
+    "correct": 1,
+    "explanation": "Trys lygmenys: idėjos (pasąmonė) → normos (įtvirtintos taisyklės) → santykiai (normos veikimas gyvenime)."
+  },
+  {
+    "id": 39,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Nekaltumo prezumpcija reiškia:",
+    "options": [
+      "Asmuo visada laikomas kaltu, kol neįrodo savo nekaltumo",
+      "Teismas privalo visada išteisinti asmenį, jei nėra tiesioginių įrodymų",
+      "Asmuo laikomas nekaltu, kol teismas neįrodė jo kaltės ir nuosprendis neįsiteisėjo",
+      "Pareiga įrodyti kaltę tenka kaltinamajam"
+    ],
+    "correct": 2,
+    "explanation": "Nekaltumo prezumpcija – pagrindinis baudžiamojo proceso principas: kaltę įrodinėja kaltintojas, ne kaltinamasis."
+  },
+  {
+    "id": 40,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Teisės spraga yra:",
+    "options": [
+      "Dviejų skirtingų normų, reguliuojančių tą patį klausimą, prieštaravimas",
+      "Situacija, kai norma prieštarauja Konstitucijai",
+      "Situacija, kai tam tikras visuomeninis klausimas turėtų būti, bet nėra sureguliuotas pozityviosios teisės normomis",
+      "Teismo klaida, padaryta nagrinėjant bylą"
+    ],
+    "correct": 2,
+    "explanation": "Teisės spraga – reguliavimo nebuvimas ten, kur jis turėtų būti; skiriama nuo teisės normų kolizijos."
+  }
+]
