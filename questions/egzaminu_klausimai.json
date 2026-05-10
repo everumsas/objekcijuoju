@@ -1064,5 +1064,265 @@
     ],
     "correct": 1,
     "explanation": "Laisvės atėmimas yra baudžiamoji bausmė; ANK administracinės nuobaudos – įspėjimas, bauda, viešieji darbai."
+  },
+  {
+    "id": 83,
+    "category": "Darbo teisė",
+    "question": "Kokios darbo sutarties sąlygos pripažįstamos būtinosiomis?",
+    "options": [
+      "Darbdavys, darbo funkcija, išbandymo laikotarpis.",
+      "Papildomos darbo sutarties sąlygos, išbandymo laikotarpis, darbo užmokestis.",
+      "Darbdavys, darbo funkcija, darbo laikas.",
+      "Darbovietė, darbo užmokestis, darbo funkcija."
+    ],
+    "correct": 3,
+    "explanation": "Darbo sutarties būtinosios sąlygos yra darbovietė, darbo funkcija ir darbo užmokestis – jos privalo būti aptartos kiekvienoje darbo sutartyje."
+  },
+  {
+    "id": 84,
+    "category": "Administracinė teisė",
+    "question": "Administracinė nuobauda gali būti paskirta:",
+    "options": [
+      "ne vėliau kaip per vienerius metus nuo administracinio nusižengimo padarymo dienos, o trunkamojo nusižengimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.",
+      "ne vėliau kaip per vienerius metus nuo administracinio nusižengimo padarymo dienos, o trunkamojo nusižengimo atveju – per vienerius metus nuo jo paaiškėjimo dienos.",
+      "ne vėliau kaip per dvejus metus nuo administracinio nusižengimo padarymo dienos, o trunkamojo nusižengimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.",
+      "ne vėliau kaip per šešis mėnesius nuo administracinio nusižengimo padarymo dienos, o trunkamojo nusižengimo atveju – per vienerius metus nuo jo paaiškėjimo dienos."
+    ],
+    "correct": 2,
+    "explanation": "Pagal ANK 619 str., administracinė nuobauda gali būti skiriama ne vėliau kaip per dvejus metus nuo nusižengimo padarymo dienos, o trunkamojo nusižengimo atveju – per dvejus metus nuo jo paaiškėjimo dienos."
+  },
+  {
+    "id": 85,
+    "category": "Tarptautinė teisė",
+    "question": "Kuri sąvoka reiškia šalių pareigą vykdyti tarptautinę sutartį sąžiningai?",
+    "options": [
+      "Res judicata",
+      "Pacta sunt servanda",
+      "Lex posterior",
+      "Opinio juris"
+    ],
+    "correct": 1,
+    "explanation": "Pacta sunt servanda – pagrindinis tarptautinės teisės principas, įpareigojantis valstybes sąžiningai vykdyti prisiimtus sutartinius įsipareigojimus."
+  },
+  {
+    "id": 86,
+    "category": "Tarptautinė teisė",
+    "question": "Kurioje tarptautinėje organizacijoje veikia Saugumo Taryba?",
+    "options": [
+      "NATO",
+      "Tarptautinėje darbo organizacijoje",
+      "Europos Sąjungoje",
+      "Jungtinėse Tautose"
+    ],
+    "correct": 3,
+    "explanation": "Saugumo Taryba yra Jungtinių Tautų (JT) pagrindinis organas, atsakingas už tarptautinę taiką ir saugumą."
+  },
+  {
+    "id": 87,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Apeliacinis skundas dėl neįsiteisėjusio teismo nuosprendžio paduodamas:",
+    "options": [
+      "per 20 dienų nuo nuosprendžio paskelbimo dienos;",
+      "per 20 kalendorinių dienų nuo nuosprendžio įteikimo dienos.",
+      "Per 10 dienų nuo nuosprendžio paskelbimo dienos.",
+      "per 30 dienų nuo nuosprendžio paskelbimo ir išsiuntimo dienos;"
+    ],
+    "correct": 0,
+    "explanation": "Pagal BPK 320 str., apeliacinis skundas dėl neįsiteisėjusio nuosprendžio paduodamas per 20 dienų nuo nuosprendžio paskelbimo dienos."
+  },
+  {
+    "id": 88,
+    "category": "Konstitucinė teisė",
+    "question": "Lietuvos Respublikoje vykdomų rinkimų rūšys:",
+    "options": [
+      "Seimo rinkimai, rinkimai į Europos Parlamentą, Ministro Pirmininko rinkimai, Seimo pirmininko rinkimai;",
+      "Vyriausybės rinkimai, Prezidento Rinkimai, Savivaldybės administracijos direktoriaus rinkimai, Ministro Pirmininko rinkimai;",
+      "Savivaldybės mero rinkimai, rinkimai į Europos Komisiją, Seimo rinkimai, ministerijų vadovų rinkimai.",
+      "Seimo rinkimai, Prezidento rinkimai, savivaldybių tarybų rinkimai, rinkimai į Europos Parlamentą;"
+    ],
+    "correct": 3,
+    "explanation": "Lietuvoje vykdomos keturios rinkimų rūšys: Seimo, Prezidento, savivaldybių tarybų rinkimai ir rinkimai į Europos Parlamentą."
+  },
+  {
+    "id": 89,
+    "category": "Tarptautinė teisė",
+    "question": "Ką sprendžia Tarptautinis Baudžiamasis Teismas (TBT)?",
+    "options": [
+      "Tarptautinius prekybos pažeidimus",
+      "Asmenų atsakomybę už genocidą, karo nusikaltimus, nusikaltimus žmoniškumui",
+      "Ginčus tarp valstybių",
+      "Valstybių vidaus konstitucinius ginčus"
+    ],
+    "correct": 1,
+    "explanation": "TBT (Romos Statuto pagrindu įkurtas) nagrinėja fizinių asmenų atsakomybę už genocidą, karo nusikaltimus ir nusikaltimus žmoniškumui."
+  },
+  {
+    "id": 90,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokie yra ikiteisminio tyrimo terminai?",
+    "options": [
+      "dėl baudžiamojo nusižengimo – per du mėnesius; dėl nesunkių, apysunkių ir neatsargių nusikaltimų – per keturis mėnesius; dėl sunkių ir labai sunkių nusikaltimų – per aštuonis mėnesius.",
+      "dėl baudžiamojo nusižengimo – per keturis mėnesius; dėl nesunkių, apysunkių ir neatsargių nusikaltimų – per šešis mėnesius; dėl sunkių ir labai sunkių nusikaltimų – per dvylika mėnesių.",
+      "dėl baudžiamojo nusižengimo, nesunkių, apysunkių ir neatsargių nusikaltimų – per šešis mėnesius; dėl sunkių ir labai sunkių nusikaltimų – per devynis mėnesius.",
+      "dėl baudžiamojo nusižengimo – per tris mėnesius; dėl nesunkių, apysunkių ir neatsargių nusikaltimų – per šešis mėnesius; dėl sunkių ir labai sunkių nusikaltimų – per devynis mėnesius."
+    ],
+    "correct": 3,
+    "explanation": "Pagal BPK 176 str.: BN – 3 mėn.; nesunkūs, apysunkiai, neatsargūs – 6 mėn.; sunkūs ir labai sunkūs – 9 mėn."
+  },
+  {
+    "id": 91,
+    "category": "Civilinė teisė",
+    "question": "Juridinio asmens dalyvių turimos teisės skirstomos į:",
+    "options": [
+      "balsavimo teises ir teises gauti informaciją;",
+      "neturtines ir turtines;",
+      "teisę į dividendus ir balsavimo teisę.",
+      "asmenines ir turtines;"
+    ],
+    "correct": 1,
+    "explanation": "Juridinio asmens dalyvių teisės skirstomos į neturtines (balsavimo, informacijos gavimo ir kt.) ir turtines (dividendų, likvidacinio pelno ir kt.)."
+  },
+  {
+    "id": 92,
+    "category": "Administracinė teisė",
+    "question": "Kuris teiginys apie administracinį nurodymą (ANK) yra teisingas?",
+    "options": [
+      "į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui savo noru sumokėti baudą, lygią pusei minimalios baudos. Administracinis nurodymas yra neskundžiamas.",
+      "į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui savo noru sumokėti sankcijoje numatytą minimalią baudą. Administracinis nurodymas yra neskundžiamas.",
+      "į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui savo noru sumokėti baudą, lygią pusei minimalios baudos. Administracinis nurodymas yra skundžiamas.",
+      "į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui savo noru sumokėti sankcijoje numatytą minimalią baudą. Administracinis nurodymas yra skundžiamas."
+    ],
+    "correct": 2,
+    "explanation": "Pagal ANK 611 str., administraciniame nurodyme siūloma sumokėti baudą lygią PUSEI minimalios baudos, o pats nurodymas yra skundžiamas."
+  },
+  {
+    "id": 93,
+    "category": "Administracinė teisė",
+    "question": "Padariusiam administracinį nusižengimą asmeniui gali būti skiriamos šios administracinės nuobaudos:",
+    "options": [
+      "įspėjimas; bauda; viešieji darbai, areštas",
+      "įspėjimas; bauda; nemokami darbai; viešieji darbai.",
+      "įspėjimas; bauda; areštas.",
+      "įspėjimas; bauda; viešieji darbai."
+    ],
+    "correct": 3,
+    "explanation": "Pagal ANK 26 str., fiziniam asmeniui gali būti skiriamos šios nuobaudos: įspėjimas, bauda ir viešieji darbai (areštas nuo 2022 m. panaikintas)."
+  },
+  {
+    "id": 94,
+    "category": "Darbo teisė",
+    "question": "Ar gali darbuotojas pradėti dirbti tą pačią dieną, kada pasirašytą darbo sutartis?",
+    "options": [
+      "negali, nes duomenys turi būti perduoti institucijoms ir tik po kelių dienų galės pradėti dirbti.",
+      "pradėti dirbti gali tik po 3 darbo dienų.",
+      "pradėti dirbti gali tik kitą darbo dieną, nes privaloma pranešti prieš vieną darbo dieną Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritoriniam skyriui.",
+      "gali, jei taip sutaria su darbdaviu."
+    ],
+    "correct": 2,
+    "explanation": "Darbdavys privalo pranešti VSDFV skyriui prieš vieną darbo dieną iki darbuotojo darbo pradžios, todėl darbuotojas negali pradėti dirbti tą pačią dieną."
+  },
+  {
+    "id": 95,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kokie yra parodymų patikrinimo veiksmai ikiteisminio tyrimo metu?",
+    "options": [
+      "parodymas atpažinti, įtariamojo apklausa, įvykio vietos apžiūra, parodymų patikrinimas vietoje ekspertizė.",
+      "parodymas atpažinti, parodymų patikrinimas vietoje, eksperimentas.",
+      "parodymas atpažinti, parodymų patikrinimas vietoje, eksperimentas, akistata.",
+      "apklausa; parodymas atpažinti, parodymų patikrinimas vietoje, ekspertizė."
+    ],
+    "correct": 1,
+    "explanation": "Parodymų patikrinimo veiksmai BPK yra trys: parodymas atpažinti, parodymų patikrinimas vietoje ir eksperimentas."
+  },
+  {
+    "id": 96,
+    "category": "Administracinė teisė",
+    "question": "Asmuo laikomas padariusiu administracinį nusižengimą, kai:",
+    "options": [
+      "Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka įsiteisėjus nutarimui, kuriuo asmuo pripažįstamas padariusiu administracinį nusižengimą.",
+      "asmuo yra įvykdęs administracinį nurodymą arba Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka neįsiteisėjus nutarimui, kuriuo asmuo pripažįstamas padariusiu administracinį nusižengimą.",
+      "yra įvykdęs administracinį nurodymą arba Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka įsiteisėjus nutarimui, kuriuo asmuo pripažįstamas padariusiu administracinį nusižengimą.",
+      "jo atžvilgiu priimtas nutarimas, kuriuo asmuo pripažįstamas padariusiu administracinį nusižengimą, neatsižvelgiant į tai, ar nutarimas įsiteisėjęs."
+    ],
+    "correct": 2,
+    "explanation": "Asmuo laikomas padariusiu ANS, kai yra įvykdęs administracinį nurodymą ARBA ANK nustatyta tvarka įsiteisėjus nutarimui – abi sąlygos alternatyvios."
+  },
+  {
+    "id": 97,
+    "category": "Europos Sąjungos teisė",
+    "question": "Kokiais principais yra grįstas ES teisės ir nacionalinės teisės santykis?",
+    "options": [
+      "tiesioginio taikymo ir proporcingumo principas",
+      "proporcingumo ir teisėtumo principas",
+      "tiesioginio taikymo ir ES teisės viršenybės principas",
+      "ES teisės viršenybės ir proporcingumo principas"
+    ],
+    "correct": 2,
+    "explanation": "ES teisės ir nacionalinės teisės santykis grindžiamas dviem principais: tiesioginio taikymo (ES teisė veikia be perkėlimo) ir ES teisės viršenybės (ES teisė turi pirmenybę)."
+  },
+  {
+    "id": 98,
+    "category": "Darbo teisė",
+    "question": "Kada sudaroma darbo taryba?",
+    "options": [
+      "Darbo taryba sudaroma atsižvelgiant į direktoriaus nurodymus.",
+      "Darbo taryba sudaroma tik įmonėse, kuriose yra profesinės sąjungos.",
+      "Kai įmonėje dirba daugiau nei 20 darbuotojų.",
+      "Darbo tarybą sudaryti nebūtina."
+    ],
+    "correct": 2,
+    "explanation": "Pagal Darbo kodekso 166 str., darbo taryba sudaroma, kai įmonėje dirba daugiau nei 20 darbuotojų."
+  },
+  {
+    "id": 99,
+    "category": "Civilinio proceso teisė",
+    "question": "Pagal bendrąją teismingumo taisyklę, ieškinys pareiškiamas teismui pagal:",
+    "options": [
+      "ginčo objekto buvimo vietą;",
+      "nėra teisingo atsakymo.",
+      "atsakovo gyvenamąją vietą arba buveinės vietą;",
+      "ieškovo gyvenamąją vietą arba buveinės vietą;"
+    ],
+    "correct": 2,
+    "explanation": "Pagal CPK 29 str. bendrąją teismingumo taisyklę, ieškinys pareiškiamas teismui pagal atsakovo gyvenamąją vietą arba buveinės vietą."
+  },
+  {
+    "id": 100,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Patikslinamieji veiksmai:",
+    "options": [
+      "Atliekami per 10 darbo dienų. Patikslinimo veiksmai yra galimi tokie, kurie nesusiję su procesinėmis prievartos priemonėmis:",
+      "Atliekami per 10 kalendorinių dienų. Patikslinimo veiksmai yra galimi tokie, kurie nesusiję su procesinėmis prievartos priemonėmis.",
+      "Atliekami per 10 kalendorinių dienų. Patikslinimo veiksmai yra galimi visi procesiniai veiksmai numatyti Lietuvos Respublikos baudžiamojo proceso kodekse.",
+      "Atliekami per 10 kalendorinių dienų. Patikslinimo veiksmai yra galimi visi procesiniai veiksmai, kuriuos reglamentuoja Lietuvos Respublikos baudžiamasis kodeksas."
+    ],
+    "correct": 1,
+    "explanation": "Patikslinamieji veiksmai atliekami per 10 kalendorinių dienų ir apima tik tuos procesinius veiksmus, kurie nesusiję su prievartos priemonėmis."
+  },
+  {
+    "id": 101,
+    "category": "Tarptautinė teisė",
+    "question": "Kas yra \"jus cogens\" norma?",
+    "options": [
+      "Sutarties sąlyga",
+      "Paprotinė norma, kurios galima nesilaikyti",
+      "Tarptautinės organizacijos taisyklė",
+      "Privaloma norma, nuo kurios negalima nukrypti"
+    ],
+    "correct": 3,
+    "explanation": "Jus cogens – imperatyvi tarptautinės teisės norma, turinti absoliučią galią: nuo jos negalima nukrypti net sutartimi; pvz., draudimas vykdyti genocidą."
+  },
+  {
+    "id": 102,
+    "category": "Teisės teorija",
+    "question": "Kokie yra pagrindiniai teisėkūros principai?",
+    "options": [
+      "Daugumos, ekonomiškumo, prieinamumo ir visuotinumo.",
+      "Operatyvumo, nešališkumo, teisingumo.",
+      "Viešumo, demokratiškumo, profesionalumo ir išsamumo.",
+      "Teisingumo, teisėtumo, kompromiso ir proporcingumo."
+    ],
+    "correct": 2,
+    "explanation": "Pagrindiniai teisėkūros principai yra viešumas, demokratiškumas, profesionalumas ir išsamumas (Teisėkūros pagrindų įstatymas)."
   }
 ]
